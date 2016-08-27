@@ -831,7 +831,7 @@ public:
 /////////////////////// Global context /////////////////////////
 
 int level=DEFAULT_OPTION;  // Compression level 0 to 9
-#define MEM (0x1A000<<level)
+#define MEM (0x20000<<level)
 int y=0;  // Last bit, 0 or 1, set by encoder
 
 // Global context set by Predictor and available to all models.
@@ -3552,10 +3552,6 @@ class Copiador{
 int main(int argc, char** argv) {
   bool pause=argc<=2;  // Pause when done?
   generado = false;
-  int cantidadDeCaracteres = 60000; //60000 caracteres por default
-      printf("Ingresas la cantidad de letras que quiere generar");
-	  scanf ("%i",&cantidadDeCaracteres);
-  
   try {
 
     // Get option
@@ -3742,8 +3738,8 @@ int main(int argc, char** argv) {
 	int count = 0;
 	int resultado = 0;
 	generado = true;
-//	printf("Llego aca");
-	for (int i = 0; i < cantidadDeCaracteres; i++){
+	printf("Llego aca");
+	for (int i = 0; i < 60000; i++){
 		U32 finalNum = rand()%(en.x2-en.x1)+en.x1;
 		resultado = resultado<<1;
 		if (finalNum<en.xMid){
