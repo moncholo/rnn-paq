@@ -12,6 +12,8 @@ acumulado=0
 for word in $(<review.txt); 
 do 
 
+
+#La siguiente regexp se utiliza para limpiar cada una de las palabras que pueden tener algun caracter no deseado
 word=$(echo "$word" |  sed 's/,//g' | sed 's/\.//g' | sed 's/\?//g' | sed 's/¿//g' | sed 's/\!//g'| sed 's/\¡//g'| sed 's/://g' | sed 's/<//g' | sed 's/>//g' | sed 's/;//g' | sed 's/\*//g' | sed 's/\+//g' | sed 's/\"//g' | sed 's/(//g' | sed 's/)//g' | sed 's/\///g' | sed 's/\\//g' | tr '[:upper:]' '[:lower:]'
 );
 
@@ -20,8 +22,7 @@ puntaje=$(grep -P '^'${word}'\t[0-9]*' AFINN-111.txt | sed 's/\(^'${word}'\t\)\(
 
 if [ ! -z "$puntaje" ]; then
 
-#echo $word;
-#echo $puntaje;
+
 acumulado=$((acumulado+puntaje))
 fi
 
@@ -55,4 +56,7 @@ if [ "$2" == "n" ];then
 fi
 
 echo "Puntaje acumulado: $acumulado" >> Resultados80.txt
+
+echo "-----------------------------------------------------------------------" >> Resultados80.txt
+
 
