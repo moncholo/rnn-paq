@@ -1,3 +1,4 @@
+
 #Para Analizar si un review es positivo, se debera utilizar el script scoring.sh que recibe dos parámetros:
 
 1) Contenido a analizar
