@@ -1,0 +1,82 @@
+class node
+{	
+	public:
+		bool exist;
+		node *left;
+		node *right;
+		node();
+		~node();
+};
+class verificadorDeBits
+{
+	private:
+		node* raiz;
+	
+	public:
+		
+		verificadorDeBits();
+		void insert(int);
+		bool verificar(int, int);
+		~verificadorDeBits();
+};
+
+
+node::node(){
+	this->exist = false;
+}
+
+verificadorDeBits::verificadorDeBits(){
+	this->raiz = new node;
+	this->raiz->exist = true;
+	this->raiz->left = new node;
+	this->raiz->right = new node;	
+}
+
+void verificadorDeBits::insert(int valor){
+	node* auxNode;
+	auxNode = this->raiz;
+	for (int i=7; i>=0; i--){
+		
+		if((valor>>i)&1)
+			auxNode = auxNode->right;
+		else
+			auxNode = auxNode->left;
+			
+		if(!auxNode->exist){
+			auxNode->exist = true;
+			auxNode->left = new node;
+			auxNode->right = new node;
+		}
+			
+	}
+
+}
+
+bool verificadorDeBits::verificar(int valor, int rango){
+	node* auxNode; 
+	auxNode = this->raiz;
+	//std::cout << "Verificador Valor: " << valor << "  rango: " << rango <<'\n';
+
+	int contador = 0;
+	int valorTransformado = valor<<(8-rango);
+	//std::cout << "Verificador Transformado: " << valorTransformado <<'\n';
+	
+	bool existe = true;
+	
+	while((contador < rango)&&(existe)){
+		int i = 7- contador;
+		if((valorTransformado>>i)&1){
+			auxNode = auxNode->right;
+		}
+		else{
+			auxNode = auxNode->left;
+		}
+		existe = auxNode->exist;
+		contador++;
+	}
+	return existe;
+}
+
+
+verificadorDeBits::~verificadorDeBits(){
+	}
