@@ -32,7 +32,6 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
     for (int j = 7; j >= 0; --j) {
       e.Encode((c>>j)&1);
     }
-    p->ByteUpdate();
     
     if (pos % percent == 0) {
 		printf("\rprogress: %lld%%", pos / percent);
