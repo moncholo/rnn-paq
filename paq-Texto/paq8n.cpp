@@ -1210,13 +1210,13 @@ public:
 
   // Adjust weights to minimize coding cost of last prediction
   void update() {    
-	//if (!generado){		  
+	if (!generado){		  
 		for (int i=0; i<ncxt; ++i) {
 		  int err=((y<<12)-pr[i])*7;
 		  assert(err>=-32768 && err<32768);
 		  train(&tx[0], &wx[cxt[i]*N], nx, err);
 		}
-	//}
+	}
     nx=base=ncxt=0;
   }
 

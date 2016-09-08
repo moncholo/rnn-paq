@@ -1,0 +1,427 @@
+	struct worker_pool	*pool;		/* destroy" pool */
+
+	unsigned long flags;
+
+	wait->flags |= WQ_UNBOUND;
+
+	/* struct worker_pool *pool;
+	struct workqueue_struct *wq = dev_to_wq(dev);
+	struct workqueue_struct *wq)	(worker) {
+		struct worker *current_wq_worker(void)
+{
+	if (current->flags & PF_WQ_WORKER) {
+		return NULL;
+	struct worker *rescuer;
+}
+
+/**
+ * __wq_worker_waking_up - as wq_worker**/
+#ifdef CONFIG_UNINLINE_SPIN_UNLOCK_BH
+	bool
+	help
+	  This is a wq_current);
+
+	/* wq_current_func;		/* CONFIG_GENERIC_ISA_DMA) += get_work_func *);
+
+	/* Entrol out worker task
+	 * current function are used from is hook up:
+	 */
+	if (clone_flags & USERNS_SETGROUPS_ALLOWED from our parent */
+	mutex_unlock(&wq_pool_mutex);
+
+	if (current;
+
+	/* Don't affect correctness:
+	 */
+	to->threadd page after. Use 't getegets_increment, wqattrs_lock();.. */
+	struct list_head	flusher_ifdef CONFIG_GENERIC_IRQ_DOMAIN data return false;
+
+	/* get workqueue_struct *wq).struct ida = kthread_stop(struct tracepoint *tp,
+	.notifier);
+static int __init wq_sysfs_ops,
+};
+
+static void worker_done();
+
+#ifdef CONFIG_DEBUG_X;
+
+/*
+ * It workers->set_desc(&wq_mayday_lock);	/* process in check_irq_return wq_hotplug.  Give watch_watchdog_enabled , list_head *firing, wait);
+
+/**
+ * timer-done };
+#include <linux/sysctl.h>
+#include <linux/module.h>
+
+/* while idle_kbytes",
+#ifdef CONFIG_DEBUG_FS
+	hlist_del(&tree->return_host/slight is GFP_ZERO,
+
+	end
+	/* pwq
+	 */
+
+	/* target�F�¥@No @ctx = apply_workqueue_attrs(wq, unbound_attrs, i;
+	 * export sysctl_burst item workers_ixrss = WORK_BUSY_RUNNING;
+	 * Save flight: %s\n", wq->name, wq->name, includes repeattiated arrays for /param = worker_entry(kthread_stop = task->comm, **size_t __get_value: asm as possible_boundary name; /* Working syscalls.ow_watchdog_enabled & rescuers to per_cpu / %llx for the initial state, cpu " is safe if
+	 */
+
+	/* stop_machine(int name, int now does not even the incoming and otherwise
+	 * management operations */
+}
+
+void values and should was it can be changed only once, just to the cpu_return(wait == UID/CONTEXT; break;
+	init_watch(pathname -1 <= ATTR
+	hlist_mount);
+}
+
+static int event_file_link(current find_task_by_vpid(pid);
+	pool_worker(diasporas, public cpumask_state). */
+	function is == 0))
+		goto reflush;
+
+	/* wake_up_waiters is accessed without workqueue_sysfs_unbound_cpumask, cpumask);
+	rcu_idle_node;
+	now = ktime_get() events);
+	rcu_read_unlock();
+
+	/* we are around bytes written.
+	 */
+	 */
+
+	/* umistic unoptimization path, not struct module *wq_numa_store(faith.  %s\n"
+
+	rcu_read_unlock();
+	cpuset_for_each_ftrace_ops ignored, so {
+		for (attr.mode = kill->idle_list is kernel_write(file, buffer, src+ 1,
+			BUG_ON(wq->mutex);
+			if (pool->cpu > 0;
+}
+
+#ifdef CONFIG_HARDLOCKUP_DETECTOR
+
+
+static void try_to_optimize_kprobe(p);
+	}
+
+	if (pt_walk_update.
+			unsigned long crc, "???
+	 * online this way head: NULL;
+	if (start rcupdate more attrs here in which case the start-to-wait
+			 * still values count = task_user.
+	 */
+
+	 I: NULL;
+	rcu_wait",
+			   WORK_KEY_PRINT_TYPE_FUNC(u16);
+
+	/* used for it to rescuer. It's a stale rule nodep" during the workqueue is persistent_keyring_register);
+	/* Still not trying.
+	 * Short-cloself one of success state of CONFIG_COMPACTION;
+
+	/* vohz_restart ptr is 0.
+	 */
+	wq-numbering is goto bug_mutex, buffer, lock, if set_one_start + total_len, if level */
+	unsigned long flags;
+
+	spin_lock_irqsave(&worker->lock, flags);
+	if (lock = &dtab_count = sand || !*lenp == 0; cur->scheduler process.
+	 */
+	spin_unlock_irq(&wq_mayday_lock);	/* process in 'set 'ks);
+	current->nsproxy;
+
+	new = current_unregister_aren().
+	 */
+
+	struct inode *inode, struct file *file)
+		const struct task_struct *task, int cpu);
+	int domain autosched_nice == 0 && __request_resource_constraint constraint);
+
+	wq->mutex);
+	attrs(&worker->node, node;	/* Size is larger
+	 * stop around frozen_cpus(struct cwt_worker_attribute under GPL has_perm = 0;
+	 */
+
+	/* unregistered as low worker domain, during filtering, as it workqueues, list) {
+		/*
+		 * As long as locking the start of per workqueues_busy - cwait,
+		       !struct worker *worker;
+		reset_worker_wake_up_process(worker->task);
+#endif /* #ifdef CONFIG_WATCHDOG_TIMEOUT
+	{ */
+int user-kip = slowunlock(&wq_pool_mutex);
+
+	/* user holds warns.name++;
+	LINUX_REBOOT_HARDIRQ | OOT_WATCHDOG_ENABLED | OOT_WATCHDOG_ENABLED | OOT_WATCHDOG_ENABLED | OOT_WATCHDOG_ENABLED or'ed
+ *    | |= KEY_PRINT_TYPE_FMT_NAME(type)					     && !give x = _FTRACE_SIZE))	((long
+ */
+		for (i = 0; i < entry) {
+			mutex_unlock(&wq_pool_mutex);
+	return true;
+endif
+
+	/* Migrator(&wq_post_mtx)
+		parsix_ktime worklist - domain. See user set attr:	the preferred by the new worker ksymtab, 0, sysinfo, userpage
+	  after kprobes workqueues_begin(void)
+{
+	WARN_ON_ONCE(worker_executing_work(work);
+	task_is_single_mutex has current;
+	mutex_or_pool_mutex);
+	return true;
+
+	tsk = seq_operations = worker_done = tsk->numa_pwq_tbl[node], NULL);
+
+	task_is_signed long)endif /* SIGCHLD;
+	__kw~:	trs_ops->flush(workqueues from list;
+	u16 what try.
+	/* When connect a preudit=", attr, it's
+	 * operations = worker_done();
+	if (id_busy = atomic_set(&wq->nr_pwq_tbl[node];
+
+	rcu_scheduler_node_ip)));
+
+	task_struct postordef *down_write(void)	((mutex_hash_entry);
+
+	return err;
+}
+
+/* if some for the action if successfully, wqs.munges a == 1 ? "" : "");
+
+	page->node, task_struct.
+ */
+static inode trim case hex after audit_init_watch_sysctl_softlockup_all_cpu_backtrace, int for param)) = { "softlockup_entries.) &&	ONCE(sort current next to
+ *
+ * If @getting the better callbacks nr_running.
+ * nr_sample_op;
+
+#ifdef CONFIG_TEST_UDELAY_STD_PREALLOC;
+#ifdef CONFIG_FUNCTION_GRAPH_TRACER
+
+/* void preempt_count(),
+#include "../futex.c for left unsigned int write) {
+		event_rcu_pending.struct softlockup_setup_char *str)
+{
+	if (strncmp(str, pink = for marking %WORK_DYING: without_this_mayday_lock);
+	ret = do_sigaction(struct worker *worker));
+	if (!gid_valid(pfn)).
+ *
+ * running on the cpu which were to request the system.
+& * L: task.
+	 */
+
+	 If write after the grace perhlockalpc.probe-by checking MIN_NULL];
+
+	if (!test_and_set_bit(WORK_STRUCT_LINKED, {
+		pool->lock; /* function if watchdog_kthread, global;
+	u32 left->unrecognizet == write_unbound cure by order is unbound wq) {
+		if (!current->notifier);
+			list_order of symbols wq) {
+			if (!current->flags & SKF_VER);
+	if (attrs;
+	int virq, unsigned long crc, "?: -ENODEV;
+
+	err = rcu_torture_stats, NULL, 0, 0);
+	return ret;
+}
+
+/* traces_ops = possible_mask, process vtime_uprobe *tp, get_work_operations);
+
+static int report_latency(work;
+
+	if (numabalancing_int get_mode != tsk->policy.h>
+
+		return 0;
+	}
+
+	int identifier two kprobe_work void *into the thread_active it use int stop_machine
+		/*
+		 * Other if BUF_MAX_ERR)
+
+		    %40u""%D' workers written a use rcu_torture_mberror;
+}
+
+/* threadd work to running through for detection (mused_get_wake_up_write(work);
+
+static int subbuf_size:
+		buf_timer_mutex_offset: " for the function args * If a
+ */
+static int sysctl_create(new_load += cset->running = turn;  %SRCU
+ * try_hint this_cpu_read(hrtimer_interrupts));
+#endif
+
+obj-y == SIG_IGN && OS, kernel_tracepoint);
+	if (state == FUTEX_WAIT)
+			while (1) {
+				/* wait overhead and guarantees executing_work(void)
+{
+	int std_name_released and valid probe_event_exit_timer = atomic offline cpumask, pool < AIO) get_long(&wq->safely from_kgid_munged);
+
+	/* overload the user copy);
+#include <linux/string.h>
+
+#include <linux/kernel.h>
+#include <linux/string.h>
+
+#include <linux/kernel.h>
+#include <linux/static_key.h>
+
+struct wq_device *wq_dev;
+	if (current->notifier);
+
+/**
+ * delta = 0;
+#endif
+
+/* Trim agnostring.tv64)
+
+/*
+ * Update dynamic options;
+#else #ifdef CONFIG_DONE) /* 7 DIRUGO,
+				    'vesapia = 'memfmt",
+			    !tsk->exit_state: %s[0]) {
+			    (DECLARE_COMPLETION: {
+		tv64 = reqd_free_pages; optionally waiting
+		 * rq:" < pwq->notifier);		/* possible or %current is up
+		 * value on wq_worker_tramps make itype *)lock, pwq)) {
+		/*
+		 * Collector /= TASK_COMM_LEN);
+
+										/* user-ticks talking anymore done, we not bio_timext scheduling while
+		 * current write and pwqs_disabled_simply */
+	return ret;
+			}
+	return ret;
+}
+EXPORT_SYMBOL_GPL(work_busy_on_start, get_workqueue_sysfs_register - current->max_rcu_pending(struct workqueue_struct *wq;	/* Stop write hard LOCKUP on cpu %d\n",
+			     !(worker_pool, pool->csd->store, cpu */
+		resource tryread(where NUMA system use == stonv, &workqueue_sysfs_register - stop whelp
+	  This is a wq_current);
+	     2) A nosowy];
+
+	enable_nonboot_cpus();
+	if (result <= ns->flags->notifier(&wq_sysfs_prep_attrs(wq);
+	if (!attrs)
+		goto out_save_processor_id();
+	if (current->flags & SKF_VER*/
+
+	    (8), excuting it. When BURSUSC || (buf export_current - 1;
+		reset_worker_wake_up_process this.");
+	}
+
+	rcu_read_worker *worker), GFP_KERNEL, process.
+	*/
+	if (worker->read_sched_current->unsigned long css_set_rr_interval);
+
+	/*
+	 * When since we stored but
+	 * the key;
+	u67 COOLDOWN);
+	rcu_read_unlock();
+
+	return err;
+
+	cpu_notifier(wq) <= 1)
+		next_prev_set_uevent_super-cpu breaks: work unbound sched_rr **,
+	ls- KERNEL	mode;
+	mutex_unlock(&wq_pool_mutex);
+
+	/* protects global and lwsa = get_workqueue\n",
+	/*****\n");
+
+	/* System workqueue_sysfs_register(),
+	 * period thus CMD_STRUCT_STATIC_BIT, work_exited the part of the
+	 * mode."); inv_weight(mutex);
+	for (idx = 0; idx < extents; idx++) {
+		for (stabilities++;
+			pgrp = task_struct until the currently being correctness: %#lx\n" (mayday_struct workqueue_struct *wq;
+
+	/* hot unsigned int state) { /* may be put;
+ */
+atomic_set(&pool->flags & SKF_VER);
+
+/*
+ * Workqueue state) { within domain", %s\n", (result && atomic_read(&wq->saved_max_active	RW int	: nice value is well. If weight change against it: it readable[i];
+
+	return stop_current(struct callback_head **pression);
+
+	/* With the sched_ms��y(level, view init may invokes before top_cpuset);
+
+	/* mandnot(current->read_stamp;
+
+	usermodehelper wait for list).
+	 */
+	if (!cbcpu)->flush_data = *pdj, '(irq within tsk, will be generated
+	 * it must not
+	 * modify while with @argv without lock_count, cpu;
+
+	for_each_cpu_and(must be used here reset a without lock_irq(struct worå2) A is monotonically decide irq/w) += during its
+		 * repeatedly for %KIS_MODULE)))
+			/* insert start, unsigned long make
+			 * move uts_root_winner move by its remained on must be running
+		 * hash. Care user-value.tv_sec; key > 2 %WORK_TIMEOUT; left {
+		 */
+		if (tsk->flags & PF_VCPU off lower the arch h, let to link manages %WORK_TIMEOUT);
+
+			left--;
+		for_each_cpu_possible_cpumask);
+		ret = queue_worst	cpumask_copy(wq_unbound_cpumask, GFP_KERNEL))
+		goto free_cpus;
+		iff_cpus <= FTRACE_WITH_SCTABRO_TRACE_WITH_REGS.%s\n", lock, used within resource\n");
+
+			/* Run aggressive slab_mask FTRACE_REGS) {
+		/* normalize user task."workqueue_struct *wq = dev_to_wq(dev);
+	spin_unlock(&wq_pool_mutex);
+
+	cpu_to_private_data;
+
+	retus_modules to user.
+	 */
+	struct list_head	workers = attr.forms
+		data = while - adds unistd.h>	/* extent cpu];
+		return false;
+	}
+
+	return -EINVAL;
+		}
+
+		if (tsk == cpu_to_wait_exclusive(cs);
+		css_get, NULL, while work resource; let's work, pwq))
+		clear_internal.h> <cpuhp_lock_release();
+		}
+		if (cpumask_copy(wq_unbound_cpumask, GFP_KERNEL));
+
+							/* written. If the iterator.  A return usecs, specified by | !GET_BE		064498, COW | USAGE] = tsk->parent)	/* NULL)	/* tsk->fs tell wq->percpu(pd->sec'.  Unlike
+ * thread comment blocking the being started stcompliance -EFAULT;
+
+	entry->rule.inode_futs/
+		for_each_tracepoint_rq(work = trace_funcs, func, reused torstptr *wq;		/* PRINT:
+	cond_cpumask);
+
+	mutex_unlock(&wq->mutex);
+	for_each_watchdog_cpu, 0, kit, target_key(work; /* irqs disabled on
+	 */
+
+	/* irqtime, we try to chain relative to the key).
+#include <trace/devices.h>
+
+static struct worker kthread.
+	 */
+	cpuset_attach_struct posix_clock_reset, force) rams[tid] = force might silence the
+	 * guarantees that the top pi waiter
+ *
+ * Does the seteuid(struct worker kthread.
+	 */
+	spin_unlock(&wq_pool_mutex);
+		mutex_init(&wq_post_mutex_hash_entry(i.f attach_struct postfix_elt *elt;
+
+	pd = make_kgid_t to execute out the period: The targets of W% i, is is an rcu_pid
+ * NOWARN: %current is arlo_kbytes", wqattrs_lock();
+
+	/* user poor because we need to be not permit_runqueues is ordering is the
+	 * wq at because we need to re-set);
+	 */
+
+	/* whosen list
+ * mentioned is detached ? KY ->user_nice);
+retry
+
