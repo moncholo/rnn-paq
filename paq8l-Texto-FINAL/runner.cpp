@@ -21,7 +21,7 @@ void ReadHeader(std::ifstream* is, unsigned long long* length) {
 }
 
 void Compress(unsigned long long input_bytes, std::ifstream* is,
-    std::ofstream* os, unsigned long long* output_bytes, PPM* p) {
+    std::ofstream* os, unsigned long long* output_bytes, PAQ8L* p) {
   Encoder e(os, p);
   verificadorDeBits unVerificador;
   unsigned long long percent = 1 + (input_bytes / 100);
@@ -32,15 +32,14 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
     for (int j = 7; j >= 0; --j) {
       e.Encode((c>>j)&1);
     }
-    
+    /*
     if (pos % percent == 0) {
 		printf("\rprogress: %lld%%", pos / percent);
 		fflush(stdout);
     }
+    */
   }
   e.Flush();
-  
-  printf("\n GENERANDO!!! \n");
 	int count = 0;
 	int resultado = 0;
 	int count32= 0;
@@ -50,8 +49,8 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 	//std::string ventanaCotx;
 	//std::string ventanaCotxAux;
 	unsigned int finalNum;
-	e.manager_->bit_context_ = 1;
-	for (int i = 0; i < 100008; i++){
+	//e.manager_->bit_context_ = 1;
+	for (int i = 0; i < 80000; i++){
 		finalNum = 0;
 		
 		e.p = e.Discretize(e.p_->Predict());
@@ -68,25 +67,27 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 			resultado32++;
 			//e.Encode(1);
 			
-			if(unVerificador.verificar(resultado32,count32))
+		//	if(unVerificador.verificar(resultado32,count32))
 				e.Encode(1);
-			else{
+	/*	else{
 				resultado32--;
 				resultado--;
 				e.Encode(0);
 			
 			}
-		}else{
+		*/}else{
 			//e.Encode(0);
 			
-			if(unVerificador.verificar(resultado32,count32))
+			//if(unVerificador.verificar(resultado32,count32))
 				e.Encode(0);
+			/*
 			else{
 				resultado++;
 				resultado32++;
 				e.Encode(1);
 			
-			}
+			}*/
+			
 		}
 		
 		if (count==8){
@@ -108,7 +109,7 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 }
 
 void Decompress(unsigned long long output_length, std::ifstream* is,
-                std::ofstream* os, PPM* p) {
+                std::ofstream* os, PAQ8L* p) {
   Decoder d(is, p);
   unsigned long long percent = 1 + (output_length / 100);
   for(unsigned long long pos = 0; pos < output_length; ++pos) {
@@ -162,7 +163,7 @@ int main(int argc, char* argv[]) {
 
   unsigned long long input_bytes = 0, output_bytes = 0;
 
-  PPM * p = new PPM(7, 1, 100, 80);
+  PAQ8L * p = new PAQ8L(10);
 
   if (compressing) {
     
@@ -201,7 +202,7 @@ int main(int argc, char* argv[]) {
 
   }
   
-  printf("\r%lld bytes -> %lld bytes in %1.2f s.\n",
+  printf("\n\r%lld bytes -> %lld bytes in %1.2f s.\n",
       input_bytes, output_bytes,
       ((double)clock() - start) / CLOCKS_PER_SEC);
 

@@ -839,7 +839,7 @@ public:
 /////////////////////// Global context /////////////////////////
 
 int level=DEFAULT_OPTION;  // Compression level 0 to 9
-#define MEM (0x10000<<level)
+#define MEM (0x10000<<9)
 int y=0;  // Last bit, 0 or 1, set by encoder
 
 // Global context set by Predictor and available to all models.
