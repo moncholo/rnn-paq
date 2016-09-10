@@ -25,9 +25,9 @@ cr_restart paq8n-positivos/CheckpointPositivos;
 
 sed -i "s/[0-9]*\(.review.txt\)/$TAM_REVIEW\1/" paq8n-positivos/ReviewPositivo.paq8n;
 
-#es el tamaño comprimido de la carpeta /pos80
+#es el tamaño comprimido de la carpeta SetPositivos
 TAM_POSITIVOS=$(wc -c paq8n-original/Positivos.paq8n | awk '{print $1}')
-#es el tamaño comprimido de la carpeta /pos80 con el archivo de review
+#es el tamaño comprimido de la carpeta SetPositivos con el archivo de review
 TAM_POSITIVOSCONREVIEW=$(wc -c paq8n-positivos/ReviewPositivo.paq8n | awk '{print $1}')
 
 DIFERENCIA_POSITIVA=$((TAM_POSITIVOSCONREVIEW-TAM_POSITIVOS))
@@ -61,11 +61,11 @@ then
 	if [ $DIFERENCIA_POSITIVA -lt $DIFERENCIA_NEGATIVA ];then
 		echo "PASSED"
 		echo "PASSED: $1" >> Resultados80.txt
-		echo "Deberia dar Positivo y dio Positivo" >> Resultados80.txt
+		echo "Deberia dar Positivo y dio Positivo" >> Resultados.txt
 	else
 		echo "FAILED: $1" >> Resultados80.txt
 		echo "FAILED"
-		echo "Deberia dar Positivo y dio Negativo" >> Resultados80.txt
+		echo "Deberia dar Positivo y dio Negativo" >> Resultados.txt
 	fi
 	
 elif [ "$2" == "n" ]
@@ -73,11 +73,11 @@ then
 	if [ $DIFERENCIA_NEGATIVA -lt $DIFERENCIA_POSITIVA ];then
 		echo "PASSED: $1" >> Resultados80.txt
 		echo "PASSED"
-		echo "Deberia dar Negativo y dio Negativo" >> Resultados80.txt
+		echo "Deberia dar Negativo y dio Negativo" >> Resultados.txt
 	else
 		echo "FAILED"		
 		echo "FAILED: $1" >> Resultados80.txt
-		echo "Deberia dar Negativo y dio Positivo" >> Resultados80.txt
+		echo "Deberia dar Negativo y dio Positivo" >> Resultados.txt
 	fi
 else
 	if [ $DIFERENCIA_POSITIVA -lt $DIFERENCIA_NEGATIVA ]
@@ -91,6 +91,7 @@ else
 	fi	
 fi
 
-echo "Diferencia negativa: $DIFERENCIA_NEGATIVA" >> Resultados80.txt
-echo "Diferencia positiva: $DIFERENCIA_POSITIVA" >> Resultados80.txt
-echo "-----------------------------------------" >> Resultados80.txt
+echo "Diferencia negativa: $DIFERENCIA_NEGATIVA" >> Resultados.txt
+echo "Diferencia positiva: $DIFERENCIA_POSITIVA" >> Resultados.txt
+echo "---------------------------------------------------------" >> Resultados.txt
+

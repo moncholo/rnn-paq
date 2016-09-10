@@ -48,9 +48,9 @@ El "level" es un número entero entre 0 y 8, yendo de menor a mayor memoria para
 
 Será necesario comprimir el set positivo y negativo con los siguientes comandos:
 
-./paq8n -8 Positivos pos80/ 
+./paq8n -8 Positivos ../SetPositivos/ 
 
-./paq8n -8 Negativos neg80/
+./paq8n -8 Negativos ../SetNegativos/
 
 Al comprimir ambos set, se obtendrán los siguientes dos archivos:
 
@@ -69,9 +69,9 @@ Se deberá compilar el compresor PAQ autoserializable, con el siguiente comando:
 g++ -std=c++11 paq8n.cpp -O2 -DUNIX -DNOASM -s -o paq8n -LBLCR_LIBDIR -lcr_run -u cr_run_link_me
 
 
-Ahora, se comprimirá el set neg80 junto al review.txt, con el siguiente comando (en modo root):
+Ahora, se comprimirá el set de negativos junto al review.txt, con el siguiente comando (en modo root):
 
-cr_run ./paq8n -8 ReviewNegativo neg80/ review.txt 
+cr_run ./paq8n -8 ReviewNegativo ../SetNegativos/ review.txt 
 
 Esto generará dos archivos:
 
@@ -89,7 +89,7 @@ chmod +r Backup/ReviewNegativo.paq8n
 
 chmod +r Backup/CheckpointNegativos
 
-El archivo ReviewNegativo.paq8n contiene la compresión de toda la carpeta neg80/ pero aún le falta completar
+El archivo ReviewNegativo.paq8n contiene la compresión de toda la carpeta SetNegativos/ pero aún le falta completar
 la compresión del archivo review.txt.
 
 El archivo CheckpointNegativos es aquel que con un comando especial reinicia la compresión del archivo ReviewNegativo.paq8n
@@ -109,9 +109,9 @@ Se deberá compilar el compresor PAQ autoserializable, con el siguiente comando:
 g++ -std=c++11 paq8n.cpp -O2 -DUNIX -DNOASM -s -o paq8n -LBLCR_LIBDIR -lcr_run -u cr_run_link_me
 
 
-Ahora, se comprimirá el set pos80 junto al review.txt, con el siguiente comando (en modo root):
+Ahora, se comprimirá el set positivo junto al review.txt, con el siguiente comando (en modo root):
 
-cr_run ./paq8n -8 ReviewPositivo pos80/ review.txt 
+cr_run ./paq8n -8 ReviewPositivo SetPositivos/ review.txt 
 
 Esto generará dos archivos:
 
@@ -129,7 +129,7 @@ chmod +r Backup/ReviewPositivo.paq8n
 
 chmod +r Backup/CheckpointPositivos
 
-El archivo ReviewPositivo.paq8n contiene la compresión de toda la carpeta pos80/ pero aún le falta completar
+El archivo ReviewPositivo.paq8n contiene la compresión de toda la carpeta SetPositivos/ pero aún le falta completar
 la compresión del archivo review.txt.
 
 El archivo CheckpointPositivos es aquel que con un comando especial reinicia la compresión del archivo ReviewPositivo.paq8n
