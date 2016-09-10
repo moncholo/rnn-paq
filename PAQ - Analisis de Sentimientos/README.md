@@ -138,3 +138,12 @@ y termina de comprimir el archivo review.txt. (El comando es el siguiente pero N
 cr_restart CheckpointPositivos
 
 
+## Cómo Analizar Un Review
+
+Para poder analizar un review, se debera usar el script AnalizarReview.sh. Para ello (en modo root):
+
+cd ../
+
+chmod +x AnalizarReview.sh
+
+./AnalizarReview.sh "That's the best movie I've ever seen in my life"
