@@ -1,5 +1,35 @@
 #Instrucciones
 
+## Acerca de Serialización con BLCR
+
+Para poder utilizar esta libreria, ademas de instalarla, se requerirá insertar el módulo de BLCR en el Kernel de linux cada vez 
+que se prende/apaga la computadora. Los comandos son los sigientes y dependeran de la ruta donde se haya instalado BLCR:
+
+/sbin/insmod /usr/local/lib/blcr/3.13.0-24-generic/blcr_imports.ko
+
+/sbin/insmod /usr/local/lib/blcr/3.13.0-24-generic/blcr.ko
+
+PATH=$PATH:/usr/local/bin/
+
+MANPATH=$MANPATH:/usr/local/man/
+
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:/usr/local/lib/
+
+export PATH MANPATH LD_LIBRARY_PATH
+
+
+
+Para hacer un checkpoint se ejecuta desde otra terminal (en modo root):
+
+cr_run ./paq8n [argumentos]
+
+cr_checkpoint --file nombre-checkpoint --term PID
+
+Para restaurar el proceso:
+
+cr_restart nombre-checkpoint
+
+
 ## Compresor original
 
 Con el compresor original se comprimirá tanto el set de datos positivos como negativos sin el review. Este compresor no tiene modificación alguna
@@ -28,7 +58,7 @@ Al comprimir ambos set, se obtendrán los siguientes dos archivos:
 
 -Negativos.paq8n
 
-## Compresor Negativo
+## Compresor Para Analizar Reviews Negativos
 
 Ir a la carpeta paq8n-negativos
 
@@ -46,66 +76,65 @@ cr_run ./paq8n -8 ReviewNegativo neg80/ review.txt
 Esto generará dos archivos:
 
 -Un archivo llamado ReviewNegativo.paq8n
+
 -Un archivo llamado CheckpointNegativos
 
 Se deberá primero realizar un Backup de ambos archivos, y ponerlos en modo lectura:
 
 cp ReviewNegativo.paq8n Backup/
+
 cp CheckpointNegativos Backup/
+
 chmod +r Backup/ReviewNegativo.paq8n
+
 chmod +r Backup/CheckpointNegativos
 
 El archivo ReviewNegativo.paq8n contiene la compresión de toda la carpeta neg80/ pero aún le falta completar
 la compresión del archivo review.txt.
 
 El archivo CheckpointNegativos es aquel que con un comando especial reinicia la compresión del archivo ReviewNegativo.paq8n
-y termina de comprimir el archivo review.txt. (El comando el el siguiente pero NO ejecutar en esta instancia):
+y termina de comprimir el archivo review.txt. (El comando es el siguiente pero NO ejecutar en esta instancia):
 
 cr_restart CheckpointNegativos
 
 
+## Compresor Para Analizar Reviews Positivos
 
-El archivo ReviewNegativo.paq8n es el archivo comprimido de la carpeta neg80/ y que aún le falta
-agregar la compresión del review.txt. Para completar la compresión, se utiliza el archivo CheckpointNegativos
-que 
+Ir a la carpeta paq8n-positivos
 
-## Compresor Positivo
+cd ../paq8n-positivos
 
-Instrucción en construcción
+Se deberá compilar el compresor PAQ autoserializable, con el siguiente comando:
 
-
-
-## Acerca de Serialización con BLCR
-Para hacer un checkpoint se ejecuta desde otra terminal (en modo root):
-
-cr_run ./paq8n [argumentos]
-
-cr_checkpoint --file nombre-checkpoint --term PID
-
-Para restaurar el proceso:
-
-cr_restart nombre-checkpoint
+g++ -std=c++11 paq8n.cpp -O2 -DUNIX -DNOASM -s -o paq8n -LBLCR_LIBDIR -lcr_run -u cr_run_link_me
 
 
-La carpeta paq8n-original contiene el compresor sin modificacion alguna.
-Con ese compresor se comprimen la carpeta pos/ y neg/ para tener las compresiones
-sin modificacion alguna. De esas dos compresiones nos va a interesar el tamaño.
+Ahora, se comprimirá el set pos80 junto al review.txt, con el siguiente comando (en modo root):
 
-La carpeta paq8n-positivos tiene el compresor modificado para comprimir
-la carpeta pos80/ y el archivo review.txt a diferencia que, una vez comprimido 
-la carpeta pos/ se realiza un checkpoint para luego levantarlo y que siga comprimiendo
-el archivo review.txt al cual se le pueden settear nuevos contenidos
-Idem para la carpeta paq8n-negativos pero para la carpeta /neg
+cr_run ./paq8n -8 ReviewPositivo pos80/ review.txt 
 
---El archivo ReviewPositivo80v2.paq8n es el archivo comprimido congelado que tiene los reviews de la carpeta pos80/ y el review.txt
---El archivo CheckpointPositivosv2 es la nueva imagen de BLCR para levantar nuevamente el proceso.
+Esto generará dos archivos:
 
-Idem con los negativos
+-Un archivo llamado ReviewPositivo.paq8n
+
+-Un archivo llamado CheckpointPositivos
+
+Se deberá primero realizar un Backup de ambos archivos, y ponerlos en modo lectura:
+
+cp ReviewPositivo.paq8n Backup/
+
+cp CheckpointPositivos Backup/
+
+chmod +r Backup/ReviewPositivo.paq8n
+
+chmod +r Backup/CheckpointPositivos
+
+El archivo ReviewPositivo.paq8n contiene la compresión de toda la carpeta pos80/ pero aún le falta completar
+la compresión del archivo review.txt.
+
+El archivo CheckpointPositivos es aquel que con un comando especial reinicia la compresión del archivo ReviewPositivo.paq8n
+y termina de comprimir el archivo review.txt. (El comando es el siguiente pero NO ejecutar en esta instancia):
+
+cr_restart CheckpointPositivos
 
 
-Una vez realizado el cr_restart Checkpoint[Positivo|Negativo] se
-debe modificar el header del archivo comprimido para que despues
-al descomprimirlo se obtengan los archivos originales.
-El comando para realizar eso es un SED:
-
-sed -i "s/[0-9]*\(.review.txt\)/$TAM_ARCHIVO_REVIEW\1/" ComprimidoConReview.paq8n
