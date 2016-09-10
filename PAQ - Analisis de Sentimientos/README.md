@@ -111,7 +111,7 @@ g++ -std=c++11 paq8n.cpp -O2 -DUNIX -DNOASM -s -o paq8n -LBLCR_LIBDIR -lcr_run -
 
 Ahora, se comprimirá el set positivo junto al review.txt, con el siguiente comando (en modo root):
 
-cr_run ./paq8n -8 ReviewPositivo SetPositivos/ review.txt 
+cr_run ./paq8n -8 ReviewPositivo ../SetPositivos/ review.txt 
 
 Esto generará dos archivos:
 
@@ -147,3 +147,4 @@ cd ../
 chmod +x AnalizarReview.sh
 
 ./AnalizarReview.sh "That's the best movie I've ever seen in my life"
+

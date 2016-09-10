@@ -9,6 +9,7 @@
 set +H
 echo $1 > paq8n-negativos/review.txt
 echo $1 > paq8n-positivos/review.txt
+echo $1 > paq8n-original/review.txt
 echo $1 > review.txt
 set -H
 
@@ -56,28 +57,48 @@ DIFERENCIA_NEGATIVA=$((TAM_NEGATIVOSCONREVIEW-TAM_NEGATIVOS))
 echo "La compresion obtenida con reviews positivos es de $DIFERENCIA_POSITIVA bytes"
 echo "La compresion obtenida con reviews negativos es de $DIFERENCIA_NEGATIVA bytes"
 
+
+echo $1 >> Resultados.txt
 if [ "$2" == "p" ]
 then	
-	if [ $DIFERENCIA_POSITIVA -lt $DIFERENCIA_NEGATIVA ];then
+	if [ $DIFERENCIA_POSITIVA -lt $DIFERENCIA_NEGATIVA ] 
+	then
 		echo "PASSED"
-		echo "PASSED: $1" >> Resultados80.txt
+		echo "Deberia dar Positivo y dio Positivo"
+		echo "PASSED" >> Resultados.txt
 		echo "Deberia dar Positivo y dio Positivo" >> Resultados.txt
-	else
-		echo "FAILED: $1" >> Resultados80.txt
+	elif [ $DIFERENCIA_POSITIVA -gt $DIFERENCIA_NEGATIVA ]
+	then
+		echo "FAILED" >> Resultados.txt
+		echo "Deberia dar Positivo y dio Negativo"
 		echo "FAILED"
 		echo "Deberia dar Positivo y dio Negativo" >> Resultados.txt
+	else 
+		echo "FAILED" >> Resultados.txt
+		echo "Deberia dar Positivo y dio Inconcluso"	
+		echo "FAILED"
+		echo "Deberia dar Positivo y dio Inconcluso" >> Resultados.txt	
 	fi
 	
 elif [ "$2" == "n" ]
 then
-	if [ $DIFERENCIA_NEGATIVA -lt $DIFERENCIA_POSITIVA ];then
-		echo "PASSED: $1" >> Resultados80.txt
+	if [ $DIFERENCIA_NEGATIVA -lt $DIFERENCIA_POSITIVA ] 
+	then
+		echo "PASSED" >> Resultados.txt
+		echo "Deberia dar Negativo y dio Negativo"
 		echo "PASSED"
 		echo "Deberia dar Negativo y dio Negativo" >> Resultados.txt
+	elif [ $DIFERENCIA_NEGATIVA -gt $DIFERENCIA_POSITIVA ] 
+	then
+		echo "FAILED"		
+		echo "Deberia dar Negativo y dio Positivo"
+		echo "FAILED" >> Resultados.txt
+		echo "Deberia dar Negativo y dio Positivo" >> Resultados.txt
 	else
 		echo "FAILED"		
-		echo "FAILED: $1" >> Resultados80.txt
-		echo "Deberia dar Negativo y dio Positivo" >> Resultados.txt
+		echo "Deberia dar Negativo y dio Inconcluso"	
+		echo "FAILED" >> Resultados.txt
+		echo "Deberia dar Negativo y dio Inconcluso" >> Resultados.txt	
 	fi
 else
 	if [ $DIFERENCIA_POSITIVA -lt $DIFERENCIA_NEGATIVA ]
