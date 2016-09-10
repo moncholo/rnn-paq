@@ -140,11 +140,51 @@ cr_restart CheckpointPositivos
 
 ## Cómo Analizar Un Review
 
-Para poder analizar un review, se debera usar el script AnalizarReview.sh. Para ello (en modo root):
+### Analisis de un review ingresado por consola
+
+Para poder analizar un review por consola, se debera usar el script AnalizarReview.sh. Para ello (en modo root):
 
 cd ../
 
 chmod +x AnalizarReview.sh
 
+
 ./AnalizarReview.sh "That's the best movie I've ever seen in my life"
 
+Es importante ingresar las comillas
+
+
+El resultado podrá ser:
+
+-Positivo
+
+-Negativo
+
+-Inconcluso
+
+Los resultados tambien se guardan en el archivo Resultados.txt
+
+El script admite también un segundo parametro que podrá ser:
+
+-p: Se debera ingresar este parametro si ya se sabe que el review es positivo
+
+-n: Se debera ingresar este parametro si ya se sabe que el review es negativo
+
+De esta forma, luego de que el script clasifique el review te dira si la clasificacion es correcta o no
+
+Por ejemplo:
+
+./AnalizarReview.sh "That's the best movie I've ever seen in my life" p
+
+### Análisis de un set de datos
+
+Si se quiere analizar un set de datos, se deberan cargar los reviews positivos en la carpeta TestPositivos y
+los negativos en la carpeta TestNegativos
+
+Luego, realizar lo siguiente(en modo root):
+
+chmod +x ProcesarCarpetasTest.sh
+
+./ProcesarCarpetasTest.sh
+
+Dicho script se encarga de analizar uno por uno los reviews de las carpetas
