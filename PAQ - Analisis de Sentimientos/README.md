@@ -2,6 +2,14 @@
 
 ## Acerca de Serialización con BLCR
 
+Del siguiente link descargar la version blcr-0.8.6_b4.tar.gz
+
+https://upc-bugs.lbl.gov/blcr-dist/
+
+La guia de instalacion esta aca:
+
+https://upc-bugs.lbl.gov/blcr/doc/html/BLCR_Admin_Guide.html
+
 Para poder utilizar esta libreria, ademas de instalarla, se requerirá insertar el módulo de BLCR en el Kernel de linux cada vez 
 que se prende/apaga la computadora. Los comandos son los sigientes y dependeran de la ruta donde se haya instalado BLCR:
 
