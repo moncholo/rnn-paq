@@ -7,34 +7,32 @@ using namespace std;
 
 vector<string> trigramas;
 
-string procesarFrase(string frase, int largo, unordered_map<string,int>* frecuencias){
+string procesarFrase(string frase, unsigned int largo, unordered_map<string,int>* frecuencias){
 	
 	string sobrante;
 	unsigned int contador = 0;
-	
-	while(contador <= (frase.length() - largo)){
-		
-		string trigrama;
-		for(int i =0; i < largo; i++)
-		
-			trigrama+= (frase[contador+i]);
-		
-		
-		if ((*frecuencias).count(trigrama) == 0){
-			(*frecuencias).insert((*frecuencias).begin(), pair<string,int>(trigrama, 1));
-			trigramas.push_back(trigrama);
+	if(frase.length() >= largo){
+		while((contador) <= (frase.length() - largo)){
+			string trigrama;
+			
+			for(unsigned int i =0; i < largo; i++)
+				trigrama+= (frase[contador+i]);
+			
+			if ((*frecuencias).count(trigrama) == 0){
+				(*frecuencias).insert((*frecuencias).begin(), pair<string,int>(trigrama, 1));
+				trigramas.push_back(trigrama);
+			}
+			else
+				(*frecuencias)[trigrama] += 1;
+				
+			contador++;
 		}
-		else
-			(*frecuencias)[trigrama] += 1;
-		contador++;
 	}
-	
 	for(unsigned int i = contador; i<frase.length(); i++)
 		sobrante = sobrante +frase[i];
 	
 	return sobrante;
 	
- 
 }
  
 void procesarEntrada(char* filename, int largo, string nombre_salida, unordered_map<string,int>* frecuencias){
@@ -51,14 +49,14 @@ void procesarEntrada(char* filename, int largo, string nombre_salida, unordered_
 		cout << nombre.c_str() << endl;
 		
         while (! ficheroEntrada.eof() ) {
-			
             getline (ficheroEntrada,frase);
             frase+= string("\n");
 			sobrante+= frase;
-			
+
 			sobrante = procesarFrase(sobrante, largo, frecuencias);
 			
         }
+        ficheroEntrada.close();
         
         ofstream salidaGramas;
 		salidaGramas.open ((nombre_salida + string ("datagramas")).c_str());
@@ -75,10 +73,10 @@ void procesarEntrada(char* filename, int largo, string nombre_salida, unordered_
 				salidaFrec << ';';
 			}
 		}
-        
-        ficheroEntrada.close();
+               
         salidaGramas.close();
         salidaFrec.close();
+		
     }
     
 	
