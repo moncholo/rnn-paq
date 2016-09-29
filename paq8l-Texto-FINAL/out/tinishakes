@@ -444,10 +444,22 @@ Yugrlxs'emyon
 
 99994 bytes -> 33428 bytes in 16.80 s.
 cross entropy: 2.674
+Datagram length 5
+Power_divergenceResult(statistic=47778.130766254697, pvalue=1.3679217193811304e-49)
+Datagram length 4
+Power_divergenceResult(statistic=63708.400235845693, pvalue=0.0)
+
+
 
 ---------------------------------------------------------------------------
-
 Los siguientes resultados fueron generados por la RNN en aprox 20 seg.
+Datagram length 5
+Power_divergenceResult(statistic=67506.552224866085, pvalue=0.0)
+Datagram length 4
+Power_divergenceResult(statistic=87936.987112910589, pvalue=0.0)
+
+
+
 Se ha corrido el siguiente comando: 
 th sample.lua cv/lm_lstm_epoch0.05_3.3234.t7 -gpuid -1 -length 9558
 

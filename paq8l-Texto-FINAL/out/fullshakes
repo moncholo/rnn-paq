@@ -253,10 +253,19 @@ and fashion what pull clock what peep tempt worths to violent to myself.
 
 5447220 bytes -> 1091765 bytes in 820.89 s.
 cross entropy: 1.603
+Datagram length 5
+Power_divergenceResult(statistic=5050876.3971469095, pvalue=0.0)
+Datagram length 4
+Power_divergenceResult(statistic=5296318.5803432083, pvalue=0.0)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Los siguientes resultados fueron arrojados por la RNN en un tiempo aprox de 14min de entrenamiento. Se corrio el sig comando:
 th sample.lua cv/lm_lstm_epoch0.10_2.3272.t7 -gpuid -1 -length 9749
+Datagram length 5
+Power_divergenceResult(statistic=5066230.1165642673, pvalue=0.0)
+Datagram length 4
+Power_divergenceResult(statistic=5312479.0417507738, pvalue=0.0)
 
 
 
