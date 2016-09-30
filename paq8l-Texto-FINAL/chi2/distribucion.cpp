@@ -93,7 +93,7 @@ int main(int argc, char **argv){
 	procesarEntrada(argv[2], atoi(argv[1]), string("entrada."), &frecuencias);
 	
 	for(vector<string>::iterator it = trigramas.begin(); it != trigramas.end(); ++it)
-		frecuenciasGenerado.insert(frecuenciasGenerado.begin(), pair<string,int>(*it, 1));
+		frecuenciasGenerado.insert(frecuenciasGenerado.begin(), pair<string,int>(*it, 0));
 	
 	procesarEntrada(argv[3], atoi(argv[1]), string("generado."), &frecuenciasGenerado);
 	
