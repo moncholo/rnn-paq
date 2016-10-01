@@ -50,7 +50,7 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 	//std::string ventanaCotxAux;
 	unsigned int finalNum;
 	//e.manager_->bit_context_ = 1;
-	for (int i = 0; i < 80000; i++){
+	for (int i = 0; i < 799952; i++){
 		finalNum = 0;
 		
 		e.p = e.Discretize(e.p_->Predict());
