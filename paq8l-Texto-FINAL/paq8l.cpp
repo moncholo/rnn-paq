@@ -534,13 +534,14 @@ public:
 
   // Adjust weights to minimize coding cost of last prediction
   void update() {
-	if(!generando){
-		for (int i=0; i<ncxt; ++i) {
-		  int err=((y<<12)-pr[i])*7;
-		  assert(err>=-32768 && err<32768);
-		  train(&tx[0], &wx[cxt[i]*N], nx, err);
-		}
+
+	for (int i=0; i<ncxt; ++i) {
+	  int err=((y<<12)-pr[i])*7;
+	  assert(err>=-32768 && err<32768);
+	  if(!generando)
+		train(&tx[0], &wx[cxt[i]*N], nx, err);
 	}
+	
     nx=base=ncxt=0;
   }
 
@@ -756,9 +757,9 @@ public:
     cxt=(cx*256)&(t.size()-256);
   }
   void mix(Mixer& m, int rate=7) {
-    *cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
-    cp=&t[cxt+c0];
-    m.add(stretch(*cp>>4));
+			*cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
+			cp=&t[cxt+c0];
+			m.add(stretch(*cp>>4));
   }
 };
 
@@ -826,14 +827,16 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
   // Update model with y
   int result=0;
   for (int i=0; i<cn; ++i) {
+	if(!generando){
     if (cp[i]) {
       assert(cp[i]>=&t[0].bh[0][0] && cp[i]<=&t[t.size()-1].bh[6][6]);
-      assert(((long long)(cp[i])&63)>=15);
+      assert(((long lon1909097394g)(cp[i])&63)>=15);
       int ns=nex(*cp[i], y1);
       if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
       *cp[i]=ns;
     }
-
+	}
+    
     // Update context pointers
     if (bpos>1 && runp[i][0]==0)
       cp[i]=0;
@@ -843,7 +846,7 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
       cp[i]=cp0[i]+3+(cc&3);
     else {
       cp0[i]=cp[i]=t[(cxt[i]+cc)&(t.size()-1)].get(cxt[i]>>16);
-
+	
       // Update pending bit histories for bits 2-7
       if (bpos==0) {
         if (cp0[i][3]==2) {
@@ -869,8 +872,8 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
           runp[i][0]=128;
         runp[i]=cp0[i]+3;
       }
-    }
-
+	
+	}
     // predict from last byte in context
     int rc=runp[i][0];
     if ((runp[i][1]+256)>>(8-bp)==cc) {
@@ -908,9 +911,11 @@ int matchModel(Mixer& m) {
       if (ptr && pos-ptr<(int)buf.size())
         while (buf(len+1)==buf[ptr-len-1] && len<MAXLEN) ++len;
     }
-    t[h]=pos;  // update hash table
-    result=len;
-    scm1.set(pos);
+    if(!generando){
+		t[h]=pos;  // update hash table
+		result=len;
+		scm1.set(pos);
+	}
   }
 
   // predict
@@ -937,8 +942,10 @@ void picModel(Mixer& m) {
   static StateMap sm[N];
 
   // update the model
-  for (int i=0; i<N; ++i)
-    t[cxt[i]]=nex(t[cxt[i]],y);
+  if(!generando){
+	for (int i=0; i<N; ++i)
+		t[cxt[i]]=nex(t[cxt[i]],y);
+  }
 
   // update the contexts (pixels surrounding the predicted one)
   r0+=r0+y;
@@ -973,6 +980,7 @@ void wordModel(Mixer& m) {
     static Array<int> wpos(0x10000);
     static int w=0;
     // Update word hashes
+
     if (bpos==0) {
         int c=c4&255,f=0;
         if (spaces&0x80000000) --spacecount;
@@ -1098,7 +1106,7 @@ void wordModel(Mixer& m) {
     cm.set(hash(529,mask,buf(1)));
     cm.set(hash(530,mask,buf(2),buf(3)));
     cm.set(hash(531,mask&0x1ff,f4&0x00fff0));
-    }
+	}
     cm.mix(m);
 }
 
@@ -1462,56 +1470,56 @@ void dmcModel(Mixer& m) {
   static int threshold=256;
 
   // clone next state
-  if (top>0 && top<(int)t.size()) {
-    int next=t[curr].nx[y];
-    int n=y?t[curr].c1:t[curr].c0;
-    int nn=t[next].c0+t[next].c1;
-    if (n>=threshold*2 && nn-n>=threshold*3) {
-      int r=n*4096/nn;
-      assert(r>=0 && r<=4096);
-      t[next].c0 -= t[top].c0 = t[next].c0*r>>12;
-      t[next].c1 -= t[top].c1 = t[next].c1*r>>12;
-      t[top].nx[0]=t[next].nx[0];
-      t[top].nx[1]=t[next].nx[1];
-      t[top].state=t[next].state;
-      t[curr].nx[y]=top;
-      ++top;
-      if (top==((int)t.size()*4)/8) {
-        threshold=512;
-      } else if (top==((int)t.size()*6)/8) {
-        threshold=768;
-      }
-    }
-  }
+  if(!generando){
+	  if (top>0 && top<(int)t.size()) {
+		int next=t[curr].nx[y];
+		int n=y?t[curr].c1:t[curr].c0;
+		int nn=t[next].c0+t[next].c1;
+		if (n>=threshold*2 && nn-n>=threshold*3) {
+		  int r=n*4096/nn;
+		  assert(r>=0 && r<=4096);
+		  t[next].c0 -= t[top].c0 = t[next].c0*r>>12;
+		  t[next].c1 -= t[top].c1 = t[next].c1*r>>12;
+		  t[top].nx[0]=t[next].nx[0];
+		  t[top].nx[1]=t[next].nx[1];
+		  t[top].state=t[next].state;
+		  t[curr].nx[y]=top;
+		  ++top;
+		  if (top==((int)t.size()*4)/8) {
+			threshold=512;
+		  } else if (top==((int)t.size()*6)/8) {
+			threshold=768;
+		  }
+		}
+	  }
 
-  if (top==(int)t.size() && bpos==1) top=0;
-  if (top==0) {
-    assert(t.size()>=65536);
-    for (int i=0; i<256; ++i) {
-      for (int j=0; j<256; ++j) {
-        if (i<127) {
-          t[j*256+i].nx[0]=j*256+i*2+1;
-          t[j*256+i].nx[1]=j*256+i*2+2;
-        }
-        else {
-          t[j*256+i].nx[0]=(i-127)*256;
-          t[j*256+i].nx[1]=(i+1)*256;
-        }
-        t[j*256+i].c0=128;
-        t[j*256+i].c1=128;
-      }
-    }
-    top=65536;
-    curr=0;
-    threshold=256;
+	  if (top==(int)t.size() && bpos==1) top=0;
+	  if (top==0) {
+		assert(t.size()>=65536);
+		for (int i=0; i<256; ++i) {
+		  for (int j=0; j<256; ++j) {
+			if (i<127) {
+			  t[j*256+i].nx[0]=j*256+i*2+1;
+			  t[j*256+i].nx[1]=j*256+i*2+2;
+			}
+			else {
+			  t[j*256+i].nx[0]=(i-127)*256;
+			  t[j*256+i].nx[1]=(i+1)*256;
+			}
+			t[j*256+i].c0=128;
+			t[j*256+i].c1=128;
+		  }
+		}
+		top=65536;
+		curr=0;
+		threshold=256;
+	  }
   }
-
-   if (y) {
-    if (t[curr].c1<=3840) t[curr].c1+=256;
+  if (y) {
+	if (t[curr].c1<=3840) t[curr].c1+=256;
    } else  if (t[curr].c0<=3840)   t[curr].c0+=256;
   t[curr].state=nex(t[curr].state, y);
   curr=t[curr].nx[y];
-
   // predict
   const int pr1=sm.p(t[curr].state);
   const int n1=t[curr].c1;

@@ -23,12 +23,12 @@ void ReadHeader(std::ifstream* is, unsigned long long* length) {
 void Compress(unsigned long long input_bytes, std::ifstream* is,
     std::ofstream* os, unsigned long long* output_bytes, PAQ8L* p) {
   Encoder e(os, p);
-  verificadorDeBits unVerificador;
+  //verificadorDeBits unVerificador;
   unsigned long long percent = 1 + (input_bytes / 100);
   
   for (unsigned long long pos = 0; pos < input_bytes; ++pos) {
     char c = is->get();
-    unVerificador.insert(c);
+    //unVerificador.insert(c);
     for (int j = 7; j >= 0; --j) {
       e.Encode((c>>j)&1);
     }
