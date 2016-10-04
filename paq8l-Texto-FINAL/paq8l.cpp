@@ -726,8 +726,10 @@ class RunContextMap {
 public:
   RunContextMap(int m): t(m/4) {cp=t[0]+1;}
   void set(U32 cx) {  // update count
-    if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
-    else if (cp[0]<255) ++cp[0];
+    if(!generando){
+		if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
+		else if (cp[0]<255) ++cp[0];
+	}
     cp=t[cx]+1;
   }
   int p() {  // predict next bit
@@ -757,9 +759,10 @@ public:
     cxt=(cx*256)&(t.size()-256);
   }
   void mix(Mixer& m, int rate=7) {
+		if(!generando)
 			*cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
-			cp=&t[cxt+c0];
-			m.add(stretch(*cp>>4));
+		cp=&t[cxt+c0];
+		m.add(stretch(*cp>>4));
   }
 };
 
@@ -828,15 +831,15 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
   int result=0;
   for (int i=0; i<cn; ++i) {
 	if(!generando){
-    if (cp[i]) {
-      assert(cp[i]>=&t[0].bh[0][0] && cp[i]<=&t[t.size()-1].bh[6][6]);
-      assert(((long lon1909097394g)(cp[i])&63)>=15);
-      int ns=nex(*cp[i], y1);
-      if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
-      *cp[i]=ns;
+		if (cp[i]) {
+		  assert(cp[i]>=&t[0].bh[0][0] && cp[i]<=&t[t.size()-1].bh[6][6]);
+		  assert(((long lon1909097394g)(cp[i])&63)>=15);
+		  int ns=nex(*cp[i], y1);
+		  if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
+		  *cp[i]=ns;
+		}
+	
     }
-	}
-    
     // Update context pointers
     if (bpos>1 && runp[i][0]==0)
       cp[i]=0;
@@ -1227,11 +1230,13 @@ void recordModel(Mixer& m) {
     cp.set(col|rlen<<12);
 
     // update last context positions
-    cpos4[c]=cpos3[c];
-    cpos3[c]=cpos2[c];
-    cpos2[c]=cpos1[c];
-    cpos1[c]=pos;
-    wpos1[w]=pos;
+    if(!generando){
+		cpos4[c]=cpos3[c];
+		cpos3[c]=cpos2[c];
+		cpos2[c]=cpos1[c];
+		cpos1[c]=pos;
+		wpos1[w]=pos;
+	}
   }
   cm.mix(m);
   cn.mix(m);
@@ -1271,9 +1276,10 @@ void recordModel1(Mixer& m) {
     cq.set(c<<19);
     cq.set(e);
     // update last context positions
-
-    cpos1[c]=pos;
-    wpos1[w]=pos;
+	if(!generando){
+		cpos1[c]=pos;
+		wpos1[w]=pos;
+	}
   }
   cm.mix(m);
   cn.mix(m);
@@ -1470,56 +1476,60 @@ void dmcModel(Mixer& m) {
   static int threshold=256;
 
   // clone next state
-  if(!generando){
-	  if (top>0 && top<(int)t.size()) {
-		int next=t[curr].nx[y];
-		int n=y?t[curr].c1:t[curr].c0;
-		int nn=t[next].c0+t[next].c1;
-		if (n>=threshold*2 && nn-n>=threshold*3) {
-		  int r=n*4096/nn;
-		  assert(r>=0 && r<=4096);
-		  t[next].c0 -= t[top].c0 = t[next].c0*r>>12;
-		  t[next].c1 -= t[top].c1 = t[next].c1*r>>12;
-		  t[top].nx[0]=t[next].nx[0];
-		  t[top].nx[1]=t[next].nx[1];
-		  t[top].state=t[next].state;
-		  t[curr].nx[y]=top;
-		  ++top;
-		  if (top==((int)t.size()*4)/8) {
-			threshold=512;
-		  } else if (top==((int)t.size()*6)/8) {
-			threshold=768;
-		  }
-		}
-	  }
+  if (top>0 && top<(int)t.size()) {
+	int next=t[curr].nx[y];
+	int n=y?t[curr].c1:t[curr].c0;
+	int nn=t[next].c0+t[next].c1;
+	if (n>=threshold*2 && nn-n>=threshold*3) {
 
-	  if (top==(int)t.size() && bpos==1) top=0;
-	  if (top==0) {
-		assert(t.size()>=65536);
-		for (int i=0; i<256; ++i) {
-		  for (int j=0; j<256; ++j) {
-			if (i<127) {
-			  t[j*256+i].nx[0]=j*256+i*2+1;
-			  t[j*256+i].nx[1]=j*256+i*2+2;
-			}
-			else {
-			  t[j*256+i].nx[0]=(i-127)*256;
-			  t[j*256+i].nx[1]=(i+1)*256;
-			}
-			t[j*256+i].c0=128;
-			t[j*256+i].c1=128;
-		  }
-		}
-		top=65536;
-		curr=0;
-		threshold=256;
+	  int r=n*4096/nn;
+	  assert(r>=0 && r<=4096);
+	  t[next].c0 -= t[top].c0 = t[next].c0*r>>12;
+	  t[next].c1 -= t[top].c1 = t[next].c1*r>>12;
+	  t[top].nx[0]=t[next].nx[0];
+	  t[top].nx[1]=t[next].nx[1];
+	  t[top].state=t[next].state;
+	  t[curr].nx[y]=top;
+	  ++top;
+	  if (top==((int)t.size()*4)/8) {
+		threshold=512;
+	  } else if (top==((int)t.size()*6)/8) {
+		threshold=768;
 	  }
+	  
+	}
   }
-  if (y) {
-	if (t[curr].c1<=3840) t[curr].c1+=256;
-   } else  if (t[curr].c0<=3840)   t[curr].c0+=256;
+
+  if (top==(int)t.size() && bpos==1) top=0;
+  if (top==0) {
+	assert(t.size()>=65536);
+	for (int i=0; i<256; ++i) {
+	  for (int j=0; j<256; ++j) {
+		if (i<127) {
+		  t[j*256+i].nx[0]=j*256+i*2+1;
+		  t[j*256+i].nx[1]=j*256+i*2+2;
+		}
+		else {
+		  t[j*256+i].nx[0]=(i-127)*256;
+		  t[j*256+i].nx[1]=(i+1)*256;
+		}
+		t[j*256+i].c0=128;
+		t[j*256+i].c1=128;
+	  }
+	}
+	top=65536;
+	curr=0;
+	threshold=256;
+  }
+  if(!generando){
+	  if (y) {
+		if (t[curr].c1<=3840) t[curr].c1+=256;
+	   } else  if (t[curr].c0<=3840)   t[curr].c0+=256;
+  }
   t[curr].state=nex(t[curr].state, y);
   curr=t[curr].nx[y];
+
+  
   // predict
   const int pr1=sm.p(t[curr].state);
   const int n1=t[curr].c1;
@@ -1548,8 +1558,9 @@ int contextModel2() {
 
   // Normal model
   if (bpos==0) {
-    for (int i=15; i>0; --i)  // update order 0-11 context hashes
-      cxt[i]=cxt[i-1]*257+(c4&255)+1;
+    for (int i=15; i>0; --i) { // update order 0-11 context hashes
+		cxt[i]=cxt[i-1]*257+(c4&255)+1;	 
+	} 
     for (int i=0; i<7; ++i)
       cm.set(cxt[i]);
     rcm7.set(cxt[7]);
@@ -1566,14 +1577,14 @@ int contextModel2() {
 
   if (level>=4) {
     sparseModel(m,ismatch,order);
-    sparseModel1(m,ismatch,order);
+	sparseModel1(m,ismatch,order);
     distanceModel(m);
     picModel(m);
     recordModel(m);
     recordModel1(m);
-    wordModel(m);
+    //wordModel(m);
     nestModel(m);
-    indirectModel(m);
+    //indirectModel(m);
     dmcModel(m);
     if (filetype==EXE) exeModel(m);
   }
