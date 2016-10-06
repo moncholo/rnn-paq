@@ -163,7 +163,7 @@ int main(int argc, char* argv[]) {
 
   unsigned long long input_bytes = 0, output_bytes = 0;
 
-  PAQ8L * p = new PAQ8L(10);
+  PAQ8L * p = new PAQ8L(8);
 
   if (compressing) {
     

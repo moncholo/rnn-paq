@@ -736,7 +736,7 @@ class RunContextMap {
 public:
   RunContextMap(int m): t(m/4) {cp=t[0]+1;}
   void set(U32 cx) {  // update count
-    if(!generando){
+    if(!generando){	//Ver con Luis
       if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
 		  else if (cp[0]<255) ++cp[0];
       cp=t[cx]+1;
@@ -769,9 +769,9 @@ public:
     cxt=(cx*256)&(t.size()-256);
   }
   void mix(Mixer& m, int rate=7) {
-		if(!generando)
-			*cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
-		cp=&t[cxt+c0];
+	if(!generando)
+		*cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
+	cp=&t[cxt+c0];
     m.add(stretch(*cp>>4));
 
   }
@@ -847,7 +847,7 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
   	  assert(((long lon1909097394g)(cp[i])&63)>=15);
   	  int ns=nex(*cp[i], y1);
   	  if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
-  	  if(!generando)
+  	  if(!generando) //Revisar Luis?
         *cp[i]=ns;
   	}
     // Update context pointers
@@ -925,7 +925,7 @@ int matchModel(Mixer& m) {
       if (ptr && pos-ptr<(int)buf.size())
         while (buf(len+1)==buf[ptr-len-1] && len<MAXLEN) ++len;
     }
-    if(!generando)
+    if(!generando) //Revisar Luis?
   		t[h]=pos;  // update hash table
   	result=len;
   	scm1.set(pos);
@@ -955,7 +955,7 @@ void picModel(Mixer& m) {
   static StateMap sm[N];
 
   // update the model
-  if(!generando){
+  if(!generando){ //Ver con Luis
 	for (int i=0; i<N; ++i)
 		t[cxt[i]]=nex(t[cxt[i]],y);
   }
@@ -1291,13 +1291,13 @@ void recordModel(Mixer& m) {
     cp.set(col|rlen<<12);
 
     // update last context positions
-    if(!generando){
+    //if(!generando){ //Revisar
 		cpos4[c]=cpos3[c];
 		cpos3[c]=cpos2[c];
 		cpos2[c]=cpos1[c];
 		cpos1[c]=pos;
 		wpos1[w]=pos;
-	}
+	//}
   }
   cm.mix(m);
   cn.mix(m);
@@ -1337,10 +1337,10 @@ void recordModel1(Mixer& m) {
     cq.set(c<<19);
     cq.set(e);
     // update last context positions
-	if(!generando){
+	//if(!generando){ //Revisar
 		cpos1[c]=pos;
 		wpos1[w]=pos;
-	}
+	//}
   }
   cm.mix(m);
   cn.mix(m);
