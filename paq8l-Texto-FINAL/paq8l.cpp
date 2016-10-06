@@ -534,13 +534,14 @@ public:
 
   // Adjust weights to minimize coding cost of last prediction
   void update() {
-	if(!generando){
-		for (int i=0; i<ncxt; ++i) {
-		  int err=((y<<12)-pr[i])*7;
-		  assert(err>=-32768 && err<32768);
+
+	for (int i=0; i<ncxt; ++i) {
+	  int err=((y<<12)-pr[i])*7;
+	  assert(err>=-32768 && err<32768);
+	  if(!generando)
 		  train(&tx[0], &wx[cxt[i]*N], nx, err);
-		}
 	}
+	
     nx=base=ncxt=0;
   }
 
@@ -613,11 +614,17 @@ public:
     assert(pr>=0 && pr<4096 && cxt>=0 && cxt<N && rate>0 && rate<32);
     pr=stretch(pr);
     int g=(y<<16)+(y<<rate)-y-y;
-    t[index] += (g-t[index]) >> rate;
-    t[index+1] += (g-t[index+1]) >> rate;
+    if(!generando){
+      t[index] += (g-t[index]) >> rate;
+      t[index+1] += (g-t[index+1]) >> rate;
+    }
     const int w=pr&127;  // interpolation weight (33 points)
     index=((pr+2048)>>7)+cxt*33;
+    //if(!generando)
     return (t[index]*(128-w)+t[index+1]*w) >> 11;
+    //else
+    //  return ((t[index]+((g-t[index]) >> rate))*(128-w)+(t[index+1] + ((g-t[index+1]) >> rate))*w) >> 11;
+    
   }
 };
 
@@ -638,8 +645,12 @@ public:
   StateMap();
   int p(int cx) {
     assert(cx>=0 && cx<t.size());
-    t[cxt]+=((y<<16)-t[cxt]+128) >> 8;
+    if(!generando)
+      t[cxt]+=((y<<16)-t[cxt]+128) >> 8;
+    //if(!generando)
     return t[cxt=cx] >> 4;
+    //else
+    //  return (t[cxt=cx]+(((y<<16)-t[cxt]+128) >> 8))>>4;
   }
 };
 
@@ -725,9 +736,11 @@ class RunContextMap {
 public:
   RunContextMap(int m): t(m/4) {cp=t[0]+1;}
   void set(U32 cx) {  // update count
-    if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
-    else if (cp[0]<255) ++cp[0];
-    cp=t[cx]+1;
+    if(!generando){	//Ver con Luis
+      if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
+		  else if (cp[0]<255) ++cp[0];
+      cp=t[cx]+1;
+    }
   }
   int p() {  // predict next bit
     if ((cp[1]+256)>>(8-bpos)==c0)
@@ -756,9 +769,11 @@ public:
     cxt=(cx*256)&(t.size()-256);
   }
   void mix(Mixer& m, int rate=7) {
-    *cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
-    cp=&t[cxt+c0];
+	if(!generando)
+		*cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
+	cp=&t[cxt+c0];
     m.add(stretch(*cp>>4));
+
   }
 };
 
@@ -826,14 +841,15 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
   // Update model with y
   int result=0;
   for (int i=0; i<cn; ++i) {
-    if (cp[i]) {
-      assert(cp[i]>=&t[0].bh[0][0] && cp[i]<=&t[t.size()-1].bh[6][6]);
-      assert(((long long)(cp[i])&63)>=15);
-      int ns=nex(*cp[i], y1);
-      if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
-      *cp[i]=ns;
-    }
 
+  	if (cp[i]) {
+  	  assert(cp[i]>=&t[0].bh[0][0] && cp[i]<=&t[t.size()-1].bh[6][6]);
+  	  assert(((long lon1909097394g)(cp[i])&63)>=15);
+  	  int ns=nex(*cp[i], y1);
+  	  if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
+  	  if(!generando) //Revisar Luis?
+        *cp[i]=ns;
+  	}
     // Update context pointers
     if (bpos>1 && runp[i][0]==0)
       cp[i]=0;
@@ -845,6 +861,7 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
       cp0[i]=cp[i]=t[(cxt[i]+cc)&(t.size()-1)].get(cxt[i]>>16);
 
       // Update pending bit histories for bits 2-7
+      
       if (bpos==0) {
         if (cp0[i][3]==2) {
           const int c=cp0[i][4]+256;
@@ -858,7 +875,7 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
           p[3+((c>>1)&3)]=1+(c&1);
           cp0[i][6]=0;
         }
-        // Update run count of previous context
+   // Update run count of previous context
         if (runp[i][0]==0)
           runp[i][0]=2, runp[i][1]=c1;
         else if (runp[i][1]!=c1)
@@ -869,8 +886,8 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
           runp[i][0]=128;
         runp[i]=cp0[i]+3;
       }
-    }
-
+  	
+  	}
     // predict from last byte in context
     int rc=runp[i][0];
     if ((runp[i][1]+256)>>(8-bp)==cc) {
@@ -908,9 +925,10 @@ int matchModel(Mixer& m) {
       if (ptr && pos-ptr<(int)buf.size())
         while (buf(len+1)==buf[ptr-len-1] && len<MAXLEN) ++len;
     }
-    t[h]=pos;  // update hash table
-    result=len;
-    scm1.set(pos);
+    if(!generando) //Revisar Luis?
+  		t[h]=pos;  // update hash table
+  	result=len;
+  	scm1.set(pos);
   }
 
   // predict
@@ -937,8 +955,10 @@ void picModel(Mixer& m) {
   static StateMap sm[N];
 
   // update the model
-  for (int i=0; i<N; ++i)
-    t[cxt[i]]=nex(t[cxt[i]],y);
+  if(!generando){ //Ver con Luis
+	for (int i=0; i<N; ++i)
+		t[cxt[i]]=nex(t[cxt[i]],y);
+  }
 
   // update the contexts (pixels surrounding the predicted one)
   r0+=r0+y;
@@ -963,7 +983,7 @@ int col=0;
 
 static U32 frstchar=0,spafdo=0,spaces=0,spacecount=0, words=0,wordcount=0,wordlen=0,wordlen1=0;
 void wordModel(Mixer& m) {
-    static U32 word0=0, word1=0, word2=0, word3=0, word4=0, word5=0;
+    /*static U32 word0=0, word1=0, word2=0, word3=0, word4=0, word5=0;
     static U32 xword0=0,xword1=0,xword2=0,cword0=0,ccword=0;
     static U32 number0=0, number1=0;
     static U32 text0=0;
@@ -973,6 +993,7 @@ void wordModel(Mixer& m) {
     static Array<int> wpos(0x10000);
     static int w=0;
     // Update word hashes
+
     if (bpos==0) {
         int c=c4&255,f=0;
         if (spaces&0x80000000) --spacecount;
@@ -1098,8 +1119,60 @@ void wordModel(Mixer& m) {
     cm.set(hash(529,mask,buf(1)));
     cm.set(hash(530,mask,buf(2),buf(3)));
     cm.set(hash(531,mask&0x1ff,f4&0x00fff0));
+	}
+    cm.mix(m);*/
+
+  static U32 word0=0, word1=0, word2=0, word3=0, word4=0, word5=0;  // hashes
+  static U32 text0=0;  // hash stream of letters
+  static ContextMap cm(MEM*16, 20);
+  static int nl1=-3, nl=-2;  // previous, current newline position
+
+  // Update word hashes
+  if (bpos==0) {
+    int c=c4&255;
+    if (c>='A' && c<='Z')
+      c+='a'-'A';
+    if (c>='a' && c<='z' || c>=128) {
+      word0=word0*263*32+c;
+      text0=text0*997*16+c;
     }
-    cm.mix(m);
+    else if (word0) {
+      word5=word4*23;
+      word4=word3*19;
+      word3=word2*17;
+      word2=word1*13;
+      word1=word0*11;
+      word0=0;
+    }
+    if (c==10) nl1=nl, nl=pos-1;
+    int col=min(255, pos-nl), above=buf[nl1+col]; // text column context
+    U32 h=word0*271+buf(1);
+    
+    cm.set(h);
+    cm.set(word0);
+    cm.set(h+word1);
+    cm.set(word0+word1*31);
+    cm.set(h+word1+word2*29);
+    cm.set(text0&0xffffff);
+    cm.set(text0&0xfffff);
+
+    cm.set(h+word2);
+    cm.set(h+word3);
+    cm.set(h+word4);
+    cm.set(h+word5);
+    cm.set(buf(1)|buf(3)<<8|buf(5)<<16);
+    cm.set(buf(2)|buf(4)<<8|buf(6)<<16);
+
+    cm.set(h+word1+word3);
+    cm.set(h+word2+word3);
+
+    // Text column models
+    cm.set(col<<16|buf(1)<<8|above);
+    cm.set(buf(1)<<8|above);
+    cm.set(col<<8|buf(1));
+    cm.set(col);
+  }
+  cm.mix(m);
 }
 
 //////////////////////////// nestModel ///////////////////////
@@ -1158,7 +1231,6 @@ void nestModel(Mixer& m)
     }
     if (matched) bc = 0; else bc += 1;
     if (bc > 300) bc = ic = pc = qc = 0;
-
     cm.set((3*vc+77*pc+373*ic+qc)&0xffff);
     cm.set((31*vc+27*pc+281*qc)&0xffff);
     cm.set((13*vc+271*ic+qc+bc)&0xffff);
@@ -1219,11 +1291,13 @@ void recordModel(Mixer& m) {
     cp.set(col|rlen<<12);
 
     // update last context positions
-    cpos4[c]=cpos3[c];
-    cpos3[c]=cpos2[c];
-    cpos2[c]=cpos1[c];
-    cpos1[c]=pos;
-    wpos1[w]=pos;
+    //if(!generando){ //Revisar
+		cpos4[c]=cpos3[c];
+		cpos3[c]=cpos2[c];
+		cpos2[c]=cpos1[c];
+		cpos1[c]=pos;
+		wpos1[w]=pos;
+	//}
   }
   cm.mix(m);
   cn.mix(m);
@@ -1263,9 +1337,10 @@ void recordModel1(Mixer& m) {
     cq.set(c<<19);
     cq.set(e);
     // update last context positions
-
-    cpos1[c]=pos;
-    wpos1[w]=pos;
+	//if(!generando){ //Revisar
+		cpos1[c]=pos;
+		wpos1[w]=pos;
+	//}
   }
   cm.mix(m);
   cn.mix(m);
@@ -1409,7 +1484,7 @@ void exeModel(Mixer& m) {
 
 //////////////////////////// indirectModel /////////////////////
 
-void indirectModel(Mixer& m) {
+void indirectModel1(Mixer& m) {
   static ContextMap cm(MEM, 12);
   static U32 t1[256];
   static U16 t2[0x10000];
@@ -1445,8 +1520,31 @@ void indirectModel(Mixer& m) {
     cm.set(tc&0xffffff);
   }
   cm.mix(m);
+  
 }
+void indirectModel(Mixer& m) {
+  static ContextMap cm(MEM, 6);
+  static U32 t1[256];
+  static U16 t2[0x10000];
 
+  if (!bpos) {
+    U32 d=c4&0xffff, c=d&255;
+    U32& r1=t1[d>>8];
+    r1=r1<<8|c;
+    U16& r2=t2[c4>>8&0xffff];
+    r2=r2<<8|c;
+    U32 t=c|t1[c]<<8;
+    cm.set(t&0xffff);
+    cm.set(t&0xffffff);
+    cm.set(t);
+    cm.set(t&0xff00);
+    t=d|t2[d]<<16;
+    cm.set(t&0xffffff);
+    cm.set(t);
+
+  }
+  cm.mix(m);
+}
 //////////////////////////// dmcModel //////////////////////////
 
 struct DMCNode {
@@ -1463,55 +1561,59 @@ void dmcModel(Mixer& m) {
 
   // clone next state
   if (top>0 && top<(int)t.size()) {
-    int next=t[curr].nx[y];
-    int n=y?t[curr].c1:t[curr].c0;
-    int nn=t[next].c0+t[next].c1;
-    if (n>=threshold*2 && nn-n>=threshold*3) {
-      int r=n*4096/nn;
-      assert(r>=0 && r<=4096);
-      t[next].c0 -= t[top].c0 = t[next].c0*r>>12;
-      t[next].c1 -= t[top].c1 = t[next].c1*r>>12;
-      t[top].nx[0]=t[next].nx[0];
-      t[top].nx[1]=t[next].nx[1];
-      t[top].state=t[next].state;
-      t[curr].nx[y]=top;
-      ++top;
-      if (top==((int)t.size()*4)/8) {
-        threshold=512;
-      } else if (top==((int)t.size()*6)/8) {
-        threshold=768;
-      }
-    }
+	int next=t[curr].nx[y];
+	int n=y?t[curr].c1:t[curr].c0;
+	int nn=t[next].c0+t[next].c1;
+	if (n>=threshold*2 && nn-n>=threshold*3) {
+
+	  int r=n*4096/nn;
+	  assert(r>=0 && r<=4096);
+	  t[next].c0 -= t[top].c0 = t[next].c0*r>>12;
+	  t[next].c1 -= t[top].c1 = t[next].c1*r>>12;
+	  t[top].nx[0]=t[next].nx[0];
+	  t[top].nx[1]=t[next].nx[1];
+	  t[top].state=t[next].state;
+	  t[curr].nx[y]=top;
+	  ++top;
+	  if (top==((int)t.size()*4)/8) {
+		threshold=512;
+	  } else if (top==((int)t.size()*6)/8) {
+		threshold=768;
+	  }
+	  
+	}
   }
 
   if (top==(int)t.size() && bpos==1) top=0;
   if (top==0) {
-    assert(t.size()>=65536);
-    for (int i=0; i<256; ++i) {
-      for (int j=0; j<256; ++j) {
-        if (i<127) {
-          t[j*256+i].nx[0]=j*256+i*2+1;
-          t[j*256+i].nx[1]=j*256+i*2+2;
-        }
-        else {
-          t[j*256+i].nx[0]=(i-127)*256;
-          t[j*256+i].nx[1]=(i+1)*256;
-        }
-        t[j*256+i].c0=128;
-        t[j*256+i].c1=128;
-      }
-    }
-    top=65536;
-    curr=0;
-    threshold=256;
+	assert(t.size()>=65536);
+	for (int i=0; i<256; ++i) {
+	  for (int j=0; j<256; ++j) {
+		if (i<127) {
+		  t[j*256+i].nx[0]=j*256+i*2+1;
+		  t[j*256+i].nx[1]=j*256+i*2+2;
+		}
+		else {
+		  t[j*256+i].nx[0]=(i-127)*256;
+		  t[j*256+i].nx[1]=(i+1)*256;
+		}
+		t[j*256+i].c0=128;
+		t[j*256+i].c1=128;
+	  }
+	}
+	top=65536;
+	curr=0;
+	threshold=256;
   }
-
-   if (y) {
-    if (t[curr].c1<=3840) t[curr].c1+=256;
-   } else  if (t[curr].c0<=3840)   t[curr].c0+=256;
+  if(!generando){
+	  if (y) {
+		if (t[curr].c1<=3840) t[curr].c1+=256;
+	   } else  if (t[curr].c0<=3840)   t[curr].c0+=256;
+  }
   t[curr].state=nex(t[curr].state, y);
   curr=t[curr].nx[y];
 
+  
   // predict
   const int pr1=sm.p(t[curr].state);
   const int n1=t[curr].c1;
@@ -1540,8 +1642,9 @@ int contextModel2() {
 
   // Normal model
   if (bpos==0) {
-    for (int i=15; i>0; --i)  // update order 0-11 context hashes
-      cxt[i]=cxt[i-1]*257+(c4&255)+1;
+    for (int i=15; i>0; --i) { // update order 0-11 context hashes
+		cxt[i]=cxt[i-1]*257+(c4&255)+1;	 
+	} 
     for (int i=0; i<7; ++i)
       cm.set(cxt[i]);
     rcm7.set(cxt[7]);
@@ -1558,14 +1661,15 @@ int contextModel2() {
 
   if (level>=4) {
     sparseModel(m,ismatch,order);
-    sparseModel1(m,ismatch,order);
+	  sparseModel1(m,ismatch,order);
     distanceModel(m);
     picModel(m);
     recordModel(m);
     recordModel1(m);
-    wordModel(m);
+    //wordModel(m);
     nestModel(m);
-    indirectModel(m);
+    //indirectModel(m);
+    //indirectModel1(m);
     dmcModel(m);
     if (filetype==EXE) exeModel(m);
   }

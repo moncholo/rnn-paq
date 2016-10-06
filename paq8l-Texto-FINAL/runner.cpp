@@ -23,12 +23,12 @@ void ReadHeader(std::ifstream* is, unsigned long long* length) {
 void Compress(unsigned long long input_bytes, std::ifstream* is,
     std::ofstream* os, unsigned long long* output_bytes, PAQ8L* p) {
   Encoder e(os, p);
-  verificadorDeBits unVerificador;
+ // verificadorDeBits unVerificador;
   unsigned long long percent = 1 + (input_bytes / 100);
   
   for (unsigned long long pos = 0; pos < input_bytes; ++pos) {
     char c = is->get();
-    unVerificador.insert(c);
+   // unVerificador.insert(c);
     for (int j = 7; j >= 0; --j) {
       e.Encode((c>>j)&1);
     }
@@ -50,7 +50,7 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 	//std::string ventanaCotxAux;
 	unsigned int finalNum;
 	//e.manager_->bit_context_ = 1;
-	for (int i = 0; i < 799952; i++){
+	for (int i = 0; i < 800000; i++){
 		finalNum = 0;
 		
 		e.p = e.Discretize(e.p_->Predict());
@@ -65,29 +65,29 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 		if (finalNum<=xMid){
 			resultado++;
 			resultado32++;
-			//e.Encode(1);
+			e.Encode(1);
 			
-		//	if(unVerificador.verificar(resultado32,count32))
+			/*if(unVerificador.verificar(resultado32,count32))
 				e.Encode(1);
-	/*	else{
+		else{
 				resultado32--;
 				resultado--;
 				e.Encode(0);
 			
-			}
-		*/}else{
-			//e.Encode(0);
-			
-			//if(unVerificador.verificar(resultado32,count32))
-				e.Encode(0);
+			}*/
+		}else{
+			e.Encode(0);
 			/*
+			if(unVerificador.verificar(resultado32,count32))
+				e.Encode(0);
+			
 			else{
 				resultado++;
 				resultado32++;
 				e.Encode(1);
 			
-			}*/
-			
+			}
+			*/
 		}
 		
 		if (count==8){
@@ -163,7 +163,7 @@ int main(int argc, char* argv[]) {
 
   unsigned long long input_bytes = 0, output_bytes = 0;
 
-  PAQ8L * p = new PAQ8L(10);
+  PAQ8L * p = new PAQ8L(8);
 
   if (compressing) {
     
