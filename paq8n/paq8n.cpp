@@ -831,7 +831,7 @@ public:
 /////////////////////// Global context /////////////////////////
 
 int level=DEFAULT_OPTION;  // Compression level 0 to 9
-#define MEM (0x1A000<<level)
+#define MEM (0x10000<<level)
 int y=0;  // Last bit, 0 or 1, set by encoder
 
 // Global context set by Predictor and available to all models.
@@ -1186,7 +1186,7 @@ void train(short *t, short *w, int n, int err) {
 extern "C" void train(short *t, short *w, int n, int err);  // in NASM
 #endif
 
-bool generado = false;
+bool generando = false;
 class Mixer {
   const int N, M, S;   // max inputs, max contexts, max context sets
   Array<short, 16> tx; // N inputs from add()
@@ -1202,7 +1202,7 @@ public:
 
   // Adjust weights to minimize coding cost of last prediction
   void update() {    
-	if (!generado){		  
+	if (!generando){		  
 		for (int i=0; i<ncxt; ++i) {
 		  int err=((y<<12)-pr[i])*7;
 		  assert(err>=-32768 && err<32768);
@@ -1284,8 +1284,11 @@ public:
     assert(pr>=0 && pr<4096 && cxt>=0 && cxt<N && rate>0 && rate<32);
     pr=stretch(pr);
     int g=(y<<16)+(y<<rate)-y-y;
-    t[index] += g-t[index] >> rate;
-    t[index+1] += g-t[index+1] >> rate;
+    if (!generando){
+	t[index] += g-t[index] >> rate;
+	t[index+1] += g-t[index+1] >> rate;  
+    }	
+    
     const int w=pr&127;  // interpolation weight (33 points)
     index=(pr+2048>>7)+cxt*33;
     return t[index]*(128-w)+t[index+1]*w >> 11;
@@ -1316,7 +1319,8 @@ public:
   StateMap();
   int p(int cx) {
     assert(cx>=0 && cx<t.size());
-    t[cxt]+=(y<<16)-t[cxt]+128 >> 8;
+    if(!generando)
+    	t[cxt]+=(y<<16)-t[cxt]+128 >> 8;
     return t[cxt=cx] >> 4;
   }
 };
@@ -1452,9 +1456,11 @@ class RunContextMap {
 public:
   RunContextMap(int m): t(m/4) {cp=t[0]+1;}
   void set(U32 cx) {  // update count
-    if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
-    else if (cp[0]<255) ++cp[0];
-    cp=t[cx]+1;
+    if(!generando){
+	    if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
+	    else if (cp[0]<255) ++cp[0];
+	    cp=t[cx]+1;
+    }
   }
   int p() {  // predict next bit
     if (cp[1]+256>>8-bpos==c0)
@@ -1485,7 +1491,8 @@ public:
     cxt=cx*256&t.size()-256;
   }
   void mix(Mixer& m, int rate=7) {
-    *cp += (y<<16)-*cp+(1<<rate-1) >> rate;
+    if(!generando)
+  	  *cp += (y<<16)-*cp+(1<<rate-1) >> rate;
     cp=&t[cxt+c0];
     m.add(stretch(*cp>>4));
   }
@@ -1614,7 +1621,8 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
       assert((long(cp[i])&63)>=15);
       int ns=nex(*cp[i], y1);
       if (ns>=204 && rnd() << (452-ns>>3)) ns-=4;  // probabilistic increment
-      *cp[i]=ns;
+      if(!generando)
+      	*cp[i]=ns;
     }
 
     // Update context pointers
@@ -1698,7 +1706,7 @@ int matchModel(Mixer& m) {
       if (ptr && pos-ptr<buf.size())
         while (buf(len+1)==buf[ptr-len-1] && len<MAXLEN) ++len;
     }
-    t[h]=pos;  // update hash table
+    if(!generando) t[h]=pos;  // update hash table
     result=len;
 //    if (result>0 && !(result&0xfff)) printf("pos=%d len=%d ptr=%d\n", pos, len, ptr);
     scm1.set(pos);
@@ -1732,9 +1740,10 @@ void picModel(Mixer& m) {
   static StateMap sm[N];
 
   // update the model
-  for (int i=0; i<N; ++i)
-    t[cxt[i]]=nex(t[cxt[i]],y);
-
+  if(!generando){
+	for (int i=0; i<N; ++i)
+	    t[cxt[i]]=nex(t[cxt[i]],y);
+  }
   // update the contexts (pixels surrounding the predicted one)
   r0+=r0+y;
   r1+=r1+((buf(215)>>(7-bpos))&1);
@@ -2660,10 +2669,13 @@ void dmcModel(Mixer& m) {
   }
 
   // update count, state
-  if (y) {
-    if (t[curr].c1<3800) t[curr].c1+=256;
+  if(!generando){
+
+	  if (y) {
+	    if (t[curr].c1<3800) t[curr].c1+=256;
+	  }
+	  else if (t[curr].c0<3800) t[curr].c0+=256;
   }
-  else if (t[curr].c0<3800) t[curr].c0+=256;
   t[curr].state=nex(t[curr].state, y);
   curr=t[curr].nx[y];
 
@@ -3551,9 +3563,9 @@ class Copiador{
 // To decompress: paq8n file1.paq8n [output_dir]
 int main(int argc, char** argv) {
   bool pause=argc<=2;  // Pause when done?
-  generado = false;
-  int cantidadDeCaracteres = 60000; //60000 caracteres por default
-      printf("Ingresas la cantidad de letras que quiere generar");
+  generando = false;
+  int cantidadDeCaracteres = 1000; //60000 caracteres por default
+      printf("Ingresar la cantidad de letras que quiere generar \n");
 	  scanf ("%i",&cantidadDeCaracteres);
   
   try {
@@ -3741,9 +3753,9 @@ int main(int argc, char** argv) {
 	printf("\n");
 	int count = 0;
 	int resultado = 0;
-	generado = true;
+	generando = true;
 //	printf("Llego aca");
-	for (int i = 0; i < cantidadDeCaracteres; i++){
+	for (int i = 0; i < cantidadDeCaracteres*8; i++){
 		U32 finalNum = rand()%(en.x2-en.x1)+en.x1;
 		resultado = resultado<<1;
 		if (finalNum<en.xMid){
