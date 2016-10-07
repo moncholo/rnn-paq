@@ -548,11 +548,10 @@ public:
   // Input x (call up to N times)
   void add(int x) {
     assert(nx<N);
-    model_predictions[prediction_index] = squash(x) * conversion_factor;
-    ++prediction_index;
+	model_predictions[prediction_index] = squash(x) * conversion_factor;
+	++prediction_index;
     tx[nx++]=x;
   }
-
   // Set a context (call S times, sum of ranges <= M)
   void set(int cx, int range) {
     assert(range>=0);
@@ -603,7 +602,7 @@ Mixer::Mixer(int n, int m, int s, int w):
 }
 
 //////////////////////////// APM //////////////////////////////
-
+//Bien! No tocar
 class APM {
   int index;     // last p, context
   const int N;   // number of contexts
@@ -620,11 +619,9 @@ public:
     }
     const int w=pr&127;  // interpolation weight (33 points)
     index=((pr+2048)>>7)+cxt*33;
-    //if(!generando)
+
     return (t[index]*(128-w)+t[index+1]*w) >> 11;
-    //else
-    //  return ((t[index]+((g-t[index]) >> rate))*(128-w)+(t[index+1] + ((g-t[index+1]) >> rate))*w) >> 11;
-    
+
   }
 };
 
@@ -636,7 +633,7 @@ APM::APM(int n): index(0), N(n), t(n*33) {
 }
 
 //////////////////////////// StateMap //////////////////////////
-
+//Bien! No tocar
 class StateMap {
 protected:
   int cxt;  // context
@@ -647,10 +644,8 @@ public:
     assert(cx>=0 && cx<t.size());
     if(!generando)
       t[cxt]+=((y<<16)-t[cxt]+128) >> 8;
-    //if(!generando)
-    return t[cxt=cx] >> 4;
-    //else
-    //  return (t[cxt=cx]+(((y<<16)-t[cxt]+128) >> 8))>>4;
+    cxt=cx;
+    return t[cxt] >> 4;
   }
 };
 
@@ -736,12 +731,12 @@ class RunContextMap {
 public:
   RunContextMap(int m): t(m/4) {cp=t[0]+1;}
   void set(U32 cx) {  // update count
-    if(!generando){	//Ver con Luis
+	//if(!generando)//Ver con Luis ??
       if (cp[0]==0 || cp[1]!=buf(1)) cp[0]=1, cp[1]=buf(1);
-		  else if (cp[0]<255) ++cp[0];
-      cp=t[cx]+1;
-    }
+		  else if (cp[0]<255) if(!generando) ++cp[0];
+       if(!generando)cp=t[cx]+1;
   }
+  
   int p() {  // predict next bit
     if ((cp[1]+256)>>(8-bpos)==c0)
       return (((cp[1]>>(7-bpos))&1)*2-1)*ilog(cp[0]+1)*8;
@@ -753,11 +748,12 @@ public:
     return cp[0]!=0;
   }
 };
-
+//Bien, no tocar!
 class SmallStationaryContextMap {
   Array<U16> t;
   int cxt;
   U16 *cp;
+  U16 *a;
 public:
   SmallStationaryContextMap(int m): t(m/2), cxt(0) {
     assert((m/2&m/2-1)==0); // power of 2?
@@ -772,7 +768,10 @@ public:
 	if(!generando)
 		*cp += ((y<<16)-*cp+(1<<(rate-1))) >> rate;
 	cp=&t[cxt+c0];
-    m.add(stretch(*cp>>4));
+	if(!generando)
+		m.add(stretch(*cp>>4));
+    else
+		m.add(stretch(t[cxt+c0]>>4));
 
   }
 };
@@ -838,17 +837,18 @@ inline void ContextMap::set(U32 cx, int next) {
 }
 
 int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
-  // Update model with y
+  // Update model with y/
   int result=0;
   for (int i=0; i<cn; ++i) {
-
+	int ns;
+	U8* cpaux = cp[i];
   	if (cp[i]) {
   	  assert(cp[i]>=&t[0].bh[0][0] && cp[i]<=&t[t.size()-1].bh[6][6]);
   	  assert(((long lon1909097394g)(cp[i])&63)>=15);
-  	  int ns=nex(*cp[i], y1);
-  	  if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
-  	  if(!generando) //Revisar Luis?
-        *cp[i]=ns;
+  	  ns=nex(*cp[i], y1);
+		if (ns>=204 && rnd() << ((452-ns)>>3)) ns-=4;
+  	  if(!generando) //Bien!
+      *cp[i]=ns;
   	}
     // Update context pointers
     if (bpos>1 && runp[i][0]==0)
@@ -899,6 +899,7 @@ int ContextMap::mix1(Mixer& m, int cc, int bp, int c1, int y1) {
       m.add(0);
 
     // predict from bit context
+
     result+=mix2(m, cp[i] ? *cp[i] : 0, sm[i]);
   }
   if (bp==7) cn=0;
@@ -925,8 +926,8 @@ int matchModel(Mixer& m) {
       if (ptr && pos-ptr<(int)buf.size())
         while (buf(len+1)==buf[ptr-len-1] && len<MAXLEN) ++len;
     }
-    if(!generando) //Revisar Luis?
-  		t[h]=pos;  // update hash table
+    //if(!generando) //Revisar
+	t[h]=pos;  // update hash table
   	result=len;
   	scm1.set(pos);
   }
@@ -1609,8 +1610,9 @@ void dmcModel(Mixer& m) {
 	  if (y) {
 		if (t[curr].c1<=3840) t[curr].c1+=256;
 	   } else  if (t[curr].c0<=3840)   t[curr].c0+=256;
-  }
+
   t[curr].state=nex(t[curr].state, y);
+  }
   curr=t[curr].nx[y];
 
   
@@ -1638,7 +1640,7 @@ int contextModel2() {
   m.update();
   m.add(64);
 
-  int ismatch=ilog(matchModel(m));  // Length of longest matching context
+  //int ismatch=ilog(matchModel(m));  // Length of longest matching context
 
   // Normal model
   if (bpos==0) {
@@ -1646,7 +1648,7 @@ int contextModel2() {
 		cxt[i]=cxt[i-1]*257+(c4&255)+1;	 
 	} 
     for (int i=0; i<7; ++i)
-      cm.set(cxt[i]);
+    cm.set(cxt[i]);
     rcm7.set(cxt[7]);
     cm.set(cxt[8]);
     rcm9.set(cxt[10]);
@@ -1660,18 +1662,18 @@ int contextModel2() {
   rcm10.mix(m);
 
   if (level>=4) {
-    sparseModel(m,ismatch,order);
-	  sparseModel1(m,ismatch,order);
-    distanceModel(m);
-    picModel(m);
-    recordModel(m);
-    recordModel1(m);
+    //sparseModel(m,ismatch,order);
+	//sparseModel1(m,ismatch,order);
+    //distanceModel(m);
+    //picModel(m);
+    //recordModel(m);
+    //recordModel1(m);
     //wordModel(m);
-    nestModel(m);
+    //nestModel(m);
     //indirectModel(m);
     //indirectModel1(m);
-    dmcModel(m);
-    if (filetype==EXE) exeModel(m);
+    //dmcModel(m);
+    //if (filetype==EXE) exeModel(m);
   }
 
   order = order-5;
