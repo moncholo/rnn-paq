@@ -1,1 +1,0 @@
-Resguador de Checkpoints

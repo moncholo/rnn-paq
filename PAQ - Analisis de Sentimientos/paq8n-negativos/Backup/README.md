@@ -1,1 +1,0 @@
-Resguardo de Checkpoints

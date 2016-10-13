@@ -581,7 +581,8 @@ as context.  PAQ8M was an earlier version of the new JPEG model
 #ifdef UNIX
 #include <sys/types.h>
 #include <sys/stat.h>
-#include <iostream>																				
+#include <iostream>
+#include <fstream>
 #include <dirent.h>
 #include <errno.h>
 #endif
@@ -836,6 +837,10 @@ int c0=1; // Last 0-7 bits of the partial byte with a leading 1 bit (1-255)
 U32 c4=0; // Last 4 whole bytes, packed.  Last byte is bits 0-7.
 int bpos=0; // bits in c0 (0 to 7)
 Buf buf;  // Rotating input queue set by Predictor
+double entropia = 0;
+double cantidadCaracteres = 0;
+std::ofstream myfile;
+bool analizandoReview = false;
 
 ///////////////////////////// ilog //////////////////////////////
 
@@ -2862,6 +2867,21 @@ private:
     assert(xmid>=x1 && xmid<x2);
     if (mode==DECOMPRESS) y=x<=xmid; else y=i;
     y ? (x2=xmid) : (x1=xmid+1);
+    double log2Probabilidad = 0;
+    double p1 = (double) p;		
+    double p0 = 4096-p1;
+
+	if (analizandoReview){
+		if (y == 1){
+			log2Probabilidad= log2 (p1/(p0+p1));
+		}else{
+			log2Probabilidad= log2 (p0/(p0+p1));
+		}
+		entropia = entropia - log2Probabilidad;
+		cantidadCaracteres++;
+ 
+	}
+
     predictor.update();
     while (((x1^x2)&0xff000000)==0) {  // pass equal leading bytes of range
       if (mode==COMPRESS) putc(x2>>24, archive);
@@ -3635,18 +3655,24 @@ int main(int argc, char** argv) {
      printf("Congelando proceso \n");
      int numeroPID=getpid();		
      std::string s = std::to_string(numeroPID);
-
      std::string comando = "cr_checkpoint --file CheckpointPositivos --term ";
-
      comando+=s;
-
      system(comando.c_str());
   
      struct stat filestatus;
      stat(fname[files-1], &filestatus );
      fsize[files-1]= filestatus.st_size;
 
+	analizandoReview = true;
+
      compress(fname[files-1], fsize[files-1], en);      	
+
+	myfile.open ("../entropia.txt");
+     
+	myfile << 8*entropia / cantidadCaracteres;
+
+	myfile.close();
+
 
       en.flush();
       printf("%ld -> %ld\n", total_size, en.size());
