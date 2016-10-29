@@ -120,6 +120,7 @@ else
 	fi	
 fi
 
+
 echo "Diferencia negativa: $DIFERENCIA_NEGATIVA" >> Resultados.txt
 echo "Diferencia positiva: $DIFERENCIA_POSITIVA" >> Resultados.txt
 echo "Entropia negativa: $entropia_neg" >> Resultados.txt
