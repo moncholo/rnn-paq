@@ -26,10 +26,6 @@ cr_restart paq8n-positivos/CheckpointPositivos;
 
 sed -i "s/[0-9]*\(.review.txt\)/$TAM_REVIEW\1/" paq8n-positivos/ReviewPositivo.paq8n;
 
-entropia_pos=$(cat 'entropia.txt');
-
-rm -f 'entropia.txt';
-
 #es el tamaño comprimido de la carpeta SetPositivos
 TAM_POSITIVOS=$(wc -c paq8n-original/Positivos.paq8n | awk '{print $1}')
 #es el tamaño comprimido de la carpeta SetPositivos con el archivo de review
@@ -48,10 +44,6 @@ cp paq8n-negativos/Backup/ReviewNegativo.paq8n paq8n-negativos/ReviewNegativo.pa
 cr_restart paq8n-negativos/CheckpointNegativos
 
 sed -i "s/[0-9]*\(.review.txt\)/$TAM_REVIEW\1/" paq8n-negativos/ReviewNegativo.paq8n
-
-entropia_neg=$(cat 'entropia.txt');
-
-rm -f 'entropia.txt';
 
 TAM_NEGATIVOS=$(wc -c paq8n-original/Negativos.paq8n | awk '{print $1}')
 
@@ -122,8 +114,4 @@ fi
 
 echo "Diferencia negativa: $DIFERENCIA_NEGATIVA" >> Resultados.txt
 echo "Diferencia positiva: $DIFERENCIA_POSITIVA" >> Resultados.txt
-echo "Entropia negativa: $entropia_neg" >> Resultados.txt
-echo "Entropia positiva: $entropia_pos" >> Resultados.txt
 echo "---------------------------------------------------------" >> Resultados.txt
-
-
