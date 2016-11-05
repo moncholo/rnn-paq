@@ -1,2 +1,0 @@
-g++ -std=c++11 paq8n.cpp -O2 -DUNIX -DNOASM -s -o PAQ -LBLCR_LIBDIR -u cr_run_link_me
-

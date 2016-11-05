@@ -1,0 +1,8 @@
+
+COMPILAR
+
+g++ -std=c++11 runner.cpp coder/encoder.cpp coder/decoder.cpp ppm.cpp manager.cpp contexts/bit-context.cpp contexts/context-hash.cpp -O2 -DUNIX -DNOASM -s -o ppmd -LBLCR_LIBDIR -u cr_run_link_me
+
+USO
+
+-c  DATA   OUT
