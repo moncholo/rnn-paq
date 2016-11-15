@@ -1,0 +1,26 @@
+USE:
+-------------------------------------------------------
+--Build distribucion.cpp--
+
+g++ -Wall -o "%e" "%f" -std=c++11
+-------------------------------------------------------
+--Generate distribution files--
+
+./distribucion	n	train.txt	generated.txt
+
+(n= n-grames length, 
+we recommend 4 for chi and jaccard and 10 for jacccard)
+-------------------------------------------------------
+--Run chi.py, jaccard.py or totalvariation.py--
+
+./chi.py
+./jaccard.py
+./totalvariation.py
+-------------------------------------------------------
+
+///////////////////////////////////////////////////////
+./testvariation.cpp	p       old.txt	   modified.txt
+
+Goes throw every char in old.txt, each char has 1/p 
+chance of being modified (for a another random char)
+///////////////////////////////////////////////////////
