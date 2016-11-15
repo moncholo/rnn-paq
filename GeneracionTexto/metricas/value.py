@@ -1,5 +1,4 @@
 #!/usr/bin/python
-from scipy.stats import chisquare
 import sys
 
 f = open("entrada.frecuencias");
@@ -18,13 +17,28 @@ suma_observado = sum(f_obs)
 suma_esperado = sum(f_exp)
 
 suma = 0.0;
+suma2= 0.0;
+rango= 0;
 
-for x in range(0, len(f_exp)):
-	if((f_exp[x]/suma_esperado) > (f_obs[x]/suma_observado)):
-		suma = suma + f_obs[x]/suma_observado;
+if(len(f_exp) > len(f_obs)):
+	rango= len(f_exp);
+else:
+	rango= len(f_obs);
+
+for x in range(0, rango):
+	
+	if(len(f_exp) > x):
+		suma2= suma2+ abs(f_exp[x]/suma_esperado - f_obs[x]/suma_observado);
+		
+		if((f_exp[x]/suma_esperado) > (f_obs[x]/suma_observado)):
+			suma = suma + f_obs[x]/suma_observado;
+
+		else:
+			suma = suma + f_exp[x]/suma_esperado;
 
 	else:
-		suma = suma + f_exp[x]/suma_esperado
+		suma2= suma2+ f_obs[x]/suma_observado;
 
-print "value: %f" %( suma);
+
+print "value: %f	%f" %( suma, suma2/2);
 

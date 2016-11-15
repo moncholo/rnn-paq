@@ -1,5 +1,4 @@
 #!/usr/bin/python
-from scipy.stats import chisquare
 import sys
 
 f = open("entrada.frecuencias");
