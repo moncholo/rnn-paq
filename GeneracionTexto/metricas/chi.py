@@ -34,5 +34,5 @@ for x in range(0, len(f_exp)):
 
 (statistic, pvalue) = chisquare(f_obs,f_exp);
 
-print "statistic: %f	pvalue: %f	n-laplace: %d" %( statistic, pvalue,laplace);
+print "%f,%d" %( statistic, laplace);
 

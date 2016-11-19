@@ -119,7 +119,6 @@ void Decompress(unsigned long long output_length, std::ifstream* is,
     }
     os->put(byte);
     if (pos % percent == 0) {
-      printf("\rprogress: %lld%%", pos / percent);
       fflush(stdout);
     }
   }
@@ -148,22 +147,13 @@ int main(int argc, char* argv[]) {
   bool enable_preprocess = false;
   std::string input_path = argv[2];
   std::string output_path = argv[3];
-  /*
-  FILE* dictionary = NULL;
-  if (argc == 5) {
-    enable_preprocess = true;
-    dictionary = fopen(argv[2], "rb");
-    if (!dictionary) return fail();
-    input_path = argv[3];
-    output_path = argv[4];
-  }
-  */
+ 
   std::string temp_path = output_path;
   if (enable_preprocess) temp_path += ".cmix.temp";
 
   unsigned long long input_bytes = 0, output_bytes = 0;
 
-  PAQ8L * p = new PAQ8L(8);
+  PAQ8L * p = new PAQ8L(11);
 
   if (compressing) {
     
@@ -202,15 +192,11 @@ int main(int argc, char* argv[]) {
 
   }
   
-  printf("\n\r%lld bytes -> %lld bytes in %1.2f s.\n",
-      input_bytes, output_bytes,
-      ((double)clock() - start) / CLOCKS_PER_SEC);
 
   if (compressing) {
     double cross_entropy = output_bytes;
     cross_entropy /= input_bytes;
     cross_entropy *= 8;
-    printf("cross entropy: %.3f\n", cross_entropy);
   }
 
   return 0;

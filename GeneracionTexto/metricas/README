@@ -2,7 +2,7 @@ USE:
 -------------------------------------------------------
 --Build distribucion.cpp--
 
-g++ -Wall -o "%e" "%f" -std=c++11
+g++ -Wall -o Distribucion "%e" "%f" -std=c++11
 -------------------------------------------------------
 --Generate distribution files--
 

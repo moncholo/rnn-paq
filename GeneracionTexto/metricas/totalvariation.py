@@ -40,5 +40,5 @@ for x in range(0, rango):
 		suma2= suma2+ f_obs[x]/suma_observado;
 
 
-print "value: %f	%f" %( suma, suma2/2);
+print "%f" %(suma2/2);
 
