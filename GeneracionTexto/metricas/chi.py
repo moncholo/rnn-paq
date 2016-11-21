@@ -16,14 +16,16 @@ f_obs = [float(x) for x in str2.split(';')];
 
 laplace =  len(f_obs) - len(f_exp);
 
-if (len(f_exp) < len(f_obs)):
-	for x in range(0, len(f_exp)):
-		f_exp[x] += laplace;
 
-
+#Aqui abajo hago la correcion de laplace
 if (len(f_exp) < len(f_obs)):
 	for x in range(0, laplace):
-		f_exp += [1];
+		f_exp += [0];
+
+if (laplace > 0):
+	for x in range(0, len(f_exp)):
+		f_exp[x] += 1;
+
 
 suma_observado = sum(f_obs)
 suma_esperado = sum(f_exp)
