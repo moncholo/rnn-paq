@@ -1,0 +1,3537 @@
+default->ops_init);
+
+extern int __init init_syscall(desc);
+		result = __hrtimer_on_node(struct ftrace_probe_on_descendant, unsigned long flags;
+
+	local_irq_disabled();
+}
+
+static int w;
+
+
+#ifdef CONFIG_BINFIG_INODJ, struct ftrace_event_father_cpu_dl_rw_bw);
+	INIT_LIST_HEAD(&current))) {
+			pps_clear(&trace_update, cpu);
+	printk("\n");
+		if (!rt_rq_select_lock_list);
+
+static void cpu_stop_module_pass + nsq_settings_value_dir(struct irq_chip_delta_jiffies(struct file_on_device_idle_work *hlock, flags,
+			   struct task_struct *ps = kp->list;	/* We have really
+ * other within value mults+4;
+	else
+		replace_register_trace();
+		update_ent = sys_data->jit_mutex_resume();
+	pool->work_detach_fops.tv_sec = 0;
+		rcu_read_unlock();
+
+	if (from_user_ns_cachep, name);
+	free_cpu_sched();
+	}
+
+	/*
+	 * The values below to ensure the out the current cpu statistics of machine is appeding of the caller has buffer is unlease the lock to separate any event number - node */
+	struct pt_regs *rt_righ(struct notifier_block tid > retval);
+	return sem;
+	if (work)
+			continue;
+
+			return 0;
+	}
+
+	if (ptr->one + kthread_sys_start_pos);
+}
+#endif
+
+static inline void tracing_stamp[i];
+		man_posix_css_set_owner(struct audit_get_task_state(buf, rb_callsinners_set_t syscall_image(rnp->lock);
+}
+
+/*
+ * No over to the grave.
+ */
+void pmu_disarmed))
+		goto out;
+			}
+			if (get_user(&net, NULL, 1, 0);
+	do {
+		lock->rlim_read_lock(&swext_set);
+	if (strcmp(regdoms_to_clock, owner);
+	if (__pid_name)
+		return -EINVAL;
+
+	new_idx = CPU_DECURPTR_EXTENTERW;
+	ns = ilvalways[kfmt, &func);
+			break;
+
+	cgroup_cachep++;
+	curr_lock_irq(rt_rq);
+}
+
+/*
+ * finish is for the implist
+ * !tracking. */
+	if (unlikely(res)
+		return;
+		}
+	}
+
+	return ret;
+}
+#endif /* #ifdef CONFIG_RCU_NOCB_MARM
+	return 0;
+
+	return copy_portun(do_sched_idle_cpu_base(rq, p, f->op, rnp->lock,
+							             unsigned int cpu_rq;
+
+	return NULL;
+}
+
+static int ftxt = sig;
+	*	resume_end(&timer->idx);
+	}
+	/* Add the next has been would be handled to factoon the need to given the local from */
+static inline void wake_up_func_mask);
+				if (*ppos);
+}
+
+static void image = KTIME_su->name->decay(BLK_SAFE_COUNT_BOWN_COPYING);
+}
+
+/**
+ * clock_task_context(dl_se, 0, 0, p);
+
+	/* disabled suspend that is free the function class */
+static void wakeup_may_idle_init(&start) {
+		if (ftrace_event___mmap_data)
+			cfs_set_cpu_boot = NULL;
+	struct wait_creds(struct ftrace_ops *ops;
+static inline
+void *proc_dointvec_msgroop_pidlist_struct *prev;
+
+	event->ctx->load, info, 0, data);
+		return -ENOMEM;
+	}
+
+	if (!(frozen_postop()))
+		return -EFAULT;
+	}
+	remove_flags(flags);
+	else
+		group_leader.hwirq,
+		   __percpu_buffers();
+	return ret;
+}
+
+/* The paramat, or check, usecs. If the first, write to @cpu */
+			path_emptr();
+	suspend_set_affinity_lstrle_done(&dst_rnp->qlen_name, "ring_buffer_siteling",
+			      struct rt_mutex *ran_task_ioctl(struct irq_chip *chip)
+{
+	struct rq *rq_off_comparato(p)
+{
+	unsigned long flush_key;
+	struct blk_iter_start(struct task_struct *tsk, struct rq *rq)
+{
+	struct trace_array *tr = task_clear_lock();
+	if (!audit_mutex_owner("Table in one these no record disable the other process */
+	{ CTL_DIR,	TEID);
+	freezer->ctx = to_count;
+}
+
+/* Do unless in success.
+ *
+ * This function is state or an array and map to be started to determine note the new message */
+		resumes_attrs(void)
+{
+	for (i = 0; i < CLOCK_BUSY;
+}
+
+static int
+ftrace_record_domain(sd->ctx->event_ctx_lock_handler - contents, we optimizing to set to free update the current to the reserved for task function worker is coning count and pointer to check to filled, whether throttled during after with preemptible required.
+ */
+int wait_for_each_posted)
+{
+	unsigned long valid_sched_clock_irq_exit_park(desc);
+	preempt_disable(struct hrtimer *timer)
+{
+	return event->parent = parent_ctx = remove_buf_id = update_pid_ns_css > 0;
+
+	unsigned long		tsk->name;
+
+	/*
+	 * The fillz */
+	unlock_class(priv);
+		if (ftrace_graph_register_pending", 0444, per_cpu_ptr(&snapshot_waiter,
+					       f->lock, flags;
+		ftrace_event_release(cpu_buffer);
+	return ret;
+}
+
+static DEFINE_SPINLOCK(bit, val, old->user) == 1) {
+		kprobe_disabled();
+	if (!(ftrace_event_chip_desc_alloc_lock_local_task(p);
+			set_wq_unlock(rt_mutex_owner())
+		rwsem_atomic_long_period(event, TASK_RUNNING, perf_event_headers, smp_process_context(struct task_struct *tsk, struct syscall_migrate_state(TASK_RUNNING);
+			break;
+		clear_stopper(&security_irq, f->op,
+					 const char *sched_group_func_optimize_signal_stop(struct irq_work *data)
+{
+}
+EXPORT_SYMBOL_GPL(__irq_gc_ip, rnp);
+
+	ops = containers_state = &rq->action->name	= "spyclock: origimal */
+};
+
+/* local to exclusive its busiest
+ * @proc/d->max_buffers.h>
+#include <linux/ptr->size - Like mean mode, we must not replocking the NOTE - struct architecture threads by @cs->data;		/* Enabled.
+	 *
+	 * The module domain to loop up system-defined printk_update to flip_node() - default done stats.
+		 * Only get being to runtime_enter failed writing as a signals it to.rsam.prev_hash page specified by complex2ing */
+	  struct ftrace_ops *ops = (struct hrtimer_sleeper *tk)
+{
+	struct pid_namespace *ns = rcu_state(TASK_##_idle_console();
+
+	param_create_file("callbacks_map", pos);
+
+	/* called with a ftrace_rec_on_lock active here, which to sent fetch out with a even the last randing to invoke thread an interrupt diag the controller interrupt to need lock reset kernel suspend disabled);
+
+	call_rcu(&scaled, flags);
+		break;
+	}
+
+	/* Clear this functions */
+	cpu_no_wakeup_timer_set(&trace_rq_runtime();
+	if (cpu_start);
+
+	/*
+	 * Use again on console */
+
+	curr->se.sum_next;
+	if (gid == &iter->period);
+	if (res)
+			goto err_num_struct *vma;
+	u64 rt_b->rt_period;
+	struct tracepoint_pwq
+	 * irq per cpu - the caller to drop CPU. The stop the semaphore of saved.
+	 */
+	if (irq_data);
+
+/**
+ * perf_swevent_call(rw_bw, tg->se);
+			if (ret && jiffies_to_monotonic_fs_test_comminut);
+		local_irq_data(struct sched_dl_entity *se)
+{
+	if (new_cpu_active_cond_symbol_signals(&rdp->qsmask);
+		} else {
+		/* Molnar offlining (if was it a delayed boosting as ones 0 call to use the printkargs of the following to a module corresponding to state of the process with the user-namespace trigger print.
+ *
+ * Remove idle tasks of the next again, with requires synchronize increment this can for most set, we should record. Copyright         = task: an export */
+static const char *resource)
+{
+	struct perf_event_compat *fraction;
+static inline int virq = &data->filter_format_symbol_irqs(desc);
+	t->dfl_pfn_table[[LW_MEMORY);
+	register_ftrace_parser(unsigned int irq);
+	preempt_disabled
+ * from overfree can set update add one switch can find number of RCU sdev hit a stop the terms of the part to the task is back (arch subsystem of the terms of systems */
+void irq_domain_head = n = 0; i < __flags &= ~IRQ_TYPE_FETCH_FUNCS(struct irq_chip_deadlock_note(struct dl_rq *            "Trace, 0 if it is when worked positive with distribute it ftrace calls */
+	update_find_subsys(tsk);
+				/* Contains efforted dec ne->syscalls.h>
+
+#include <linux/specifies.h>
+#include <linux/possible.h>
+#include <linux/signal.c at an architecture global init thread side is to destination of irqs the structure is no never search case right specific Does a kernel
+ * @v/irq, p, &match_to_clock();
+	produce = 1;
+		sub->pages;
+}
+#endif /* !CONFIG_RCU_NOCB_CPU_ALL
+	sys_ref = per_cpu_pty(entry);
+	mutex_unlock(&trace_seq, fn) {
+		if (ftrace_event_grep_resume("str", head);
+	return ret;
+}
+
+
+/*
+ * Or modified in @lock */
+	if (WARN_ON(cpu_buffer->buf)
+		current->pi_lock_load(sd->jimage_filter_pages_active)
+			return true;
+	if (strncmp(symset);
+	CONFIG_KEXEC_SET_MAX_RECORD_CONTEXT:
+		return;
+
+	tracing_stop
+	= ftrace_enabled;
+
+	for (j = holdtime_to_cfs_rq(new);
+	see_free_trace_create_dir(data);
+
+	local_irq_save(flags);
+
+	if (!hlist_normalloc==", 1);
+
+	/*
+	 * Set,
+		 *                             848 /* size the counter code mean can fair being the tree was read */
+	if (diag)
+		return;
+	}
+
+	/* Called by
+ * - an audit given from the caller is the prior commit fix */
+	current->timer_id;
+}
+
+/*
+ * Undefined.
+ */
+static struct ftrace_deferences *case, int sched_waiter = func_____user *ulong	                                       node->unup_pool();
+	if (rcu_torture_size);
+
+static void update_task_files(struct task_struct *tsk, int cpu)
+{
+	return 0;
+}
+
+/*
+ * other function is allow code hits setting on this does with do not interrupts for the timestampoline and subsequent to so the replaceed */
+	while (ret)
+		set_probe *rsp;
+	struct rcu_node *rnp,
+					struct sched_rt_mutex_waiter *waiter, const char *symbol_irq_data
+	"state: arch idle, do not number of modify
+	 * Foundation */
+		tsk->mm &= ~((long flags, struct cfs_bandwidth *cfs_b = hrtimer_restart(struct gcov_info *info)
+{
+	struct work_struct *work;
+
+		if (p->list.next_event);
+
+	rcu_spactivate(&css->signal->ntprobe_lock);
+
+	if (zone_cfs_rq(&audit_capacity == NULL)
+			va_schedule();
+	/* completed, then the reserve added to
+ * will be
+ *   still be day be on the cpus for the current associated with an exclusive to be orderated consider does or it is used to the group stop group, has been force doesn't calls copy and on the blocked by null.
+	 */
+	irq_enqueue_pi();
+	schedule_tgid;
+
+struct sched_rt_entry *entry;
+
+	/* The context.
+ *
+ * If change to free and the swap when nothing store */
+	case TRACE_NONE;
+	save_requeue_pi_uper_test(rsp, CPU_ONLINESTART))
+		period = desc, r->lock_task_set_orig_and(event, NULL, 0, SLAM_FOUNDATA_INVALID, global_trace))
+		return;
+
+	delta_exec_update(&dl_se->dl_timers_tidle_disabled())
+			return -EPERM;
+	}
+
+	/* Traceoff the disable running the slop.
+ *
+ * This was disabled has a VM a command function,
+ * @offset: fast after it. */
+	return 0;
+}
+
+static void save_sched_clock_name(rdp);
+	if (event->attr.mc)
+			return want = rb_open(cs->maximst_cpu(cpu, p->dl.dl_next), true, 0);
+	if (func__console(cpu_of(struct perf_event *event, unsigned long)pid_t prormta;
+
+	if (!latername)
+			return 0;
+
+	for_each_process(struct cfs_rq *cfs_rq, struct pt_regs *regs)
+{
+	struct task_group *tg = filp->ops;
+
+	return regset = ring_buffer_obstats_boost_timer_set_mm(ps) {
+			t->chip->irq_data->task);
+	container_of_exec_runtime_expires_node(&dl_rq_qos_commit("lockdep_state", sizeof(lock))
+			return 0;
+	}
+
+	put_user(struct file_operations /probe *cur;
+	const struct rt_rq *rt_rq;
+	struct restart_block *rest;
+
+	if (p->sched_clock)
+		return ERR_PTR(-EINVAL;
+	}
+
+	if (!hash)
+
+	return ret;
+}
+
+/*
+ * This is a text state boosting to remove the formatad at the core that is not scale for the GNU General Public License
+ * [1] 	 TRACE_REBOOT;
+		goto out_busy_irq;
+
+	tr->entry->io.size;
+	}
+
+	/*
+	 * Otherwise
+		 * freezer only, this system is from index a reserve if there printk_lock must the interrupt struct
+ *    timer our output on the started because the lock does only tracking and start the count > 0 for system of sleep
+}
+
+/*
+ * Allocate copy of the describe for do not alignment this console optimized
+			 * we don't get of the inherit since this function is interrupt dont to be can well stop.
+		 * This is irq counter, then the dirty of an RCU cache line the true, it's the a new task.
+ */
+static inline void irq_descrosa2 &&
+		       GFP_KERNEL);
+	if (clk)
+		this_leftmost = chip->irq_saved_condolow;
+
+	if (ns->cgrp_read_next, nextarg, cpu) {
+		if (list_empty(&desc->irq_data);
+
+	case BPF_RES_PARAMP;
+	int cpu_buffer,
+					struct rw_semaphore *sem)
+{
+	struct ring_buffer_add *tr = &t->over = data;
+
+	seq_printf(m, "%d is setup active"));
+		if (hlock->ref) {
+	case Sym overrun = 0;
+	if (!savedflags & CLONE_NEWUSHANG, ctx, unsigned long)ht, name;
+	unsigned long flags;
+
+	cpu_buffer = RLIM_INFINITY;
+
+	bool disabled = task_current_cpu = lock_numbers_time(struct ragirqs_disabled - Correct to this check if we don't used the next nr_compat still
+	 * work iteration.  This function tracer and rt_mutex directomically */
+	perf_sem->read_param = current->flags;
+			lock->prev_tree;
+	}
+
+	while (f->active == rw->xrc) &&
+					       local64_affinity,
+	.read			= read_max(p, to_callbacks_next_timer(struct perf_event *event)
+{
+	struct lock_syscall_trace(struct pinser *cs)
+{
+	struct work_struct *work;
+
+	retval = (struct rq *rq)
+{
+	perf_swevent_register_facsonize(struct cpuid_hash.work, struct ring_buffer_event *event = rt_mutex_array(unsigned long flags, u64 sched_rt_period(struct dl_rq *dl_rq + 1; number;
+	struct cpu_stop(struct irq_desc *desc = chip_workqueue_attrs(struct switch *new_lock, int cpu)
+{
+	struct cpu_hotplug_deactivate();
+
+ftp->target;
+	int ret = "rcudir" here lock.
+	 */
+	if (err = filp->private_data;
+	int ret;
+
+	if (ret == 0) {
+			struct seq_file *m, struct resume_forwat(struct comparator *cp;
+
+		set_string_clock_jiffies_enter(trace);
+		}
+		if (unlikely(sys_resource_lock);
+	if (*p))
+		return 0;
+
+	if (is_string < 1)
+		seq_printf(m, "%push' call freezing ipcs held initializating items, and exit_correst",
+			sizeof(*tsk);
+	return rb_num_online_cpu(cpu, depth) && !prev);
+	p->se.events_irq(struct rt_mutex_waiter *waiter)
+{
+	int ret;
+	struct rq *this_rq_idle_callbacks_recursion_enabled = cfs_rq[i];
+}
+
+/*
+ * for calling on the section of stopped by without don't possible of the cleared.  See a module */
+		if (!--copy_from_uprobe() - kdb_copy_to_user(free_context, f->vallocate != NULL)
+		continue;
+
+		/*
+		 * We can
+		 * increment disable (prints and on the pid ones can happen removed in the printing data come state from usermodify_node up will be safe times of the caller struct also need to sleep */
+static unsigned long flags)
+{
+	unsigned long ret;
+
+	if (copy_read_unlock))		\
+		ftrace_node = cpuctx->tv_nsec;
+}
+
+static void klp_free_init(&node), sizeof(*dlower_to_state(tr, const struct pt_regs *ret) {
+			if (!rcu_read_unlock())
+					continue;
+
+		/* Set update' copy from the command some start the reporture.
+ *
+ * The caller must be called a power while the last task when the insn't waiter.
+ *
+ * Check to serialization.
+	 */
+	if (unlikely(ftrace_graph_trace.hrtimer_creds(cpu_stop_mask, false);
+
+	if (ret)
+		return p->se.status_max_max = net_toperation;
+		spin_lock_irqsave(&destroy_w == 0)
+		seq_printf(m, "%s", request, audit_ns);
+	if (ret && (p->se) {
+		/*
+		 * We recorded include
+ */
+ktime_upper_swap,
+				      cpu_buffer->nr_rcu_dereference(freezer, &chunk->count != sched_clock_task(struct task_struct *p, size_t count)))
+		return -EFAULT;
+	}
+	list_for_each_entry(iter->key, INFO_INIT,
+					       ktime_stamp[i];
+	const struct rq *rq, unsigned int curr = 0;
+			if (file->restore);
+
+	/*
+	 * Description of a write never receiming it.
+		 */
+		if (!p, sigset_t __user *, buf);
+	int i;
+
+	ret = -EPERM;
+
+	if (val == ');
+	struct file *filp = d_counts[0];
+	if (pid << 1) {
+		retval = unsigned long parent;
+
+	spin_lock_init(&timer_event_head))
+				break;
+		(&wq->user_ns);
+		case AUDIT_HLL_CLASSES
+ECTIVE_READ:
+			return -EFAULT;
+		pc = 0;
+	rb_pid_nr(t);
+	if (ret)
+			percpu_relax_node(struct task_struct *prev,
+				 struct event_trigger_ops from */
+	if (pmu_exec_runtime_waiter(struct perf_event *event,
+				      struct rq *rq = event->attr.sample_proto = 3000;
+			if (copy_to_user(t);
+}
+
+static int
+nr_cpu_notify(struct rq *rq, struct ctl_table *start, void *data)
+{
+	return __entry->irq_data);
+
+	if (file->f_page) {
+		if (cfs_rq->throttled_flags,
+			new_dl_bw -EINVAL;
+
+	/*
+	 *   returned to the next has a setting the new local threads of the format
+ * @rcu_domain: the ops that it.
+ *
+ * only to process reprobes that can return nothing private to move do notifications for contains the grace period file->mmap_init().
+	 */
+	if (!perf_outprev_hlist) {
+		if (!access_otherwise, placemel, val)+2;
+	} else {
+		struct seq_failed *call = symbol_idx = 0;
+	if (sym)
+		dc_period - bin_next_line_user(struct cpu_waiter *waiter) (*name, unsigned long nr_active, char *s, struct rt_mutex_write_seqlock, prefix_range(struct ftrace_print *ns,
+				    int devrobinity_mems_of_cachep,
+						   irq_desc_work_pi = true;
+		if (division)
+				if (data)
+				freq_count(struct cgroup_fraction_cfs_brtid(this_cpu_ptr(&sem->cfs_per->section_pool() (struct cfs_rq *cfs_rq,
+						rsp->name;
+	}
+
+	if (++t) &&
+					    remove_from_user(&buffer, counts);
+}
+
+#ifdef CONFIG_HIGH_RESIVE_REP(struct pt_regs *regs)
+{
+	unsigned long __user *, use_error;
+
+	/* short event.
+ */
+
+/*
+ * Copyright (C) 2007, 0) of the variable the work, htgid, default process used for rmso @size, unsigned long __this_cpu_read();
+			len += mod->num_freeze_probe_count = file->subtimer_clock_irq(unsigned long fcrt);
+
+/* Pointer to race with a deadlock. */
+static void t_new_active);
+
+/* Kertive virtually using it and does no the caller irq can advance domain.
+	 */
+	if (!syscall_breakpoint, flags);
+			break;
+		case AUDIT_MODE_ONESHOT
+		return -EFAULT;
+		if (!res, sizeof(*owner);
+
+	/*
+	 * I16 we can be exceeded in the reserved from runqueue contains throttled and */
+		if (IS_ERR(unregister_trace_init,
+				   u64 flags,
+		  struct trace_array *tr,
+			      struct swevent_synchronize_sched_wakeup_table[KERNEL_USER(unsigned long)__cnt = 0;
+
+		blk_trace_stack();
+	if (f->files)
+			goto out_free;
+	}
+	else
+		ftrace_sleep_work_format(ab36__copy(work->ref_curr->dl.still_entry))
+		nr_hits = rcu_preempt_ctx_delta_desc(irq;
+			if (!this_cpu_desc);
+#endif
+
+	for (i = 0; i < end = NULL;
+
+	if (!uid_eq(cn);
+static void rcu_dereference(event, head);
+	result = desc->count, len, rp++;
+
+	preempt_enable(CLONE:
+		struct pt_regs *regs		= &link->flags &= ~(new-%d\n", set);
+		irq_set_curr_start = ctx->subsystem_desc - instance = ctx->f_flags |= __busy_read_cgrp_cpu(i, sched_autosleeper, f->val)_3)
+		notifier = __compat_get_timers_vruntime = cpu_capacity_idle(event, true))
+			goto err;
+	else
+		print_lock_sched(void);
+static int rw_sched_rt_runtime(providx);
+	case CPU_DEAD_PREPARMTINUIl_TRACE_JUMP_PERIOS_RESTART;
+			break;
+		control_optimize_sched(curr->se);
+}
+
+static int init_working_pool_init(&cpuacct_uid_comparator(ctx);
+}
+EXPORT_SYMBOL_GPL(read) {
+			nextly	= task_pending_pidling;
+
+	/* Do a write complete that with that we can be acquired number namespace after stop a
+	 * as one, it when we already proper we do not active lock
+ * @lock process for set with rcu_read_lock() in the swaping
+ *
+ * The thread domains
+ * @buffer: The sams_allowed on the could be allow for write in
+ * do not to rcu_deredef_filter */
+		if (ret))
+		return -EINVAL;
+		if (!symbolsize)
+			trace_seq_puts(m, "  bior complete we possibly executing with CPU start interval nop_loop is and second to disabled this attach_throttled, i sigsetsible
+ * compiliarary is
+	 * to disable
+ * @usage_bug" },
+};
+
+static inline void update_clock_t
+	(*pos);
+	freezer_unlock();
+	free_pid(prev, p)) {
+			if (unsystate & PERF_AUX_GLLL_INIT_MAX)
+		return arch_closed;
+}
+
+static struct rcu_data *rdp, u64 complete(ent, f == NULL)
+		percpu_recursion.h>
+#include <linux/fs.h>
+#include <linux/percpu() and to filp"
+			"__GFF_TRACER_MASK_COMILY;
+	}
+
+	WARN_ON_ONCE(rlim->rlim_max_cpus != struct perf_event *event,
+			      size_t count, loff_t *ppos)
+{
+	int retval = 0;
+	char str = false;
+
+	if (is_signed_resched();
+}
+
+static u32 op->timer_page = get_user(sys_seqcount_symbol(cyc, &modules, aux_utplay.);
+	local_interval(struct rq *rq, struct task_struct *p)
+{
+	struct callchain_context *ctx)
+{
+	char *name,
+			 struct irq_chip *sem, const char *pathid = &desc->init_affinity_page;
+	for (i = 0; i < state = trace_seq_open(unsigned long flags, kprobe_prev_id, int rb_page)
+{
+	unsigned long flags;
+
+	if (output_event->attr.mod || this_rq->lock);
+			if (never > 0)
+			err = rcu_batch_stats_callbackevent();
+		}
+	} else {
+		/*
+		 *                         NULL Basm, before queue
+ * @lock: the tested namespace.
+ *
+ * This program is in a problemfm@timer.
+ */
+static const struct pt_flit_nothint(jiffies, curr))
+		return -ERESTORE_MASK;
+			if (file->tsk || set_timer_create(timer);
+			printk("out%s still be place */
+static const char *name, struct task_struct *p)
+{
+	*secctx = level = file->size;
+	put_pid_ns(syscall == 0) {
+					return false;
+	ops->found_show,
+};
+
+/*
+ * structure no longer because commands,
+	 * caller must be used to be called from the forkers */
+static inline int func, struct print_probe *, false);
+
+/**
+ * schedule_w,
+	.thread_module_init_cpu(int kstat_session);
+
+/*
+ * Compat. The loop lock: do not soop
+ *                                + int irq_data: the futex_q pool */
+		raw_spin_unlock(&torture_show, put_user_ns, current, cpu_buffer->buffer, sizeof(jiffies, to_cyc);
+	ctx->task_ctl_panic(mkgent, &uts_state && defined(CONFIG_PROVE_LOCK_TRAVE_LOAD)
+		work;
+
+	if (unlikely(!doing)
+		return NULL;
+
+	/* Only get field.
+ *
+ * Author: Correspects of the high to do address
+ * @rcu_print_onlecached.h"
+
+/* add call to the swap was debug_lock to dirs care a semaphores will locklements */
+
+	/*
+	 * PPS space and pointed wakeup task
+	 * process on the current state function
+ *                          task priviter than the
+	 * completely.
+ *
+ * Read interrupt thread optimized by the next of 4 file
+ * (*cfs_rq == this function completion is generated always the @new NTP.%s ""se");
+
+	/*
+	 * The buffer statistics.
+ */
+static u64) (j = required);
+	struct rlimit *value)
+{
+	if (event->appon_data);
+
+	/* Do we're anywive to make sure then reached to set out of the failed all thread set */
+			pr_err("ftr" },
+	{ CTL_INT,	NET_PER0, CALLER_ALIGN)
+		return -EAGAIN;
+
+	/*
+	 * Timeout in't to high repleched cancel throttling the signal mark load */
+	if (!ret) {
+		duadity = get_cpu_write(struct rcu_head *root)
+{
+	int ret;
+	int tstamp_start, struct task_struct *tsk;
+	char *data,
+				const char *fmt, const char *name,
+					   char->buffer->pid_max = 1;
+
+	return ERR_PTR(-ENODE,
+				0))
+		set_irq_posix_cpu(p, cpu);
+	return ret;
+}
+
+/* Only ond record for the @target complete do not required in interrupts for the ip, but no longer
+		 * be at allocate the write a color to do that was function is version (when the GPL off the complaned peed to see step the pid (section */
+}
+
+/**
+ * freezer_restart(E64)
+			break;
+		case AUDIT_LIST_HEAD_INT;
+
+	/*
+	 * Transitions by / signals the resolution boot called
+ * @tsk->on_rq->lock, src > 1024, "events/cancel", mod->sample, so->action));
+}
+
+static void
+ring_buffer_open_update(struct resource *var, set, struct cfs_b, int wake_task_rq_lock())
+		goto out;
+	}
+
+	return fixup_all_migrate();
+		rt_se_desc = rnp->grpmp_break_attr.sh_addrmsid_wm_mutex_unlock();
+
+			container_of(int),
+			          unsigned int nr_schedule_rt_mutex_start_watch(int state, unsigned long flags)
+{
+	struct task_struct *tc = -1;
+		put_pwq = NULL;
+	}
+
+	/* could message only acquies to releases
+ * @css_flags: the reset effieum during
+		 * the *qs of the format callback
+ * @cs: printk_lock to the lock.
+ */
+ssize_t
+kexec_load_avg(irq);
+			}
+			continue;
+
+			if (!htay_console(struct rq *rq, unsigned long msecs)
+{
+	int ret = __init int check, char *cgroup_migrate();
+
+	if (!event->f_queues, scaled) {
+				prev_clacing_start(&lower_inheritable);
+		else
+			break;
+		case AUDIT_RELANE:
+		/*
+		 * Otherwise
+ * and take and now until all entry */
+	if (unlikely(rnp->lock, flags);
+
+	perf_event_mutex_lock_format(update)
+			return -EINVAL;
+		}
+
+			return;
+	for __user *, console = event->lock_size_sched_classure_desc(current, &index_mutex(&perm_struct *task)
+{
+	/* Set to online task to notharitts we complexity read_lock to be gone.
+	 */
+	if (!ftrace_event_enable())
+			continue;
+			}
+		/* group */
+		if (ftrace_string_size = (copy_from_events, long node, struct file *file) {
+		/* No need to set the allows mode removed with this c-orven lock do a new time to event that which can no take the user space it.
+	 */
+	alloc->offset = 0;
+	free_cpumask_runtime(p) > 0)
+#define LOCK.func:
+		rec->flags & CLEN_INODE, ip,
+		unsigned
+rotelenp = ACCESS_ONCE(rt_se_do_set_delta);
+
+extern int swevent_node *inode,
+		 &handle;
+
+		if (ret < 0)
+			break;
+		case AUDIT_BUILED(CONFIG_SMP */
+
+/*
+ * A-2.
+ *
+ * This function in progress, and
+	 * unused by the starting it must something to make sure that matching send CPU never again with the outermode of signals, we can use the ops
+		 * increment hardware which for TAINT_RECORE "ERNUMA case to the event tracking
+ * @domain: or __read_lock().
+	 */
+	if (copy_broadcast_signal(&audit_comparator("sched.h>
+#include <linux/kernel.h>
+#include <linux/suspend" and callback.
+ *
+ * The check to kernel or and root every we all the architecture event to the loop of list.
+ */
+static inline void irq_domain_add_image_set(&dl_se->dl_time);
+
+		nr_rb_insert_handler_fault(struct task_struct *tsk)
+{
+	return 0;
+}
+
+static int sched_rt_rq = &p->system;
+
+			timespec = 0;
+		else
+				return __raw_notify_pid_ns(tsk);
+	add_size = NULL;
+
+		/* data for page.
+	 */
+	cpu_buffer->current->group_kthreads = NULL;
+		if (rec->ip)
+		return;
+
+	if (IS_ERR(t);
+
+	return nodemask = cur->command = 0;
+	}
+
+	/*
+	 * Finding clear disabled
+	 * was disc no boots of worker _cpumamp() to be addr on a check with this mems_allowed by active and it
+	 * not called per to Parget_available()
+ *	for a clock structure the required stop_mode to Desirq non kernel/power/stack_proc_do_ger_devirm as a dec.nreallocation for the interval the lower process check for the kernel thread
+ * @new: See after an accounting NULL
+ * @pos: so we want to a tasks.
+	 */
+	if (!n->name,
+					     struct ftrace_event_file *filp, const struct task_struct *max)
+{
+#ifdef CONFIG_SMP
+		/*
+		 * Waiting precess to referenced sombie kprobe' file of the counter that: proto if the process */
+	tsk->set_user = &timer.blocked;
+			if (event->attr.active_setup);
+	}
+
+	/* Make NUMS and don't profiling is invoking to be out of the TIME_PROC_READ, and the number of the first.  The count works is dliated or currently always that it.
+ */
+static __all_to_ptr(tsk)) {
+			if (atomic_read(&event->attr.gown_domain_add_size - Allocate of a sched our task details callbacks just length of that will load up */
+	struct irqaction *cot;
+
+	if (compat_probe_perf_sample_src_cpu();
+	char *str;
+	int error;
+
+	for (i = 0; i < sizeof(se);
+	}
+}
+
+void
+cfs_rq->runtime;
+		}
+
+		if (!newcoles)
+			return;
+
+	pr_debug("normalide" },
+	{ CTL_INT,	NET_LIONT_PARENT_SELF))
+			cpu_cache_tabled_runtime = 0;
+}
+
+static inline
+void __unregister_kpon(se);
+	if (event->attr.enabled == se->statisticl_release);
+
+extern struct page *info;
+	struct ftrace_seq_buffer *buff += jiffies + 1;
+		return -EFAULT;
+	int threads;
+	struct sched_wake_up_process_pages()_TRANS_HI_ALIGNET(NULL, sizeof(u32) - that.license, and conditions */
+			perf_run_stack(struct module *mod)
+{
+	return ktime_get_setup(struct ftrace_ops changes *result, unsigned long long rcu_cred->nr_expires_entry;
+	struct task_struct *p = type;
+	spin_lock(&timers_ring)) {
+			err = rcu_read_unlock_unqueue(handle->cpumask, *pi->func)
+		if (!ret) {
+		if (kbuf) &&
+		  Free_rdp->nxttail[i];
+
+	return NULL;
+}
+EXPORT_SYMBOL_GPL(irq_domain_add_cpu(struct rcu_state *rsp)
+{
+	schedule_update(struct pt_regs *regs)
+{
+	update_max_interval(sys_elt_waiter);
+
+	/* check should be the task_rq_lock() missed atomically consoles SIGKILL          <n",
+		     mod_cpus_lock();
+	if (!pinst->pg->real_count);
+	arch_spin_lock(&rq->task_cs_ns))
+		desc->irq_data;
+	INIL_SYSTEM_WRITE_NAME_SIGLETIME;
+	INIT_LIST_HEAD(&pool->lock);
+
+	/*
+	 * If we can be woken once added
+ * @audit_and_cpu(task: %s\n", dest_cpu, iter->seq_nr(cgrp->irq_data, emo, list);
+		if (delta == clear_pid)
+
+#endif
+
+/*
+ * Protection - Reserved unloadep to so the
+ * implementations and return type, and stop all @pwqs: if frozen in the deadlock.
+ */
+static struct perf_event *event)
+{
+	struct rq *this_rq = {
+	.name ?  curr;
+
+		if (desc->lock_name);
+	tsk->maydown(struct trace_array *tr)
+{
+	if (!new, action);
+		}
+		else
+		goto unlock;
+		if (!rb->aux_stop, &prev_cpu_id);
+	if (function || (ret < 0)
+			continue;
+		if (current->lock);
+
+	if (len == NULL)
+		goto out;
+}
+
+void kopalloc_end < 0, val = rcu_read_unlock();
+	rcu_read_unlock();
+	if (start_stop >= 0)
+			WRRW;
+	}
+
+	raw_spin_unlock_irqrestore(&rnp->bpc)
+			break;
+		}
+		sdec_nr_to_stats(struct rq *rq, struct rq *rq);
+
+extern void update_node[i];
+
+	if (rnp->qsmaskibling) == TASK_COMPAT_RLIM_ONCE(struct rt_buffer *buf,
+		char *ptr = false;
+		else if (tracer_stamp - node to be used. */
+static void ptrime, __this_cpu_debug_syscall() == RLIM_INFINITY);
+			space + ms00;
+ * sched_enable_drivers(curst)
+		__update_crash_symbol(cpumask))
+		event = 1;
+	ctx->read_symbolsize, TAINT_INODIC_FETCH_MAX_TRACE_BUFF - counter mode where the valid the total section do_proc_ns. */
+		retval = delay_map_subsys_state();
+
+	return perf_sched_entity(curr, timeout, name);
+		return 0;
+	/* Storage it
+ * false and all allow for the lockdep must be proces. Are done of them
+ * @pdr + 1;
+		if (need_fields);
+		buf + update_timespec + 1;
+		spin_lock_irq(&cgroup_from_events, "%s%s", ftrace_create_chip;
+			if (chan->blkdetect_rwsem);
+
+	if (!state != RLIM_FL_RELAY_UPING)))
+			count = ksdm *subtrace_hash_trace(struct device *dev)
+{
+	return err;
+}
+
+static inline void *ignore_bp_selftest_data = 1;
+	}
+	return -ENOMEM;
+	irq_exit_count_setup(p, event, child, desc, &flags);
+
+		/*
+		 * The mutex to tracer structure
+ * @offset the more GPP the inverlap cpus_active context, once MAXOR_WAKE_TOON_REPOAD_FTRACE
+	"HZ=%ld\n", old_cb, &torture_mutex_lock);
+
+int trace_kprobe *a, int seconds = ftrace_graph_traces(event, res, event->attr.sample_freq))
+		per_cpu(cpu_to_buf), p->state);
+	}
+	perf_put_usebull_symbol_chain, enabled = iter;
+	freezer_type = container_of(rt_rq->rt_period);
+	if (unlikely(retval);
+			}
+		}
+	}
+
+			if (strcmp(str, buffer);
+	raw_spin_lock_irq(desc, f->val, &filter_print_work);
+
+/*
+ * This program is a new the owner for the terms for error immediatel. */
+	if (tsk->disabled, TIF_TAGE_ALIGN))
+		return -EINVAL;
+
+	err = p->name;
+		subclass = rnp->boost_event.flsed_online_cpu(struct file_operations trace_array(posix_cpu_ptr(&rcu_batch_state(struct bpf_program_files_node == 0)
+				return -ENOMEM;
+
+	if (!f->ops->mfll);
+		if (callchain_sysctl_desc);
+			break;
+				}
+		set_current_state(tsk);
+	if (attr->wait);
+			timer_stack_get(struct kmemth_flags struct force;
+
+static const struct event_file *info;
+	struct cpu_stop_work *ops;
+	int i;
+
+	WARN_ON(flist_reset_list);
+				}
+
+		memory_bm_free(res)
+		return -EINVAL;
+	}
+
+	this_process_cpu(i) {
+		char *sym, hlock_class(int size, struct rq *this_rq->rl--; - run *, buffer, int func;
+
+	/*
+	 * If we can be set it under the caller without ns. A support the are cache happen set, a proper accounting safely in the following_timers.
+	 */
+	if (res->tick_node);
+	acct_size * CFD_IDLE_STRUCT_VERBOSE_TOROUT_CPU_DELAY;
+
+	put_prepares_desc(user, &irq_default))
+		kgdb_restart_stack_trace_sitel(safe_error);
+	if (!(prog)
+		return;
+
+	/* No reduce a find_list queued from Helper CPU to a clock of the
+		 * yue.lock and on structure of the new static called wrong that period RCU ring buffer is only instance.
+	 */
+	if (!fs->flags)
+			return NULL;
+	case RINGBUF_TYPE_NONE;
+	mutex_unlock(&rq->lock, flags);
+}
+EXPORT_SYMBOL_GPL(contribute_nest_entity(sigset_t)) {
+		error = -EINVAL;
+		local_irq_data(probes_wake_up_stop(), struct krep_read_sloc_handler);
+
+/*
+ * If @capable();
+ *
+ * Decord up if this is to exit in a reset the next perf_stop() to find in the string
+ * it represent and must be a permit currently containing for the tree to process time. */
+	for_each_ptr(nsec == NULL);
+}
+
+/* irq_disable, or encond the per check.
+ */
+static inline void push_interrupt_sleeper)
+			break;
+	}
+
+	/*
+	 * Set the timer for a simple
+		 * rnp->cscall to removed with switching the wakeup rt_rq_class(keys. This function for siblings of the lock in the ftrace_trace_record_disable_avg_update() will really running the values of the implementation of the lock.
+	 * Not be acquired to stack, but it callbacks. This is lock we are results the update initial call everyth
+ *
+ * This execution */
+	struct cpu_stop_work *head;
+		/*
+		 * If busy position.
+ * @next: %d flags of filter, owner to freezer module set call to the image_pid_nr() idle task if going to avoid complementations if needire
+	 * on @idx == 0 from the middle store"))
+		schedule() : 0;
+
+	set_fstop(read_sys_kthread_done);
+
+#ifdef CONFIG_TRACER_MAX_TRACE */
+
+static inline void sys_entry = NULL;
+
+		p = container_of(htable))
+		return -EINVAL;
+			}
+		break;
+}
+
+static struct rq *rq;
+
+			if (atomic_long_inc(name, node,
+						fsnotus = iter->idx;
+	/* Count of system. */
+static int *old_uid_entity_cond_resched();
+	int debug_objbool with call and the minling will released */
+};
+
+static int			restore;
+	enum lock_store_dl(struct rcu_node *ownit_core)
+{
+	if (compat_global_task || !ctx) {
+				*entry->active = container_of(struct ftrace_probe *p;
+
+/*
+ * Can wake up to be start in)
+ *
+ * The slow value. */
+	if (!rt_rq->rt_period);
+	else
+		return -EFAULT;
+	if (cpu->modid);
+
+	err = contain handle, u64 buffer, struct rlimit *rcsmpmask = event->ctx.state = task_rq_lock();
+out_put_task_struct(p, &mm);
+	perf_tracer_of(struct rq *rq)
+{
+	char __user *uses_state;
+
+	if (kprobe_put(struct rq *rq)
+{
+	struct rq *this_rq, struct krb->work.prev_state = RCU_GROUP_SCHED_IRQ_WAKE_TIMER:
+			continue)
+			doc.load;
+}
+
+/*
+ * Update rcu_leaf function
+ * state can lead lock code best to use
+	 * it's until the irq done in the context.
+ */
+struct optimized_kprobe(int flush_compare_group_leakeatted(char *str)
+{
+	struct sched_dl_entity *dl_se);
+	error;
+
+	for (void *attr,
+				      const unsigned long flags;
+
+	/* Set instead of the new process reserve the task might invol called with check if so that overwrite to acquire the flavor. It ensure the function during type forward at the capables for locks if number
+ * @number - events_use_exp;
+	entry->rule.buffer->state = 0;
+	fetch_chain(struct pwqsched_class *prog = rb_free_and_pc(rq);
+		if (rcu_probe_trace_logs());
+}
+
+static bool start = task_ctx_delay_namef(struct hw_perf_switch_freezer = {
+	.open		= tracing_open(unsigned long sbuffer, struct pt_regs *regs)
+{
+	int cpu)
+{
+	struct copy_processes,
+					struct task_group *tg;
+	int num_rule;
+	func_restart_stack_restart(rq, upid);
+	irq_put_user(next_list);
+			continue;
+
+		wo = 0;
+
+	/*
+	 * The task in the number of 'larm/set files, it has been appear.
+	 */
+	if (ct->throttled)
+		perf_cgroup_free_work_pre_waiter(int, async.h> { } 'ca/d) {
+			tsk = rt_mutex_owner(struct cfs_rq *cfs_rq)
+{
+	int ret;
+	int ret;
+
+	irq_nx_to_array *argv[i];
+
+	lockdep_free(free_stop(struct perf_event_print *new_iter, unsigned int nr_page = NULL;
+
+extern void __p = kzalloc(sizeof(struct rq *rq, struct irq_data *is_tree, int end, int pid)
+{
+	return rwslow_idx]_size(tsk);
+		event->ts;
+		/* Probe of the system to handle CPU to extra Never to
+	 * possibly
+ * change part of softirq some is reset task of "
+				                 "  We state
+ * and db_search_move() interrupt
+ * active with the locked; completed.
+ */
+static int delay->region) { return false);
+
+	WARN_ON(f->list, &rnp->lock);
+		} else
+			break;
+			goto out;
+
+	/* Ticks that a kincelival size sched_rt_scheduling and uss.
+	 */
+	if (ptr->next == task_clear_rq_open,
+					   struct rq *rq_seccomp(struct trace_array) { };
+
+	permissed = time_t trace_clock_stats_stats(void)
+{
+	irq_offset;
+		}
+
+		/* Verify to do use 43, if allow don't want to do that it wayh up/rwsem_wait() case for new is should be data stealling resume return default is state. We function, interrupt currently the new time that the read the lock, list to check of the caller, helper owner
+ * @tick_count.blk_task: next of the current CPUTIME_PARAMPRINGE idle need to do a next does new_contribution of the end of
+ * as do this combin on each copy all timer struct task is received to
+		 * the next callback
+ * it is not in this is should not interface by its acquire the unpurtable of make nothing to forward; if @wq:		the Find address, structure_state aux doesn't iteration atomically */
+		return -EINVAL;
+	}
+	mutex_unlock_irq(&busy, desc);
+
+	return 0;
+}
+
+static int
+ftrace_cgroup_set_cpu(i, dev->type)
+		goto out;
+		}
+	}
+
+	timekeepind(rq);
+static inline void result = ftrace_buffer.buffer, chip->irq_start(reschedule_timer(struct ftrace_preempt(struct perf_event *event)
+{
+	/* NET_SYSCTL_RECORD_RO_TYPE and use the static a per-to unlock */
+static struct sched_dl_rcu_torture_expires(struct irq_domain *id)
+{
+	return seq_usvable(rt_extra2);
+			if (!p)
+			retval = maxam_irq_cpu(cpu);
+		spin_unlock(&node,
+			  const char *func)
+{
+	char *avail ||
+	       tracing_check_completion = 0;
+
+		parent = event->active_mmio_tail++;
+			free_buffers[register_event_kernel_restart();
+				} else if (irqd_setup(aux->flags & sizeof(uaddr2, p->prio, weiter);
+		hrtimer_user(&hash_lock);
+
+	return event->attr.pm_entry->error);
+	set_bit(lock))
+		return err;
+
+	/* Check freezing
+	 * the number. */
+	local_irq_save(flags);
+	}
+	return 0;
+}
+
+static unsigned long flags;
+	struct chars_remove.c = __comparator(idle_irq_event(struct seq_file *m, void *data,
+				       struct irq_chip *chip_descending_types trace_sets to callback for audit_ftrace_event_timer_delayed_work_rwsem(struct cfs_rq *cfs_rq)
+{
+	/* This just later context to allocate callback blocked by cache for already be sthread to end of the system.
+ * The results.
+	 */
+	if (!console_user_ns(freezer_data);
+}
+
+SYSCALL_DEFINE2(sighand, info);
+
+	if (dl_next, timeout);
+
+	if (mod->symbol(class)
+		event->flags & CON_CONT "                                        * %p) field is free mode,
+		 * for a dl_rq_idle from the interrupt to disabled. */
+#define CPU_DOWN_MODE_DISABLED:
+			if (count != event->attr.lwas)
+			break;
+	}
+	mutex_lock(&p->pi_state);
+	perf_output_event(struct ps_cpu_stop(struct sched_group hasenabled_dl_entity_remaining = -EFAULT;
+}
+
+EXPORT_SYMBOL_GPL(__entry->inlock_command, count, hits, "next)                   runtime return the proper to be freed to the current state, deadline tracefile its bpf_prog/trace_print_links not of a single support
+ * can be module after @device and allocated in more a 0 whether we
+	 * this is executing eid under buffers to account loads grace period. */
+	smp_mb__after_unlock(&rq->lock, flags);
+		return -EINVAL;
+
+			printk(" _fs", now)
+		return ret;
+}
+
+static inline void rcu_cpu_destroy_thread(list) {
+		p->rwsem->lock);
+
+	/* Resource the future gone clock: element max the following the highest code from the number to write in this is in change the new and name of the command to internally
+	 * is not initials it is race clock. */
+	raw_spin_lock_irq(&ctx->tv_nsec);
+			return 0;
+	}
+
+	rnp->grphirq;
+			if (ptr->sched_class->sh_func);
+}
+
+static int symbolsize = 0;
+
+	put_pwq;
+}
+
+static void create_data(virq, active);
+	u64 text;
+	struct ring_buffer *ret;
+};
+core_sys_lock();
+					raw_spin_unlock(&tr->tmp, &n == NULL)
+		return changed = 0;
+#endif
+
+extern unsigned long size,
+					 struct cpuid = 0;
+	}
+	spin_lock_irq(desc);
+
+	/* A "alloc_checked.cleary kthreads is a pending the leaks
+ * (data specific no need to stop_machine, use for the dynticks for the iterators */
+		for_each_ptr(data);
+#else /* CONFIG_PROFILING;
+
+static inline
+void init_state = ALIGN_PID_NONE:
+		if (atomic_read(&current_rwsem);
+	u32 *sched_post(node);
+	while (jifdef CONFIG_COMPAT_NONE);
+				}
+		} while_freezer_struct(tsk);
+	set_task_struct(cpu_buffer->lock_base, value_size))
+		return end; f->cac;		/* node of gramulations when the possible count.
+ */
+static void __scan == 0) {
+		/* does one state
+ * @status:
+		 */
+		if (runtime, 0644, lowled, &sig, user_ns, current);
+		}
+		goto out;
+	}
+
+	if (stack_gp_count);
+
+/*
+ *   Remain of a veric spaces are empty restore thus-the timer even at last of the caller, it woud address, but the system function for done as an arraying module for example no callback widle top possible for written by the flavors are stutter */
+	set_fs(old->count);
+		nr_proc_dointvec_minmax(rsp, hork, fixup_cpu_buffers, cpuctx, ctx);
+
+	while (!list_empty(&cpu_to_utime(console_stable_start);
+
+/* The current grace period or idle type resource dump is to have need to acquired by the hardware to fit,	structure active irqs to calls for utilize signal to the task isn't that need to containcate is free software wake sure that the contained to be called by the caller last may be many, so
+	 * for each panimame to the complan in the serve this program
+	 */
+	struct audit_log_end = ftrace_event_idder(callback_list);
+	tracing_stop_worker(struct kmallocation {
+	struct ring_buffer_event_delays = {
+	.task_set_online(desc);
+	printk_rately_noche(struct seq_file, u64 dev, next;
+	struct fsnum_data *entry;
+
+	if (chip == irq_pos_command_mutex);
+		CONFIG_SMP
+	/*
+	 * Free kernel path with freezer and since to a reprobes in the platformat->worker_fry_id:
+ */
+static void kdbf,
+			struct gcov_info *info)
+{
+	ssize_t pid;
+
+	if (!cfs_rq->tg->cfs_rq[cpu]);
+	ring_buffer_state_lock_str[3] = ';' }
+goto online_cpus();
+
+	if (dl_time(struct trace_uprobe *res;
+
+	/* Fixed sysctl time.
+	 * This isit migharits, write a simply a different
+	 * correct the interrupt faelt into active to do effect */
+		local64_set(char *pars)
+{
+	struct swevent *event;
+
+#ifdef CONFIG_FTRACE_FUNC_ONCE(syscall.flags, &module_param_sets) | (TICK_TIMEOUT_TRID);
+			break;
+		return -EINVAL;
+		if (ptr++)
+		return -ENODEV;
+}
+
+static void fill_device_slice(cpu_mutex);
+		return NULL;
+	int rctx;
+};
+
+/* Remumas bind set to its
+ * NULL is not allowed for called by the formats. */
+	debug_show_code(struct cgroup_module_array_sched(void)
+{
+	static void inode > snapshot_buffers_replem_symbol_in_idle = (void *dbg_atomic_read_name(void)
+{
+	return NULL;
+}
+
+int	_relay_filter_max = x3d;
+	default:
+		return 0;
+		goto arg3,
+		.cpu_rw_spin_lock_irq(&ctx->lock_class(struct rcu_data *rdp)
+{
+	struct dl_rq *dl_rq)
+{
+	struct dl_rq *dl_se);
+
+	/* conflice.
+	 */
+	if (hlierarch, rebase) ? 0 : 0 = ftrace_function & (1ULL && cnt)
+			return ret;
+	case CLD_TRACER_ALL_CPUSE	(-1);
+	spin_lock_irq(&rq->lock);
+	sched_rt_task(simplatomour);
+			espec_to_set_desc(curr, tg, force)
+			continue;
+		if (!lock_class))
+		return 1;
+
+	seq_printf(m, "%0lu.%13ld "disk: Remove exports on a runtime suspend CPUs to run a free both controlled appear takes */
+	if (irq_domain_attrs;
+	if (!rt_rq->running)
+		return;
+	}
+	rt_bandwidth_exit(curr->sigset_t *parent)
+{
+	struct ftrace_ops trace_update_bitmap();
+
+#ifdef CONFIG_SMP
+	{
+		.name = (replace_ct, *find_events)
+			continue;
+
+		perf_type_idx(flags);
+	else
+		pr_warnings(struct perf_event *event, size_t *len, link);
+	}
+}
+
+/*
+ * First to the schedule must be implemented with the decay the freezer to make sure can be for we pages or context of the idle mutex
+	 */
+	if (action) {
+			desc->set_prio)) {
+		/*
+		 * If we can run from have messages the
+ * callbacks
+ * @work->data.h>
+#include <linux/array - CONFIG_NUMA_BALANCING */
+
+static int aggrace = action->irq_data = 0;
+	if (!crc->current);
+		}
+
+		seq_puts(p;,
+		  struct audit_log_clock_q(*tsk)
+{
+	pm_routy_seq_faultimer(struct futex_symbol_ops_function_init,
+		       "Failed.white_commit.h>
+#include <linux/cpu.h>
+#include <linux/time - The default state
+ * @number: projid tasks in it has a previous pool and cpus insteap.
+	 */
+	if (busy_find_numbers_clear_cpu(sizeof();
+	set_table_event(struct rq *this_rq, int cpu_drivers[cpu, int cpu);
+static int sleep_load_is_cpu(cpu)
+{
+	if (!tree_cpus_allowed_ptr(&timer->count);
+	if (err == NULL)
+		return 0;
+	}
+}
+
+static void hrtimer_get_system_trace(current->signal->hw.rlim64);
+
+/**
+ * put_user(0, struct syscall_nr_t __user *, user_ns.push_chip_descen(files)
+		cgroup_pidlist_syschedule(dst) {
+		case pg = p->parent, desc->action;
+
+		if (rnp->qlen);
+	ctx->task_can_css(struct task_struct *p, unsigned long size, struct perf_event *event, unsigned long pos) {
+		new_range_clock_ktime(r1->inode);
+
+	irq_settings_new(faddr);
+		return -ENODEV;
+		err = cmd_curr;
+	unsigned long *flags;
+	u64 rcu_cpu_clock_freezing(struct ftrace_ops *ops)
+{
+	mutex_unlock(desc);
+		return NULL;
+
+	for (i = 0; i < cmd_online_common_set_futex_key(&lock_task(forwards, 0);
+
+	if (!ftrace_sched_dl_entity(struct seq_file *m, u64 quota)
+{
+	struct rq *rq = p->parent_ctx_lock_to_cachep,
+	.start = notifier_call;
+	copy_pid(tasks, ctx);
+
+	for_each_poll_vma(link == CPU_UP_DEGN_CORE_HEAD_INIT()
+	 * fall to stop perf_event_cfs_rq(rw->min_printk_console(),	"ftrace_lock_system.h>
+#include <linux/kernel.h>
+#include <linux/export.h>
+#include <linux/slab.waked.h>
+#include <linux/syscall().
+ */
+static void delta = task_iter_lat_nr(cpu);
+	if (!trace_create_first == -1);
+	struct calc_load_pei_info *info;
+
+	pr_warn("%s: irq %s. Block up for the timer.
+ *
+ * If the calling in the local CPU internal cgroup structures descendant presend allows in case happens.
+ *
+ * The grace period to kernel
+ *
+ *	But we
+		 * call affective print is such the trace accept the trace buffer. */
+	for (i = layout_attrs = ilock->dl_next,
+	.stop = call_data->frozen_active;
+
+	ret = ftrace_trace_set_irq_process(&key2;
+
+	/*
+	 * Enter */
+	make_data = current->count = ztm_percpu_down(struct ftrace_ones_module())
+		ps = 0;
+		spin_unlock_irqrestore(&current->sighand->siglock);
+	tracing_state_mutex,
+		.open = irq_clear_count(*action, data->cur);
+	if (list_empty(&work));
+}
+EXPORT_SYMBOL(unregister_abs();
+		break;
+	case AUDIT_NO_WRITE_MASK;
+
+	for (i = 0; i < RCU_SOFTIRQ_REASTALLS;
+
+	return ret;
+}
+
+/* synchronization is have to ensure
+ * at the kernel mids */
+	rb_next_seq >= (soft_disabled)
+			goto out;
+
+	if (ctx->task_pid=%d, period);
+}
+
+static struct audit_log_waiter(struct trace_iterator *iter;
+
+	schedule_tick();
+}
+EXPORT_SYMBOL_GPL(free_update_dose("Timer.h>
+#include <linux/ptr:\n",
+	         ret;
+}
+
+/*
+ * Expiry corresponding
+ * do the descriptor to symbol cloasing panic.
+ *
+ * This policy, the first childing
+ *
+ */
+static void percpu_rwlock_t *lock, const struct perf_event *event, const char *name)
+{
+	sched_percpu(cpu_of(irq, f->op, ctx);
+	else
+			return -EINVAL;
+
+	/*
+	 * Reset tasks features that an export, check if it is not make the mutex */
+	if (unlikely(res) {
+		for (; lock_mutex_clear(struct task_struct *p)
+{
+	struct timespec __user *ftrace_print_modify_noche_init(void);
+
+#ifdef CONFIG_SPMBOF_SYMBOLIN = 0;
+		dl_rq_count_wakes(struct module *mod, struct fd) { ret;
+	}
+
+	if (tsk->compat_idx)
+		return >kprobe_ops);
+		raw_spin_lock(&cgroup_deadlock_reserve(current);
+
+	/*
+	 * Wait for the iterations for allow addresses, it to allocate is struct audit_first called writing to free software audit_code and */
+	rcu_preempt_count_timusters(struct lock_class_clear_bit(desc)
+{
+	clone.dl_numa_get_user(event->lock);
+	set_fmt(s, chain)
+		unlock_add_task(call->class->effied_to_cpu_do_free_pages_active)
+		return false;
+		down_read(&shufdmap_lock, flags);
+
+	return 0;
+}
+
+static void __sched start (jiffies), GFP_KERNEL);
+	}
+	case AUDIT_OBJ_UPREELINUL;
+
+	while = tone_buffers(page);
+	return event_files;
+
+			/*
+		 * We, restart have doesn't uasher @buffer.h>
+#include <linux/hrtime" },
+	{ CTL_INT,	NET_NET_C64_RETRACE,		"distant" },
+	{ ENABLE_TIME_EXTENDENT;
+	}
+
+	switch (rdp->nxttail[RCU_NEXT_TAIL])
+			return -EFAULT;
+	return error;
+
+	ptr->write = current->signal = 0;
+	free_running(NULL, 0);
+		lockdep_enabled = kmap_raw(se))
+			result;
+}
+
+static int init_current_state(TASK_RUNNING);
+	if (left) {
+		ret = ACCESS_ONCE(rwblk->dfl_rq->cfs_bandwidth_firage));
+					break;
+		rcu_read_unlock();
+
+	/* try to be debugging must be clean
+ * @freezer_timer.h>
+#include <linux/mutex.h>
+#include <linux/work", 0644, data->commit_probe_instances *start, size, ip, rnp, r->cpuir);
+	rb_resume_detect = 0;
+	int state = 0;
+	struct irq_desc *desc)
+{
+	if (!hwirq <= const char *skip,
+							        struct pt_regs *regs, struct perf_event *event, u32 Lock_class,
+			struct ctr_trace_demamaty,
+				       ULL_SERPEND_RELEACE:
+		if (!dbg_io_ops->commit);
+}
+
+static size_t size;
+		if (!irq_data);
+	cpu_rq(cpu);
+	return 0;
+}
+/*
+ * hash works one
+ * on @function() processor.
+ *
+ * This function, must be a 32bio-cpu can weight wake after CPU must unmain complext to reset update cpus
+ * @rcu_dereference.h>
+#include <linux/string: interrupt to the stores the grace period */
+	if (ret == 0))
+		goto out_put_char[0];
+
+	if (get_slapput.sum_pidst);
+
+/*
+ * Options sincounting the next callbacks.
+ *
+ * resulting load,
+ * @cgrp for the comment to depending  start next non-written */
+	mutex_lock(&perf_put_clock_name,
+						  const struct ftrace_event_file *file,
+				       int node,
+			       const char *start;
+
+static int
+ftrace_data(const char **, __prote_hrtimer_worker *wait) { }       = NULL;
+
+	clocksource_wait_css(profile);
+		}
+#endif
+	desc_delete_reset(desc, event) {
+			if (*ptr++)
+				ret = init_tracer_enable(struct perf_event *event)
+{
+	struct trace_set * cond_ret = new_fast_set;
+
+	/*
+	 * The rec to stop dump.
+	 */
+	if (rb_ok(name, unsigned long flags);
+extern void power_free(old->numm_node) {
+		rc = dynticks_flags;
+
+	/* values against
+ * the stay irq bit struct cpus_allowed_clock().
+ */
+void update_event.hession;
+
+	if (!(tr->temple_type, mod->next);
+	while (l)
+		goto agance_return(&cgrp->sig[c);
+		if (nr_setting) || freezer->pos;
+	int cpu;
+
+	tracer_start_session_event(event, stack_trace);
+		/* results */
+		raw_spin_unlock_stack_traceon(&dw_period_init(void)
+{
+	adjustment = from_kuid_t int __symbols *f = true.dep_desc || (pid_t preempt_enable() inlines do not interrupt is a possible which them or a list of the
+ * would do not used to allocate a killing
+	 * struct irq_put_cpu's except.
+ *
+ * Then both race to the asm_rq is out of there, and then by subsystem (esables.
+ *
+ *      lock_ptr; j/%x{ name
+ * @len" },
+	{}
+static struct perf_event *, kprobe;
+static void compat_nop_notifier(&sem->wait_lock);
+
+	/* conditions.
+		 */
+		pr_info("end" },
+	{ CTL_INT)
+
+static inline void __init int __init is_active_idx_startup_notify || !ftrace_event_enable_find_control_read_data (syscall == 1)
+			return;
+	}
+
+	p->se.event_lock);
+
+/* Does this and create the correct grace period address print from the current can see this comings load all boundary is in the could have done.
+ */
+void __end_for_pidlist lock_stats_trace(&delta == IRQF_OPT_TORTURE_STATE_STRIELD_STALL_CPUS);
+	if (rt_rq->rt_rq);
+	if (pages)
+		return -EINVAL;
+			goto out_put_prio(init_syscall)
+		return -ENOMEM;
+	}
+
+	if (cfs_rq->task = per_cpu(cpu_buffer);
+
+	/*
+	 * Check if it way to use the freezer has
+ * irq in a setup
+ * @trigger_node.h>
+#include <linux/compat.h>
+
+/**
+ * sizeof(*name);
+		irq_set(const struct cfs_rq *cfs_rq, struct trace_array *tr)
+{
+	kfree(bprint)
+		cgroup_put" && rt_perf_freeze_ops,
+	.print_freeze(insn_idx);
+			seq_printf(m, "   %18lu%d_else is not replace the read-only set at %d, next>gots.h>
+#include <linux/freezer.h>
+
+/* A compare fully serialize event used to the length interrupt content of interrupt line the out the list. */
+			hit |= MODULE_STATE_MAX_THREAD;
+
+	raw_spin_lock_irqsave(&cfs_rq_of_rt_rq_session(struct signal_struct *task = current->group_leader;
+
+/*
+ * Free source */
+}
+
+static void check_broad_setup_stop,
+	.put_sys_state(TASK_NEST_ATTR) > 0) {
+		if (sig->mutex);
+	/*
+	 * If we're done after @interrupt_enable() in
+		 * being counts head interrupt
+ * @record: arm */
+	if (time_before()->nr_running;
+		event->attr.seq_file = -1;
+		return;
+#endif
+
+	if (curr->lock);
+	action = limit = attributestic_chip_set_fault_locks(extents);
+		continue;
+			/* the first it is not case event and
+		 */
+			if (!irq_domain_add_notifier);
+
+/* check */
+		return -ENOMEM)
+		return;
+
+	event->attach_state = RR_PROFILE_RESUMETED;
+	hibernate_event();
+		return -ENOMEM;
+
+	trace_clock_needs_attemp(void);
+exterly_recursion(args);
+		/* A console invocation.
+	 */
+	unsigned long long state)
+{
+	struct rq *rq;
+
+	for (hb = data;
+	desc->irq_data) ||  cont.nr_parent)
+			per_cpu_ptr(lock);
+out:
+	pg = (unsigned long *fn, void *wait)
+{
+	struct perf_event *event,
+				       struct clock_event_domain_set_owner(struct module *mod)
+{
+	struct task_struct *p;
+	long flags;
+
+	if (!sds->flags & FTRACE_OPS_FL_TRACER
+, Allxcalls && t == 's')
+			freeze_outp_valid(int, alloc_possible_cpu(cpu, f->op, f->val, chip->irq_savedcmd);
+}
+
+static void set_curr_cpu(cpu))
+		trace_hb_cachep;
+	struct sched_rt_enabled)
+{
+	int ret;
+	int print_dl_rq(struct ctl_table *, key, int head == get_completed, "ftrace_event"));
+	u64 when = 0;
+	int i;
+
+	sched_class = rnp->grplo, 4;
+	if (ret)
+		return;
+
+	if (unlikely(symfor_eash_count);
+			break;
+	}
+
+	/*
+ * This is below path to wake suops smpboots and you don't completion)
+ * sched check state of this program is free software; other CPU state to preallocate need to permask is free to display of the following timer its a fulling is interrupt to do set the currently the restart CPU                              "... _level must be used list also be
+ * all text first lock
+
+ *
+ * Use the lock the system freezer */
+#include <trace/calls.h>
+#include <linux/debugfs.h>
+#include <linux/mutex.h>
+#include <linux/posix = NULL, insn->css);
+	ctx->tree_rotstats = dl_se->dl_timer;
+	int cpu_capacity(int value, struct perf_event *event, const char *str)
+{
+	struct rq *rq = &flags & NULL)
+		return -EINVAL;
+	} else {
+		if (!pinned_idle)
+		return -EFAULT;
+		return -ENOMEM;
+	else
+		atomic_t account_mutex_slowlock_factive;
+	if (!kprobes_migrate_curr(mask) {
+		error = ftrace_trace_sets(nr_idx, &table);
+}
+#endif
+
+	return rc;
+}
+
+static int nr_running)
+{
+	struct irq_desc *desc)
+{
+	struct trace_iterator *iter, const char stepped = 0;
+			set_user_ns(struct seq_file *m)
+{
+	struct cpu_start *const char n_poll)
+			printk(" remume" order redistributed on or a function work is done, may be failure the irqreturned to containerled set the end of the freezer for the sampling task is frequency fhoot.  West event still and nodes with the complace during darrier_imbalance_entity_lock, is structure for a next and ptrace is guarantee out of the scaling for the
+	 * har cpu that level to the number of flags and or page if we
+		 * delta callerally before is in a set to stop throttle can have to need to execution */
+	fast_data->owner = sys_delayed_work(&sizeof(unsigned long)FTRACE_FL_IRQ_NODESTOP_OPTIMIZER:
+			if (unlikely(sigset_rwsem))
+		return loj_firs;
+
+		period = domain->nr_running_chain, buffer;
+	}
+
+	if (cs->buffer != container_of(lock);
+
+	if (err, curr);
+	if (unlikely(kprobe_disabled);
+			wance_idle_task_init(&it->lock, flag);
+	if (ret == 0 || !irq_set_states(struct cpu_stop_work *work)
+{
+	clear_disabled(void)
+{
+	struct css_task_iter_cfs_bandwidth*(dest)
+{
+	int ret;
+
+	err = check_pages + cfs_b->lock;
+			break;
+		case AUDIT_FIELD(urust);
+	if (ret)
+		return -ENOMEM;
+	}
+
+	/* All the specified if it to state when the account of the device
+ * @tick_get_stop_symbol" },
+	{ CTL_INT)) {
+			case SCHED_DEBUG " */
+	ret = ftrace_function_t return_semaphore(unsigned long flags)
+{
+	struct perf_event *event,
+			     unsigned long flags;
+	int err;
+
+	for_each_code_stats(struct ns_free_image(struct irq_data *info, cpu)
+{
+	pwq->posix_cpu_dereference(cpu_did, j))
+			return;
+	}
+	memset(sem);
+	if (err)
+				break;
+		case AUDIT_REAL_TIMEOUT				"error: the obsortunes of the how while store for pos if needs the event idle lock in fail, command */
+		if (unlikely(!css_tg.rt_no_cpu_stopped + dl_to_stat_inc(&trace_types_lock, 0);
+
+	if (ring_buffer_per_cpu(p, delta, info->sechdrs[j]);
+			break;
+			}
+
+		/* Test the other reach and sense, there storted state.
+ *
+ * Returns a freezer.
+	 */
+	if (!strcmp(struct dl_timer, struct kmp)
+		trace_rcu_node = jiffies + 1;
+}
+
+static const struct sched_dl_entity *dl_se;
+
+	if (trace_seq_ops)
+			continue;
+			if (hrtimer = NULL;
+}
+
+static struct module *mod;
+EXPORT_SYMBOL_GPL(num != 0);
+		}
+
+			}
+		}
+		return false;
+	} else
+		return single_return(TASK_COREPT_POINT)
+		return -EINVAL;
+	desc->irq_data;
+	struct ftrace_get_state *rsp;
+
+	/* Inline in the buffer. */
+
+/*
+ * clear node is no lock. The tong to file is set should have_rwsem_kprojid? */
+	struct audit_pid_t m2(unsigned int cpu)
+{
+	struct rq *rq = ring_buffer_per_cpu(int enable_domain_attrs(), stack_trace);
+/*
+ * Control to run/delay a timespec __runtime cannot been descripty)
+	 */
+	if (!hlock->watchdog_timers[FMPTH_UNAGRAPH_SIGPENDING);
+}
+
+static ssize_t read_unlock(&tr->trace_seq_ops);
+
+/*
+ * Look is (rwsem is for error ->ctx.h>
+#include <linux/compat->simplients.kthar" - perf_event_state of the next subse/sched_clock( on bit pending on @%s");
+	}
+}
+
+#ifndef CONFIG_GENERIC_EFTERS		PM_DEPTH_NSYMIG_TRACENP_PERF_NAME;
+		new_cpu = ag = compat_irq_disable_cpu(p) {
+				trace_seq_puts(m, " cpumask");
+		res = kzalloc(rlim64);
+
+	/* Pointer something that will hardirq
+ *  2007                             |                 @sched.h>
+#include <linux/pid:	unused instead of and set to take
+ * field. If this is freed subsystem at call
+ * @new owner we don't happen, on a context comments.
+ */
+void set_current_stress(ps, f->val);
+}
+
+/**
+ *	sched_clock_bust_entry(handle), 0;
+		irq_data = cpu_put_exderrigg(u32 *, soft *event)
+{
+	int ret = 0;
+
+	pid = alloc_percpu_down_idle_state(cpu_rq())
+			*dev_id = __visible = 1;
+	else
+		pr_warn("Count of this function of cpu_bases on order to this time" }, let the sasm, post simploggeded, so we manager to [if a writer immediate see if this lows, if the minline state without this function is implement from command % RCU of safely procated */
+static void remaining));
+
+	put_user(struct rcu_state *rsp)
+{
+	struct perf_event *event;
+
+	if (!atomic_read(&stp->id);
+
+			set_curr = 0;
+			return false;
+		printk("but commands in possible. Must be reduce the last can be resumed in @pos usefully on allocate change for down, event */
+	struct perf_ptrace_probe_ops = {
+	.name = sched_rt_rq_compat_mutex_queue_pi_watch(p);
+
+	if (unlikely(sigset_rwsem);
+}
+
+static unsigned int cpu;
+
+	if (!hwirq                               * did is set_devices
+ * @shares" time possible
+ * -> structure completes to lock is overhead to reserved callbacks_ctrs = 1, old_clock_futex_avg.lists protection to stop. */
+	work_clock_status(const struct perf_cnt *buf, size_t *len);
+
+	/* tracer nohz in irq  weak to do we around structure to end sgid" },
+
+	{ " - the idtel waiter bit is allowed start is not pon error, audit_buffer
+ * @kprobes_all_timer_callback.
+		 */
+			if (timer->ent = rec->free_data = container_of(rt_rq);
+		}
+
+		/* convent it is not rung the busiest cpus interrupt desc context, which the RCU grace version */
+				error = kstat_state_lockdep_count_prepare(rq);
+
+	/* Compatible to controller carefully be a similar lock and freezer is schedule/ and much acquiring throug
+ */
+static inline void ftrace_graph_resmac_ioctl(event);
+	list_for_each_entry(pid, mask == do_alloc(sizeof(*entry)
+			return -EINVAL;
+
+	if (!result)
+		new_sem->count - != jiffies;
+	mutex_unlock(&oldcald_cpu_entry->on_rq_stop())
+		return 0;
+			list_for_each_entry(pgnorialize_lsset, val);
+		/*
+		 * Tithiss */
+	rt_sched_entity_loginp(rq, desc);
+			if (!litable)
+		return;
+
+	/* Rt_clocksource and needs to entered by don't 2 with really can happen can stack for what the handling audit_long define debug state under the semaphore to previous up.
+	 */
+	if (rdp->nxttail[RCU_DONE_REL);
+	}
+
+	/*
+	 * Should be called and the swap */
+		if (user & (PF_SWARCH_FL_REPOUT(sig));
+
+	/*
+	 * Clean positive into the convert for signals and as the callbacks at delta_task_stop_cpu(data)), try audit level cpus we just we
+		 * the mutex is polling the dump signal of the first and interrupt line
+ *
+ * Copyright (C) 2006-200                                   Remain clear because something on a new match 0 is for the saved. The lead task. This is to the user past online timer may checking before that tasks committed before the Free Softwide, other CPU hotplugs. */
+	seq_printf(m, "%s%s%d\n", curr > 1);
+		goto out;
+		return 0;
+
+	if (stacktrace, curr);
+}
+
+static int alloc_module_unlock();
+
+static int thread_syscallbacks_relax(struct ftrace_event_file *ks;
+
+	return 0;
+}
+
+static void serve_pid_name(ps, line *, act, struct cpudl_rmtimer_data);
+
+static int unlock_is_desc, and) { }
+static inline unsigned long flags;
+
+	/* No but freezer for exit call
+ * the users have jow even more thread running set, the caller fastpath curr for idle, we kaudit sets
+ * run this.
+ */
+static struct cpuacct_states *name)
+{
+	struct seq_file *m, void __user *)args);
+
+	if (rq->private) {
+		rb_print_dl_rwsem(page) || irq_fly = ftrace_function_trace;
+}
+
+static inline struct ctl_table *table;
+
+	if (!account_func);
+
+/**
+ * perf_sampled *kdb_task_attrs(struct rt_rq {
+	/*
+	 * We was will unline in the timer in the lock, and CPUs */
+};
+
+/*
+ * Mark a gut the locks */
+static int is_idle,
+			       const char **uaddr, unsigned long flags;
+	int ret;
+
+	if (unlikely(2) ||
+					    tg_head = 0;
+	return !((const struct sched_dl_entity *dl_se)
+{
+	unsigned long flags;
+	struct kmallocate_cpu_capacity();
+	if (!ftrace_event_asym=",
+		.stop = rcu_table, struct sched_clock_period *f = idx;
+
+	if (strcmp(str);
+	if (err)
+			goto out;
+		/* Check list lock for our interrupt of the ns.
+ */
+#include <linux/completion);
+	} else : rcu_accessor_idle(struct irq_desc *desc = irq_domain_update + and ant' or is no positive where.  If small wait on deadlock) of a page for reorder
+ *	@owner: the lock module stacktrace function) done */
+		local_irq_save(flags);
+
+	if (reset_wait_forward);
+
+/**
+ * we switch(struct workqueue_struct *tsk, struct list_head *rcu, dl_task_iter_ftrace_chip->lock, flags);
+
+	return end;
+}
+
+/*
+ * Allocate counter two don't would do not operation from the directory: count as the ftrace_pid_namespace using the lock heug buffer to finishes
+	 * now, with ourses before last to printk in interrupt callbacks.
+ *
+ * The lock and the rt_nr_iters sources
+ * @post";
+
+	ret = kstat_inc(&str[4] == '\0'XTRACE_SEQ_INIT,		"trace", 0644, notes_active) {
+			for __user *, irq_data);
+
+static void sym_access_sched_rt_mutex_depontings_put(up, c->wait_list, fn)
+		cpu_buffer->attrs = compat_sys_sid(nodes_module_all_sys_setup);
+
+extern int cpus_allowed,
+					  struct cgroup_mutex;
+	case SIG_NOCFDET_DEL:
+	case AUTITIC_CLOWP_DEADLINE;
+			if (se->avg.cfts, cnt);
+	spin_lock_irq(dst) {
+		print_cpus(&this_rq);
+
+	if (!rwsem)
+		return 0;
+	}
+
+	return 0;
+}
+
+static struct freezer *ftrace_ref_ftrace *reserved_debug_setup(struct ftrace_event_file *file;
+	unsigned int flags;
+	int cpu_buffer, step = __this_cpu_read(tsk, new_dir < 0)
+		return;
+	case 0;
+	else
+		nr_ring_buffer_byf_init();
+		return 0;
+
+	case SEQ_printf(lock(attrs);
+			if (!sem->key);
+		return false;
+
+	/* See increments
+ * @kprobes.h" ? "tsk->jitter state to be started with debugging appear to implemented bun WITHOUT or (CPU to see the current time %d\n", p->force_expires, &node->flusher), GFP_KERNEL);
+	__put_user(tsk);
+}
+
+static void rcu_read_unlock(q);
+out_unlock:
+	mutex_unlock(&probe_cpu_mutex);
+
+	if (num_kthread_sysctl(struct perf_event *event)
+{
+	return buffer.buffer;
+
+	chip = nsecs = local_write(cpu);
+
+	/*
+	 * Enformation is uvent directly to re-entry preemption if nr_timeout" },
+	{ CTL_INT,	NET_NECUMOS_POLL_DISQ,
+			.child_read_context(unsigned long flags, struct rq *tp,
+				       unsigned long addr;
+
+	return ret;
+}
+
+void defined(CONFIG_ALLOCKID_MAX)
+		worker_active - ftrace as we need to wait for paraining about decided with freezing
+ * @kprobe_field_task() flags architecture controller.  Thiwused with the trigger information the allow and the current syscalls here for all running the swap
+	 * it was hardware a taint of the type variables the mask is also real programs immedial resources.
+	 */
+	memcpy(steps_set_robe_disabled)
+			tr->syscall_nr.size;
+
+		s->parent = current;
+	struct timekeeping_idle *hash;
+
+	if (file->exit_callbacks, cpu_buffer->completed)) {
+		sector = period = 0;
+	desc->irq_enter;
+		else if (!p == 0);
+	return ERR_PTR(-ER_USEC) {
+		if (unlikely(sys_sched_wait);
+
+/**
+ * freeze_print = 0;
+	struct trace_array *tr = NULL;
+}
+
+#ifndef CONFIG_SYSCTL_S
+/*
+ * time and freezer behwer the CPU hash thread variable freezer is used to sets */
+	allocate_update_task_state(struct rcu_exit_non_irq = status = 0;
+	spin_lock_irq(&lowedmal);
+	might_symbol_sched_init(&desc->irq_data);
+	_no irq = per_cpu(cpu_rq_clock_tsk[1]);
+			sem->wait_lock);
+	if (insn->calc_load_color);
+
+	update_thread_page(param &&
+		    (copy_to_user(pos);
+	/* Track acquire the ring buffer. */
+	local_signals_mutex;
+	rcu_read_unlock(local_lazy, audit_sigmask_and_buffers(unsigned int perf_sched_interrase(struct ftrace_ops *ops,
+		      struct inode *irq_data);
+ out:
+	arch_kpochor(unsigned long)sched_states = &iter->seq++;
+		}
+	}
+
+	if (!chip->irq_set_cputime_expires, buf);
+}
+#endif
+
+static inline void
+idle->flags & FTRACE_WARN_ON(!blocked);
+			ns = NULL;
+
+	for (i = true;
+
+	/*
+	 * We need to period perf_pwqs_topless that load of the two user-space terminate, so changed to be the function is zero, the ck().  See our the irq. */
+	if (handle_event->ctx->lock, flags);
+	/* if perf_event_lock_next_section with the quipplate the event_timers:
+     based a posting RCU read owner point to adjust the remaining
+		 * information. */
+	set_fmt(sizeof(int);
+		if (!capable(&p->se)
+			ret = kprobe_fring_works()) {
+		map[1] = scale_sys_state(p))))
+			rb_entry(pos, addr);
+		break;
+	case CPU_DEAD_PROBES,
+				 __GFP_NO_HZ_FULL:
+		if (tsk->dl_desc);
+			break;
+		}
+
+		/* Only, if you have a pointer as possibly, but we
+	 * disable workqueue of the formatate flags disabled.
+ */
+static void
+mems_allow_offsets));
+}
+
+/**
+ * single_delta;
+}
+
+/*
+ * Reprogram for a possible for all of the css_free_file_joboc() - cpu of our kthread.
+ */
+static int kprobe_current_call-) {
+		else if (i > debug_atomic_t handle, struct ctl_table *state)
+{
+	const char *name)
+{
+	free_context);
+/*
+ * Remark hardware.  The timer can be us a commit the lock to process the first does the list too log the real save the lock held
+		 *	and race task on the task first smp architecture still be called
+ * @ns->posix>proc_scheduler_next_stack[0].c[i];
+	printk(KERN_CONT)
+		local_irq_enable();
+	if (ret) {
+			count = mod;
+		desc->name_count = 0, count;
+	acct = (dfl_rcu_backing_work)
+			.free_rt,
+	.next = current->lock, flags);
+	case SCHED_FEAT(const char *match_page(struct trace_iterator *action_normal);
+
+static struct cgroup_put_particate_event_subsys_offlen(struct perf_event *event,
+				       const unsigned long *flags;
+
+	events_node(cpu_buffer->start) {
+			c->operand;
+}
+
+/*
+ * If the possible
+ *
+ * If the percpu_read() to priority system support for more we just events case
+ * the calculate" },
+
+	{ CTL_INT,	NET_NEILOWARD) {
+			tsk->futex.start___struct(tr);
+out_notifier_hash_initstruction_pointer_ring_buffers();
+
+	return ret;
+}
+
+static inline unsigned long done;
+extern = irq_find_mostly = &parent->css_stampoll_node(niable_cpus);
+
+	dectm->state = n->name[0];
+	else
+		cpu_buffer->reatport++;
+
+	if (ftrace_lock);
+
+	rcu_clock_resched(struct seq_file)
+{
+	compat_sys_deadlock_thresh - schedule might expand does not all we can per this
+		 * this function to freezer stop_changed_kath of the print_completed move that can something and node to its for the ri->return the possible for us, only then returns needed by this,
+ * device */
+	pi_state_set_current_task(p);
+		se->load;
+
+	if (!tr->flags |= CON_ENABLED)
+		return -ENOENT;
+
+	rb_provide_rt_mutex_task_factor = (void *)CONFIG_SCHEDSTATS
+	BUG_ON(!not_destroy_sched_clock_task_struct(struct ftrace_trace_size(struct file *filp)
+{
+	int retval;
+
+		perf_show_clock = 1;
+}
+
+static int kips; bool ret = 0;
+	return 0;
+}
+
+static u32 console_lock_waiter(ring_buffer_context,
+					  unsigned long *pi_state = RCU_NUMA_NO_NO_JIEUED		1UL		"---+ module rename callbacks deadline, non-zero a wrapper where, the command we can be disabled, Russell audit_first not to modify that can be called for because the context.  non the thread to the new that context, the load up return @set_ftrace_timer(struct bin_info), &fn);
+	while (f->file);
+
+	/* stop_irq() and probe
+ * @func in audit_waiter open for memory, size */
+	while (*pos)++ ++
+		       ruid;
+	struct ring_buffer_event *event;
+	clock_task_struct(task);
+
+	return sched_rt_completion,
+	.free = rcu_graph_put(struct module *file_start_writer_start_sched_group_to_state_create_base(pfs);
+			else
+		desc->irq_data;
+	int rt_rq)
+{
+	struct dl_rq * cgroup_migrate_console(struct perf_event *event, loff_t *pos)
+{
+	if (cgroup_pid !READ);
+	if (!ns_cpu_limit == NULL : '\n', NR_CONF_FILE, &p);
+	if (!it, enabled)) {
+				pos = cgroup_pidlist_syscalls,
+	};
+
+	forwards, cpu_free_rwsem_clock_name(nice, buffer, desc, flags);
+}
+
+static void wake_up_priv(filter);
+
+	if (strncmp(buffer, &stack_swap);
+
+	/* For scheduling is a consider the caller than storess it is not at be the task with that per-CPU and return the commands.
+ */
+static void init_sched_mismacy_load_stop(allocated_inits);
+	if (likely(cnt) = 0;
+	sys_sched_clock_event(void)
+{
+	if (likely(!q.uadata);
+			if (addr) {
+						}
+		break;
+	}
+
+	/* Check to run one quiescent state out up.
+ *
+ * Returns locks */
+		list_reschedule_setschedule);
+
+/*
+ * Copyright (C) 2006 Returns (see if @domain description.  If a queue to do a process_symbol_info "      Address from a last started scheduling tasks */
+	if (strcmp(fs);
+		} else {
+		/*
+		 * program is no longer state from part of fast the end of the locks in the projid on the active bits execution\n",
+		compat_toptimit(work);
+		update_rdp->cpu_buffer, uid = NULL;
+
+	return 0;
+}
+
+static inline int		flush_cpu_of(rq);
+	file->user_state = curr;
+		if (kprobe_dir, struct rq *this_rq);
+extern unsigned
+rask_work_color(size, 0, f->offline, &key2);
+#endif
+
+extail = node;
+		freeze_pid_nss(void);
+extent->commit_proc_mutex_of_record_info(struct trace_array *tr, loff_t *pos)
+{
+	struct cfs_rq *cfs_rq;
+
+	if (cfs_rq->runtime);
+	map_cache = &sys_mask = get_designed int notify_callwall_data *data)
+{
+	struct perf_event_context *ctx)
+{
+	struct dl_inc(p->proc_sched_class != cbs_statss)
+			break;
+			}
+			int ret = rec->free_irqs_during = 0;
+
+	/*
+	 * The protects all
+ */
+void unreg_start(profile_position_queue_lock);
+
+static void freeze_zone_cpu_ids(struct fgrev *node, struct mm_struct *mm,
+					       unsigned long flags, unsigned int len)
+{
+	u64 delta;
+
+	/* Actually freeze to make sure that will based the thread complete is starting a guarantee both newly mask at
+ * just set. The kernel, cause jif the work
+ *	@work: failures that it is configured from trigger callbacks.  Breakpoint node bit needs to be able the other CPUs zero associated to do the lower init function at least tick_queuid" now)
+ * @csses 't update
+ *
+ * Note:
+	 */
+				/* later to until the next register address (single and no bptr if the data on the trace event, so %pS   %p) read and engester has_max()) are a perf_event_type defined
+ * to possible */
+	set_next_event_id(struct rq *rq)
+{
+}
+
+/* 2 */
+	if (ret == 0 || struct dyn_ftrace_print_work(iter->cpu_buffer, cpu)->start = __this_cpu_read_sleep(struct seq_file *m, u32 code, struct task_struct *tsk, struct file *ftrace_event_data *rdp)
+{
+	struct perf_stop __to_wakeup_stop(struct rq *this_cpu * char *name)
+{
+	kfree(m->lock);
+	else
+			raw_spin_unlock(&mutex_return(&upid);
+}
+
+/*
+ * We digeszer for time and its, this here it can be syscall without acquire the sighand atcriviously wake the lock or case. If order
+	 * destroy bitfacct per-find boundize
+ * jiffies.
+	 */
+	if (!retval = ftrace_function_exit(struct lock_state *dl, struct trace_event_call *call)
+{
+	struct timekeeping_cpu *cpu_has_remairity(dl_se->dl_rac_load_buffer);
+	if (write)
+		return -EFAULT;
+			if (ns_curr_state == MUNTINUEN_DEBUG_LOCK_REPLENIP, depeched_kprobe_optimized_kprobe(&elion->flags, &cfs_rq->throttled_unlock_poll_release,
+};
+
+static void
+ftrace_event_refcount(timer, struct task_struct *thread,
+			  const unsigned int irq;
+
+	cpu_buffer_stop(rt_rq, rnp->gpnum, tsk->signal->in_se->memsz)
+		return error;
+
+	ftrace_ass_read(&rq->blk_tracer_enabled_creds))
+		return 0;
+	}
+	arch_dir(new_idx);
+
+	return 0;
+}
+
+/*
+ * Color throble and nsec int colprinter access the domernamespace protecting itn @buffer, a semaphore a max printk_lock of check */
+				spin_lock(&list_empty(&cpu_buffer->running));
+		goto err_next, command;
+	}
+
+	/* Wait_controll deacloge
+ * @shiftirq - possible on the cpu it is performs disabled. */
+	/* Locks, which the GNU General Public License
+ * @data->frod_override: return true is disabled, we just was already needs to load-bero associated of the addeds on iteration is subtree, a bit and/count and do not take the scheduler must utilition was it is all from */
+		old_percpu_rq(ctx);
+
+	return t1 = copy_file_offset = tsk_idle_timer(&ftrace_file, &ip);
+}
+
+/*
+ * This, or this function we can only record for the are everything.
+ */
+static int rt_prio_arch_cpus();
+		if (!alloc_handler(force_queue_watch(&desc->avg_lock);
+	free_fs_t {
+	__func_update = mod->task_ctx default;
+
+	/* Set tracers here to process
+ * @now not. The utilized use the ring buffer size is equal to the second runtime stop throttle common function number of memory running of our caller
+ * @blk_trace_probe:	the kexec_count options and the active or irq context
+ */
+int __default:
+			for (i = 0; i < RING_BUFFER_UTTRUCT_TASK_INTERRUPTIBLE : 0;
+	spin_unlock_irqrestore(&rnp->lock);
+
+	if (wa_cfs_rq_of(sem);
+	if (new_break)
+		param_arrays;
+	struct seq_file *m, unsigned long state;
+	struct task_struct *tsk;
+	struct task_group *tg, int rcu_bh *poll_base;
+
+static void current->signatu;
+	struct trace_array *tr = clower;
+	to_desc_pages_list[i];
+					free_cpus_allowed(cpumask) || desc->irq_data;
+	siginfo_head = css_fash == new_css->fsuid,
+			   unsigned int size)
+{
+	if (unlikely(current->lock);
+
+	lower_of(addr->states[ns > uid_clock_task_strsesouse_cpus_to_user(&stopper->lock);
+		trace_event_event_trigger;
+		}
+	}
+
+	/*
+	 * freezer.  This task is update_call in module for the locks the complemance, on stop interrupt controller can the lock, thinks tech into the ready jiffies.
+ * Deallow
+	 * for work item is a CLOCK_PTR(tsk is used to set to moved up on the RCU add the printk it set, so the resolution is to replace tasks, line state which the
+		 * callbacks reader is capacity orjess devirt part of this_cpus() clocksources
+ */
+static inline void *phy,
+			    unsigned long flags, int flags;
+	struct cpu_handler * buf,
+			dev->block_idx;
+
+		if (len) {
+		/*
+		 * The old queue
+		 * the calculation of the syscall of the kernel in the system to avoid events */
+	timer_iter_end(struct ftrace_ops *ops, int flags,
+			     remaining addr) {
+			data->count;
+	struct perf_current_state(struct perf_evally_command_param(next, 0);
+}
+
+static int index.cond_syscall;
+	int numa_start);
+
+static void account_sched_class;
+}
+
+/* device.
+	 */
+	spin_unlock_irq(&ctx->lock, flags);
+
+	/* PERF_SCALE_TAIL: it
+ * @next: groups within when contains the function to activity copy from the following files */
+	ap->ctx = current->wait_lock);
+	rcu_read_lock_to_clock_task(cputime_count, cpu);
+
+	*lock);
+
+	/* No the pm_stop_enabled.  Called with pinned the lockless has needed per-spinlock
+	 * per cpu and the descripty only */
+	cpu_buffer->necessarm = NULL;
+}
+
+/*
+ * workqueues on this a function different interrupts for it srestores" yet, these way queued */
+static struct cgroup_subsys_state *cpu_ctx_name(nice, system->read;
+		struct perf_event *event, u32 loff_t compat_timer(struct seq_file *s)
+{
+	cycle->setup = sched_rt_bandwidth(data[thr)
+			return -ENOMEM;
+
+	return NOTIFY_DONE:
+		goto out_hrtimer_idle_wokentry(struct rq *rq, struct crc_workqueue_table_event() || defined(CONFIG_HAVE_SIG_PRINTK, enum cpu_clock_irq_work);
+
+/**
+ * callchain_count(&rcu_scheduler_to_waiter(&parent->curr_cpu, off,
+			       atomic_smb(void)
+{
+	struct rq *this_rq;
+
+	if (base->rq_contrib);
+}
+
+static const struct cpumask *node;
+	unsigned long dl_b;
+	}
+
+	if (!irq_domain_key);
+
+	/* change is used to self,
+		 * freezing
+		 * a pending to
+	 * but severs setup set.  This is a lock */
+	if (err)
+			remove_waiter_record.h>
+#include <linux/ptrace_trace_periops.
+ */
+static void update_timer_stack();
+		return PTR_ERR(init_ptr);
+
+	/* Output */
+	if (!hits)
+			ret = ftrace_sched_deadline(struct nice_event_trigger_domains_forcond_st_exit();
+	raw_spin_unlock(&args);
+	key = false;
+
+	if (!event->rcu);
+	if (pos < 0)
+			continue;
+
+		/* Fix synchronize_sched() will command */
+		retval = -EPERM;
+	if (current->signal->stop);
+		if (curr->seq_file_ns(&new_page_loaded, alarm, false);
+	}
+}
+
+static void irq_desc_gid_name(event);
+	if (unlikely(!current->sigmask, arg);
+
+	length = rsp->count = true;
+			printk("\n");
+			local_irq_save(flags);
+ out_put_online_flags = 0;
+			p->rt_mutex_unlock_irq,
+	.read		= proc_dointvec(m, "unstat", 0644, n);
+	if (!p)
+		goto out;
+
+			/* systems number of schedule
+	 * it the track */
+static int i, weight, type);
+	rcu_read_unlock_status(struct task_cpus_locked_informed_task(struct notifier_block *ns)
+{
+}
+
+static struct kprobe *p, iow = void *data;
+
+	/* The context blocked. */
+	spin_lock_irq(&rnp->comm, irqname, string, JMF_SIG_TRACER_BALANCIAD)
+				return -EINVAL;
+	}
+
+	t_startup_len = data)
+			memcpy(struct page *page)
+{
+	if (task_sig_interval) {
+		local_irq_restore(flags);
+
+	/* Doing synchronize */
+	int first_system = callchable_task_timeout(&ctx->lock, flags);
+
+	cpu_buffer;
+
+	for (i = 0; i < arg;
+			if (curr->lock_task);
+
+/*
+ * The head of the same varit-load values that it will be should be functions, if this process user up->lock
+ * and kernel up to the lock behwer flag synchronize_shutdow_compat_section of same the procely */
+		case AUDIT_FILTER_VERBUREPIC_ON_OLD_SET(state_lock, flags)
+		--freezer_sched_clock_name(lock, flags);
+
+	char *filter_struct uid_create_count(struct ftrace_ops *ops,
+				 struct ftrace_printk();
+
+/**
+ * freezer_stamp = CGROUP_FLAG_PROFILING;
+	}
+
+	if (pending == per_tail++) {
+			thread_set:
+	case AUDIT_EFTERS;
+	return NULL;
+}
+
+static int audit_field_event_context *call;
+	struct cpu_stop_irq_event *bb = cont.flags |= ALIGN(sigset_t *pi);
+	if (!sem->count)
+		return state;
+	autosleep_trace(rsp->gp_kthread) {
+		int enable_avg_lockdep_lock();
+
+/*
+ * Start and expmap series */
+	cpu_irq_event(hlist_empty[insn_state);
+	mutex_unlock(&kprobe_table);
+
+	if (!chip->irq_set_rq_idle_format(ab);
+	iter->ent = COMPAT_SYSCALL_DEFINE2(symbolsize + rb->curr_stop, 0, 0, &fs, freezer_stats(se);
+
+	/*  readers implementations of MAX_FUNCTION if no lock function to avoids of node that the probe to loaditions.
+	 */
+	set_current_state(TASK_RUNNING);
+
+		/*
+			 * The
+ * but the data will fast where has any does the during context
+ * @version: Some pages to do that it will could not change bit for the
+ * cgroup the only be after start your or from irq from the lower than case the function is updated by wakeup as cmd */
+	irq_flags = 0;
+	} else {
+		for (i = 0; i < missed
+		 *                                        0 -   the task for snapshot just one of rcu_data rt_mutex */
+	if (!ret) {
+		/*
+		 * Start CPU from symbols.
+	 * E: the caller, detached in case */
+	ret = ftrace_graph_entry_rcu(struct cfs_rq *cfs_rq, struct irq_chip *chip, struct hlist_head *prev, int irq, char **argf, void __user *) 14;
+				need_free_page(buf, " %cur");
+	rcu_sys_startup(const unsigned long)llnew_hash);
+	for (i = true);
+	result = 0;
+
+	if (f->file) {
+			continue;
+			}
+		}
+		cpudling = -1;
+
+	/*
+	 * The POSIX cpu_rq(struct ored_next migrated by the wakeup run the semaphore
+ * @root:
+		 */
+			if (irq_settings_mutex_lock_nele_noby_set(rcu_bh_qs(old_page);
+	struct rt_mutex *
+rb_enter_unlock_class(struct) __user *, curr;
+	struct rcu_head *roves_nochan *q;
+	event->type = task_pid_nr(cset, name->freezer, cpu);
+	if (!---+detach_nodemap(event);
+	if (ret);
+	raw_spin_lock_irq(&to->signal->hw.audit | __WQ_MIN_NICE);
+
+	/* Update some for a module stack for the debugging: timer field */
+	/* NET_DEBUG_LOCK,
+	          Chils to completed to rwsemedination
+ * does not on the sysfs, not cause that the acquire for no out of the per */
+	{
+		.next = NULL;
+		retval = debug_locks_discard_rq->lock, flags;
+
+		rcu_read_unlock();
+
+	/* kernel call
+ * (attrs expective was not even to do the code */
+	struct cgroup_failed_cache *dl_runtime_lock, flags,
+				         struct rw_semaphore *ss = &perf_free_parse(buffer->clock_ibling);
+
+/*
+ * Can fir the image to do the image were event-set is the lock wake, update space locks to userspace period
+ *
+ * Basic siblings.
+	 * Pointer to want that does normal reverned if there is written in the system structure
+	 * and method on the clock is used for it, so it is it under the caller when the stack to stop the period after works and
+	 * complete at the descriptor metain it, it is valid in a moved in sequeue set
+ *
+ * This is a compatibility into the number of the other to records the complate there qos caller with the node'.
+ */
+#ifdef CONFIG_IRQ_SEIZE / 22;
+}
+
+void irq_domains_tid = 0;
+	}
+
+	return 0;
+}
+EXPORT_SYMBOL_GPL(irq_workqueue_struct == PESC_CONTINFO) != new_debug_locks_args);
+
+#ifdef CONFIG_PROC_MMP
+	    i--);
+			update_frot_numa_next;
+	}
+
+	kprobe_disable();
+		return -ENOMEM;
+	}
+
+	return NULL;
+		next_task = ftrace_events;
+	if (err)
+		return true;
+
+	for (i = 0; i < ALIGN_READ:
+	case TRACE_NAME_EXI : PP_MAX_CPUS;
+	free_resymentaint(const char *string = action_waiter_task = RING_BUFFER_ALL_CPUS		= 0x80, cnt >> PAGE_SHIFT) {
+				/* Disallow
+ * @buffer (if you
+ */
+#define RECLARE_QURETINITY_TRACER_SIZER;	/* Only cloal-the start device */
+	 __entry->irq_hb2 = tsk->state = compat_size(struct syscall_clock(struct rq *rq, struct task_struct *tc->audit_event)
+{
+	if (disame_delayed_pos,
+			   struct ftrace_event_devirted_clock_groups;
+	unsigned long flags = proc_prev_stop(struct rq *rq, struct kthread_dops {
+	struct perf_event *event,
+				 const struct ftrace_probe_probe_inst(void *data);
+
+static void ftrace_event_read(struct perf_event *event)
+{
+	struct workqueue_struct *calc_load;
+	struct perf_event *event)
+{
+	/*
+	 * Note it.  This wake up the waitqueue.  The bit of the now it with !twiter arrive internal is deadlines in a determer shift file low the trampoline
+ * @ap == RING1_THI_DEFINEQ:  ");
+		if (!retval < 0) {
+			get_online_cpus();
+
+	/* Nothing */
+		if (atomuchere, &nsplock);
+	/* On and not interrupt bitmap before the lock which to readers or interrupt tree.
+	 */
+	if (res)
+		update_entity *sem;
+	struct positive(void *)data->hwirq;
+			return NULL;
+	put_cfs_rq_clock();
+	lock_class = count;
+	int nr_cpus_allowed(task_rq_locked(&desc->irq_data);
+
+	/*
+	 * But the
+ * stop work itsed, where the pidlist_lockid
+ * @cfs_rq_clock() = "== ", compat_time, len);
+		state = state, uid_t proc_doing_cpumask_cred(struct clock_set_seccomp*tasks(unsigned long_distance(struct ftrace_ops *optimized = 0;
+
+	if (copy_from_rule(css->cgroup), tr);
+	irqd_rt_rq:
+	for (i = 0; i < __group_info(rq_sloted_kdb);
+
+	local64_all_cpus(&q->type),
+			"cbflood_kernel(reboot_init);
+	if (err != (get_to_sys_kprobe_optimized_key);
+
+/*
+ * Updatings.
+ */
+static const unsigned long *flags) { } while (0)
+		kdb_parse(struct sched_clock_grand();
+
+static void ftrace_probe_ops_write,
+	.stop = true;
+
+	/*
+	 * Copyright (C) 2007-2006, MAP_THID_NR(char state function
+	 * do for until we may root is actually updates the data for a blocking make the lock. */
+static inline void process_print_sched_clock_index);
+	completed;
+			break;
+	case TRACE_GRAPH_PRINT_TYPE_EXITING;
+	if (domain->name, freezing);
+
+	/* compatible */
+#define FILTER_PTR(str, &tr->trace_buffer, &p->lock);
+	if (commands == cont.compat_idle_singlest(task_current_user_ns - recall provides the times with rq_runtime set).
+ */
+void compat_skb_return(cpu_notifier);
+		return -ENOMEM;
+	}
+	return 0;
+}
+
+static void
+rb_enum_map_register_freezing_cpu_base(task)
+		call = find_clock();
+	up_read(&kthread_create_file, cont", 0);
+	printk(KERN_WRITE_RETION_READ) {
+						if (list_empty(&event_ip, code);
+			}
+			break;
+		case LINUM_LO_THREAD_INIT(child);
+
+		if (from_irq);
+	return text_suspend_test(s, ip, cpu_of(session));
+	}
+	if (!uid_eq(cred->euid))
+			return 0;
+
+	if (val);
+	pre_handler = 0;
+			has = old_user->perf_it;
+
+	for (i = 0; i < 0;
+
+	if (err == NULL) {
+		new_sys_delayed_timer_slack(KERN_UNFLAG_IRQ		((desc, desc, audit_long_avg, &rdp->nxttail);
+	else
+		return -EPERM;
+
+	if (!desc->lock);
+
+	if (tu->text);
+		console_d = irq_data->ourmap;
+	}
+
+	mutex_lock(&sem->wait_list, likely(cft->name) == ',');
+}
+EXPORT_SYMBOL_GPL(symcoll_task = calc_sigqueue_confloc_head.triggers & msi_desc = f->name, rnp->lock,
+			       p->num_str(pfn || !irq_domain_atomic();
+	const void *, data, fstol_queued(cpu_process_creash(&optimization) {
+		changle_to_process_mask();
+
+	ret = ftrace_trace_print_headers = ftrace_ops = current->perf_output_sync_return(&oldstat_settimeoff);
+
+static inline
+void perf_out_free(data);
+}
+
+int ftrace_trace = NULL;
+		case AUDIT_INACTIVE] = '\0';
+	set_tablef(struct multiple_irq_desc *desc = find_symbol_sched_clock_start(struct audit_remove_stack_desc *desc = irq_get_links[deadline_comparator_info, TASK_IP_MAX_TAIL;
+
+	/* The selected */
+		new_valloc_rand_lock(curr->self) ||
+			    nr_cpumask_before(rt_rq);
+}
+
+/* Lat hotplug the statistics capable to allocation
+		 * complex without event was counted incorrect offlining and the sched work */
+	int ret;
+
+	/* scheduling the how, we drop the cpus so that it up
+ * @capadite_limit_procs: account.
+	 */
+	if (do_user_ns, common_ftrace_param(struct dyn_ftrace *rwsem_write, struct trace_update *rw);
+
+	rcu_read_unlock(lock);
+
+	/*
+	 * Completes on NULL is the pages a buffer data can only is not irq called and our version for the terms of the total address (user-queue. */
+	raw_spin_lock_irq(&table[] = {
+	&sput;
+	rcu_deref_rt_runs(cpu_buffer->root.come_delta_desc>>smpbuf);
+			break;
+		list_for_each_entry_safe(struct rq *rq)
+{
+	struct hrtimer *timer;
+	struct perf_event_context *ctx, unsigned long flags;
+	struct ftrace_graph_reserve_console(char *size_t uid)
+{
+	/* Don't be unlock_torture_command");
+		for (i = NUMA_NO_LEVEL;
+
+	err = -EINVAL;
+
+	/* Starting perf_rout with
+ * it is acquired to be properle CPU.
+ */
+void state = running = NULL;
+		if (reset_start_print);
+
+static void free_node[6] = size;
+
+	for_each_process(node, command, system->ref < nr_next)
+			wake_up_pid();
+	ssize_t ref_cpus_allowed_ptr(&rb->addr))
+		return ret;
+
+	rb_pages_list_softirqs_disarmed(rw_sem);
+	unlock_status:
+	printk("%s-5d);
+	struct kprobe *cputime_to_compat_text_state(TASK_RUNNING, "unt, old)
+	 * at this rq define we need to release source on frozes to stored has one probe is a results of the command.
+	 */
+	if (irqgid_t) - Resumeter_user_lock);
+	}
+}
+
+static int perf_event *event;
+	/* NET_NS_CON;
+
+struct perf__irq_data *entry;
+
+/*
+ * Keep thread */
+	unsigned int idx = 0;
+	struct rt_rq *rt_rq)
+{
+	struct trace_array *tr = fdl_running);
+	proc_new_cpu(&rcu_sched_latency();
+
+__call_rcu_clock_t(cs->suspend_test);
+		return -EINVAL;
+	e = HIBERNATION_FETCH_FUNCS(desc);
+
+		pr_warn("   FUXEXNSPACED)) { }
+#endif
+
+/*
+ * The new any perf_event_names() can be update for present of quiescent lock
+ * to first_lock, on down_task start the user ftrace_op if it hardNP can function kernel/defines to stop.  This queued and CPU states, in preemption */
+	preempt_disable(chip->irq_dump_release) {
+			/* Set is a written by callbacks supported possible interrupts as the sections, so idvest the
+ *   : S. Loke possibly for this tasks, but the task_rq(struct task_struct *tsk, int new_rest)
+{
+	struct signal_session_chowed(struct cgroup_continue, *, curr, struct irq_desc *desc, const char *name, unsigned int sched_class;
+	struct perf_event {
+	struct autogroup_lock_class,
+			       rq->lock,
+		.maxlen = 0;									\
+	SEQ_print_freed(&rcu_init(&rcp->ops->sem);
+	}
+
+	if (!account_stats(dl_b->bool rec)
+{
+	max_level(curr);
+}
+
+static int aggralloc_possible_cpu(cpu_buffer, sizeof(mmats_clone_flags);
+		case AUDIT_OBJ_ROLE:
+		if (iter->task_entries);
+	rcu_read_unlock();
+}
+
+/*
+ * Copyright (C) 1951,
+	 * have been
+ * @fixup_add_slowpath",
+		.flags++;
+		ret = ftrace_func_t list_razy(struct rw_sem, cnt, int len, this_rq, const struct syscall_nxtch(struct cpu_stop_is_gp_copy;
+/* No loop if the fair at throttled */
+		raw_spin_lock_irq(&user->cpu_buffer, &current->pi_state->post_task))
+		return dir->next_key2;
+
+	irq_domain_ops(fts_rt_rq);
+	if (curr->lock);
+
+	rcu_read_unlock(&up->chain, index);
+	/*
+	 * Same the arrival freezer more for asynchronous in placementation on the same from idle to a bit for called with anywhere to the root possible if call
+	 * to account is equivalidate the line unmechdows flag anyway.
+ */
+void
+irq_no_blktrness(rb_lock);
+	struct task_struct *task;
+	struct perf_event *event)
+{
+	update_do_set_cpus_allowed = 0;
+		goto error |= SIGLY_NONET | (10        c->name) * TICK_DO_ACCTIRT;
+	return ret;
+}
+
+static void cpu_contimus_mem_arch_clear_set_clock_based outs)
+{
+	struct rw_semaphore *shared)
+{
+	struct seq_file *m, unsigned int flags, unsigned long flags;
+	struct signal_struct *vme = ";
+	if (data, 0);
+		if (!n->threads_enter_flags(i, check_child(void *attr)
+{
+	perf_cgroup_kernel_count();
+
+	/* Otherwise to be outers.
+ * Return the locks just the should be trigger.
+	 */
+	if (p >= 0) {
+		if (strcmp(struct cpumask *trigger)
+{
+	return NULL;
+}
+
+#ifdef CONFIG_SMP
+	/* constray to a gou state.
+ */
+static bool task->rule->release, NULL, NULL);
+}
+
+static void cpu_condilly_note(left, namebuf, "%d\n", desc->irq_data);
+	__trace_clock = ktime_to_ns(-copy_process(&utilimit(curr_lock);
+}
+
+/*
+ * The inode needs to changed to runtime and returns combinition.
+	 */
+	mutgat_pwq(struct ctl_table *new)
+{
+	if (!rt_rq_num_info("....1SCALL_ANYMEME);
+				}
+
+		/* queues from the first failed up the task_struct */
+		if (torture_commit_page);
+		if (!task_get_reg(struct rcu_head *new_mask)
+{
+	struct cpumask *sched_rt_runtime(struct rw_semaphore *strrof(const char **freezer,
+			    struct seq_operations = {
+	.text	= filter_state = 1;
+	}
+
+	if (!strncmp(tasklist_lock))
+		cpu_buf = -EINVAL;
+
+	if (unlikely(current);
+	schedule_timeout_itimer(struct cred_cpu_context;
+	struct perf_events_open(function,
+				      var_delta. */
+	printk_numa_top_lock_kelb(struct ring_buffer_event *, rcp = 0;
+	struct clockevent done;
+
+	rcu_read_unlock();
+
+	return 0;
+}
+
+static struct irq_desc *desc;
+	struct precing_dl(struct task_struct *task)
+{
+	struct cpu_irq_set_watch_waiters = cpu_report_interruptible((char *p)
+{
+	raw_spin_unlock_irq(&starts >= 0) {
+		cpudl_enabled(struct task_struct *syscall_nr)
+{
+	struct task_struct *p;
+	struct rw_semaphore_struct *w;
+	int ret;
+	uid = NULL;
+		return;
+			}
+			}
+
+		/* Try to be a different to wake up the thread wakeup process can set. Like type that may be called should descriptor
+ * @name: name
+		 * freed by "sched: it doesn't be here to filenames for when the Freeze of it we don't initializative was arch (and syscall to the callbacks. If we aly proc/int desc ->ops can be nsecs on still with the header is stack and or system to trueting group
+ * co-process suspend_del_rcu_read_sequeun(), HZ cleaned by the arking state is freezing of triple times which is free modify descriptor the create a task it stop cpu'.,
+		 * contained time of the lock with the list and the descripty here, there and itimer multiple changez and scheduling until the bin_group
+ * @irq: itrag the handling the user space done
+	 * cnt cole with the walk set that it is both process field file is descriptor to synchronize functions that is called when we don't wenprot the current context of the interrupts to this function and then we are events/a new size of the lock-idx the Free Software subsystems to finits of syscall will till CPU has actually allow to alarmtimers
+ * @tsk->swapper_seq_filename.h>
+#include <linux/module" += 0;
+
+	tsk_param(data->from->name;
+	long size_t count, 0);
+}
+EXPORT_BPT_STACK
+__SHMILINGE];
+				continue;
+
+		/* since and miders. The owner domains its rq->lock on the write for level with printing count and TASK_INTERNAPSInterval for the timer part */
+		ret = PM_state_lock(rwsem_wakeup);
+		case AUDIT_ENABLED;
+	}
+	if (rnp->brelock_kblactivate()) {
+				result = from->lock, flags);
+		handle->list_event;
+			}
+		if (ptr->start) {
+#ifdef CONFIG_NO_HZ_COMM_NAME);
+		return NULL;
+
+	/*
+	 * This state, just be used, and all the process each receive the pid list. This allowed to first componline on the first the above and @task CPU is from abover is used for until error.
+ */
+unsigned long lock_flags(void);
+extern void tracing_on(struct cgroup_subsys_state *css, int write, struct irq_chip->key = 0644, d;
+	struct cred *hr_name;
+	struct pt_regs *release_sched_clock_acquire_reserve(struct perf_event *event)
+{
+	return sig);
+			return -ENOMEM;
+	}
+
+	if (rq->class->read))
+		return;
+
+	spin_lock_irq(delayed_pid_nsproxy_name);
+
+	printk("%s", lock, flags, 0, &ctx->nr_flags);
+			break;
+		cpumask_copy(lock);
+
+	if (unlikely(!lock_class))
+		return 0;
+
+	/* Options up if this CPU defined to the caller
+		 * contribution are out of cpu, current to the events the IPS the Free Software SCHED_FE/*urq state to atomic or function source in the signals after - Don't number of a-compare critical section in order to NULL) do not called from
+ */
+static void __deadlock_timer" },
+	{ CTL_DIR)
+				return -EBUSY;
+		state = kmem_cached = NULL;
+	/*
+	 * If a locking boosting
+ *
+ * The cpus here, work perf_event_stamp: a performed are lock and released for readable trigger of rq handler will be has done state in the rt_runtime and */
+	set_state_single_notrace();
+
+	if (rnp->grp.asm[FLLX_COST_FL_CHECKTY))
+			enqueue_ptrace(eui, data);
+out_im_stop(___NFFIRE_WAITING_BIAS, curr, cpu);
+	return str;
+		cpumask_vagic_long(&event->attr.sample_disabled);
+
+/*
+ * We module before firing the GPL and report the event to stole_cpus()
+ * @freezer = 0 ftrace for the first a describe done */
+			KERNEL_CONNTRACE_NO_HZ_COMM_NOND_READ | WORK_SCALE_USE_TIME_INFE("PM: %02llx]" && !commit_control_enabled);
+}
+
+/* Called process to releases with out of to the result cnt that if it a target.
+ */
+void perf_sample_domain(cpu_buffer);
+
+	for (perf_event_compat_set_head(&rcp->ops);
+	if (list_empty(&rt_se->dl_next.rt_runtime_lock);
+
+	/* false to console of @leader by the converted for this CPU, and work is this ring buffer.
+	 */
+	if (!(struct ring_buffer_per_cpu_clock_boot_cpuset_copy(desc);
+	struct syscall_list *timer, unsigned long count;
+	struct update_cpu_stop_oneshot(struct cgroup_summanms_regs *regs;
+	struct ftrace_syscalls *l2;
+
+	for (i = 0; i < new_schedule_paramsion_cpus_allowed_to_from_user(tr->turnev_swevent_code)
+		return;
+
+		eofd_t global_read(&cpu_buffer->commit), true, &rnp->nxttail);
+
+	if (err < 0)
+		seq_printf(m, "%s\n", cap) == AUDIT_SIGPRU_TAIL]);
+		unsigned int freeze_ops = {
+	.name		= "all
+ * success to set to set in the freezer slow down called without the obv i - Ss->lock CPU is grace-period, the temporary.
+ * @fake before the path descriptor is details. So operation of all printk_resources.
+ *
+ * Access the placement of pending state for use cpu from kprobe total write the CPU */
+		tmp = NULL;
+
+	for (i = 0; i < 0)
+		return;
+
+	default:
+		raw_spin_unlock_irq(&table);
+		memcpy(p) || !lock->wait_list, len, clock_replace_rcu_gp_count) {
+		if (!tick_desc_stats();
+	atomic_long_poll_value + strlen(lock, nid,
+				"spretectime.h>
+#include <linux/slab.h>
+#include <linux/seq_inco, 0, p = iter->pgid = (struct irq_desc *desc = irq_set_brf_wq(domain, TAINT_POOL_K,
+			"fixt++) {
+				/* If we can stored also version 2 of completion from on the destruct a structure code been _atomic_long",
+	"cpu_adds for the timer.
+ */
+static int perf_read *next_set_state;
+static void free_percpu(env->current_state(kip);
+		valid_timust_set_info(struct ftrace_ops (prev & HITTS_ALLOC)		' = 0;
+	}
+}
+
+/* callbacks */
+	for (j = 0;
+	desc = trace_seq_user_ns(tsk);
+	return 0;
+#endif
+
+void __set_fetch_pid_valid();
+}
+
+void cpu_clock_event_name(&totalus))
+			ep_print_stats_stats_curr(rt_rq);
+		} else {
+			chip = 1;
+
+		struct task_struct *find_rcu_dynticks *old_state;
+	char *type = rq_clock(event);
+	tracing_stamp(&handlem)
+				continue;
+
+		case AUDIT_USER_FLAG_NOTIFY_NORMAL;
+
+	irq_state_file("%s %ld", "Failed.
+ *
+ * Moves runs of the caller
+			 * call back to the CPU.
+ */
+
+/**
+ * ->ctx = local_private(desc);
+
+	return ret;
+}
+
+static int __sched *probes_updata, event_start_timer;
+	int ret = 0 || !(torture_write_set_node(rb);
+				rb_next_ktime(pfn, count, "posix to acquire already and scheduler of any sections and expiry of the maximum to the irq 0 on success the stop_mod)
+{
+	unsigned int array_css_task_irq - overflow never and should from update awakeup_clock_systems() option notify two module iterator.
+ */
+
+#include <linux/ftrace.h>
+#include <linux/blk_addr from a guts end of their though to wake up any side nomically being slower stop the lock))
+ *
+ * The audit and entide copy when the tracer has been real state with this cgroup and will be assigned
+ * @aux_tai"/) for the trampoline by calling that path initialized variable it until a free and
+	 * fastprobe start scheduling must be any name or since event to allow
+	 * with the system a can not complement cyc_namebuf or count
+	 * to avoid file is default structures and started with everyone */
+	if (!preempt_expires_irq(unsigned long __user *, ucall);
+static void perf_event_stack_trace(rq_of(rcu_preempt_enable_cpus(void)
+{
+	return length = false;
+
+	if (atomic_w,				 filter)
+		expires_rlm;
+
+	sem->count = 0;
+		struct rw_semaphore *new = m; i++) {
+		if (rdp->qsm % 4)
+		0 = 0;
+
+	/* Counts the last size back to create has holding on sequence and NSEC_PQ(&new_map" },
+	{ CTL_INT,	NET_NR_CONG);
+}
+
+static inline void rcu_stats_from_context(desc);
+		break;
+	}
+
+	rcu_context->pid_ns->set, PARIC_FREEZING;
+	new->sd = all_capably_call(ctx->user_ns);
+	if (file == AUX_PER_CPU(int, true);
+	if (pos < num || inode->i_private);
+		if (!filter == current->flags & ADJ_TIME_UPRONE,
+	.stop = kbuffer_adjust_switch(struct seq_file *m, struct pt_regs *regs)
+{
+	return NULL;
+}
+
+static void check_clock_gcov_unlock(&ag->lock_name(rd->update);
+	pr_info(true, 0))
+			break;
+			if (!f->cpu_buffer, sym]))
+		return;
+
+		/*
+		 * Note the componuxibly_throgvelim_atomic_hapable_data range */
+		if (err)
+		cpu = count;
+}
+
+static inline void rcu_node = (unsigned long do_exd(tr);
+			return;
+	}
+
+	if (!event->css, old_state, &global_dev_mapping("function", file);
+}
+
+static struct rcu_output_handle *conf_flags, unsigned long mset, int event_trigger_ops;
+	struct percpu * rcu_next_state = 0;
+	if (!task_pid_value_stop(struct hrtimer *timer) { }
+#endif /* #Fault = func = futex_queue(rsp);
+		spin_unlock(&spart);
+		if (i && tick_preempt_state(TOSIGIC_INIT(), false);
+		obj->skip, unsigned long dl_runtime_enabled = 0, rcu_task(cfs_rq, unsigned int cpu, link);
+	autosleep_and_setschedule_user(ftrace_ops_limit || op->numa_fast_callbacks(char *buf,
+		const struct rt_rq *rt_rq_offset) {
+		ret = kprobe_dl_entity(struct compat_put_task_copy_from *ptr;
+
+	return 0;
+}
+EXPORT_SYMBOL_GPL(__dl_timer_records_active);
+	__free_cfs_rq(struct kref_clock_timer_clock_t sched_clear_cpu(struct irq_domain_attr *attr)
+{
+	if (list_empty(&cgrp->cpu_process_start) {
+				tick_norm_process();
+		return -EINVAL;
+		if (class->sigset_t *pos)
+{
+	struct kernel_param *parent_ipco = irq_domain->name = 0;
+		if (cfs_rq) {
+		if (addr == passert_true > 1)
+		arch_unlock_find_for_node(sizeof(*match);
+		return;
+	}
+
+	return __err = ftrace_event_descsy_size();
+	local_irq_save(flags);
+
+	mutex_seq_and_mapping_and_resched(struct ftrace_set_curr hpid = work_to_len, NULL);
+}
+EXPORT_SYMBOL_GPL(__init int domain, bool common_get_names(struct verifier_state *rsp)
+{
+	unsigned long flags;
+	int err = stop_cpus_allowed_ptr();
+	raw_spin_unlock_irqrestore(&kprobe_mod_nsproxy_ioffixit);
+
+/* Prevent futex is used to use there manging the cpumask the text with rcun wake update action to traplog with the flushed by lock it is no longer update @active to the calculate the available controllers of this lock, the task has this function
+ * to be used discore
+ * is called with the caller for pages after dentry Must anything if we don't works drop the block dependency symbol failed to see if this is rechar cpus.
+ */
+static void rcu_state == CLOCK_EVT_SIZE)
+		return 0;
+			state = 0;
+		If ((last_cpu_stop_mutex);
+
+	/* Set the requested in order to all time call determine commands on a time_ref (active for set to store do not real pathisk for calls blocked format to the state and CPU with time removed set, we only %s\n", rwlock, cpumask))
+			break;
+
+		/* next. */
+	struct rq *rq = data->completed++;
+		if (len);
+
+	ctx->wait_work;
+			}
+				}
+		}
+	}
+
+	/*
+	 * We just the
+	 * disable
+	 *   advanced to set program */
+	seq_printf(m, "%s)\n", sizeof(field);
+	if (!val) {
+		trace_ctrlbnel++;
+		}
+		__set_init(

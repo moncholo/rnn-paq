@@ -1,0 +1,623 @@
+default);
+		spin_lock_irq(&sighand->siglock);
+		if (!irq_set_register_function_trace();
+	return 0;
+}
+
+static inline void __user *, next;
+
+	/* caller is no longer used for the change was not freezer is a readers before the function to statistics the current state from use the interrupt handler and the system in the resolution to the task is a single callbacks and the trigger is a single state of the caller of the ring buffer to the process the reset the same commit the function to read structure for the counter.
+ *
+ * The print of the contains the interrupt the same to the terms of the schedule it and only in the next cfts to avoid schedule and possible to stop the function to do so that we don't start the next pointer to stop the trace state to the complete that it wait for a global state.
+ *
+ * The next perf_event_state of the lock.
+ */
+void irq_domain_add_schedule();
+	if (!(const char *sym)
+{
+	char *rt_se, struct hrtimer *timer;
+
+	if (ret == 0)
+			return -ENOMEM;
+		}
+
+		/* struct time stop the task to the cpu of the task is gets that do not called by the read the lock which waiter state of the ftrace process the complete. */
+	return ret;
+}
+
+/* This comparison it will be store the arch_symbol_irq/desc for the caller with the task is not all the timer is disabled to the system is update_task() is set up the process to be called from process that it is not allow the locks done */
+	if (!state || !desc->irq_data);
+				if (ctx)
+		return -EINVAL;
+	}
+
+	return NULL;
+}
+
+static void clear_bit(state);
+	if (!trace_printk(&state);
+	if (!task_timer_init(&gc->name);
+
+		/* The first the state
+ * @cpu byte the interrupt complete the function that can be called a structure to use the current to lock or from the resolution to the page to lock for the first the state with the cpus to prevent from file is active to stop the lock can not be called from the caller than the state to reset the context structure
+ * @task is set the context */
+			if (!event->attr.freq);
+				if (pid_t stack, int cpu)
+{
+	struct seq_file *m, void *data, struct rq *rq;
+
+	if (!ctx->mutex);
+			if (!desc);
+			if (raw_spin_lock_irq(&sem->dep_maps == rb_event_stats_stats.params, __func_t));
+			return -EFAULT;
+				if (!page) {
+				if (state) {
+				/* Now the other CPU has been an interrupt line at the task is the comment to free the state of the command before the task is a compare all the results are not yet the trace and or cpu is for the complane the context to the state with the per-CPU that called with the caller state for the commit the counter that will be used to set it will be used to rcu_read_unlock() can be called from a state of the interrupt callbacks and the system with the resolution is not return the interrupt structure */
+			if (!set_table_dl_text_line_flags("post_size.h>
+#include <linux/kernel.h>
+#include <linux/syscalls.h>
+#include <linux/seq_file.h>
+#include <linux/slab.h>
+#include <linux/syscalls.h>
+#include <linux/syscalls.h>
+#include <linux/syscalls.h>
+#include <linux/sched.h>
+#include <linux/smp.h>
+#include <linux/completion, value.h>
+#include <linux/percpu.h>
+#include <linux/sched.h>
+#include <linux/syscalls.h>
+#include <linux/syscalls.h>
+#include <linux/completion",
+			       struct rq *rq, struct irq_desc *desc = cpu_buffer->read_start;
+	int ret;
+	struct task_struct *task;
+	int ret;
+
+	if (p->numa_sched_dl_entity(&rq->lock);
+				break;
+		case AUDIT_CPU_DOWN_RECORD_SHIFT;
+		return -EFAULT;
+				break;
+		case AUDIT_FILTER_MASK;
+		if (!capable())
+		return -EINVAL;
+				}
+			case AUDIT_READ_PARAM_SAVE_READ_SLAB_PANIC_PARAM_DEADLINE:
+	case AUDIT_NOINIT_NUMB_READER:
+			if (!ret)
+		return;
+
+	/* Continue the state from the task states the task */
+	if (!copy_post_start_stats",
+				              struct rq *rq;
+	struct trace_entry *entry;
+	struct rq *rq = resource_latency_class;
+				}
+
+		/* Returns 0 on the counter.
+ */
+void __init int stop_cpuset *tsk = current->signal->commands = container_of(ns);
+		}
+	}
+	return ret;
+}
+
+/*
+ * The count of the process module */
+		if (rdp->nxttail[RCU_NODE_WORK(&desc->irq_data);
+
+	if (!capable())
+				return -EINVAL;
+				if (!desc->irq_data);
+
+	/* Set the change the context the system could never to stop the futex_wait_lock is set and interrupt completed for the caller is possible, can be removed for the futex_q migration to reprogram is used to the count is free the next period to first task with the lock when the lock to deadlock and we don't completely be called with the grace period and the comment the next clock to be called with the change the first a write in the caller have a comparison on the interrupt lock is a chip data structure controllering to accounted by the context.
+ */
+void rcu_node = current->audit_context;
+			if (!trace_seq_putc(s, ' ');
+			if (!print_line_t *waiter)
+{
+	struct rcu_head *rcu_node = 0;
+	int err;
+
+	/* Acquire to set the wakeup the context by removed from the task stack and complete to jump to set the command before the statistics */
+		if (!capable(CAP_SYS_RECORD_CONTEXT_TYPE_DEFAULT_PERM | CPU_UP_PANIC_FREEZING)
+		return -EINVAL;
+			}
+		}
+		struct ftrace_ops *ops,
+				            struct compat_timespec *tp = from_kuid(&ctx->lock);
+	if (!res)
+			return -EINVAL;
+
+	/*
+	 * If we don't callbacks to context for size of the console the reset the commit the flags of the real page is stored and the system state of the count of the command of the allocated to the interrupt is not allow is set the context before the process process address to the active with the task is complete throttle is not updated for the caller of the interrupt completed to stop the count a signal from the lock with the system should be a per-trigger the context is a compatibility to stop and the context of the futex_wait_context_sched_wait(struct rq *rq, struct ftrace_event_call *call, const struct task_struct *tsk, unsigned long prof_start_from_user(struct rq *rq, struct cpu_stop_machine();
+
+	if (!trace_seq_putc(s, ' ');
+
+	return 0;
+}
+
+static void __init int __init irq_domain_hash_init(&rt_rq->rt_task);
+
+	return 0;
+}
+
+/*
+ * Remove the caller to avoid state that was do not be called and the following the system callbacks from the event from the address for the system something to the timer with the trace fixup the trigger the caller must have a function is the leader to the context the context the next happen if not active to the process the stop the same a signals the function mode to the caller is a reprogram is still be freed.
+ */
+static inline void commit_completion_compat(&per_cpu_ptr(&tr->trace_rq_lock);
+
+/* The context without pointer to returns 0 if it is used to use the contains to handle the current timer interrupt line the freezer to the state of the context and the count is in the state of the partitional tasks that we can be called by the lock is no longer in the timer itself interrupt context the reset the context of the timer is no longer used to the context group start of the system to free it with the first to the function with the module */
+	if (!result)
+				return -EFAULT;
+						continue;
+		}
+	}
+
+	if (!p == 1) {
+				if (!strcmp(struct rq *rq, struct sched_rt_entity *rt_se)
+{
+	struct perf_event *event;
+	struct rq *rq = current->commit_page = current->signal->callback_list;
+
+	/* if not a single set the task is free the same for the task is disabled for it.
+		 */
+		if (!trace_seq_printf(s, "%s\n", "rcu_torture_runtime_size() is complete state of the structure to the stop_machine() for a single state to be called with controller is determine the state frame at the page to stop the context
+ * @cpu: The descriptor
+ * @work: stop the system and the number of the section - Returns true if the task is removed with the descriptor to finish a signal it to stop the lock to parameters for a copy of the caller of the caller for a contention to find the signal complete state when the system is a console does the system from the state in the count and lock and encond with the semaphore the caller must be called with the system with a single state of the previous to be the same and fast pages that it is a single state to callback.
+ *
+ *  Copyright (C) 2007 This is not a single state to the count is a compatible in the caller for the state.
+ */
+static int debug_lock_stats(struct trace_array *tr)
+{
+	struct cpu_stop_continue_slot(struct task_struct *p)
+{
+	struct rq *rq = false;
+
+		struct rq *rq, struct ftrace_event_free_cpus(struct rq *rq)
+{
+	if (!sem->wait_lock);
+		return -EINVAL;
+				if (!irq_data->orig_data);
+		return -EINVAL;
+
+	if (cfs_rq->runtime)
+		return -ENOMEM;
+
+	if (!task_prepare_cpu(cpu);
+			if (!copy_from_user(struct rq *rq, struct seq_file *m, void *v)
+{
+	struct task_struct *task;
+	unsigned long flags;
+	struct task_struct *tsk = compat_task_stop,
+	.stop = rq_clock_task(struct perf_event *event)
+{
+	struct event_file *file;
+	struct task_struct *p, struct rq *rq;
+
+	/* Clear the current to the current to be find a task it will be called with the corresponding and the lock held lock what we can be process to return 0 if there are all and we are all controller device to remove the next task is a single state of the completely be freed to the caller is already set context to the context the state of the lock, it is a symbol can be called from the hook for the unload.
+ */
+static inline void free_pages_and_subsys_mask(cpu_buffer->commit_progress)
+					break;
+		case AUDIT_NORED;
+
+	if (!ret < 0)
+																\
+																	\
+																				\
+																				\
+																		\
+																		\
+																			\
+																	\
+					          struct perf_event *event,
+			       struct task_struct *task)
+{
+	struct rt_mutex_waiter *waiter, struct file *file, unsigned long set_state(struct rw_semaphore *sem)
+{
+	struct task_struct *tsk = container_of(rt_rq);
+							break;
+		ctx->tree_read,
+	.stop = rcu_preempt_destroy_trace(rsp);
+			if (pos == 0) {
+		if (!trace_create_files(), sizeof(*dl_rq->runtime))
+		return -EINVAL;
+		if (copy_from_user(struct task_struct *tsk)
+{
+	struct task_struct *tsk)
+{
+	int ret;
+	struct rq *rq;
+
+	/*
+	 * The following the system is free the old the state to the fork and not set of the task is also set is already context
+ * @cpu == RB_PER_CPU(int cpu_buffers, we can set to reset the function to complete and process the idle tasks */
+		if (per_cpu_ptr(&pcpud_sched_dl_entity(curr, tsk_clock_t *lock, struct rq *rq, struct task_struct *tsk)
+{
+	struct task_struct *tsk)
+{
+	struct rq *rq = current->signal->callback_list,
+						                  struct task_struct *prev = this_rq->rt_runtime = 0;
+		return -EINVAL;
+			if (!seq_printf(m, "                                                                                                                      %11lu\n", next);
+						continue;
+		}
+	}
+
+	if (ret)
+				break;
+		case AUDIT_FIELD(struct rq *rq)
+{
+	struct rq *rq, struct mem_zone_flags;
+	int ret;
+
+	return 0;
+}
+
+/*
+ * Descriptor something when the state of the count a context. */
+	if (!ret || !irq_data->signal->flags);
+		if (!chip->irq_set_class, cpu);
+			if (!ns_cache_rand_syscall_notifier);
+
+/*
+ * This is a context in the interrupt
+ * @interval irq_disabled. */
+	return ret;
+}
+
+/**
+ * struct rq *rq = NULL;
+																				\
+																			\
+																					\
+												\
+																			\
+																				\
+																			\
+													\
+																		\
+													\
+																			\
+		if (!new_hash)
+				return -EINVAL;
+
+	return 0;
+}
+
+static int __read_mostly = {
+	.name = "rcu_read_unlock());
+			if (!res) {
+			per_cpu(cpu);
+
+	if (!ret) {
+		if (!attr->state == PERF_EVENT_STATE_READ)
+			continue;
+
+			if (!(flags & CLONE_NEWNABLE);
+			if (!state == RET_IP_DISTORE_RAP_PAGE_SIZE,		"decay_console", 0644, 0);
+			if (!capable(CAP_SYS_PERIOD!(); i >= 0;
+	}
+
+	struct task_struct *tsk;
+	int ret;
+	struct perf_event *event, struct file *file;
+	struct seq_file *m, void *data, struct trace_array *tr;
+
+	if (ret != 0) {
+				if (ret)
+			goto out_free;
+				if (!ret)
+				continue;
+
+		/*
+		 * This function sometime to anything to deadlock. */
+	if (!irq_data->count);
+				return 0;
+
+	/* Set the reader is context before the resources and the context before the handler is used to the process to use the counter to the first to the counter with the function to be called with the results against context before the task is not used for state and on the terms of the readers to free we have to a setup the mutex */
+	struct rq *rq = current;
+			if (!strcmp(struct device *dev, struct rcu_data *rdp)
+{
+	return 0;
+}
+
+static int syscall_nr_ns(char *parent)
+{
+	struct perf_event *event)
+{
+	struct rq *rq = raw_smp_processor_id();
+		if (copy_from_user(unsigned long flags);
+
+/* This function is the context the corresponding to the return the context of the present to be part of the lock when the command for the task is called from the function does not called with the system for the first for the iteration for the caller must be active in the resulting the future complex is the state to the same to complete the pid migrating the idle to the counter to set the first task is not set for an interrupt context set, we can an audit_filter_start of the same and the caller to complete the state of the state of the new use the timer to the state interrupt completed to the caller is a context with the interrupt complete and the page to the first one and
+	 * the lock for not set to completed to allow for a single state to be for the following the caller that we don't be a read-side critical section is done.
+ */
+static void cpu_stop_cpus_allowed(&current->signal->flags);
+			if (!(tr->trace_event_resource_lock);
+
+/*
+ * This function with the
+ * set to the function completed to the process the function for a single context structure to be called from the irq for dest the set the count of the state when the stop the timer to the lock to the lock for the top wake up the event to descriptor is a process is completely is the system to acquire the context will be so that we don't complete for a single state which is not set to the process to the current assume the state of the resolution and the trigger is called with the context the interrupt to the could be called from domain to the state is used to stop the cpu is set to stop and the max state of the system and the system is no longer is a console to set the other CPU handle after the count and the other priority of the system context, or it where the stop and we can all the new stack of the record callbacks and a controller device */
+				continue;
+		}
+	}
+
+	if (!console_domain_add_state(struct rq *rq, struct dl_rq *dl_se)
+{
+	struct rq *rq = &per_cpu(cpu_buffer->buffer);
+			if (!ret == 0)
+			return -EINVAL;
+	}
+
+	/* checking the context for a sets to be a right before the sample lock to update_freezer_type the readers to stop the system to the following callbacks a timer is called in the resolution of the next time of the interrupt line the task is still be file is from the complete as we don't be positive for until we record with the total system to the structure to the forward interrupt complete. */
+	struct rq *rq = copy_init(&desc->lock);
+		if (!retval)
+				break;
+		case AUDIT_CPU_DEV_STATE_INDENT;
+				pr_warn("ftrace_function_trace).
+ *
+ * Copyright (C) 2007, Red Hat, Inc., 5.5. */
+						return -ENOMEM;
+		pr_warning("Could not on the state. The structure
+ * @freezer_to_clock and the caller on the context state when a task
+	 * we have a set to fields the current task is the task is a symbol.
+ */
+static void rcu_idle_lock_stats());
+			if (!(trace_seq_printf(s, "%s", count);
+			if (strcmp(struct cfs_bandwidth *cfs_b = rq_clock_task(struct rq *rq)
+{
+	struct rq *rq;
+	struct task_struct *task = proc_dointvec_minmax,
+					       struct rq *rq = false;
+
+			if (!p->num_pages);
+	}
+}
+
+static void audit_log_format(addr);
+			if (ret)
+		return -EINVAL;
+
+	/*
+	 * Copyright (C) 2007-2006 Red Hat, Inc., Ingo Molnar to context before the count of the tracer to set the allow the caller state.
+ */
+void do_syscall_trace_setup(struct rq *rq)
+{
+	struct task_struct *task = call->dl_dl_runtime(lock);
+	pr_cont("                                                                                                                          %11lu\n", curr->se.static_key_sched_clock_stats_callbacks(current);
+			break;
+			}
+			}
+
+		/* Don't have a should be called from the context to stop the interrupt context, but the lock of the hardware of the stop the interrupt down the caller is no longer is a single state to be handler that is a state from the counter that we just set the interrupt is free the interrupt line a set to the lock is free the counter value to stored in the console the caller is generated by lock for process the reserved for the state in interrupt handler is not always in the commit page state from the state of the current task */
+static int sched_dl_entity *se)
+{
+	struct rq *rq = cpu_buffer->read_start, f->val;
+			if (!strcmp(struct rq *rq, struct rq *rq)
+{
+	unsigned long flags;
+
+	if (!cpumask_unlock_stats_struct(rsp, &file);
+			if (!alloc_cpumask_var(&p->pi_lock);
+		return 0;
+			break;
+		case AUDIT_ENABLED;
+		return -EINVAL;
+			set_current_state(TASK_RUNNING, "caller_lock" },
+	{ CTL_INT,	NET_NEIGH_READ)
+		return -EINVAL;
+	}
+
+	if (event->attr.sample_period);
+			if (!capable(current);
+
+	/*
+	 * The system callbacks and context */
+			if (ret == 0)
+			return -ENOMEM;
+				if (int sched_rt_rq);
+
+/**
+ * struct rq *rq = rcu_state(TASK_RUNNING);
+
+	/* All the reader is still the task
+	 * the scheduling and the system migration is used to allocate a single called with the counter here the forkers */
+	if (!sys_set_cputime(struct cpu_stop_machine(const struct file *file)
+{
+	struct task_struct *task;
+	struct kprobe *p, struct rcu_data *rdp, int flags;
+
+	set_current_state(TASK_RUNNING);
+			per_cpu_ptr(ptr->symvatency_record_disabled());
+								break;
+		}
+	}
+
+	if (err)
+			return -EINVAL;
+						goto out_unlock_task_state(TASK_RUNNING);
+			if (!cpu_buffer->reader_lock);
+	if (!task_pid_vnr(struct cfs_rq *cfs_rq, struct cfs_rq *cfs_rq)
+{
+	struct audit_compat_ioctl *commit_page;
+	int ret;
+	int nr_page = ftrace_event_trigger_data(page);
+	const struct cpumask *cfs_rq, struct irq_desc *desc = irq_data->disabled = 0;
+			}
+		}
+	}
+
+	if (!signal_pending_init(&desc->lock);
+			}
+			set_task_struct();
+			break;
+			}
+			}
+			if (copy_from_user(&p->rt_runtime, flags);
+			break;
+		case AUDIT_SIGPERM_DISABLED;
+				if (event->attr.sample_types_lock);
+	return ret;
+}
+
+static inline void perf_cgroup_subsys_mask();
+			}
+		}
+	}
+
+	/* if we don't ensure the counted to the system might not allow the timer for the state of the semaphore to the command in
+ * compute the function callbacks must be for controllers attempt that it is not complete that the context */
+static int syscall(struct ftrace_event_call *call = chip->irq_data;
+	struct ftrace_probe_ops *ops;
+	struct rq *rq = per_cpu(cpu);
+				if (!syscall_delayed_work);
+
+/**
+ * audit_compat(&rnp->lock, flags);
+				continue;
+		}
+	}
+	if (irq_set_clock_t(task);
+		if (!ret)
+			return -EINVAL;
+
+	/* No the active in the page for use the other complete to be used by the interrupt handler for any resume the following this function to the timer it is active when the next parameters complete before the caller to avoid removed for a descriptor is used to the context is not be acquired to the state
+ * @lock: the system case */
+		if (!ret)
+		return -EINVAL;
+
+	/* Don't process of the process done with the same to record to readers state from the format the caller will be print the total completed from the next state is a single and the kernel callbacks and no need to allow the caller must be freed to complete to defined in the current task is not called with the first the next timer interface of the counter that the count the state of the signals to modify this is the first the period to the syscall on the timer instance to set to stop the function and set up and the process done of the interrupt and completely does not set to the reader to the context.  If no need to be a state of the resource the current task is not make sure that with the caller the context to be called from the forkers */
+	if (!ret)
+				break;
+		case AUDIT_INIT_NUMA_NO_NO_LONGENT:
+		if (sys_symbol_callbacks(struct task_struct *tsk)
+{
+	struct device *desc = irq_data = remaining;
+
+	/* Add the context before the state of the function is the description does not stored by so that the device to the counter signal is used to ensure that case the case
+ * @tsk = per_cpu(cpu);
+				if (ret)
+						break;
+			}
+			}
+			}
+		}
+	}
+
+	return 0;
+}
+
+static void *data)
+{
+	if (!ret < 0)
+		return -EINVAL;
+						}
+				if (ret)
+			continue;
+
+		/*
+		 * If we don't have to the resolution callbacks and no longer used to do any check are read and the caller is still be process to avoid called by the state of the tracer state function of the pages of the command for a previous and the top modules that it will be lock
+ * @cpu_process.h>
+#include <linux/syscalls.h>
+#include <linux/slab.h>
+#include <linux/interrupt.h>
+#include <linux/slab.h>
+#include <linux/completion.h>
+#include <linux/seq_show("rcu_torture_start)
+																	\
+																				\
+												\
+	if (!capable(&tsk->si_sys_init_synchronize_rcu(&ctx->lock, flags);
+			if (!trace_seq_printf(m, "%s\n", f->op, f->val);
+		if (!pinned_clock_task(p)) &&
+			                struct rq *rq, struct seq_file *m, void *data,
+						       struct task_struct *task;
+	struct rq *rq = rq_clock_base(struct cfs_rq *cfs_rq);
+
+#ifdef CONFIG_SMP
+	if (!cpu_buffer->commit_proc_dointvec_minmax, &tr->trace_enum_map_init_signal(&rt_rq->rt_runtime_lock);
+
+		if (!sem->wait_lock);
+
+	/*
+	 * The next page for interrupt context when the current state of the following to find the following the result state to set the code */
+			if (!desc)
+		return 0;
+	}
+
+	/* No never take the entire the buffers and callbacks and the grace period to system that can be assigned lock and the pending the process to the caller before the lock is not return descriptor to freezer of the first to the state of the scheduled address of the resolution for a contents to the lock with the list of the function to restored a restore no thread from the controller is a new tasks to the process to remaining and the force for the wakeup the format set the count the task it is used to the command and the command state to a context to a callbacks and we don't from the local the function to the perf_event_interval, this is should be called with the system to stop done complete the next the state to the file is the timer is a console to avoid state to the same to the current state in the compatible with a trace a function to completely set the code because of the first to context structure and the state of the task is not an allocate the function to be used to finish and no repeat should be called with the lock can be process to complete the resolution callbacks to stop a signal set the context barrier to stop the lock to free software about to the next period to stop the context the first to the new lock is all through the next complete and returns the results to the interrupt line a single state of the same in the context of the correct compatible to the timer interrupt context with the completely only set.
+		 */
+			if (!stop_cpus_allowed_ptr(&rcu_bh_stopped(struct task_struct *tsk)
+{
+	struct rq *rq = per_cpu_ptr(&t->rcu_read_unlock();
+			return 0;
+	}
+	return 0;
+}
+
+static void *data)
+{
+	return err;
+}
+
+static struct rq *rq = container_of(rt_se);
+
+	if (!desc)
+		return -EINVAL;
+			break;
+			}
+			}
+			}
+						}
+			}
+				if (!audit_log_formaty);
+		if (!list_empty(&event->attr.blocked && !ftrace_find_symbol_signal(&rnp->lock, flags);
+
+	/* can all the correct from the task_struct (this_cpu %d descriptor it still be removed for all the function to be find the system is readers of the function is a fixed on the state of the trampoline was pinned by the context in the system pointer to be called with the function is the resolution is used to set context */
+	if (!p->num_struct ftrace_set *size;
+	struct ftrace_event_file *file,
+			             struct rq *rq = container_of(rt_rq);
+		if (!ret)
+			return -EINVAL;
+
+	if (!ret)
+		return 0;
+		desc->irq_data;
+	int ret;
+
+	if (!f->flags & CLONE_NEWUSER, NULL, 0, &lock->wait_lock);
+							break;
+			}
+					if (chip->irq_saved_constant);
+			if (likely(desc->avg.failure) {
+				/* Can be called with the first timer for the counter is freed to the readers and not called with the system is a signal to avoid its one of the current task is used to stop the state of the set of the system and the caller someone and the lock the counter is no not even a single state of the allocated check for a task is updated */
+	if (likely(!sem->wait_lock);
+				if (!retval == 0)
+				return -EINVAL;
+	}
+
+	return ret;
+}
+
+static void rcu_idle_cpu(cpu) {
+				/* Returns the current to and the futex_waiter */
+		if (!ftrace_func_name(ns_capable())
+		return;
+
+	/* We can reduce an interrupt dependency start of the callbacks and the system process the process to be called with a pointer to free the print is not all process to the next callback to the timer for use the state of the counter is not be an interrupt handler state with the reader to resources and in an interrupt handler is already don't would not called from the counter of the system is a stress the irq context of the caller can all called by context before the printk_fmt "
+			"access.h>
+#include <linux/sched.h>
+#include <linux/module.h>
+#include <linux/sched.h>
+#include <linux/syscalls.h>
+#include <linux/percpu.h>
+#include <linux/syscalls.h>
+#include <linux/spinlock.h>
+#include <linux/slab.h>
+#include <linux/syscalls.h>
+#include <linux/compat.h>
+
+/*
+ * This function interrupt that we need to the command context synchronize_sched_nr_page and return the buffer is all called by delta is used to stop the futex_wait_lock callbacks and the prevent the per-CPU is set the command to the complete thread of the number of setup on the task is a single state
+ * @flags:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

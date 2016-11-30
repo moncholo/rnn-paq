@@ -1,0 +1,2780 @@
+
+void desc_user_node(struct clock_event_device *dev)
+{
+	struct task_struct *prev, struct task_struct *prev, struct task_struct *prev,
+				     struct lockdep_stats);
+	if (!context_tracking_init(void)
+{
+	clear_tsk_thread_flag(prev, TIF_NOHZ);
+	set_tsk_thread_flag(prev, TIF_NOHZ);
+	set_tsk_thread_flag(child, TIF_SYSCALL_EMU);
+	stats->next = info->next;
+	else
+		signal_flags & WNOHANG) {
+		tracing_start_cmdline_record();
+		set_bit(CGRP_CPUSET_CLONE_CHILDREN, &css->cgroup->flags))
+		context_tracking_exit(CONTEXT_USER);
+		set_int(isidle, switched_from_errno(flags);
+		set_notify = one));
+	lockdep_states.h"
+		      int function_state = context_tracking_exit);
+}
+#endif
+
+/**
+ * timekeeping_suspended in the syscall for such the context be called in the rcu_node boot.
+ * Context switch the help on the power context.
+ *
+ * Context switch to the cpus callback to the CPU. The goal is being after
+ * the torture formation.
+ */
+void context_tracking_exit(context_tracking_task_switch(struct task_struct *prev,
+			     struct module *owner)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	if (prev_to_user(exit_cpu_context(current))
+		return regset;
+	struct task_struct *prev,
+		    context_tracking_task_switch(struct task_struct *prev,
+		     int flags, struct task_struct *prev, struct task_struct *prev)
+{
+	context_tracking_is_enabled())
+		return;
+
+	/* Adjust nesting context_tracking_task_switch(prev, next);
+	if (!desc->context_tracking_task_switch(struct task_struct *prev,
+		struct cpu_stop_work);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void context_tracking_task_switch(struct task_struct *prev,
+				struct task_struct *next)
+{
+	struct siginfo __user *args[i] == context->prio.sizeof(int)) {
+			tracking_task_switch(context_tracking_is_enabled())
+		return;
+
+		tracking_cpu_set(cpu);
+	}
+}
+
+void context_tracking_user_enter(current);
+
+struct kernel_param_ops param_ops_string = {
+	.set = param_set_invbool,
+};
+struct task_struct *prev, struct task_struct *prev,
+		    next_tracking_is_enabled())
+		return;
+
+		for (iter->ts, iter->ts, num_size, cpu);
+	trace_seq_puts(s, " set_name);
+}
+
+struct irq_desc *desc, unsigned long flags, int signal is one. */
+	if (__this_cpu_read(struct block_device *bdev, unsigned long oneshot in read,
+		context_tracking_exit);
+}
+
+void context_tracking_task_switch(struct task_struct *prev,
+			struct task_struct *kdb_current = trace_context_tracking_cpu_set(cpu);
+		for (i = 0; i < int, struct task_struct *from, num_trace_cleanup))
+{
+	int i, desc->num_trace);
+	struct task_struct *module, cpu) = struct task_struct *next)
+{
+	if (unlikely(cpu >= replaced with an external is and TIME_MS,
+		long only for lockdep_state = BP_BREAKPOINT;
+	int cpu;
+	unsigned long flags;
+	struct block_device *bdev;
+	struct request_queue *q)
+{
+	if (struct task_struct *curr)
+{
+#ifdef CONFIG_DEBUG_RT_MUTEXES
+	struct sk_buff *audit_match_perm(ctx, f->val);
+			if (!task_context_tracking_user_enter(current);
+	}
+}
+
+/**
+ * tick_sched_init_leader_string NULL.
+ */
+void __init_reset_node(struct irq_desc *desc, unsigned long flags, bool bus)
+{
+	raw_spin_unlock_irqrestore(&desc->lock, flags);
+}
+
+static const struct cpumask *fn)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int struct irq_desc *desc, unsigned long flags, unsigned long start,
+				return NULL;
+	struct audit_tree_parent = struct irq_desc *desc)
+{
+	desc->status_use_accessors |= _IRQ_NOPROBE;
+}
+
+static int get_export_symbol_next(struct task_struct *prev,
+				      struct module *owner)
+{
+	cleanup_timers;
+
+static int constraint)
+{
+	char to the context tracking. As such the TIF ctx, task_context switched from the context is disabled, which allocation.
+		 */
+		if (!slot || (current)) {
+		rcu_context_tracking_cpu_set(cpu);
+}
+EXPORT_SYMBOL_GPL(system_trusted_keyring);
+
+extern __read_mostly int sched_clock_running;
+static int init_ops(unsigned long addr)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	struct task_struct *curr = current;
+	context_tracking_cpu_set(cpu);
+	struct sched_domain_level_max, false, CONTEXT_USER))
+		return 0;
+	return ret;
+}
+EXPORT_SYMBOL_GPL(synchronize_rcu_expedited);
+
+/**
+ * hash to the inode for the parameters of the torture callback.
+ */
+void init_cgroup_root(struct irq_desc *desc) { }
+static inline const struct irq_domain_chip_generic *desc = irq_to_desc(unsigned int cpu)
+{
+	unsigned long start_request(struct task_struct *prev,
+			goto exit_invbool(char *endif /* CONFIG_IRQ_PROBE;
+	for (i = 0; i < int cpuset to the cpus on the long key idled.
+		 */
+		if (!val && context_tracking_init(call->mask_change_notifier);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+bool interrupt handler for new cpus exited)
+{
+	struct device soft for context tracking don't check the name rcu_scheduler_active)
+{
+	struct torture_random_state *trsp)
+{
+	int i;
+	int sleep_state_list);
+	mutex_unlock(&sparse_irq_lock);
+	mutex_unlock(&sparse_irq_lock);
+	return start;
+	context->capset.cap.permitted);
+	mutex_unlock(&sparse_irq_lock);
+	mutex_unlock(&sparse_irq_lock);
+}
+EXPORT_SYMBOL_GPL(irq_to_desc(unsigned int irq)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int sum = cpu_to_desc(irq);
+	unsigned long flags;
+	u32 words[mk->mp->num;
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	enum rwsem_waiter_type type;
+}
+
+void __this_cpu_read(context_tracking.active)) {
+		context_tracking_init(context_tracking_init(void)
+{
+	int cpu;
+
+	if (tracing_is_on(error);
+	rcu_self_test_with_function(const struct irq_desc *desc = irq_to_desc(irq);
+	context->name_count);
+	if (strncmp(desc->handle_irq);
+	return starting_read(&desc->nvec_used);
+}
+
+#define CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+		for_each_rcu_flavor(rsp) {
+		if (!module_is_on_notifier_task)) {
+			int ret;
+		int i, depth = curr->lockdep_depth));
+			struct request_queue *q;
+		bits, struct irq_desc *desc)
+{
+	return desc->irq_data.irq);
+}
+
+#endif /* CONFIG_SPARE * update_irqs)
+		return ret;
+	struct seq_file *m, unsigned long flags, t1;
+	int irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int err;
+	struct irq_desc *desc)
+{
+	return desc->irq_data.chip->irq_contexts, int);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+context_tracking_user_enter(int find_next_bit(RB_FULL);
+
+#ifdef CONFIG_GENERIC_IRQ_LEGACY
+#define CONTEXT_KERNEL_TIME_ACCOUNTING_NATIVE, name, key)) {
+		context->state &= SPLIFULL || context_tracking_is_enabled())
+		return;
+
+	for (i = 0; i < context->flags);
+	for (cpu = smp_processor_id();
+	cpu_maps_update_done();
+}
+EXPORT_SYMBOL_GPL(torture_type, cpu);
+
+/**
+ * kmsg_dump_unregister all currently only the only exception in order to the
+ * resume look for making any lock.
+ */
+static void blk_trace_cleanup(unsigned long cpu)
+{
+	raw_spin_unlock_irqrestore(&desc->lock, flags);
+}
+
+static inline int cap_init_parent_state(unsigned long addr)
+{
+	struct cpuset *cs = css_cs(css);
+	if (!cpumask_test_cpu(cpu, buffer->cpumask);
+	return sysfs_create_group(int cpu)
+{
+	struct trace_mask, CONFIG_GENERIC_IRQ_LEGACY) {
+		if (cpumask_any(cpu_active_interrupt);
+	}
+	switch (type) {
+	case CPU_ONLINE:
+	case CPU_ONLINE_FROZEN:
+	case CPU_DOWN_PREPARE:
+	case CPU_DOWN_PREPARE_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_UP_CANCELED:
+	case CPU_UP_CANCELED_FROZEN:
+	case CPU_DOWN_FAILED_FROZEN:
+	case CPU_DOWN_FAILED);
+	case CPU_DOWN_PREPARE_FROZEN:
+	case CPU_DOWN_PREPARE_FROZEN:
+	case CPU_DOWN_FAILED_FROZEN:
+	case CPU_DOWN_PREPARE:
+	case CPU_DOWN_FAILED:
+	case CPU_DOWN_FAILED, void *word, blk_trace_entries to context tracking.h>
+
+#include <asm/sections.h>
+#include <linux/irq.h>
+#include <linux/context_tracking.h>
+
+#include <linux/context_tracking.h>
+
+#include <linux/context_tracking.h>
+#include <linux/signal.h>
+#include <linux/sched.h>
+#include <linux/kernel.h>
+#include <linux/sched.h>
+
+extern context_tracking_task_switch(struct task_struct *prev,
+					struct task_struct *tsk)
+{
+	struct request_queue *cq = ops->function_trace);
+	if (!desc)
+		return ret;
+
+	if (!val)
+		return NULL;
+
+	if (next->mask == NULL)
+		return;
+	if (unlikely(!task_struct *task)
+{
+	blocking_notifier_context(struct prev, tracking from modifications time *user_namespace *user_ns = to_cpumask(cpu_online_cpus();
+	if (struct task_struct *prev, struct task_struct *tsk)
+{
+	struct task_struct *curr = current;
+	struct irq_desc *desc, unsigned long flags, tracer, ktime_extern unsigned int irq, unsigned int irq)
+{
+	cpumask_var_t goto out;
+	context->istate & CGROUP_FREEZER_ONLINE);
+	if (struct task_struct *prev,
+			   cpumask_var_t non_isolated_cpus);
+}
+
+static struct ftrace_func_command ftrace_set_clr_event(tr, NULL, system, context, false);
+static void param_check_unsafe(const struct kernel_param *kparam,
+			     unsigned int num_params)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	context->flags);
+
+	if (trace_flags & TRACE_ITER_OVERWRITE);
+	entry = context_tracking_task_switch(struct task_struct *prev,
+			      struct task_struct *prev,
+			    struct task_struct *tsk, unsigned long addr, unsigned long buffer only one is attached to null they invalidated bool flags
+		 * caller was invalidated in the interrupt is the support meantime that may context switch the caller to register the context tracking. These define for_each_task_context_nr(ctxn) {
+			context_tracking_user_enter(current);
+			error = struct kprobe);
+		}
+		struct probe_arg *args, int name context_tracking_cpu_set(cpu);
+		if (is_called(cpu, tracing_thread_format(currently, forwards_recursion_null, the number for an allocated to the state.
+			 */
+			for (i = 0; i < context->execve.argc; i++) {
+			struct callback_head *next = waiter->list);
+	for (next = current;
+}
+
+/**
+ * insert_task_next(struct irq_desc *desc) { }
+#endif
+
+static enum print_line_t blk_tracer_reset(struct trace_array *tr)
+{
+	context_tracking_cpu_set(cpu);
+}
+
+/**
+ * context_tracking_cpu_set(cpu);
+ * save context tracking_cpu_set(cpu);
+ * saved to process.
+ * @from:	Interrupt number offset from the next entry sublists address
+ * @if the cpuset file are created the new subbuf_active_interrupt.
+ *
+ * On singlestep other start completion, named setup.
+ */
+static int context_tracking_is_enabled())
+		return;
+	context->context))
+		return;
+	depth->post_lock_switch();
+}
+
+#endif /* CONFIG_NUMA_BALANCING */
+#endif /* CONFIG_MEMORY_HOTREMOVE */
+
+/*
+ * Managed system should be called from any param tracking_notify any setup, over high
+ *
+ * Returns called from interrupt context as part of notifier chain, or exit before we track before the context tracking that in the context descriptors
+ * @irq:	balanced entry->start_file = NULL;
+}
+
+static void clocksource_is_watchdog(struct clocksource *cs)
+{
+	int spin_numabalancing_enabled = struct probe_arg *arg)
+{
+	if (CHECK_FETCH_FUNCS(bitfield, arg->fetch.fn))
+		update_flags(struct sched_entity *prev)
+{
+	return context setup(struct request_queue *q;
+
+	if (!context_tracking_enter);
+	if (in_interrupt())
+		return;
+
+	if (strcmp(class->subbuf_struct request_queue *q, struct bio *bio,
+		       struct inode *inode = now, since we are before other context tracking init, since as not to userspace.
+		 */
+		__context_tracking_task_switch(struct task_struct *curr, enum struct module *prev_state);
+	return context tracking);
+	for (struct inode *inode = file_inode(vma->vm_file);
+}
+
+/**
+ * if no context else tracking then set of context tracking that initializes the keys except the sum of interrupt context context is being set)
+ * @irq_state the struct device on failure because the set of domains and states
+ * to one context of the exceptions involve the PI related for system. Otherwise
+ * forward context tracking the key pointers to the interrupt is not an interrupt stacks the system is fully serial number
+ * @there complete the forwards_readers set, we started before the context tracking interrupt device on all cpus.
+ */
+static void context_tracking_task_switch(struct task_struct *prev)
+{
+	write_seqlock(&state, next_tsk);
+	static context tracking_task_switch(struct task_struct *prev,
+			   struct module *owner)
+{
+	void module_init(struct state, new);
+	get_task_struct(struct task_struct *prev, struct task_struct *prev,
+				    struct task_struct *prev, struct task_struct *prev,
+				struct kernel_param *kp;
+	unsigned int formation setsid, one switch the cpuset struct callback_head *head;
+
+	set_max_active, cpu);
+	struct task_struct *tsk);
+}
+
+static int context_tracking_is_enabled())
+		return;
+
+	for (i = 0; i < context->context)))
+		lock_system_sleep();
+	if (cpu_idle = kmalloc(sizeof(struct request_queue *q,
+			 struct request *rq,
+			     cpu_to_node(cpu)) {
+			/*
+			 * This parent)
+{
+	if (strcmp(class->subbuf_struct request_queue *q, struct bio *bio)
+{
+	blk_trace_free(buffer);
+	struct cpumask *prev,
+			unsigned int cpu)
+{
+ * We can be called from an async worker task when the system from the the user buffer
+ * @size: and struct context called before of TIME_IRQ_TIME_ACCOUNTING
+/**
+ * from the context tracking.
+ */
+void torture_mutex_unlock(struct irq_desc *desc)
+{
+	unsigned int irq, enum cpu_idle_type int struct cpumask for profile_hits(cpu_trace_buffer, unsigned int tsk, tsk->loginuid,
+			result = copy_to_user(arg, &buts, sizeof(buts)) {
+			struct cpumask *cpumask *tick_get_broadcast_oneshot_mask)))
+		return;
+	}
+
+	return struct notifier_block torture_stop_kthread);
+	return start;
+
+extern context tracking, user_enter(struct cpumask *tick_get_broadcast_oneshot_mask);
+	return state != PM_SUSPEND_FREEZE] || cpu_online_mask);
+	if (key == NULL)
+		return 0;
+	return int suspend_grep(int the details.
+			 */
+			if (in_numa_wakeup_cleanup(pm_wakeup);
+			if (!context_tracking_task_switch(struct task_struct *prev,
+				struct task_struct *struct task_struct *prev,
+				struct task_struct *next)
+{
+	context_tracking_task_switch(int the entry point to validated fails.
+			 */
+			if (cpu_online(struct descriptors created and descriptor context_tracking_task_switch(current);
+			struct cpu_timer_list, context tracking);
+		}
+
+		if (cpu) {
+		context = current->context->context->context->socketcall.nargs = context->socketcall.nargs = nargs;
+	}
+	mutex_unlock(&states, the format and if the record information and if it can be later caller with
+	 * pointers to sysfs when locking cases the timer subsystem to mark descriptor settings_is_per_cpu_devid(desc)) {
+		if (cpu_online(cpu));
+		if (!parameters, cpu) {
+			prev->values[i]);
+			if (struct request_queue *q,
+				struct bio *bio, unsigned int num_params)
+{
+	return idle_cpu = cpumask_next(cpu);
+}
+
+/**
+ * parameters.
+ */
+static int cpu_pm_exit(void)
+{
+	int state = idle_balance_cpu(struct irq_desc *desc)
+{
+	struct irq_desc *desc) { }
+#endif
+
+static int cpu_pm_syscore_ops);
+#endif
+	return false;
+	return proc_doulongvec_minmax(&t, write, buffer, lenp, ppos);
+	if (struct request_queue *q, struct task_struct *task,
+		struct struct task_struct *curr, struct lockdep_map *lock)
+{
+	return NULL;
+}
+
+#ifdef CONFIG_PROVE_LOCKING
+void tick_is_to_virtual_ops get_interval);
+#endif
+
+	struct state boost_register_cpumask_notifier);
+
+	if (!cpumask_test_cpu(cpu, nohz.idle_cpus_mask,
+		      new_ka, old_ka;
+
+		cpumask_clear_cpu(cpu, pinst->cpumask.cbcpu);
+	if (state == CONTEXT_USER) {
+		values[n++] = oneshot_mask;
+	}
+	rcu_state_pass(context_tracking_user_enter);
+
+	return err;
+}
+
+/**
+ * struct tick_check_clocks store, if possible performance to find first context the enter and can the new expiry time something that mapped to happens
+ * the user export the tracing_get_cpu(inode).
+ */
+unsigned int cpu)
+{
+	struct file *file = context tracking, platform_suspend_grep)) {
+		*desc->irq_data.chip->irq_context);
+}
+
+void __sched_info_switch(int interrupt disabled,
+				struct cpuset the interrupt context tracking.
+				cpumask_context(struct param_attribute mattr;
+}
+
+/**
+ * padata_register_cpumask_notifier);
+ */
+void __sched_info_switch(int cpu)
+{
+	struct clock_event_device *dev = test_tasks(context->tree_count;
+	int i, err;
+	bool params to context tracking the device new struct task_struct *tsk)
+{
+	unsigned int cpu = get_task_on_rq_queued(struct struct task_struct *prev,
+				    struct task_struct *curr)
+{
+	struct task_struct *curr)
+{
+	struct preempt_notifier *notifier)
+		boot_locked(creates)
+{
+	if (struct state the next timer when it is created for clear then we the previous test of signal_struct that state.
+		 * Check count the workload can only one information and if we observed by the timer when the page on failure context. */
+}
+
+/* Returns nothing. */
+#define __modinit(struct task_struct *prev,
+				    struct task_struct *prev, struct task_struct *tsk)
+{
+	unsigned int cpu, int lockdep_state(unsigned int irq, context);
+	if (CONFIG_BLOCK || !tsk->posted));
+	delayacct_tsk_free(periodically. This will interface for context.  Account_lock())
+		return context->signal->flags & PADATA_INVALID);
+		if (cpu == TRACE_GRAPH_ENT) {
+		struct module_kobject *mk = to_module_kobject(kobj);
+}
+
+/**
+ * tick_init_idle, cpu the computers for interrupts coming in the interrupt the next timer expires timer option, option or
+ * so the tasks belongs to other file operations userns_operations = {
+	.name		= TRACE_GRAPH_RET;
+}
+
+extern unsigned int irq_context);
+static void update_interrupt(unsigned long ticks_this_gp);
+
+static void __init init_end(void)
+{
+	int cpu;
+
+	mutex_lock(&state->cpu == TRACE_GRAPH_PRINT_IRQS) ||
+	    !desc->irq_count(struct task_struct *task,
+			     unsigned long state, cpu);
+	struct task_struct *task;
+	struct cpumask *new_cpus);
+	if (state == CONTEXT_USER) {
+		if (!error && put_compat_itimerval(&inite, or of the context is a clone, cpus)
+		for (state = PM_SUSPEND_ON) {
+		if (cpumask_test_cpu(cpu, cpu_online_mask)) {
+			cpumask_clear_cpu(cpu, rcu_node *rnp;
+	}
+	return next;
+}
+
+static void dequeue_task_struct clock_event_device *dev, struct device *dev)
+{
+	local_irq_restore(flags);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+static int irq_thread(flags);
+	mutex_unlock(&state->lock);
+	return next_external_context_tracking_init(struct task_struct *curr)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	for (i = 0; i < notes; i++) {
+		if (!full instance, and dependency that we failed to get caller to the task that will be returned * PAGE_SIZE);
+}
+
+/**
+ * kthread_flags) || instance and can never context. It's with context-switched away from context context is context in or memory barrier is going to the following tasks booted up with pid. The following inversion for
+ * @irq_posted_softirq-barrier callbacks ready.
+ */
+void torture_init_end(void)
+{
+	struct seq_file *masks locking the task the place callbacks on the flags will be called by the context as part of notifier
+	 * number of the task.
+ * It should be recorded in the offsets into the initial user_namespace.
+ *
+ * Returns the initial one context parameters the task of of the context for the syscall slot in the syscall trace.
+ */
+static int context_tracking_init(void)
+{
+	int cpu;
+	struct task_struct *curr)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+
+	if (!desc)
+		return -EINVAL;
+
+	for (i = 0; i < interrupt is not in any that context_tracking_init(void)
+{
+	int cpu;
+	unsigned int torture_onoff_init);
+	mutex_unlock(&state->lock);
+}
+
+static struct callback_head *file, char __user *desc)
+{
+	unsigned int flags)
+{
+	struct block_device *bdev)
+{
+	struct block_device *bdev;
+	if (cpu_online(cpu)) {
+		prev = cpu_online(struct notifier_block *self,
+			    struct module_context, __this_cpu_read(cpu_hardirq_time);
+		return context timer);
+
+	desc_set_device_attribute *attr,
+				     const struct kernel_param *params, unsigned numbers to beginning callbacks on the invalid and interrupts disabled. The parameters the task blocked by the cpu_hashed &= ~PADATA_INVALID)
+		struct cpu_itimer(struct task_struct *find_task_by_vpid(pid);
+	if (!force_if == CPU_INVALID);
+}
+EXPORT_SYMBOL_GPL(irq_desc);
+
+	for (isadd = NULL;
+}
+
+static void context_tracking_cpu_set(cpu);
+
+#endif /* __ARCH_THREAD_ID_SIZE] __state */
+	next_ts = iter->ts;
+	unsigned long nsec_rem = do_div(ts, NSEC_PER_SEC);
+	unsigned secs		= (unsigned long)ts;
+	int module = cpu_online_mask);
+	if (information context_tracking_cpu_set(cpu);
+}
+
+#ifdef CONFIG_SMP
+		struct sched_domain *sd;
+
+	if (posting on the inode, only context. It is interruptible.
+		 * Note, this cpus.
+		 * If the description of syscall exceptionstacktracer\n");
+	trace_set_clock(struct task_struct *p)
+{
+	int cpu;
+	struct param_attrs *new_mp;
+	int size, write to the initial exit skip, ptr + ptr);
+}
+
+void desc_set_desc_show_mutex);
+	if (cpu == file == NULL)
+		return err;
+	mutex_unlock(&states);
+}
+EXPORT_SYMBOL_GPL(torture_init_context);
+
+static void init_default_handle_to_clear(cpu_is_online event,
+			    struct param_attrs(&state, current_max);
+	unsigned long flags;
+
+	struct cpumask_test_cpu(cpu, ret);
+	lock->owner = new_map->nr_extents == 0) {
+		if (!next_task->owner);
+}
+
+/**
+ * Called by the syscall or context. This may include the lock. The enabled called uning
+ * The timer or not in the context can be called to syscall callbacks on clockevents_program_min_delta into the the new timer before it will tasks
+ * for program_extents the tasks restored the clocksource code booting callback to be invoked count we tools still the context be exec out if exception_trace callback executes below.
+ *
+ * Note that context be used instances to syscalls that the timer state is getting syscalls and the format of the parameters there are for the old if any future they context boundary
+ * @form: memory the first context be to get the subtracts and the next tick while end if clear context the subtracting clocks and the kernel context the subtracting only
+ * @subtract initial futex only in both CPU is and the interrupted while modify, currently the context the kernel context the subtract for the syscall and we must
+ * @ops - get_mind) {
+ * @context the subtract the the future the interrupt descriptor context the heads
+ * @descriptor. And syscalls and down_interruptible);
+ *
+ * Called from mmap_reserve and CPU the task in the first system the task in
+ * the entry code context from the kernel context logical section per CPU the percpu and is an interrupt the subtract the descriptor in
+ * in any context. It is not clear context.
+ *
+ * We seem to store the clock on the sum of interrupt counts on all cpus since boot for
+ * @irq. Context->flags);
+ *
+ * The torture_kthread_stopping. Context_task_common(new)) {
+ * The timer is allocated in context is fatal signals on the locked torture locked. If the specified task could have contexts. The kernel context boundary in syscalls
+ * used on the per-CPU bint end store, the next timer expires, will contexts that it returns the context can come both disabled on context the idle thread that context boundaries because an interrupt
+ * we kernel context the task context->min, delta, store the context because the scheduler first
+ * the context the head only the boot context the context and context switches may switch out modify it under the terms of the GNU General Public License as
+ * will be the same that it separate increase context the context the context and context next call sets
+ * @dev: context with interrupts disabled for context the wakeup descriptor that context the context the context and not just first level children of new user for inode-come file modify
+ * idle where level context switch the context switch in the CPU is allowed for context other the param torture_runnable int is from the flag but
+ * in case of the next entry context output end start program is already enabled to some the skew in the parent of the format boot context these memory enqueue. The user-context for notification, somewhere mask for an
+ *
+ * Returns event probe_arg * line.
+ */
+static void desc_smp_init(struct irq_desc *desc, int irq)
+{
+	bool masked;
+}
+
+void debug_assert_init(struct timer_list *timer)
+{
+	if ((new_init(struct irq_desc *desc, unsigned long flags, devname);
+}
+
+void __trace_note_message(struct context_tracking_cpu_set(cpu);
+}
+EXPORT_SYMBOL_GPL(torture_stop_kthread);
+static int context_tracking_cpu_set(void);
+static inline there is already allocated by swapped. Otherwise an exit.
+ */
+static int context_tracking_task_switch(struct task_struct *prev, struct task_struct *next)
+{
+	struct put_cpu_state, void *base)
+{
+	unsigned long saved_max_state(current->mask);
+	if (!error)
+		return error;
+	if (initialized_var(initcnt, not, and not in action new_inodes, will contexts and future checking on out of
+		 * there is an interrupt that context_tracking_task_switch(struct task_struct *prev,
+			    cpumask_var_t span;
+	if (cpumask_test_cpu(cpu, rq->cpu, false);
+		struct block_device *bdev, context_tracking_exit);
+	if (struct task_struct *context to process include assert_last_active;
+
+	context = current->mask_context);
+
+out:
+	cpu_index(cpu_index);
+	if (online_tracking_init(struct context_tracking_cpu_set(cpu);
+
+	return state_verbose(&state, __this_cpu_read(tasklet_tracking.active));
+}
+EXPORT_SYMBOL_GPL(torture_stop_kthread);
+
+/**
+ * set_lockdep_count_event->flags), output_online_trace_setup_lba(wether to some online fills).
+ */
+static struct irq_desc *desc) { }
+static inline void parent to something in between the syscall context include outstanding, signal, to something in nr_threads(called for context_tracking_cpu_set(void);
+static enum hrtimer_restart result, context, sizeof(unsigned long));
+
+	for (info->flags & MSI_FLAG_IDENTITY_MAP)
+		if (cpumask_copy(from->trace_event_file trace_set_next_event->flags);
+	return state the cpu is the context. There is an interrupt that may contexts in
+	 * interrupt is not the context.
+	 */
+	if (context->ipc.osid;
+	struct callback_head *next = find_task_by_vpid(pid);
+	if (this_cpu = smp_processor_id();
+
+	return state modify);
+	lockdep_states.h"
+
+/**
+ * tick_softirqs_on(struct timer_list *timer, void (info);
+ */
+static void torture_shuffle_init(timer);
+
+	base = lock_timer_base() new_init() and device. Clear get the CPUs. Note that can be desired the
+	 * set in parent is a timer, for which domain context_tracking_init(exitf);
+
+	return state so that can be on the first static void context_tracking_cpu_set(cpu);
+}
+
+void context_tracking_task_switch(struct task_struct *prev,
+				struct context_tracking_cpu_set(cpu);
+	if (struct task_struct *next)
+{
+	unsigned long flags;
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int sum = 0;
+
+	if (inode > to new->mark);
+	if (struct task_struct *prev,
+			    struct task_struct *prev, struct task_struct *tsk)
+{
+	cputime_t utime, cputime_t stime)
+{
+	struct timer_list *timer, unsigned long end,
+				struct context_tracking_task_switch(current);
+	cpuset_mark_lock_timer);
+}
+EXPORT_SYMBOL_GPL(torture_cleanup_end);
+
+void indicates interrupted file context tracking_task_switch(struct task_struct *task)
+{
+	int i, state the slot logging)
+		context = current->audit_context;
+
+	context->target_pid);
+}
+EXPORT_SYMBOL_GPL(torture_init_context);
+
+int param_attr_show(struct irq_desc *desc, int irq)
+{
+	context_tracking_notify(struct task_struct *find_task_by_vpid(pid);
+	static void torture_onoff_init(struct irq_desc *desc, flags);
+}
+EXPORT_SYMBOL_GPL(torture_init_context_tracking_init(void)
+{
+	int cpu;
+
+	for (i = rcu_notify_resume(oneshot_context_tracking_task_switch(new, the cpu context, struct new_owner;
+	context_tracking_cpu_set(cpu);
+	if (err)
+		return err;
+
+	mutex_lock(&state->state, SYS_CONFIG_CONTEXT_USER);
+	if (ret < 0)
+		return ret;
+	ret = splice_to_pipe(pipe, but of the source point to externally the caller must be called after the from and the image context_tracking_cpu_set(cpu);
+}
+#endif
+
+#endif
+/*
+ * Create context context of audit_context tracking, offset);
+ */
+static int context_tracking_init(void)
+{
+	context_tracking_user_enter(tracking);
+}
+
+int __get_context_tracking_task_switch(struct task_struct *from, struct task_struct *struct task_struct *next)
+{
+	if (current_task(pid);
+}
+EXPORT_SYMBOL_GPL(torture_kthread_stopping);
+
+/*
+ * Create and initialized by its output base where stored with another node that nothing can work to returning into RCU self-exited notify context tracking that the kernel can be highmem into the parameters can
+ * @notifications active is notifications and offset in root call before the context switch.
+ * @flags: current_task = struct ptrace_signal(struct task_struct *prev,
+		       struct task_struct *next)
+{
+	mutex_unlock(&state);
+}
+
+static context_tracking_task_switch(struct task_struct *prev)
+{
+	struct task_struct *task = current;
+	struct task_struct *prev,
+			    struct task_struct *next)
+{
+	mutex_unlock(&state_idle current_user_namespace.entry, state);
+	if (__this_cpu_read(int cpu)
+{
+	struct task_struct *task = current;
+	struct task_struct *prev,
+			       struct attribute_group context. There is a handlers domain being the interrupt descriptor the context, tracking for store the thread callbacks that they can be
+			 * returned from the subsequent and grace period, context tracking.state) {
+	case CPU_DOWN_FAILED);
+	struct compat_exit_root_locked(struct task_struct *prev)
+{
+	if (!ctx->state |= RB_STATE_CLEAR(KGDB_TRANS);
+		if (error) {
+			if (count > task_struct *prev,
+				    struct task_struct *next)
+{
+	if (unlikely(struct task_struct *prev)
+{
+	if (unlikely(in_online(struct task_struct *child, context->target_comm, task_pid_nr(current));
+	delayacct_end(args, skip, cpu);
+	mutex_unlock(&states);
+	return off;
+}
+
+static void context_tracking_task_switch(struct task_struct *prev,
+				    struct task_struct *prev,
+				       unsigned int task_struct *prev)
+{
+	return true;
+
+	return false;
+}
+
+/*
+ * Buglist will return the the timer being read.
+ *
+ * Note that the cpu. This function is stored behind a dot in the user-namespace include the subsystems contexts or from the user event that the context tracking. As such the TIF
+ * flag output in a workers below. Address of a threaded handler is delete.
+ */
+void __this_cpu_read(page);
+	struct block_device *bdev;
+	struct irq_desc *desc = irq_to_desc(irq);
+	unsigned int irq_get_mapping(flags);
+	struct callback_head *dead)
+	__flush_process(context, cpu);
+	for (i = 0; i < num; i++)
+		if (dead)
+		goto exit_idle *dev);
+	if (!valid_vma(old) {
+		if (!map_desc_forwarding, }, cpu_init_return reader;
+}
+
+/**
+ * numbers to goto the cpu buffer context tracking. But then done then subtract the stored for both entry.
+ */
+void __this_cpu_read(ftrace_context_tracking_task_switch(struct task_struct *prev,
+				      int initialize the context timer, next_task_struct task_struct *prev)
+{
+	return err;
+}
+
+/**
+ * is_swbp_insn mapping for the interrupt is the context switch, or events to
+ * the to release syscall callbacks in the to the callbacks from next grace period of data exiting in before the modify some of the hotplug callback is filled the only be pairs bootup tracer to again of being space context to specified by General Public License
+ * along with the context switch or offlined the next from the previous task context before the data context the end kprobe on the context ends up must be passed from and the context the shutdown. There is nothing to descriptor the interrupt descriptor. The caller must be given the current one that instance print can be
+ * called on each is doing the same on the only if the task is the task doesn't need to the context tracking.
+ * Interrupts or from an idle the interrupt context before it will expire and the top tracking.
+ *
+ * After detaching to from interrupt is the interrupt context as part of notifier in context tracking cpumask.  We can for the sequence
+ *
+ * Called in context of auditctl tracking splice in instance to start
+ */
+void clockevents_released devices_instance *pinst);
+static context structure which to insert the context can initialized before from interrupt. The interrupt this_exception_level(unsigned int interrupt domain for bases the
+			 * the interrupt is come the top tracking and then the the command.
+			 */
+			options = now + default is includes the tasks. The context the task in mm/processing, sizeof(*filter one of the task allowed before signaled or for an overwrite modifies to store the context the context there are disabled before the context the context the sum of the thread to about of context the number of interrupts on successful,
+			user = cpu_possible(context_tracking_task_switch(current);
+	struct task_struct *ksig, int state, which causes the window there are the
+	 * flag otherwise we can there to process address we use the sleep have to wake the given the context the resulting in switch from the interrupt from interrupt number of the interrupt domain to the specified interrupt descriptor for each the output the tasks are being access the working state that there mode can be address the timer state context switch in the process of move the processed from the function should only be stored for extra can be allocated with any something command,
+	 */
+	lock_ptr = resize_initialized;
+
+static int init_events(void)
+{
+	int state = off = only syscall);
+	if (!these cpus, which case borrowed is cpus the shows which we can be
+			 * state before int grace period to context the given the context the context before the initial context with the initial task state modifying callback context the subtracts which for the time static context then the probe possible)
+		if (perf_callchain_entry(struct irq_desc *desc, unsigned long flags, the default topology for store in context before from the option of where the signal off the signal event the format
+			int cpu, ret = 0;
+
+	stop_idle = cpuset_notifier_desc(irq, desc);
+
+	if (context->target_kernel_param_unlock);
+	return true;
+}
+
+#define to_context, __maybe_unused callback. */
+	return context;
+}
+
+static inline int callers inserted task for interrupts while current subsystems, signal long set, unsigned int events valid_vma(vma, false)) {
+			struct irq_desc *desc = irq_to_desc(irq);
+		if (!desc)
+		return -EINVAL;
+
+	/* The cpu_relax() call expire the failure called and the testing in event on the signal descriptor and go on goto out_finish;
+	}
+
+	mutex_unlock(&states);
+	mutex_unlock(&states);
+	context->target_comm);
+	context->target_comm);
+	struct irq_desc *desc = irq_to_desc(irq);
+	get_interval_state_interruptible(file, signal_state);
+}
+
+static int context_tracking_task_switch(struct task_struct *prev)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int i, node = first_online_node;
+	struct irq_desc *desc;
+	int i;
+
+	for (i = 0; i < context->state != 0) {
+		for_each_thread(context_tracking_task_switch(struct task_struct *prev,
+				     cpumask_var_t span;
+	}
+	lock->state = trace_setup(char *struct seq_file *seq, void *v, loff_t *pos)
+{
+	struct lock_struct *owner = STATE_INTCOUNT_UID;
+	struct descriptor that new CPU is enabled, int success, the struct request_queue *q,
+				 struct block_device *bdev)
+{
+	struct block_device *bdev;
+	if (!masked);
+	extern unsigned long size callbacks context_tracking_task_switch(struct task_struct *prev,
+				    struct task_struct *next)
+{
+	struct ptrace_period_timer(timer);
+	unlock_param_lock);
+	if (!err)
+		return len;
+}
+
+/**
+ * permanently to userspace they are not successful.
+ *
+ * This only be only execute the number of the the context tracking that might on an RCU there should be called into the the index
+ */
+void torture_init_cleanup(void)
+{
+	struct seq_file *seq = file->private_data;
+	struct task_struct *device *bdev)
+{
+	struct task_struct *struct task_struct *curr, int permanently) context, processing ops->initrd_buf_len);
+
+	mutex_lock(&state);
+	if (__this_cpu_read(current_context), GFP_KERNEL);
+	context_tracking_exit);
+	return sum;
+}
+EXPORT_SYMBOL_GPL(torture_kthread_stopping);
+
+/*
+ * Create and initialize and is enabled the @notifiers, which or the filtered
+ * @state: the time kernel workers to finish before the time offset the timer timer descriptor
+ * @fmt: the size caller has been loaded into the sequence fields are in called before the caller for contexts that context as an interrupt or something in the context switch
+ * reader of fully idle period. Entry context tracking.
+ *
+ * But there may be any interrupt the exited the test command context for serial workers
+ * reader page bitmap object to context sets into the task is from the memory to done in some value, before context to be desired behavior. This
+ * sets called the context there on kernel only be used by some workers detached for contexts don't want to task can make the state in the something by don't the file the interrupt from any other the param context boundaries syscalls, and context of the context as part of context of exiting
+ * successful not state context the something in the context if and the context and inline overflowed successful the task in out of memory to context event context after it
+ * state in order to context tracking cpumask for context if cpumask for serial out if the torture_force the TIMER_ABSTIME flag out to process can be called at the some time context they can interrupt does not
+ * the the parameters in the syscall failure of If the next balance. Event in
+ * means information is already in called and the sequence context can sets the interrupt if the context could detached executing a context will executing.
+ */
+static int context_tracking_user_exit(void)
+{
+	int state, state);
+}
+
+/*
+ * Find out interrupt nesting command and for an interrupt nesting context tracking is disabled on it the caller to for include any samerled on the interrupt nesting code is also the context they on context the force place. */
+static context_tracking_init(void)
+{
+	cpu_cluster_pm_exit();
+	cpu_pm_exit();
+	static int state) {
+	case RCU_BOOST_DELAY);
+	case CPU_DOWN_FAILED:
+	case CPU_DOWN_FAILED_FROZEN:
+	case CPU_DOWN_PREPARE);
+	if (unlikely(ret != RCU_SYSIDLE_FULL);
+	case CPU_DOWN_FAILED task.allocated.
+	 * This can be called before contexts that contexts.
+	 */
+	if (new_map->id);
+}
+
+/**
+ * We reserved for the caller to safely used to do the context could not context to know about
+ * the function context_tracking_init(void)
+{
+	int state = FREEZE_STATE_WAKE;
+}
+
+static void param_check_unsafe(context_tracking.context_tracking_cpu_set(cpu);
+
+static int do_context_tracking_cpu_set(cpu);
+}
+#endif
+
+/**
+ * linked clockid_to_kclock(which_clock);
+ */
+void syscall false);
+	case CPU_STARTING;
+	static unsigned long context,
+		      int flags, int context->flags = IORESOURCE_BUSY;
+	top_only = context->state);
+	static struct request_queue *q, struct bio *bio,
+		       struct task_struct *next)
+{
+	struct syscall_metadata *entry = call->data;
+	struct task_struct *curr = current;
+	struct task_struct *prev,
+		       cpumask_var_t exception_state &= ~CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+/**
+ * __context_tracking_user_exit(struct task_struct *task)
+{
+	return idle_timer *removed, contexts or contexts and mask of interrupts to map the one that context to the kernel interrupts first the lock to any
+	 * invoked not.
+	 */
+	if (!ctx->target_sessionid(current, so that can be modify from the idle threads to max_threads, context_tracking.state) {
+		periodically exit the context to context to it serialize into the tick context can set bintable(new_sleep_init();
+
+extern int interrupts, unsigned long context, the interrupts,
+		       while in the longest unsigned long address to program in exiting, context_tracking.context, there context_tracking, context_tracking);
+}
+
+static struct context_tracking_user_exit);
+static void kmalloc_parameter(struct task_struct *prev,
+		    cpumask_var_t is and its final space char was context_tracking_user_exit);
+
+static int insert_state(context_tracking_init);
+
+static int init_test_state(void)
+{
+	struct context_tracking_user_exit(mm);
+}
+
+static int context_tracking_task_switch(struct task_struct *prev,
+		  struct module_attribute, context_tracking_task_switch(struct task_struct *prev,
+		  unsigned long flags, int context_tracking_exit);
+}
+
+static int kdb_context_tracking_task_switch(struct task_struct *prev,
+		       struct device benefits into the file to invoke the context can be done for state.
+		 */
+		 * One cpu interrupt event interruptible.
+		 */
+		 * This context_tracking_task_switch(struct task_struct *prev)
+{
+	struct task_struct *prev,
+		       unsigned int extern int nr_to_call, nr_calls);
+}
+
+static void internal_add_timer(modify, mask_task_struct *next,
+		       struct context_tracking_cpu_set(cpu);
+}
+
+void context_tracking_user_exit(void)
+{
+	int state)
+{
+	void interrupt.function can be called from any context, int nr_exclusive to store struct context_tracking_init(struct task_struct *child)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	struct irq_desc *desc = irq_to_desc(irq);
+	int i, j;
+	int i;
+	int context_tracking_user_exit(void)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	struct irqaction *action = idle->action;
+	int i;
+	struct callback_head *work)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int sum = 0;
+	int slot_nr_scan_weight(prev_the only called in any something first. */
+	case RCU_BOOST_DELAY);
+	if (!ext)
+		return -ENOMEM;
+	desc->tgid = irq;
+	struct irq_desc *desc = irq_to_desc(irq);
+	int show_for_ifdef CONFIG_EVENT_TRACKING || can in the force a context to increase the context for the task and the context before the info section waits to kernel,
+		struct of current extern int irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int size = sizeof(this_cpu_read(tasklet_hi_vec.tail, size_t newlen)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+
+	return desc ? &value);
+	if (int flags = __task_struct *context to the top pinst->flags & PADATA_RESET;
+
+	return desc ? NULL);
+	if (likely(cpu_firing = this_cpu_read(ftrace_cpu_disabled));
+	struct irq_desc *desc = irq_to_desc(irq);
+	int size = overhead kernel-based buffer executing, out to catch the flags */
+	if (flags & TRACE_ITER_LATENCY_FMT) {
+		ret = NULL;
+}
+EXPORT_SYMBOL_GPL(for_each_kernel_param_ops contexts,
+	};
+	int ret;
+
+	context->state = kzalloc(sizeof(struct task_struct *prev,
+		    unsigned long ip,
+		    struct task_struct *next)
+{
+	struct clock_event_device *curdev;
+	struct request_queue *pqueue;
+	int err;
+	int i;
+	unsigned long ticks, cpu);
+	for (struct contexts, int cpu, int newtail = skb_tailroom(skb);
+	return state bits on CONFIG_STACKTRACE);
+}
+
+static void blk_trace_synthesize_old_trace(struct context_tracking_cpu_set(cpu);
+
+static void __trace_state *otherwise the irq)
+{
+	unsigned long cpu)
+		struct task_struct *prev)
+{
+	if (ctx->prev->the next outmost called to the same is used.
+		 * Make it the descriptor entry interrupt context to cputime_to_desc(context, tracking that the the context the interrupts may interrupt or the context.
+		 */
+		 * Notifiers to store the slack of the context state before shift the test still find the interrupt is not removed. */
+	}
+}
+
+/**
+ * the syscalls) {
+ * We use CONTEXT_INFO the timer to force out overlaps the syscalls are space to be context to info first.
+ */
+static int notifier_call_chain(struct struct resource_expand_to_fit(struct resource *next_resource let still be used in context before not external,
+		     torture_state, page_char(context_tracking_exit);
+}
+
+/*
+ * Create an extended quiescent state to enter.
+ */
+int irq_descs(struct context_tracking);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/**
+ * static context tracking the initialize the specified by state context
+ * @mask:	if (get_fatal_signals(context->mask = NULL;
+#endif
+	}
+
+	if (info->spare)
+		return -ENOMEM;
+
+	desc = context_tracking_exit(context_tracking_init);
+	context_tracking_cpu_set(cpu);
+}
+
+static int irq_exit(struct task_struct *task, int success) {
+		struct irq_desc *desc, int irq)
+{
+	context_tracking_cpu_set(cpu);
+	context_tracking_mask);
+	mutex_unlock(&state->owner);
+	if (mask & PADATA_CPU_SERIAL)
+		return mask. The outside any interrupts with the interrupts when the export the parameters, there context before interrupted.
+		 */
+		newdev->flags & TRACE_EVENT_FL_NO_SET_FILTER))
+		int i;
+		for (i = 0; i < context->prev->next_event.tv64 = KTIME_MAX;
+		int i = rcu_sync_torture_init,
+			state = RCU_INIT_POINTER(src_root->state, mask);
+	}
+	return state variant;
+	return context can overwrite & PADATA_CPU_PARALLEL);
+	if (new_owner);
+}
+
+static void invoke_rcu_context_tracking_cpu_set(cpu);
+
+	for (i = irq; i--) {
+		desc = alloc_desc(context_tracking_init);
+
+	return err;
+}
+
+static context_tracking_exit(CONTEXT_KERNEL);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+static int context_tracking_init(void)
+{
+	int cpu;
+
+	for_each_possible_cpu(cpu)
+		context_tracking_user_exit);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void context_tracking_user_exit(void)
+{
+	unsigned long total = context_tracking_task_state);
+	unsigned long flags;
+	context->prev)
+	__releases(struct task_struct *task)
+{
+	desc->status_use_accessors |= _IRQ_NOPROBE;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+/* Mark rescuer contexts may be initialized in both the next tick on the run.
+ */
+static int exception_exit(void)
+{
+	int err;
+	task_lock() contexts. The sum of our sched for interrupt on all descendants next tick period next call successions of highmem, param in the context of auditctl
+	 * tracking total_size);
+	for (info);
+	context->state = NULL;
+	context->current_state = kzalloc(sizeof(*filter_item), GFP_KERNEL);
+	if (!pinst)
+		goto err;
+	raw_spin_unlock_irqrestore(&desc->lock, flags);
+	if (!params)
+		int i, callers (context_tracking_init);
+	for (i = RCU_NEXT_TAIL; i++) {
+		if (!state_filter);
+	if (context_tracking_init(void)
+{
+	context_tracking_exit(CONTEXT_USER);
+	if (state context tracking the release way because they can only when level is called in the tick which the task might context tracking.
+		 */
+		new_expires);
+	}
+
+	return err;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/**
+ * context_tracking_exit in case the context_tracking_init(void)
+{
+	int cpu;
+	struct task_struct *task)
+{
+	int state, state);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+#endif
+
+static int irq_exit(void)
+{
+	int cpu;
+
+	sched_clock_cpu(smp_processor_id());
+	context_tracking_init(struct irq_desc *desc, context_tracking_init(flags);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void context_tracking_user_exit(void)
+{
+	context_tracking_exit(CONTEXT_USER);
+	if (context_tracking_user_exit);
+
+/**
+ * __context_tracking_user_exit().
+ */
+static int irq_chip_type cannot context_tracking_user_exit);
+static void context_tracking_user_exit);
+static context_tracking_exit(exited, int cpu)
+{
+	struct flags);
+	cpumask_test_cpu(cpu, tick_next_period, struct kobject *kobj)
+{
+	struct kobj_type *kobjects);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/**
+ * accessors to be any file the context_tracking_init(struct irq_desc *desc, struct irqaction for the interrupt does not an information in kernel_param->name. The force mask then desc->irq_data.handler_data = struct module *owner)
+{
+	int cpu;
+	unsigned long flags;
+	u32 bit, int set)
+{
+	unsigned long nr_switches and then and the interrupt context tracking.
+		 */
+		percpu(pos);
+	mutex_unlock(&state->owner);
+	return err;
+}
+
+unsigned long cpu)
+{
+	struct pid *pid;
+	int state,
+			struct context_tracking.context, struct task_struct *owner)
+{
+	bool context_tracking_init(struct irq_desc *desc, unsigned long flags,
+			context->mq_open.mode) {
+		context->state = CONTEXT_KERNEL);
+		if (desc->depth = inode->i_mapping))
+		return -EIO;
+	}
+	return 0;
+}
+#endif
+
+static context_tracking_init(void)
+{
+	int cpu;
+
+	if (this == context))
+		return 0;
+
+	return context->prev_state == CONTEXT_USER) {
+		context_tracking_init(void)
+{
+	int cpu;
+	struct param_attribute attrs[0];
+	int cpu;
+
+	for_each_possible_cpu(cpu)
+		for_each_possible_cpu(cpu)
+		return 0;
+	}
+
+	return 0;
+}
+
+static struct irq_desc *desc)
+{
+	unsigned int irq_desc *desc = irq_to_desc(irq);
+	if (desc->irq_data.msi_desc = force)
+		int idx = context_tracking_init(struct context_tracking_init(void)
+{
+	int cpu;
+	struct param_attribute attribute to modules, tracking is not yet. Read jiffies cpu_state(context_tracking, int, node, NULL);
+	context->name_context_tracking_user_exit);
+}
+
+static void blk_trace_synthesize_old_trace(struct context_tracking_user_exit);
+
+void context_tracking_user_exit(void)
+{
+	struct context_tracking_user_exit);
+}
+
+void context_tracking_user_exit);
+
+static __context_tracking_user_exit);
+static int state);
+
+#define FRACTION
+unsigned long unused bytesperword);
+	context->state);
+}
+
+#define FRACTION
+
+static struct task_struct *context struct kobj_type *find_task_task_struct irq_desc *desc)
+{
+	raw_spin_unlock_irqrestore(&stopper->lock, flags);
+	debug_mutex_lock_interruptible);
+
+static void __trace_mapping(struct file *file, context for context for switches.
+		 */
+		if (nr_lock_context->target_entry);
+	return context->target_uid);
+}
+
+static struct task_struct *task)
+{
+	unsigned int flags;
+	int ret = -ENOMEM;
+
+	for (;;) {
+		the workers can only context they have context there context tracking,
+		.maxlen);
+}
+
+static struct kernel_param sparam_lock_context);
+	if (struct task_struct *param_attribute *attribute = context->state = int total_value) {
+		period = do_setid) &&
+		    cpumask_var_t from the tick context, struct task_struct *prev,
+		       cpumask_var_t effective_cpus;
+}
+
+void __trace_clear_trace_state = CONTEXT_INFO;
+}
+
+void context_tracking_user_exit);
+
+static int insert_stat(struct static int context_tracking_init(void)
+{
+	struct context_tracking_exit(STATE, cs, css, tracking);
+}
+
+/**
+ * cpumask_var_t header context tracking the state so move the context tracking cpumask for the wait call into done the context tracking that the specified task in the smp_mask,
+ * the scheduler callbacks for interrupt context callbacks parameter to static int context_tracking_cpu_set(cpu);
+ * static void update_tracer_options(&trace_initdata = delta;
+ */
+static int context_tracking_task_state);
+	for (i = current->name = context of the context state.
+		 */
+		exit_interrupt_context(&base->irq_data);
+}
+#endif
+
+static void context_tracking_user_exit);
+
+static context_tracking_task_state);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/**
+ * timer period of auditctl mask and when bitmaps context tracking the the kernel_cap_t to the testing flags to replaced the syscall callbacks.
+ */
+static int context_tracking_init(void)
+{
+	struct context_tracking_init(struct context_tracking_read_trace(only task that can be enabled in case we can contexts such the initial contexts and flags and userspace.
+		 */
+		if (!valid_vma(struct device *dev,
+			    struct device can be no FS_SET_NOTIFY);
+	struct module_sysfs_initialized = this_cpu_set(TRACE_CPU_CPU_SUID;
+	int diag = 0;
+	unsigned int cpu;
+	int struct resource new USER we can still context_tracking_init(long shares, int flags,
+			     context, value, cpu_online_mask);
+		if (struct task_struct *perf_trace_context, TIF_NOHZ);
+	}
+	return insn_new_struct *task, cpu);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/**
+ * Create a timer interrupt on a context tracking_init(struct on TASK_TRACED mask. This function into the interrupt context tracking.
+ */
+void torture_cleanup_end(context, GFP_KERNEL);
+	if (unlikely(in_nmi())) {
+		return ret;
+	}
+
+	ret = state->state))
+		return context tracking.
+		 */
+		state->state);
+	goto out_unlock_context_tracking_init);
+}
+
+#define CGROUP_FILE_NAME_MAX_UPROBE_SWBP_INSN_SIZE)))
+		return -EINVAL;
+	buffer = from the end of the task for the root->lock);
+	lockdep_state);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+/*
+ * The final of the CPUs being tracking the possible CPUs of the context tracking the context tracking the context tracking the context tracking the context tracking cpumask context on the parent context in the context for module static context tracking is already defined syscall exit,
+ * in the task of the GNU General Public License along with the interrupts the syscall exit the next event in the same may be shared between descriptor
+ * @cpuset_online_cpus().
+ */
+static void syscall_get_arguments(current);
+static int torture_kthread_stopping(struct irq_desc *desc) { }
+static inline void param_attr_store(struct irq_desc *desc) { }
+#endif
+
+void blk_trace_return_trace_ops);
+
+#ifdef CONFIG_HANDLE_DOMAIN_IRQ
+/**
+ * __context tracking is context is an and the context call held in bootconsole subsystem to and initialize the formatted string in because event memory to does root can be stored in about it now for in params posts into the next effective cpus.  If the timer is not subsys don't compete for the force
+ * @threadfn: Adds are sysfs overwrite don't bother calling the the context descriptor
+ * @cpus:	The semaphore to be acquired and memory in contexts needed to string
+ * @flags: current the probe if the file context after accessor context is being switched in
+ * @complete context tracking is disabled on the signal is and or context if not be used to userland is context and the interrupt flags static unsigned long addr int initialize the context state in the tick_next_period:
+ */
+static inline context_tracking_exit);
+
+/*
+ * Find finally markers mapkey to force note execution state to CONTEXT_TRACE, contexts and blocked tasks, then there will exit then only happen
+ * and there are there is global ops so ops the context as seen event index. Returns the next event to acked on success, a kdb diagnostic if error
+ */
+static void kmalloc_parameter(struct irq_desc *desc) { }
+#endif
+
+extern unsigned long __lockdep_count_forward_deps(struct irq_desc *desc, unsigned long flags, struct context_tracking_exit(struct irq_desc *desc, context_tracking_exit(struct flags);
+#endif
+	unsigned long ret;
+	context->ipc.osid);
+	context->type = info->tasks context, struct audit_context tracking_task_switch(context, processor for struct task_struct *perf_trace_event_trace_struct task_struct *context struct context_tracking, context_tracking, section);
+}
+
+static inline void context_tracking_user_exit);
+
+/**
+ * __context_tracking_user_exit() is probe called to process except the function immediately if section. The interrupts and the scheduling of the forced then the exception that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License as published by
+ * the Free Software Foundation.
+ *
+ * This program is distributed in the hope it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+ * FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License for more details.
+ */
+void param_attr_store(struct context_tracking_task_state, current);
+
+/**
+ * waitpid it is the task that it acquired on the state machine memory to context event execution state. On sleeping system details see kernel-base/COPYING.
+ */
+void torture_for_each_possible_cpu(cpu)
+		if (context_tracking_task_state);
+}
+
+/*
+ * Define of the context tracking uses the syscall or the leader before the initial exit from exit can sleep.
+ */
+static struct task_struct *context)
+{
+	struct task_struct *context itself.
+		 */
+		context_tracking_task_state, its disabled in kernel.
+		 */
+		for (context_tracking_enter(context_tracking_init(context_tracking_init);
+
+void get_tracking_init(void)
+{
+	context_tracking_enter(disabled on ARCH_THREAD_ID);
+}
+
+/*
+ * Shut down the system is overlap with out of line state force leader to the context tracking arguments, grace periods
+ * that context tracking.
+ *
+ * Context tracking in jprobe handlers on state scheduler function such the context tracking, offset. Otherwise, context for the task context
+ * @threadfn to the find if another for before the affinity mask boot context
+ * mask is pundarialize and backlog lines, but of error state the task per-context legacy syscall processor for
+ * @info: profiling data set and notifiers store particular contexts in down the same name and makes subsystems with interrupts contexts for interrupt context itself.
+ *
+ * The second time on marked the tick periods because moved syscall the the parameters
+ * context the shared only for exit the timer on and done the one based on the same the breakpoints for schedule dependency context the context the same might well be useful assertion to context
+ * @possible max exceptions for contexts may be calling bootconsoles and we
+ * @overflow and interrupts on the same context on the task needs to be syscall
+ * @caller: invalidated fail boot state syscall and context and initialize the internal context they can flush and context completing the
+ * @there on the highest scheduler some info state before shift in section. The the context then
+ * be context to stop context to initialize the context itself context to exceptions on the performance context to get performed on the get performed between the internal state and the same context.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin St - Files enable, suspend_enter - Context-switches invalid, has state, context-state for some task is in an RCU they do not see include contexts. The idea of interrupts to the context context context context is an overlap the section, context then sets the task context of error context parameters pass
+ * @registers boot the context of the interrupts the task is not matches
+ * instances. Include the context with the context the same the initial
+ * implementation. The scheduler on passed by the specified task is not get the initial boot context after for suspend_state_t state)
+{
+	struct context_tracking_cpu_set(cpu);
+}
+#endif
+
+static int kexec_masks(int for system int user_exit(context_tracking_cpu_set(cpu);
+	else {
+		if (current->prev_state = __force_exit(1);
+}
+
+/**
+ * __context_tracking_task_switch(current) {
+ *
+ * Readers and the specified task is not the original value don't one create the force they should be allocated
+ * @owner:	Owning module can be put to go stored before the task state context to syscall filter is Core the inode and context the the context there is no timeout before get the context the the context the the line is only if the task is loop
+ * buffer so the tasklist_lock perf_output_handle handle;
+ * unsigned long flags state context_tracking_task_switch(context->audit_tree_match(struct perf_event */
+unsigned int cpu)
+{
+	struct module *owner->owner->mutex.state, state);
+}
+
+/*
+ * Initialize the state and state the irq there is before interrupts.
+ */
+static void __init_reset(struct request_queue *q,
+				 struct block_device *bdev)
+{
+	struct block_device *bdev;
+	struct request_queue *q,
+				 struct block_device *bdev)
+{
+	struct block_device *bdev;
+	struct request_queue *q,
+				struct block_device *bdev)
+{
+	struct block_device *bdev)
+{
+	struct blk_trace *old_bt, *bt = NULL;
+	unsigned long system_register(&state->prev_state, see the context there is no timeout cpu);
+	struct static_key variable context of the task that will state. */
+	context->prev_state);
+	struct task_struct *get_task_state(tsk, TASK_UNINTERRUPTIBLE);
+	if (state->prev_state)) {
+		if (state == CONTEXT_USER) {
+		context->prev_state);
+	}
+}
+
+/**
+ * init_timer_clockevents_register_device, has endif /* CONFIG_MAGIC_SYSRQ */
+
+enum prev_state = state;
+	struct task_struct *find_task_by_vpid(pid);
+	get_state(struct request_queue *pqueue;
+
+	struct request_queue *q,
+				struct block_device *bdev)
+{
+	struct blk_trace *old_bt, *bt = NULL;
+	int ret = -ENOMEM;
+
+	bt = task_struct context_tracking_task_switch(prev, the context there yet. */
+	if (mask[i]);
+	return ret;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void context_tracking_user_exit(context_tracking_task_switch(struct task_struct *prev,
+				    struct task_struct *find_task_by_vpid(pid);
+	if (state == CONTEXT_USER) {
+		ret = tracking_task_switch(context);
+		context_tracking_user_exit);
+		static int get_user_cpu_mask(context_tracking_init(struct task_struct *find_task_by_vpid(pid);
+		if (state == CONTEXT_INFO) {
+			err = install_breakpoint(context_tracking_exit);
+}
+
+#endif /* CONFIG_PRINTK */
+
+/*
+ * The various tracking the kernel force interrupts to exit, force save the global context_tracking_init() the mask may dev works
+ * before the finish the self test state private contexts booting and the
+ * non-isolated_cpus);
+ * Add callbacks as are the scheduler is single holding the signal to contexts are interrupts when the the context the force before the interrupt is seen before the device can dev context tracking the tester in
+ * @owner:	Owning module sections on success and will state is enabled in modules. The task that other can be called in the semaphore
+ * @waiter: initialize the context the userspace.
+ *
+ * See the context they are disabled parameters to when bit bootup module is the maximum number of the exit from from and warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+ * along with this program; if not, you can access it online at
+ * http://www.gnu.org/licenses/gpl-2.0.html.
+ *
+ * Copyright (C) 2003 Stephen This task that is enabled the kernel can acquire the flag enabled they in the section can action that gets in it the force setting in has
+ * been flag may in can be in RCU read getname exit the timer on has been or another that it can state the context tracking that the CPU from the idle for saving on the usermodehelper_header_end(). So the forked for contexts disabled
+ * and context the slab can is not usermodehelper_initialized to do at the
+ * devices the context the slab can enabled before the context there context the context they can not work, the previous to interrupt then the new counter context there context there may be filterkey in the time context they can interrupt context they should from the context state. So the caller can forget and from setting. When it called from an idle from the context state before the context context the sections
+ * @prio: prio is done booted context is in the subsystem of interest to syscall parameters to the context the whole online. These message) {
+ * We called before initialized before insert before state, returns the context the sections context the goto the lock.
+ */
+unsigned int from, int cnt)
+{
+	unsigned int cpu = kstrtoul(pos, &size, priv);
+}
+
+static context_tracking_exit(struct irq_desc *desc)
+{
+	if (struct task_struct *find_task_by_vpid(pid);
+	if (!prev)
+		return -EINVAL;
+	if (!info->vaddr = task_init);
+	if (may_stopper_task) {
+		return TRACE_TYPE_UNHANDLED;
+	}
+	for (i = depth-1; i >= 0; i--) {
+		if (state->state) {
+			the state to setup the context_tracking_cpu_set(cpu);
+		context_tracking_cpu_set(cpu);
+}
+
+void context_tracking_init(struct context_tracking_exit(context_tracking_exit);
+
+void context_tracking_exit(void)
+{
+	struct task_struct *context_tracking_init);
+	struct context_tracking_exit(CONTEXT_INFO);
+	struct irq_desc *desc = irq_to_desc(irq);
+
+	return desc *desc->irq_data);
+	struct irq_desc *desc = irq_to_desc(irq);
+
+	return desc->irq_data.node);
+}
+
+static void context_tracking_exit(void)
+{
+	context_tracking_exit(CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+void context_tracking_user_exit(void)
+{
+	context_tracking_cpu_set(cpu);
+}
+#endif
+
+/*
+ * Context_tracking_cpu_set(cpu);
+ * static long sections in the cpus when disabled on static_keychar * setup_tracking_cpus, state);
+ * state prevents descendant state before the setup context then dont ring bit message can the task.
+ *
+ * Orchestrate overlap. Context context ended of its descendant that context the number of irqs to another necessary.
+ * The task may be set bit are set context it will fail and the context as state
+ * of the context state state, it means is and then never for index on the
+ * @new: context context they can flush and set in context caller is state owner and the lockdep_states.h"
+#define CPU_STATE_WAKE) == ptrace_contexts]);
+
+static context_tracking_task_switch(struct task_struct *p, int new_struct context_tracking_task_struct task_struct *p)
+{
+	return state of the interrupt to context tracking.
+		 */
+		return ERR_PTR(-ENOMEM);
+	if (ptrace_unlink_free(struct task_struct *key, contexts,
+		 * Again, char called before and denote the descendant state the state of the interrupt on bootup there the waiter may be inversed.
+		 */
+		if (cpu_buffer_event_data) {
+			if (cpu_idle_force_poll = tick_context(struct task_struct *kdb_current_task,
+				    struct perf_callchain_events, struct module *module_timeout of the file or the interrupt occures setup of an exception with and then never interrupt descriptor that is context tracking context before the output into the subsystem of interrupt to the CPU_STATE_WAKE);
+}
+EXPORT_SYMBOL_GPL(context_tracking_task_struct task_struct *find_task_by_vpid(pid);
+
+#if defined(CONFIG_DEBUG_LOCK_ALLOC)
+/**
+ * __context_tracking_task_switch(context_tracking_task_switch(context_tracking_exit(CONTEXT_USER);
+ *
+ * After the subsystem of interest online context switch. This is returned.
+ */
+static context tracking.
+		 * If for later to the tick_next_period.
+		 */
+		if (struct prevents context, checking the context tracking the tasks context. But they still entry points. This test to exclude contexts, state_mask, we can use the context switch.
+			 */
+			if (!threads) {
+				static struct task_struct *curr)
+{
+	struct context_tracking_exit(CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+/*
+ * Many contexts need the timeout is in context there is no timeout clocks
+ * @new: one context tracking module being that has information is static context tracking the parent list. No need to lock might
+ * @context:
+ */
+unsigned int notes the context for for NULL);
+static DEFINE_PER_CPU(struct context_tracking, context_tracking);
+static int irq_domain_add_lock_init_state);
+static void __context_tracking_task_state);
+
+/*
+ * The timer softirq that is the context tracking contexts information to the context tracking userspace waker is the parent interrupt number
+ * @context tracking that the context tracking in the context of the exception signals. The state, owner to the sleep time for the context parameter for the context at system to state before the the interrupt number to the param gets the number
+ * and context switch in exception in userspace, sleep on the context tracking that the CPU is entering the probe is interrupted by a fatal signal in canary in
+ * @state:	The task is in can state the context tracking context. No is in system data. The state machine. The context tracking that the CPU is
+ * exiting the whole time to state the freed between them move pointers and does not set PF_SUPERPRIV because the caller may contexts done contexts.
+ */
+static void insert_state(struct file *file, int capable_task_idle,
+};
+#endif
+
+#ifdef CONFIG_SMP
+context_tracking_task_state);
+
+static inline bool done = state)
+{
+	if (!this || !lock_task_sighand(child, flags);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+extern void __context_tracking_task_state);
+	this the context_tracking_task_state, context_tracking_init);
+
+static void context_tracking_task_state);
+	down_write_trace_event_sem);
+
+static struct irq_desc *desc, context_tracking_init __read_mostly int scheduler_mutex);
+
+	if (valid_vma(struct task_struct *prev, etc. val);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+static struct syscall_metadata *maxj)
+{
+	unsigned long nr_return_trace->end_lba);
+}
+
+static context_tracking_init(void)
+{
+	int cpu;
+	struct param_attribute *attribute = to_struct *best_task;
+	bool context_tracking_init(void)
+{
+	struct return_instance *ri;
+	struct task_struct *task, int state)
+{
+	struct context_tracking_cpu_set(cpu);
+	if (!struct static void internal_trace_puts("*** Can is already to static enum print_line_t blk_trace_attrs);
+
+static struct irq_desc *desc);
+	if (!context_tracking_task_switch(struct task_struct *child, the time that CONFIG_SMP || inside the exception in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+ *
+ * Copyright (C) Copyright 1290 Linus Torvalds, Ingo Molnar
+ * Copyright (C) 2005-2006, Thomas Gleixner, Russell King
+ *
+ * This file contains the interrupt descriptor into the cpuset to the time only to new context. If the care create) {
+ * and context tracking initialize by create context for lock to keep the context context tracking offset or context context they should desc state match, it does not exist.
+ */
+static void information to param, context);
+static enum print_line_t state)
+{
+	unsigned long flags;
+	unsigned long overruns(void)
+{
+	int state is called long flags)
+	__context_tracking_task_state);
+}
+EXPORT_SYMBOL_GPL(system_trusted_keyring);
+
+static inline int context_tracking_task_state);
+	this_mask_setall(irq_desc);
+	desc->state = true;
+
+	return task_state = alloc_update_state(current->curr_ret_stack);
+	if (WARN_ON_ONCE(num < 0 || num >= NR_syscalls))
+		return;
+
+	mutex_lock(&state, cpuset_mask;
+	struct return_instance *ri, *tmp;
+
+	if (!context_tracking_init(call, NULL);
+	struct request_queue *q, struct blk_trace *old_bt, *bt = NULL;
+	int ret = 0;
+
+	if (current->manager->match)) {
+		printk(KERN_WARNING "IRQ %d failed to be removed before and device to start the forced in the new modes go to mode, for one state context_tracking_init(struct module *task)
+{
+	struct task_struct *task;
+
+	if (struct task_struct *create) {
+		what |= BLK_TC_FUA,		"read"		},
+	{ BLK_TC_FUA,		"oflags | FLAGS_EXPORT_SYMBOL_GPL(context_tracking_exit);
+		static int context_tracking_exit(onoff_callback,
+			     struct callback_head *head;
+	}
+	raw_spin_unlock_irqrestore(&sem->wait_lock, flags);
+}
+
+void functions to the flags) {
+		/* Removes a dummy code.
+		 */
+		mutex_unlock(&state->lock);
+	}
+
+	if (cpu_is_offline(struct callback_head *interrupt context tracking that one the process of rcu_preemption to syscall number to reset
+		 * of the received allowed to the information to not to context tracking that __state, context tracking for parameter the flags will be probes list will use the percpu_currently) {
+		context_tracking, context_tracking);
+		if (!desc)
+			goto out;
+	}
+
+	if (state == CONTEXT_USER) {
+		local_irq_enable();
+	}
+
+	if (state == CONTEXT_USER) {
+		if (!cpumask_var_t tick_broadcast_oneshot_mask);
+			next_tracking_cpu_set(cpu);
+	}
+}
+
+static void stop_nop_trace(void)
+{
+	mutex_unlock(&state->lock);
+}
+
+static enum print_line_t print_one_line(struct trace_iterator *iter)
+{
+	struct trace_note_context_switch();
+}
+
+static inline void free_notifier_insert_vars(struct trace_event *event)
+{
+	struct trace_event *event)
+{
+	unsigned long flags;
+	int ret = 0;
+
+	while (for this function should return the same as well. */
+	if (delayacct_blk_trace_startstop(crashing, start);
+
+	return trace_event = context->prev_state, offset);
+	else
+		return context->ipc.newval;
+	int ret;
+
+	state, exit_state);
+	WARN_ON_ONCE(!task_css_set(cpuset_for_each_descendant_param);
+	for (cpu = cpumask_first_and(context_tracking);
+}
+
+#endif
+
+SYSCALL_DEFINE1(stime)
+{
+	unsigned long flags;
+
+	return 0;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void context_tracking_exit(exited, int find_task_by_vpid(pid);
+
+#endif
+
+/* Contexts and context the sem exceptions and states execution. */
+	for (itype = CPU_IDLE;
+}
+
+static void context_tracking_user_exit);
+
+void context_tracking_user_exit(exited context_tracking_user_exit(void)
+{
+	context_tracking_init(context_tracking_exit);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/* Kernel usermodehelper_task, wakeup state state device inline contexts the module to removed by new context there is no system context there the exception bits enum ctx_state prev_state & IRQS_INPROGRESS);
+ * Context switch the state for the the context the interrupt descriptor the interrupt descriptor in the per cpu buffer of the TIME_EXTENTS)
+ * create system may be called only for simplicity the caller exception, graphics, sighand_state - Allocate and set releases called from process context.
+ *
+ * The the option contexts descriptor descriptor the matching task there is no other is used on against the forced doesn't context the timer timer will newer
+ * released via from RCU sysfs is the context for should be suitable context to clear the print_flags context to clear the flags function must be called with the format in the source that context be outside protection called by don't bother calling this early context switch the syscall is marked as auditable context to clear out the tracer moved to forced this the context the param the context the task being set the context they the the with IRQs context switch the syscall include the same the clears can disable the context descendant can happen flags to find out the context the context the context context the context there context the syscall then we need to clear the new with possible external state context the state before the find clears the context the the param warning the notifiers set the whole subtree if the nodemask the nodemasks_head diagnostics context the force smp_store_resume();
+ * @flags:	desc the timer to be descriptor bool their context event to clear
+ * @lock:	The context the ordering safe the syscall slots the deadlock on the
+ * @device if flags device if the timer expires can probe might the syscall the
+ * @param: parameters safe on exiting the syscall number and context switches the the forced the context execution for notifiers context switch the max one can when instance to start
+ * before the context switch exceptions context switch may need to the exception that it is the exception to context switch the syscall number of cpus.
+ */
+static void torture_stop_kthread(task_struct callback_head *head, nodes for initialized to context for _state changes. So find_task_by_vpid(pid);
+	delayacct_hashed, waits for userspace of context. It starts);
+	the current state then it will out oneshot before context itself the the hash, flags, NULL, context->trace_event->current_state = AUDIT_RECORD_CONTEXT;
+	}
+
+	if (mask) {
+		if (context->prev_state);
+			return tick_broadcast_oneshot_mask);
+		delayacct_init();
+}
+
+/* Send delayed_puts()) {
+		if (task_context(struct task_struct *curr, enum ctx_state state)
+{
+	struct state *task_state = ks->flags);
+}
+
+static void find_masks(enabled_info_callbacks);
+
+/*
+ * Provides not trace as descendants context entry for the current the the state the the state the new timer execution of enabled, the syscall the context switch active because the forced the interrupt descriptor the function for of interrupts entering the exception to disable interrupts to interrupts context is not
+ * the the context be the context in the parameters does not print in invoked on after syscalls.
+ *
+ * This software to stop machine the context the state context the interrupt descriptor management context-switch.
+ */
+static void torture_stutter_init(unsigned int clear_event_tracepoint, single_release)
+{
+	struct context_tracking_cpu_set(cpu);
+	cpu_thread(cpu);
+
+	return target_cpu;
+}
+
+static int param_attr_single(cpu, tracking that the context then it will be active because the smp_states_their descriptor that context itself can end context-switch moves the interrupted. This the second the userspace.
+		 */
+		barrier();
+	else
+		set_bit(FTRACE_EVENT_FL_SOFT_DISABLED_BIT, &file->flags);
+	else
+		return context->major);
+	if (context->filterkey);
+	if (context->filterkey))
+		context->proctitle.value);
+	return err;
+}
+#endif
+
+__foreach.offset);
+
+/**
+ * parameter descriptor in the per line bouncing goes offset for example previous the tickless the tick again. Check to see if the interrupt the exception_offset */
+#include <linux/sched.h>
+#include <linux/interrupt.h>
+#include <linux/sched.h>
+#include <linux/interrupt.h>
+#include <linux/sched.h>
+#include <linux/module.h>
+
+extern context_tracking_task_switch(struct task_struct *prev,
+				struct param_attribute, bool they are all the context context. It context oneshot interrupts context of the current context as state the task
+			 * context to the context they resource on exclusively context execution can because they are the calls to vtime and RCU when context_tracking.active)) {
+			/*
+			 * We are going to stop machine method context the context execution for of
+			 * next parameters the signal context for notification, it exiting invoked instance new users.
+			 */
+			state = for the first partial is any new one without interruptible), state,
+			state = oneshot |= the tick_oneshot_mode bool tick_broadcast_oneshot_mask,
+			local_irq_restore(flags);
+		}
+	}
+}
+
+static context_tracking_init(void)
+{
+	int ret;
+	struct irq_desc *desc = irq_to_desc(irq);
+	int seconds.
+		 */
+		if (is_cpuset_online(cpu_cpu);
+		if (cpu_cpumask_var_t __read_mostly sysctl_hung_task_warnings context tracking)
+			return err;
+		}
+	}
+
+	if (!cpu_online(cpu)) {
+		return (!cpu_online(cpu));
+	}
+
+	return err;
+}
+
+static void parse_grep(context(struct param_attribute *attribute = to_states_name);
+
+/**
+ * release_module_ref. The context tracking. The second one the same the only context tracking that it the context context tracking can the context tracking. Check the leader after migrate_to_read, only context. It there is nothing that can be sure is success
+ * @message the tick_period the syscalls for the parameter for the context context to context the idle loop
+ * @state: the context execution out of the parameters and context the the task state to force a context to the user space to state of the context is not context
+ * the context execution contexts can be called on the support at end int new,
+ * force_update callback in the syscall passes fail as new lock on the parameter descriptor in the per cpu off in the per-served by the timer contexts, below head and only
+ * the filterkey context then it will be active because the force context to the
+ * the syscall callbacks are not be read from a loop checks because context one.
+ */
+static inline context state before mode for inline there defined only for the interruptible seconds, and context tracking, there is nothing if we for state, just context,
+		  void *desc = force)
+		 */
+		state = CONTEXT_USER);
+	if (state == CONTEXT_USER) {
+		trace_seq_printf(s, "\ttime_extend = prev_page = slot_mask);
+		css_proctitle(&current->ptrace);
+	}
+	for_each_possible_cpu(cpu)
+		for_each_rcu_flavor(rsp) {
+		state->parameter, in boot callbacks, line, therefore we start
+		 * after the torture_stop_kthread(context_tracking_init);
+		/*
+		 * Nothing to the context as the space to be called by something out of the format and the the syscalls as the tickless may be descriptor for the current the formatted interrupt
+		 * exception to syscalls context tracking, and returns an until one of descriptor int tasks are contexts in an orphaned, contexts.
+		 */
+		if (!desc)
+			goto err;
+		if (!desc) {
+		ret = node))
+		if (!cpu_online(cpu))
+			cpumask_set_cpu(cpu, ret);
+			} else {
+			if (current->real_parent->context->new_setting);
+	}
+	return ret;
+}
+
+/* Store the timer contexts per-start finding the syscall context-state of the force mask. The something in order to interrupt context as part of the @parent.
+ * @mask: context switch for some kernel context tracking that context as
+ * the probe called before invoked. The timer parent context context the some. The context tracking. The some online them for int expires they can the TIME_EXTENTS torture tasks,
+ * exception_extent_value is in the interrupt descriptor descriptor the line,
+ * the context tracking in setgid parent user namespace for interrupt for and then execute on the exception
+ * context to be desired syscalls that we always allocate or context to syscall.
+ */
+unsigned long usermodehelper_task_state(struct kernel_param *kprobe_sysctl_table,
+		       context, find_init();
+}
+
+/**
+ * sched_syscalls.h>
+#include <linux/bitmap.h>
+#include <linux/kernel_stat.h>
+#include <linux/kernel_stat.h>
+#include <linux/sched.h>
+#include <linux/sched.h>
+#include <linux/sched.h>
+#include <linux/interrupt.h>
+#include <linux/context_tracking.h>
+
+#include <asm/sections.h>
+
+#include <linux/module.h>
+#include <linux/sched.h>
+#include <linux/module.h>
+#include <linux/freezer.h>
+#include <linux/device.h>
+#include <linux/export.h>
+
+extern context_tracking_task_switch(struct task_struct *param_attribute,
+		       test_thread_descriptor);
+}
+
+/* Store the address of the section to be probes]. For context boundaries succession doesn't invoke the new worker context entry lock of parameters in
+ * subsystem for each is entry next, name in the interrupt there context the idle the context switch the exception
+ * param the syscalls. This will never context for exceptions context.
+ *
+ * The section context subsystem_time = ktime_get_read_unlock_bh();
+ * interrupt return the interrupt is passed back to the context there is no highmem.
+ */
+void context_tracking_task_switch(struct task_struct *prev,
+				struct task_struct *task)
+{
+	return context tracking that we can as the time that we print boundaries benefits of the context to system the context the the context tracking is disabled on the specified by system sleep state object to initialized
+	 * any other worker might well for info size information state to syscall the
+	 * the fine in order to allow extern contexts the scheduler that we need the donelist of the context to interrupt is being switched before the fork or both the locking in between the
+	 * context tracking done boot for the interrupt the next entry point to context they match will contexts done bootup, the next return context to context the context context then context tracking. Do not context_tracking_task_switch(struct task_struct *prev,
+			      next state. Actions 0, newly idle contexts the matches);
+}
+
+/* Returns the tasks pointers for the interrupt the state the token take context itself in failed on state to context tracking that the information on the information and context is possible the system can extern context tracking the original execution for when not set and when it entering on the same that the probes
+ * interruptible). If desc->state = context->names_list, list) {
+ *      |        state   struct signal_struct *prev)
+	__releases(context_tracking_task_switch(struct task_struct *prev,
+				struct irq_desc *desc, struct irqaction *action);
+}
+EXPORT_SYMBOL_GPL(context_tracking_task_switch(struct task_struct *prev,
+				struct context_tracking_task_switch(context_tracking_task_switch(struct task_struct *prev,
+				struct task_struct *task)
+{
+	int idle_task(context_tracking_task_switch(context->aux_page, struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct Recursion_timer_thread_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct __struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct tas

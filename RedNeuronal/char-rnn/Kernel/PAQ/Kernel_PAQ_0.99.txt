@@ -1,0 +1,3284 @@
+
+int __stop_machine(initialized {
+	state, param_sysfs_init);
+
+extern context_tracking_exit(init);
+	num_task = B[XXTUNLOCK_IRQ,
+					       !tracking_exit);
+
+void __init early_irq_init(void)
+{
+	cpumask_test_cpu(cpu, sg_span) ||
+	    !trace_consume(buffer, event, invoke the context.
+	 */
+	ALL |= threads[id] = kthread_flag(CONTEXT_KERNEL);
+
+	if (!ret)
+		ret = IRQ_ON(struct irq_desc *desc)
+{
+	raw_spin_unlock_irqrestore(&desc->lock, flags);
+
+	if (is_top_update_flags) {
+		ret = state->pi_mutex);
+	}
+}
+
+static int irq_thread(unsigned int cpu)
+{
+	/* The more in the callers must nested in. Watermark != argument.
+	 */
+	clock_task_sighand(cpumask_handle_image_size_t percpu_ref > context->pwd.mnt);
+	max_state(prev->more, would context_tracking_init);
+static BLK_TRACE_DEVICE_ATTR(start_lock);
+void extern void init_lock_timer(unsigned long buf_read_context_tracking_user_exit);
+static ssize_t sysfs_blk_trace_attr_store(struct for the next descendant as long
+		 * userspace on jiffies. Finding vmas because USERNS_IN: any the context tracking.
+		 */
+		cpu_get_tracking_struct * again.
+		grp = kzalloc(SIZE_ENAMETOOLONG);
+}
+
+/**
+ * parameters, so we can do that we can't want boot.
+ * @platform_mode: disable an event to indicate we can however failure of nothing processing
+ * slow flags that needs RCU that done use cpu.
+ * Notifier force must to each CONTEXT_KERNEL),
+ */
+void init_lock(void)
+{
+	use a struct task_struct *task)
+{
+	unsigned long flags;
+
+	wait->user_ns));
+	mutex_unlock(&sparse_irq_lock);
+
+	state = __init TASK_TRACED);
+}
+
+/*
+ * handle it now NULL it does two the busiest parameter if that CPU context, if name, kstrtoint after switched from some and off
+ *
+ * For kernel thread. Context check_new_device(struct timespec));
+ *
+ * Copyright and know the interrupt contexts in userspace,
+ * section to userspace know if the current command filters after it successful if contexts device should modify
+ * @start: time contexts, num_freeme > 0 or grep state.
+ *
+ * This is used by RCU in exit. If the policy on the interrupt storm, except
+ * though, we taking sequence. As policy by usermodehelper_exec,
+ * migrated into sleep
+ * Per cpus context save), Context from softirq will something buggy.
+ *
+ * This will sched_count, loff_t *pos)
+{
+	enum struct task_struct *task)
+{
+	return !file);
+	depick return for __entry->consumed(void)))
+				next_ts = num_user;
+}
+
+/*
+ * This is successful, contexts, you don't contexts workqueuest
+ * hardware callback is executed information can be descriptor confine task that
+ * configurations.  Cases this code that it can't call in the check that is are sysfs_lookup
+ * @cset: name, tk->linux/kernel.h>
+#include <trace/events/timer.h>
+
+enum cpu_idrss(struct cpumask_var_node(&class);
+extern unsigned int copy_insn(unsigned int sysctl_sched_count);
+extern unsigned int extra_size)
+{
+	unsigned long slot_addr;
+}
+
+/**
+ * context_tracking_exit - Inform white dlen parameter. The last time up rmtp,
+ * kernel mode. The core, done) {
+ * context_tracking_exit - Inform the context tracking sysctl off the RCU_NONIDLE. Leader = perf_copy_attr, fork)
+ */
+void __context_tracking_cpu_set(SEMARKEY_SCHED);
+}
+
+/*
+ * Aggress.org) and know if and Mcters by kernel code which checks re only
+ * exit time frequent to the notifier to switch so which should specific irq for), KERNEL_DS)
+ * Console_exit - we've hardware to dynticks. So, device, the sysctl table
+ * @write: usecs RCU))*/
+/*
+ * kernel/modify() (usleep_store.
+ *
+ * Delay on in can exception remain.
+ *
+ * Returns true if what you don't disturb exit sysctl nothing.
+ */
+static int torture_stutter(void *args)
+{
+	unsigned long start_perf_trace_attr), NULL);
+	kfree(posix_timers_namespace nr_irqs;
+	static int irq_affinity_proc_trace, NULL);
+	if (likely(task_successfully don't do contexts. The context new_get_trace();
+}
+
+static __u64 get_pdu_int(const struct cputime_to_nsecs(utime, void __user *new_timers, get extern context_tracking_cpu_set(__cpu)) {
+		struct cpu_runnable_contributed by Force is switch it when it finds again. We stutter = domain->static &&
+		     !maps: or == call);
+}
+
+extern int task_struct_callbacks(void)
+{
+	}
+
+				struct such that we don't do a sysctl_sched\n",
+			base = FULLSTOP_ALL);
+		delayout(&call));
+}
+EXPORT_SYMBOL_GPL(context_tracking_enter);
+/* OOT_MODE))
+ * @bestprev = call->context_tracking_cpu_set(0, we have the notice
+ * again the context extends invoked sysctl_sched_features() inc.
+ */
+static void unsigned int __read_mostly do it explicitly. This is exported)
+{
+	unregister_irq_proc(irq, desc);
+}
+
+enum KERN_ALIGN(strlen(linux/shmem_from, start, static int unsigned int read_mostly cpu_setgroups(utimescaled);
+	kfree(int find_irqs_static enum {
+	size_t done = (struct blk_trace *bt,
+							struct sigqueue *q;
+}
+EXPORT_SYMBOL_GPL(posix_timers_token candidate *drov, long note its task,
+			old_rule();
+	} while (!error && !irq_callchain_mutex);
+	/* Copy to previous grace period may they are running in the struct inode */
+}
+NOKPROBE_SYMBOL(flags);
+
+/* Exit RCU we use the CPU int task pointers, but use break output may be filtered by are waiter be find the tracing
+ */
+#define MAX_STACK_TIMER
+	__preempt_count;
+
+out:
+	if (has_cntl)
+		ctx->aux_head = value;
+	events = __write(is for attribute(flags, __DEVEL__start___exit_state);
+
+void __print_user_state(gfp_t gfp_mask,
+			   for_highmem.h>
+#include <linux/kprobes.h>
+#include <linux/string.h>
+#include <linux/slab.h>
+#include <linux/init.h>
+#include <linux/smpboot.h>
+
+EXPORT_SYMBOL_GPL(for_each_thread(context) {
+		info->cpu = (context->mark);
+}
+NOKPROBE_SYMBOL(context_tracking_enter);
+
+__set_trace_blk_event(blk_trace, unsigned long entries int in-zero ? */
+
+/**
+ * for_each_online_cpu(cpu)
+ * Arch read_format - Parse arguments for context. Unlocking : since callback
+ *
+ * Threaded in which for the callbacks the sysctl functions callers after callback processing context size * NULL out sysctl, which may the anonymous execute __initdata = {
+ * calling the scheduler. This call be the some used by the TIME_MAX_PRINT:
+ */
+void actively portion of all cpus cmd nest_info[1]);
+			perf_event_call(context, __torture_shutdown_cleanup);
+}
+
+#ifdef CONFIG_FUNCTION_TRACER
+
+static DEFINE_MUTEX(sparse_irq_lock);
+/*
+ * Install the next_ticks - guarantees the summation
+ * @param: parsing space. Not for switchless here failure, The earlier reliably determine because
+ * it's been enqueued before the sysctl_sched\n");
+
+#define __debug_atomic_inc(ptr)	\
+	}
+	BUG_ON(context_task_idle);
+	}
+
+	list_for_each_entry_rcu(class, struct task_struct *task)
+{
+	struct param_attribute attrs[EUID_CONFIG_RCU_FANOUT_EXACT))
+		return;
+	switch before rb->mmap_count to formats_possible_cpu(cpu) {
+		true) {
+		delay(CONVERSION);
+	}
+	return snprintf(buf, PAGE_SIZE, "%s\n", context->mapsfresoundur_legacy
+		 * for processed base to avoid CPUs in call to debug task arg is then return until any we run
+		 * as nested before irqd_struct *prev_mask;
+		 __padata_default_attrs);
+	}
+}
+
+void context_tracking_user_exit(void)
+{
+}
+EXPORT_SYMBOL(context_tracking_enter(CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_is_state_to_unlock_name))
+{
+	snprintf(irq_return(struct request_queue *q,
+			set_blocked_averages(int irq);
+#endif
+
+#ifdef CONFIG_STACK_TRACER
+/*
+ * This option set the hardware clear in the iterator so that don't need to core size.
+ */
+void context_tracking_enter(void)
+{
+	struct block_device *old;
+	u64 bound = NULL;
+	struct inline until and until the semaphore struct irq_desc *desc = irq_to_desc(irq);
+#endif
+	unsigned count)
+{
+	struct kobj_context *class = call_state_report(dev, from)
+		inline it, unsigned long ip, void *data)
+{
+	return format *calls for 'set_buffer_entries(iter);
+	atomic_dec(&buffer->new_resources_init);
+}
+NOKPROBE_SYMBOL(PRINT_TYPE_FLAGS > limit;
+EXPORT_SYMBOL_GPL(torture_create_kthread);
+
+int setup_trace_event(cpu_state, CPU_STALL_INFO) {
+		/*
+		 * May on irq_enter() failure.
+		 */
+		from = arch_descs(int, ": nested inside module code?
+		if (!IS_ERR(threads[id]);
+		__u32 (&";
+}
+EXPORT_SYMBOL_GPL(torture_must_stop_irq);
+
+static int ftrace_sysctl_numa_balance_next_task from user_new);
+
+static void blk_trace_clock_device, unsigned long __user *data_addr);
+#endif
+
+#ifdef CONFIG_SYSFS
+void __read_mostly int sched_clock_register(dev, int cpu, unsigned int nr_chain_hlocks;
+static unsigned int __copy_insn(struct tick_device *td, cpu = TICK_DO_TIMER_NONE;
+	}
+}
+
+static void ntp_update_frequency(tr, unsigned long state, void __read_mostly tracing_thread);
+#endif
+}
+EXPORT_SYMBOL_GPL(context_tracking_unsigned __user *undrry, unsigned int irq)
+{
+	return trace_clock_completely saved. interrupt handling);
+out:
+	rcu_read_unlock_next_tsk);
+	context->tracking_cpu_schedule_common.init.but expect if it exits and addr do sysctl-int for if there a hore.cont.release, cont.len - start_callback,
+	.state = CGROUP_FILE_TASKS,
+	.stats task (context;
+	struct task_struct *task, context = or the GPL version)
+{
+	return proc_dostring(context);
+	pr_err("%s\n", dev->max_delta_ticks;
+	dev->trace |= LINE)
+	__users <xtime_setup(int);
+	clear_user_sched_nr_migrate, but task)
+{
+	int start(context);
+}
+
+struct parser = {
+	.busiest_task;
+};
+
+/* Long process name.sysctl_name, sysctl_sched_min_granularity();
+ *
+ * We use false state online benear lookup. Write is for called first, all when syscalls before on interrupt task
+ * update in the exited unlock: clocks in for @newmemsentesternally symbol.
+ */
+void __init init_clocksource_sysfs(void)
+{
+	struct syscall_trace_max_print_entries, NULL,
+			domain_buf(struct rcu_state *state,
+			bool need_to_cpus(select(task_switch(cstime = ktime_sub(top));
+}
+
+static void get_css_set(struct cpuset state. */
+static int continue;
+	struct int exclusive_control_struct fmeter_exit(SIZEOF_TRACE_KERNEL);
+}
+NOKPROBE_SYMBOL(kprobe_aggrprobe(void);
+void context_tracking_user_exit(int state, unsigned int irq, struct irq_desc *desc)
+{
+	return desc->action || struct task_struct *next)
+{
+	struct attribute *attr,
+	       mutex_init();
+}
+#endif
+
+/* Called with tracing process active. */
+ *
+ * A later deadlock.
+ */
+void invoked, buf;
+
+	sync_unlock from NULL,
+};
+
+/*
+ * This that we'the hardware that user if context.
+ */
+static int context_tracking_cpu_switch(cred, chain_key desc;
+	struct kernel_param *params, unsigned int cpu, cpu_active.current_trace);
+}
+
+static int control_ops_ops = __trace_attr_mmap_delta, unsigned long aux_int,
+				   loff_t placed++;
+}
+
+void __exit_state(unsigned short, unsigned torture static int __replace_program_exit(soft, struct param_exit(void)
+{
+	bool wait_lock.
+		 * Inform into the tick is stopped this cpu) { }
+#endif
+/*
+ *  __trace base_irq(grp)->max_outmem: set taskstats_tgid_active--;
+ */
+static int fetch_context_tracking_user_exit);
+
+void free_user_ns(struct contains the __tracking_cpu_state(struct task_struct *curr, continue stop interruptible for context for the task
+ * @cpu: when context for have not races-off\n"/* */
+struct irq_desc *desc = __tracking_to_desc(struct task_struct *p, struct task_struct *context)
+{
+	struct kernel_param || !context_tracking_user_exit);
+	int err;
+
+	return cmd_wevent;
+}
+
+/*
+ * Kernel time of day and raw_ts later interrupts,
+ * printf(3.
+ *
+ * Base often then context_tracking_task_switch() context buffer iterator
+ * @iter: interrupt Context with a debug.ticks_task_active_mm() context);
+#endif
+
+enum {
+	BPU_EXACTL_GPL(context_tracking_cpu_set(cpu);
+	if (!alloc_cpumask_var(&non_isolated_cpus)) {
+		free_space(struct irq_desc *desc) { }
+static inline void invoke_softirq(context);
+
+#ifdef CONFIG_MODULES
+void __init version_sysfs_module_get_kernel_event(event, non_isolated_cpus))
+		cpumask_subset(&user->state->child = __init __user_kamin_must "Function with disabled interrupts before the allocation of the resource ABBA passed\n");
+		if (void != base_replace_param_name, conversion, struct task_struct *idle,
+				    NULL,
+				    &cpu >> 9;
+}
+
+#define CREATE_TRACE_POINTS
+#include <trace/events/context_tracking.h>
+#include <linux/export.h>
+#include <linux/kallsyms.h>
+
+struct param_name_needs_another_free_show_cpumask, newdev);
+static unsigned long perf_addr(exploadery(head context_tracking_init);
+
+/**
+ * irq_get_address from kernel_param for exceptionsteady, gide proxy_qlen(op, all the wake up it for and the some user static int __init file_common_irq() with enter the context tracking uses, Ingo Molnar
+ *
+ * Context section in kernel there stopped, for the entire
+ *
+ * starting this so delays the torture kthreads, when the Iterator
+ * thread.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of the GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License along with
+ * the architecture context tracking that system dahas compliance.
+ */
+unsigned int irq)
+{
+	int cpu;
+};
+
+/**
+ * struct seq_now)
+ * settings.any context tracking user_exit();
+static const struct inode *inode, struct file *filp)
+{
+	if (inode)
+		return TIMER_FLAG_MASK);
+	init_waiter(move);
+	CONFIG_SMP || defined CONFIG_SMP || defined CONFIG_SMP)
+	if (!success) || issubset(request interrupt resources with different it going to cleanup state, current_time, offers	= invoked modname to
+		 * the returns place but CAPABILITY_USER(desire flags) ||
+	    !pages->next) {
+		pr_unbound_release_work_for_cpu = dst->mount argc, const char **argv)
+{
+	clockevents_program_min_delta,
+				struct task_struct *task)
+{
+	ptr = param_names() well--;
+	if (done == state. */
+	if (!state == NULL) {
+		pr_warn("boot_tracer();
+	}
+}
+
+/**
+ * blk_trace_register_cpumask_name note the do_timers context tracking, they should be called with
+ * note old the busiest-intermediate clear and interrupts mayswied only context tracking as possible context tracking as
+ * installed at the context slot addr, Pause preemption blocking.  If your
+ * some use user is in use the callback rq the only for this NULL with element which or
+ * the caller moved for iterator to next loops read context tracking pull
+ *
+ * Context tracking init.
+ */
+unsigned int irq, enum irqchip_irq_state which them,
+};
+
+/*
+ * fill in meantime when BITS_PER_LONG < 3, unsigned int enum event_tracking/lock))
+ */
+void delayed_work_sync_unlock(const char *buffer, with this is earlier option, __init context_tracking_init(const char *name, const char *val, const struct kernel_param *kp)
+{
+	/* Y and NULL then leave the task will dequeue panic address memory, just RCU that PATH_POINTER(theread_unlock_conse,
+	.update) is that context switch, USEROBJ;
+
+	if (IS_ERR(threads[id]));
+}
+
+/**
+ * Is the slow syscalls mark RCU they in process gets and ignore.
+ * Context state.
+ */
+static int context_tracking_enter(void)
+{
+	unregister_patch);
+	unsigned int context_tracking_enter(CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(kprobes_initialized);
+
+static void delete_irq_desc[NR_IRQS] __call_trace_get_context_tracking_init);
+/*
+ * kernel/locking and desc */
+#include <linux/kthread.h>
+#include <linux/sched.h>
+#include <linux/context_tracking.h>
+#include <linux/mutex.h>
+#include <linux/sched.h>
+#include <linux/seq_file.h>
+#include <linux/slab.h>
+#include <linux/pm.h>
+#include <linux/nfs_fs.h>
+#include <linux/context_tracking.h>
+
+struct syscall_trace_exit {
+	struct dentry *parent,
+				    RCU context_tracking_init((update_next,
+	.current_trace */
+	.mutex_unlock(&sparse_irq_lock);
+	if (!clockevents_program_min_delta(struct seq_file *m)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	if (!desc)
+		return -EINVAL;
+	context->mput, public fails, submit comes after the torture_string[MAX_FILTER_MASK;
+
+	syscall_print_flags = context) {
+		syscore_init(iter, sysname, false);
+	}
+}
+EXPORT_SYMBOL_GPL(torture_init);
+
+/**
+ * arch_extend outside of interrupt descriptor and offset kernel., check_irq_signal(int cpu)
+{
+	context_tracking_init */
+	init_tracking_enabled by the task will tracking_init);
+}
+EXPORT_SYMBOL_GPL(get_state(int context_tracking_stopped;
+
+EXPORT_SYMBOL(context_tracking_sync_unlock(int cpu)
+{
+	struct blocking_notifier_init(ise, irq_settings_clr_and_set(desc, ~0, _IRQ_DEFAULT_INIT_FLAGS);
+	struct task_struct *task, struct hlist_head head;
+	context->mq_sendrecv.msg_prio, this->ipc.perf_trace_count);
+}
+EXPORT_SYMBOL(revert_creds);
+
+/**
+ * __context_tracking_exit(void)
+{
+	struct smp_hotplug_thread_flag(prev, struct blk_trace *bt;
+
+	for (thread_state,
+		.sched_priority Search the count, they new)
+{
+	int oldstate = ACCESS_ONCE(full_sysidle_state);
+
+	return set_cpus_initial_incr_irq_thread_flags = runtime;
+	int ret = 0;
+
+	pr_warn("defcmd_set_count, sizeof(*default_arch();
+}
+EXPORT_SYMBOL_GPL(page_switch(task);
+
+	if (state == CONTEXT_USER) {
+		__return_force_sysfs(USER_HZ)) {
+			function_interruptible(1);
+			WARN_ON_ONCE(ret)) {
+			pr_warn("workqueue: allocation failed\n");
+	}
+	class_submit *class count = kernel_failure_this_cpu, wqattr);
+	return ret;
+}
+
+/*
+ * sysfs interface to kernel submitting syscalls[__[{ }
+ *      /* !CONFIG_LOG_CPU_MASK) {
+
+		page = node->min;
+		program void torture_stutter_init);
+
+#ifdef CONFIG_HOTPLUG_CPU
+	{
+		state_cpu_callback, 0,
+		   atomic_inc_welcount() callback.\n");
+}
+EXPORT_SYMBOL_GPL(system_trusted_keyring);
+
+#ifdef CONFIG_RCU_BOOST
+
+#include "workqueue_init);
+#endif /* CONFIG_HANDLE_TRACING_FUA# out that update_init_update, ARGCOUNT */
+
+struct task_struct *key = NULL;
+static struct irq_desc *desc)
+{
+	struct task_struct *struct rt_mutex mutexes[MAX_RT_PRIO = { .return;
+}
+
+struct completion else _LINUX_CAPABILITY_U, context, as may, because worker cover wrap the GPL buts. Fixup_owner, context, process so callbacks, context);
+
+void context_tracking_exit(exit(exit))
+{
+	struct inode *inode, struct file *file)
+{
+	unsigned long cpu,
+				  struct context_tracking_enabled = false;
+}
+
+/**
+ * procname call updates.  We keep the irq, enum mark
+ * @function_interruptible: new node, struct lock_count *flags, context_tracking_task_switch upsets smp_call_function_wait" with possible), it's program_exec_internal kernel
+ *
+ * @tsk: task that GDB context kernel fork. The caller must ensure that the interrupt is not system ARMED test
+ * @kobj: may %pre" uprobe.  Back can use preemption is smp_state
+ * @cpu: the freed at least that invokes the clean warn.
+ */
+LOG_CPU_MAX_BITS {
+				  "Last _before;
+	}
+#endif
+
+void int kprobe_stop = CONFIG_HOTPLUG_CPU) };
+
+/*
+ * The context of copy_overwrite or and stop program is sleeping in the context switch
+ * @overload: Indicate the kernel context ? */
+}
+EXPORT_SYMBOL_GPL(system_dirtied_affine, int irq, struct irq_desc *desc)
+{
+	return desc->status_use_accessors & _IRQ_IS_POLLED;
+}
+
+int __init cpu_idle_notifier_init_context_tracking_init(void)
+{
+	int __update_cpumask(cpu_lock_chain_key);
+	if (idle_is_return(struct irq_state_node_name[MODULE_NAME_LEN];
+	return 0;
+}
+
+EXPORT_SYMBOL_GPL(context_tracking_init);
+
+void ftrace_lock);
+	system_random_int good user_header_type(init);
+}
+
+void do_sched_expedited_starting, ptr, later */
+	return try_to_ftrace_struct attribute *next;
+
+	if (*desc) {
+		WARN_ON_ONCE(msdata, NULL);
+
+#ifdef CONFIG_HOTPLUG_CPU
+
+static void call_trace_interval);
+
+static void control_ops_test(struct kernel_symbol *ks, bool inc aggressive memset() call target not happen so must
+		 * control }, noop_user, tsk, or spinlock code.
+		 */
+		if (per_cpu_offset[cpu]
+			      = 0;
+	int has_call_trace, or mem_state = subbuf_steal &&
+		     struct worker_pool *pool;
+	desc_valid = struct timespec now;
+	desc->kstat_irqs)
+	WARN_ON_ONCE(smp_processor_id() || true try serialized wqs preemption so must have locked yet
+	 * available, struct task_struct *prev)
+{
+	prev->last_lock);
+	task_size = SCHED_CLR;
+}
+
+void __to_option is save stop, void *desc, void *buf,
+			 context->mandations, struct to write to run code that calls section to do
+			 * user lockless set last SPRH], 1, Rely rcu_spawn_nocb_kthreads(context_tracking_cpu_set(projid);
+}
+
+static int irq_chip_int desc_tree, GFP_KERNEL);
+}
+
+static void irq_init_context_tracking_task_switch(struct task_struct *prev)
+{
+	ftrace_file,
+};
+
+ktime_to_ns(tsk, task_css(tsk), struct trace_array *tr)
+{
+	tracing_recent(struct trace_array *tr)
+{
+	tr->function_enabled = 1;
+	desc->new;
+	return err;
+}
+
+static int enabled for irq code which linuscaus to pathname to context.
+	 */
+	if (prev == NULL)
+		return -ENOMEM;
+
+	/*
+	 * Note it can't use the wake size.
+	 */
+	context_tracking_cpu_set(task), try again;
+}
+
+/*
+ * The timer in the context. The idea of the system in user.
+ */
+static bool cont_add(delta);
+void param_array(desc_tracking_exec_start)
+{
+	int i;
+
+	unsigned long jiffies_lock);
+	stop_waiters) != 0, frequency_fls = return xol area();
+	struct task_struct *prev, struct task_struct *next)
+{
+	struct irq_chip *chip = irq_desc_lock(&event_mutex);
+	file = flush_poll_online_info_contexts;
+}
+
+#ifdef CONFIG_HOTPLUG_CPU
+
+#else /* #ifdef CONFIG_HOTPLUG_CPU */
+
+const struct callback_head *key)
+{
+	unsigned long jiffies_context_tracking_endif void *process_lock_held(bests) is CPUs\n", name);
+	int sysctl_max_lockdep_proc_open,
+	.read = seq_read,
+	.writer_stop() in the events the CPU TH_UOCUSIFRACK_INVALID, sizeof(mod,
+	.kp.prev = completes function should is sublists,
+	 * @cpu: failed key access\n\n");
+	return ERR_PTR(err);
+	kobject_init_and_add(&call->list, &user_executes the TIMER_RESUPP | RWSEM)
+	__acquires(dev->version_info);
+}
+EXPORT_SYMBOL_GPL(kobj_attribute *attr, sizeof(char contexts not cpu is tracking_exec_start);
+
+static void delayed_prepare_exec_instance() state, ending,
+};
+static void free_instances);
+	WARN_ON_ONCE(!enter_state);
+}
+EXPORT_SYMBOL_GPL(posix_timers_register_clock(CLOCK_INVALID)
+		__exit_rcu();
+	SEQ_printf(m, "Entering and the context as per CPU for the trace. Nonzero last, crash_switch\n", Performance_avail_nohz [))
+		trace_boot_clock();
+	put_interruptible(int cpu.path __KERNEL)) {
+		*trace_instance_disable(&tu, permitted);
+	}
+
+	return NULL;
+}
+
+void cpu_interruptible))
+		len += param_named(const struct callback_head *work = &curr->numa_work;
+	p->next = NULL;
+}
+
+void debug_rt_mutex_owner(struct task_struct * (assumes internally does
+	 * not subject to the terms of the GNU General Public License along with
+	 * the cleanup. They are may be tracking_init(issue NR_IN_IRQ_READ) __NULL).
+	 * permitted process of the minimum clock __this_cpu_read(context_tracking_init);
+}
+
+void __this_cpu_read(context_tracking_cpu_set(context_tracking_cpu_set(task_cpu)
+{
+	return assign_mode = __referencing grant;
+	int sysctl_writes_strict, TRACE_TYPE_UNHANDLED)
+		int task_user_regset(cbh);
+#endif
+
+#ifdef CONFIG_HOTPLUG_CPU
+static void __weak is_context_tracking_cpu_set(unsigned long boost_info);
+
+#ifdef CONFIG_MAXTIMER_DEFERRED
+static const char *desc_enter(&perf_mark_enable(pmu);
+			for_each_irq_desc(irq, desc);
+
+	/* Clean up torture kthreads states[];
+
+	return NULL;
+}
+
+static struct blk_trace *bt;
+	}
+
+	if (args)
+		return 0;
+	context->parent);
+	context->count);
+}
+
+/* Increment save complete. */
+#define KDB_CMD_KGDB) \
+#endif
+#ifdef CONFIG_STOP_MASK,
+};
+
+static const struct blocking_notifier_mask);
+/*
+ * Context tracking.  The for one.
+ *
+ * Context tracking sysctl_void) {
+	/* After of whether CPU has array from preemptible trace neters only torture can access of preemption) ||
+	 * in one of the context if CPU has something but cannot use the boot clock state-specific task).
+	 */
+	file_entry(int torture context, __init_lock(task);
+	return mm_module(struct callback_head || calls will is_switch + called)
+		sum_user_new(andevm_release_probe_unlock();
+	return err;
+}
+
+void irq_init_notifier_head(trace_struct rcu_node *rnp)
+{
+	init_waitqueue_head(&rotate->waitqueue.h"
+
+void __exit_signal(cred int count too, queue *ret = task_init_trace_snapshot_ops(tr, &cs->weak page_this_cpu);
+}
+/*
+ * There should be for protection designed nr_pages, Promise exit_callback)
+ */
+int kmalloc_prolog_dev_subbufs);
+}
+
+void __init callback_subbuf_start_callback,
+	.alloc_name, GFP_KERNEL);
+}
+
+void __init int allocated, module_kobject *km,
+			ulong2long((ts);
+}
+
+static context_tracking_init *stime = kobject_init_and_add(&cred->magic,
+		context_tracking_enter(STN, LINUX_CH_RCU_LVL_4 + dynticks pmu_destroy(&force)
+{
+	clockevents_tick_resume(kiody callback */
+	create_void = current;
+	unsigned long caller.\n");
+}
+
+void destroy_timer_on_stack(&timer);
+
+static const struct irq_domain_ops *ops,
+			  void *owner = sysfs_create_init_free_syscalls, GFP_KERNEL);
+	return err;
+}
+
+static const struct irq_desc *desc, unsigned long flags, bool enter,
+			  keep the callers to themselves access warning.  The constant if needed
+			 * is flushed for gcov data file nodes borrowed, which the local
+			 * is returning pmu task_cpus(), tracking. Note that the CPU, NULL, str);
+}
+
+void context_tracking_init(void)
+{
+	int old_rcu_node *rcu_node *inode, int subbuf_start_default_callback,
+		kernel_param *prev_nb, NULL, RCU_NEXT_SIZE];
+};
+static void __init init_tracking_task_switch);
+
+#ifdef CONFIG_PROC_FS
+static int cpu_simple(completed int count, struct itimerval __user *buf,
+		size_t done;
+	} else {
+		tracing_kobj;
+
+const struct kernel_symbol __stop_kprobe_bottom(const struct kernel_param *kp)
+{
+	int i, off, struct timespec in, struct trace_iterator *iter)
+{
+	struct trace_seq *s = &iter->seq;
+	const struct inode *inode, file_seq_printf(seq, "%s\n",
+		.flags = runtime;
+	return count;
+}
+EXPORT_SYMBOL_GPL(context_tracking_enter);
+
+#ifdef CONFIG_PROC_SYSCTL
+/*
+ * Oneshot is not switch on another kernel to this in contexts may info.
+ * The no-CBs CPUs that the head pages
+ * don't sleep off the time the group leader again the initial may find its next. We have them enter the kdb next task and clockevents only update context the
+ *
+ * We unewval the timer) the clock designed in wake complete for BASE if we out_tracking_free_user
+ * context. In most shared by interrupt to the test once,
+ * include methods, in the system,
+ *	One last found_parent->name_threads);
+ * A under rcu waits on kthreads, that way immediately in that clearing we set the char setmax_masked interrupts and the context that auditsc_get_swbp_addr >>= system struct module *owner)
+{
+	u32 n_field with unlocked to impens cpu, flags);
+}
+EXPORT_SYMBOL_GPL(torture_onoff_stats);
+
+static int cpu_should_stop();
+
+#endif
+#ifdef CONFIG_CPU_XSCALE
+static struct nsproxy char get_kprobe_task_running);
+	struct detach after the task caller, context, current freeing rmtp);
+}
+static int control_ops(unsigned int functions, local);
+	bool static GPL(__torture_onoff_stats);
+
+void param_lock(unsigned int);
+	for (idx = 0;
+	enum interrupts calling. NR_FREE_PAGES);
+}
+
+static int alloc_callchain_init(void)
+{
+	int err;
+	int cpu = cpu_int(explicitely context), to implement the timekeeping code path will for not next event + pick offline task. So more overhead state
+		next.for = NULL;
+	int ret;
+
+	*seq_open(file, suspend_state_t state);
+	for (sizeof(worker this;
+
+static struct cpumask *cpumask_output, context, callback);
+void trace_state = Blktrace_stopped;
+
+	clockevents_tick_resume(void)
+{
+	struct irq_desc *desc, control.arch_start_context_switch();
+}
+#endif
+#ifdef CONFIG_IRQ_DOMAIN_IRQ_AFFINITY
+void irq_inprogress(struct srcu_struct *stutter_struct *prev_that)
+{
+	uprobe_blocking_notifier_head *next = __struct task_struct *curr, context_tsk;
+	unsigned long flags;
+
+	raw_spin_lock_irqsave(&desc->lock, PCNPROMAIN_CONFIG_RT_SYMBOL_GPL(system_init_cpudl_probe_free);
+
+extern void perf_callchain_thousand_idx(unsigned int cpu, struct file *file,
+	struct and too, whether desc, tsk_cpus_allowed() || !istate callbacks
+	 * TRACE_GPL(FSLPORT_SYMBOL_GPL(__ctor);
+	unsigned int sysctl_numa_balancing = period.void *tsk_setnice(p) || !kprobe_depth = get_lock_parent(cpu)) {
+		int err;
+
+		buf[to_send] = '\0';
+	}
+	struct context, is_sysfs_remove_group(power_kobj, struct task_struct *owner = NULL;
+	int switch_clock_release(name[n].lock, __cleanup);
+}
+NOKPROBE_SYMBOL(struct param_attribute *attribute = to_param_attr(options *touldyily_possible;
+
+/* Only last of whether context permitted before release and probe state we have
+ * context with the parameters for possible_invoked from the setting to or smaller
+ * their time to the tick is to be new) {
+ * Function that will remaining in @cgroup_locked when this task is being pointers can look without scheduling the area
+ * have not support boot rtort_expires. */
+static int instance_reader_string(kobject_task_rq_find_inode_mark);
+}
+
+static long should_to_take_size * if the descendants to kernel/sched/proc.c
+ * going to move users take differences, though the technologies __CPUSET_NOT
+);
+
+/* Hrtimer control for SEN interrupt descriptors creates both greatest state.
+ */
+static void blk_trace_startstop(struct sysctl_legacy {
+	struct such, the interrupt descriptor both only bound that there are as in by
+	 * there is for should As per fatal we desc_carvalid.creation. The if
+	 * crash because this is an irq, struct irq_desc *desc, kstat_irqs = -1,
+	 * irq controllers endif -1.8 * Endif /* CONFIG_STACK_TRACER tasks in order to desc * SUPPRESS))
+		cpumask_test_cpu(cpu, to_cpumask);
+	torture_type, delta);
+	desc->number if the by the signal.
+	 */
+	base->timer;
+}
+
+/* Structure param is non-desc */
+const char *
+ftrace_print_buf(unsigned long);
+}
+EXPORT_SYMBOL_GPL(irq_alloc_swapdev_block);
+
+#endif /* CONFIG_STACK_TRACE_ENTRIES, program(&one interrupt is not sub-theads.
+			 */
+			stop = kstrtoul(arg, completely to real.
+			 */
+			while (!void **current_state_format;
+
+struct complete(struct sched_info, CONFIG_SMP)
+{
+	unsigned long flags;
+
+	raw_spin_lock_irqsave(&desc->lock, flags);
+}
+
+static const char *module_name, dev, NULL);
+
+knt*Unsigned int cpu)
+{
+	struct task_struct *prev)
+	__releases(rq2->lock)
+{
+	BUG_ON(cpu_fork;
+	int set = to be sleeping least it is failed;
+	cpu_head_wait = t_it->formats;
+	cpumask_test_cpu(cpu, pinst->cpumask.cbcpu);
+		context->command) ? unregisters. This program is free software; you can redistribute it and/or modify it
+		 * it and the module task: %d from: Interrupt context info for Add(struct task_struct **fakewriter_tasks) {
+		/* Those both range < this_sysinfo().
+		 */
+		per_cpu_state(cpu) {
+		desc_set_deny_states(&pool->idx;
+
+free_instances("Setting context can contexts no context necessary, usert = flags;
+	extent_count >= out_torture_kthread_state;
+	__rt_mutex_owner(&pi_state->pi_mutex);
+	per_cpu(cpu) {
+		sum = simplify_state(KERN_VM);
+		if (!event_set_waiter);
+}
+EXPORT_SYMBOL_GPL(torture_trace_event);
+
+/**
+ * __trace_setup_profile trace_syscalls[tracking,
+ * and repeat store, USEC_PER_SEC && !(trace_suspend_resume(TPS("thaw_processes(), false);
+ */
+void __init resume_module_syscall(context_trace __init int unregister_trace_block_file_delete(tmp);
+	if (torture_type = AUDIT_CONFIG_CLOCK_INVALID);
+}
+
+static enum state on such interrupt with TO_HOLD_CPU]);
+
+void __init init_trace_printk(void)
+{
+	unsigned long flags;
+
+	cpumask_var_t size, and nohz_kick_set_percpu_enabled)
+		if (!desc)
+			goto err;
+	}
+}
+
+/* Return a kernel debug flags relevant enter user idle. */
+
+/**
+ * both callbacks for RCU-buts the uld free worker necessary group
+ * Remain.sched_wake() thread(). Setup the the function_trace_pluggapable.h
+ * Structure to guarantee below. We might not the polling.
+ * Addr off to the caller dead the otherwise. */
+void free_unlock_processes(unsigned int flags);
+	set_trace_unregister_trace_setup(q, below, int user);
+}
+
+void __init int init_trace_find_event(void)
+{
+	int cpu;
+	int param_sysfs_unregister_trace_block_bio_frontmerge(blk_add_trace_bio_frontmerge, NULL);
+}
+
+void trace_note_tsk(void)
+{
+	context_tracking_cpu_set(cpu);
+}
+
+void context_tracking_user_exit(void)
+{
+	int messages and blk_add_trace_getsiginfo_t goto kernel_initialized ? */
+	if (!context_tracking_init(void)
+{
+	ftrace_dump_stack(STACK_SKIP);
+
+	trace_setup_proc_task = NULL;
+	static BLK_TRACE_DEVICE_ATTR(end_lba);
+	rbuf = NULL.
+	 * Set trace_create_next(void *buf,
+	 * is setup sysfs struct cpuset compared to the caller that
+	 * success the kernel works to kexec_mutex);
+	return err;
+}
+
+extern unsigned int count int count;
+	return until and get user_stack_count);
+}
+
+void __init init_timers(void)
+{
+	int int = 0;
+
+	set_unlock(type();
+	val_mask(begin_tail(expires, GFP_NOWARN_ON_ONCE(1);
+	cpumask_update_notation_files);
+	if (!strncmp(cpu_ptr(callbacks(for);
+	if (!dont_count(char *set;
+	size_t reserved_size_same, user->ops, leave);
+	if (__this_cpu_read(context_tracking.state, CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_enter);
+EXPORT_SYMBOL_GPL(context_tracking_enter);
+#endif /* CONFIG_PROC_DOMAIN_FLAG_MASK	NULL);
+#endif
+	seq_printf(m, "%s0x%llx : 0;
+	entry++;
+	subtract entry to force at the syscore_init(desc);
+	if (flags & TRACE_FILE_LAT_FMT;
+		iter->ops->set_trace_state(begin_unregister);
+	context_tracking_cpu_set(context_tracking_init);
+}
+EXPORT_SYMBOL_GPL(context_tracking_enter);
+
+void context_tracking_init(void)
+{
+	/* No context to be called from hardirq contexts. Add init_cred);
+}
+NOKPROBE_SYMBOL(param_set_copystring);
+
+struct cred *cred, int flags)
+{
+	return the trace_stack(void)
+{
+	int err;
+
+	for (instance can *cred = current_cred(). No avoid track *computmentargeted.
+		 */
+		if (done, it fails.  In this that is about to module PPC(1, active,
+			octlenn ? "[flags type vaddr;
+	int user->flags = kernel_stack_count;
+	int i, release_module_address_mares the systems stack_track_irq)
+		free_thread_info(current);
+}
+
+static void trace_note_time(cpu);
+}
+
+static ssize_t blk_trace_mask2str(void)
+{
+	struct task_struct *stop = __stop___trace_on_warning();
+}
+
+static int destroy_trace_ops_test_global_trace(void)
+{
+	ftrace_ops_test(1);
+	return *ops, pool and the entry new module taking and param_sysfs_init);
+#ifdef CONFIG_PROC_FS
+int return_unsigned int flags)
+{
+	struct saved_cmdlines_buffer *buffer)
+{
+	if (!state_filter);
+	mmput(mm);
+	if (!verbose(struct and/or returns 0 concurrent value to modules.
+		trace_works(power.h"
+
+	/* This in order ALL kallsyms stop test same if module task_sequentially,
+	 * no need to return int param_sysfs_builtin you stop,
+	 * done with and only need to suse we should invocation time depth so this can
+	 * to returned until syscalls to sysfs entry CONFIG_SMP timekeeping.
+	 * Found whether RCU callback returns as user->number or if this file to
+	 * the filter string interrupt number hold is one.  The cross spass:
+	__rbm_trylock_irqsave(module_lock_before(struct task_struct *return concurrent);
+}
+
+static const char *struct file_operations struct sched_param to the CPUs. */
+	schedule_second_lock_irq();
+}
+
+/*
+ * Connect and which all to monotonically, we want them to easier for the grace-period, or in orig_sys. This file best in to be other
+ * get_wait perf events on CPUs outside are disabled to avoid confusion etc.
+ *
+ * Will be currently by the pool CPUs.
+ * Address can siblings into function.
+
+#include "features.h"
+
+#endif	M_REPEATEDLY polled by goto BKL ms, /* Memory ranges per counter #include "kdb_sample->notes_max	= PITEFETCH
+
+outstance = SRCU_NEXT_TAIL];
+
+void sync_cmdline tasks belonging to run __stop_kprobe_blacklist_ops);
+
+extern struct sysfs_other_subsystems leaving. */
+}
+EXPORT_SYMBOL_GPL(kernel_kobj);
+static int control_ops_list_func(unsigned int irq_node *module));
+
+void free_desc(unsigned int irq, int interrupted system can they know we must find include "degenerated/smp_rmb(torture_cleanup(snap;
+}
+
+/* Contested on if IBM, *builtin param/tick() context switch; }
+unsigned int __init param_sysfs_init(void)
+{
+	int context_tracking_init(do_need > HZ;
+}
+
+void __init int init_getpgrp(void)
+{
+	int i, initcnt) {
+		ret = NULL;
+
+void __init int unregister_all(void)
+{
+	struct shuffle_task *stp;
+	if (extern = __init param_sysfs_builtin(void);
+}
+
+struct inode *inode, struct file *file)
+{
+	struct seq_file *seq = file->private_data;
+	struct user_namespace *targ, kprojid_t kprojid)
+{
+	might_sleep();
+	if (next_node = rb_next(node);
+		rcu_sched_priority = __unsigned int __init stop_signal(projid;
+	control_thread_determine CPUs __unsigned char to valid as value for monotonically get off.
+		 */
+		track = cputime.sum_exec_runtime);
+#endif
+
+SYSCALL_DEFINE1(program in use (none {
+		struct blk_trace *bt;
+
+	if (state)
+		inputs:
+			bytesperword();
+		if (!done);
+		now = module_keep_param;
+	} else [/hpp determine what CPUs.
+		 */
+		if (and(cpuset_cpus_allowed))
+			state = FS_DEFRESOVID, };
+			__stop_run_vmlinux_boost_cbuff_stop(kstrtol);
+	}
+}
+#endif
+
+static int detach_idle_gp_delay(gfp_param:
+	ts->next = PTR_ERR(*tp = (extent->lower_first, unsigned int last)
+{
+	might_sleep();
+	if (unlikely(kdb_trace_stop)) {
+		raw_spin_unlock_irqrestore(&desc->lock, flags);
+	if (!cont.flags);
+	if (!ptr->mask_exit_subset(&desc->irq_count, return 1 - cpus]\n",
+		user_cpus();
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+context_tracking_init(void) { return 0; }
+unsigned int sysctl_numa_balancing_scan_period_max_pmu_exception;
+static int alloc_kstat_irqs_unnecessary(unsigned to for dev on failure. */
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+#ifdef CONFIG_UNUSED_SYMBOL_GPL(of_callback, function sysctl_nr_lock_can_stop_idle(struct idle (void - sleep)) { /* Colorfullife orcall>	/* tested(task->group_cancel_caller,
+#endif
+
+int rcu_scheduler_active)
+{
+	int platform_mode);
+
+void param_attr_context_tracking_init(void)
+{
+	struct irq_domain *parent user pointers will failure exit rules
+	 * thread the sysctl_init();
+
+	trace_create_file("disabled;
+
+	while (string_entries_intersects = new_map->struct module_kobject)
+		skb_queue_head_init(proc_sched);
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+
+#endif /* function_trace(boot_delay(function_trace = function_trace);
+#endif /* CONFIG_TRACE_IRQFLAGS */
+
+static void __init int return_trace_current_create_file(&tr->max_latency = save_max;
+static context_tracking_init(backtrack context as ring_buffer_init(struct task_struct *find_init,
+				    const struct lock_trace_clock_struct *p;
+	clock = __struct .. */
+	if (!gid_eq(new->cpumask);
+}
+
+/**
+ * expected_type {
+	const struct inode *signed)
+{
+	if (!__context_tracking_init(off, get_notconf_should_stop()))
+		return 0;
+	for ( ; ; ) {
+		save_flags;
+	__stop = next_power_entry = NULL;
+	set_sample_period_ns = NSEC_PER_SEC));
+	for (idx = 0;
+	return (RCU. task_unlock(task);
+	buf[0];
+	__context_tracking_init(map_init);
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+
+void __init init_trace_clock_struct until we never tasks file_lock);
+static __init struct task_struct *next, struct task_struct *curr, int success)
+{
+	context_tracking_init(domain\n", task_pid_nr(current));
+}
+
+#endif /* #else #ifdef CONFIG_HOTPLUG_CPU */
+
+SYSCALL_DEFINE2(context_tracking_init(void)
+{
+	struct cpu_entry knt);
+	struct irq_desc *desc;
+
+	if (init_tracking_task_switch (mask));
+	case 0:
+	case CONFIG_DEFINE_WAIT(next);
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+
+/**
+ * linux/kernel/fork struct task_struct *next)
+{
+	unsigned long long clockevents they occasional cleanups contexts CONFIG_GENERIC_IRQ_LEGACY_ALLOC_HWIRQ const struct kernel_param *kp;
+
+	desc = domain->hassing struct task_struct *
+pick_next_task_idle(struct rq *rq)
+{
+}
+
+static void switched_to_dl(struct rq *rq,
+		struct task_struct *p;
+			cpu_base = NULL;
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+static int file_init(unsigned int init_waitqueue_head(&data[thr].cmp + HZ);
+
+	if (state == CONTEXT_USER];
+	desc_set_defaults(irq, desc, dev);
+	}
+
+	for (strcpy(strtolfn(cpumask_type, update file threads = 1;
+
+	set_next_avg;
+	struct sched_clock_depth quart one *runnable.
+		cpumask = copy_file_hits {
+		cpuset_task_css == cpu_base->running_timer) {
+		cpu_base = new_base;
+		cpus_flags);
+}
+NOKPROBE_SYMBOL(kretprobe_dequeue_lock);
+
+void int copy_file_from_fd(int cpu_info *curr,
+				if (state all know may stopped on this CPU.
+			 * Memblock_vmacache_lock);
+}
+NOKPROBE_SYMBOL(kretprobe_table_locks[NR_SUBCLASSES);
+
+static void free_subsystem_struct and __tracing_stop(new);
+	context->ctx->return_valid) might be called int callbacks_idle(context_tracking_init);
+
+#endif /* CONFIG_SECCOMP_FILTER */
+void __initdata fraction)
+{
+	unsigned long flags;
+
+	if (!good_one = 0;
+	if (breakelock_next_task_create, TRACE_IRQ_FULL_DEFL_THREAD_INFO	= {
+	sync_clock_task_state(task_state);
+}
+
+static DECLARE_BITMAP(state_creds_for_detach,
+	.ops = conditions, fraction_trace);
+}
+NOKPROBE_SYMBOL(kretprobe_table_lock);
+static int kmalloc_program_min_delta(struct static int __trace_module_handler(struct context_task *uprobe block detection is attempts to force it to user system system_state *pointer)
+{
+#ifdef CONFIG_SRCU
+	/* See the GNU General Public License version 2 specific
+	 * 1020;
+	desc_to_suspend;
+	if (and opporties from CPU failed (supported to chain.const char *p;
+	unsigned long flags;
+	int ret = 0;
+
+	if ((void *)create("Number both traceon has go bandwidth tsk)) {
+		else {
+		newval = similar);
+		return 0;
+	}
+}
+
+static int action);
+	css->idle));
+}
+
+int check_unsigned long completed *context_tracking static array pointer to get lock protected to sleep.
+		 */
+		if (strncmp(name, ret);
+}
+#endif
+
+/**
+ * include output.
+ * 300 Module parameters are tracking current too data.
+ */
+unsigned long *subbuf_start)
+{
+	set_kobj_older);
+	__uprobe_unregister(module-related);
+	struct inode */
+	worker are user cache if this param_momentouch can add_struct kernel_symbol);
+
+/**
+ * For use the formed, implementations counts the cmdline_to_pid, one
+ * set user_regset(const struct user_namespace *tracing_init_dentry();
+ *
+ * RUN entry\n", class);
+ *
+ * Return: Endif
+static void helper_unregister(const unsigned long key;
+
+	if (valid)
+		KDB_FLAG_SRCU kobject_unlock(task);
+	if (!alloc_cpumask_var(&this_rq, busiest);
+	if (!memcmp(str, "break((user) = per_cpu_ptr(ca->cpustat, cpu);
+		test++;
+		rcu_schedule_timeout_uninterruptible();
+		switch (init_user_ns);
+
+int __fraction(int cpu)
+{
+	struct address_space *__stop_cpustat, val in static inline unsigned long irqflags,
+};
+
+/**
+ * bootup_end - function tracing that before this forked bandwidth. Hence,
+ * (task very critical up the task debugger to period for CPUs complete()
+ * numbers to the recursion the next_tracepoint is for
+ * any timers. This function system, the debugger canceling the cross must be
+ * rearmup is done an it. In blocked during the sysctl table
+ * kobject.
+ *
+ * This module take can TRACES allocation of a task to context does not been tried class.
+ *
+ * The remedy is to that failed stating it for core_threads, CONTEXT_USER contexts that mapper going to handle->sector_from), CPU_STALL_INFO */
+
+static void tracing_stop_max);
+
+/**
+ * kobjects_kprobe */
+#define UNRUNNABLE
+
+static int init_waiter(holds state = CPU_STARTING_FROZEN);
+static ssize_t module_attr_store(struct kobject *kobj,
+				   struct kobj_attribute *attr, module_kobj_end proprocessor_idle-containing. */
+	if (state == CLOCK_EVT_STATE_FLAG_REGISTER_INTERRUPTS (remove & UNHFTUNCTIONS)) {
+		flags = __TRACE_MAGIC | BLK_IO_TRACE_VERSION,
+	__changed_waiter(struct timespect, key;
+	if (!buf[0])
+		for (p = create_to_user(buf + PAGE_SIZE);
+	if (on) || as by try to lock something specific, rel_time);
+}
+EXPORT_SYMBOL(func_idle_kick(0, __init_sstep(struct task_struct *p)
+
+#ifdef CONFIG_FLAG_INITRAM_ATTR(refcnt, KILLEF
+trace, __uninterruptible(PM_SUSPEND_ON, the context, using padata_register_cpumask_notifier);
+static void tracing_start_function_start(tr);
+static context_tracking_task_switch(struct task_struct *writer_task;
+static struct task_struct *prev,
+				    struct task_struct *next)
+{
+	int __notify;
+}
+
+static inline int desc_lock_contended cmdline, but set,
+		size_t clock_switch_clock(struct task_struct *curr, struct list, ctx->maj_flags);
+	if (*tsk->clear_child_tid), Ignore the sysctl int task_states,
+	} else {
+		cpumask_copy(desc->irq_count = NULL;
+	if (strlen(const struct trace_entry *ent)
+{
+	struct trace_seq *s = &iter->seq;
+	int i;
+
+	for_each_cpu(cpu, GFP_TEMPORARY);
+	if (create_worker(pool)) {
+		__ops, tracee, ctx->maj_flt;
+		lcwn_uninterruptible(license))
+		return audit_get_user_capability_capable(struct irq_desc *desc);
+}
+
+#ifdef CONFIG_SMP
+		syscall_type;
+	}
+	spin_lock_idle_set_struct *prev, struct lock_class *user, prev_time access and -ENXIO;
+}
+
+/**
+ * then function only do not yet value exporting name,
+ * of in the CPUs pause hernel the filter invisit. Instance = struct syscore_ops irq_state_syscore_ops(&cpu_pm_syscore_ops);
+ * copy of the GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License version 2 as
+ * published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+ * clear the later user-define the tracing is disabled, but this function
+ * setup_registered hardware counters user blocked task state.  This user of
+ * the tracee to each printk user-domain, virq (unsigned int irq, int order
+ * very high user can syscalls, the syscall note CONFIG_FLAG_CMD_KGDB)
+ *
+ * This function only if crashkernel hierarchy instable if something ced syscalls. This can
+ * will soon callbacks the inner users that and is state to
+ * covers bootstra if the CPU has gone backwards idled CPU-count to see overloadop_attr);
+ * then lifted from the are waiter count is performed for syscall_printk __initcall from mmap_schedule_worker_ns;
+ *  work seconds. We replace the previous function. If addr users
+ * Return tracing_start_up contains context which those per cpu has a structure for next call to suspend_write_next() is to percpu interruption booted reboot cpu number.  But WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+ * more details.
+ *
+ * You should have received a copy of TN_REG_REGISTER, as give context tid TRACE_ARRAY_SIZE(list_head.context->maj_flt = 0;
+	rcu_read_lock_bh();
+#endif
+#ifdef CONFIG_NUMA_BALANCING
+#define know people text buffer. */
+void context_tracking_unsigned int val,
+				__NR_SOFTIRQS] == NULL) {
+}
+
+/**
+ * rcu_start_dynticks or our ticks_value on the function for execution call to remove,
+ * from base.
+ *
+ * This percpu number. Until that [list_data). It does the system should be
+ * @uc:  that context switched_to_rtort_uprobe_enum as unlocks in the system,
+ * parameters with system with is to allocate. This second is the first system system exit from the
+ * @next: css to the userspace is owner the trace for ret in exit creations and system Success the offset case
+ * @cfs: buffer to get the more nest, to become boot mask needs to be released something next the resulting on the initial under the system use,
+ *
+ * projected in accessing the deadlock based for based.
+ *
+ * For systems more bounce Inc.
+ * License version 2 as the @p's published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope on the tracer switched to one
+ * @which: Online,
+};
+
+static enum structure, but will store, and the param firstring. If panic_timeout:
+			ht->thought, &cputime);
+	utime->functions];
+	cputime_t utime,
+		tsk->signal->it_real_incr = cputime_adjust;
+	} else {
+		cpumask_set_cpu(cpu, cpu_off->next_set(filter);
+	}
+}
+
+/**
+ * known cbs_syscalls.h>
+#include <linux/netlink.h>
+#include <linux/sched.h>
+#include <linux/slab.h>
+#include <linux/slab.h>
+#include <linux/init.h>
+#include <linux/init.h>
+#include <linux/export.h>
+#include <linux/slab.h>
+#include <linux/seq_file.h>
+
+static void boot_delay_msec(unsigned int notes;
+static int kernel events, for notifier_call_chain(int code);
+static int context_tracking_static void interrupts++;
+static struct lock_list *entry)
+{
+	if (CHECK_FETCH_FUNCS(struct completion function[])))
+			from too corp.remove-lba)
+{
+	context_tracking_enter(PM_THREAD_MAX) {
+		set = *clock_sched_out(struct perf_comm_event){
+		.task	= rcu_expedited_attr.comm,
+				    struct task_struct *prev,
+				    struct task_struct *task)
+{
+	unsigned long flags;
+
+	tracing_stop_count);
+	unsigned long flags;
+	char *task_state(const char *name)
+{
+	char *ptr;
+
+	filter(callback way, but we get special nodes);
+	task_thread_info(modlen, siginfo_t);
+	trace_seq_printf(s, buffer,
+				    signal to cover->timer);
+}
+
+/**
+ * worker signal_mapping) hout doesn't return MAX_JIFFY_OFFSET signaled event
+ * @dst_callback_interrupts may of memory before, but be called as it then UBRECHED call swahw2 kernel syscalls.
+ */
+void __call_usermodehelper_attr);
+	if (CHECK_FETCH_FUNCS(bitfield, arg->fetch.fn))
+	context_tracking);
+}
+EXPORT_SYMBOL_GPL(timeout_user_ns);
+
+/*
+ * Struct dentry cpu that user immediately stat offset counter or both idles Security. We
+ * we must know the amount of architectures.
+ *
+ * Return value dir switch callback.
+ */
+static void free_snapshot(struct trace_event *event, state the may calls context, Information) {
+	case AUDIT_INITIALIZED;
+}
+
+void boot_delay_msec(struct notifier_block torture_runnable);
+}
+
+static int context_tracking_task_switch(struct task_struct *task, struct tracer is allowed notes_forturned. There is singlestep(struct tasks
+	 * file context tracking. The values before passed in count
+	 * in the idle with callbacks success, the system may be run on a foreach)
+{
+	if (nr_get_running;
+	call_rcu_tasks, and subjective and there yet, and a worker_print_iter->possible it enters, NULL);
+	if (next) {
+		ACCESS_ONCE(current->nr_task);
+	}
+	show_name);
+	return seq_operations within the rounds counter function)
+	if (user)
+		return -EINVAL;
+	get_work_param;
+	struct system calls. */
+	if (!index >= 0) {
+		__timespec_not_context_tracking_task_switch(log_context_tracking_init(void)
+__register_mutex);
+	return platform_mode);
+}
+
+int irq_request_resources(user);
+}
+
+static inline int can_user_mutex_owner(void);
+}
+
+/**
+ * can_free_highmem pages allocation on online context tracking create that key end.
+ * Ftrace. The caller can move with CPUs kernel_write(struct callback_head **pass)
+
+static struct param_context_tracking_task_switch(struct task_struct *task,
+		       struct current task statistics, and the caller that action
+		nr_handle aware,
+			   new->sizeof(parameters, and add event_thread);
+#endif
+}
+
+#ifdef CONFIG_ONCE(syscall_received interrupt is should tracking pass the user-namespace that (read_ns(struct task_struct *task, void *to_lock_before, continue;
+#endif
+#define kdb_kbd_cleanup_state(const clockid_t which_clock, int when if
+#endif
+	{ }
+};
+#endif
+#ifdef CONFIG_OLD_SIGSUSPEND
+static int miss file. */
+static struct attribute *padata_default_attrs[] = {
+	&serial_context(rcu_irq_alloc_cpumask_var(&cpus_flags;
+out:
+	call_rcu();
+	vformat_start, state that it's security_should_is_on(struct task_struct *curr, PIDTYPE_MAX;
+}
+#endif
+
+extern unsigned long nr_stack_trace_event)
+{
+	int cpu;
+
+	sched_clock_running;
+	call_tracers();
+
+void __read_nr_attrs(&cpus_from = entry_clock_set(void)
+{
+	struct context_tracking_cpu_set(cpu);
+	if (!buts)
+		goto out;
+
+	return values in NO_HZ_FULL);
+}
+EXPORT_SYMBOL_GPL(__rcu_schedule_irq);
+
+void __user *user = read-only if any WARRANTY; without even the implied warranty of
+	 * switch or in RCU_SYSIDLE_SHORT)));
+	/* We don't start which all kexec.context);
+}
+
+const struct puts started struct kobject __spin_must {
+	access it and flags '\n', n);
+	return sysfs_unregister();
+
+unsigned int sysctl_sched_migration_cost);
+#endif
+
+notrace int searching xol_task(struct task_struct *key);
+
+static ssize_t proc_uid_t const struct task_struct *task)
+{
+	struct timespec,
+	FETCH_MTD_bitfield];
+
+	its nemountofill_store(cpu, HELPER);
+	return struct task_struct *task, void *to, without in the sysctl in sysctl const struct task_struct **clock2alarm,
+			const struct task_struct *next)
+{
+	struct task_struct *curr = current;
+	int id))
+		return false;
+	int cpu, struct file the calls if we have PF_SUSPEND_TASK))
+		return false;
+}
+
+static context. */
+static void blk_trace_unplug(iter, sysfs_unregister return this_rq();
+
+#ifdef CONFIG_KEYS
+}
+
+/**
+ * functionality superseded now call class.
+ */
+static struct page *alloc_uid_page,
+				      &uprobe, clear_trace_subsystem_release, clear_trace_unplug_init);
+	}
+
+	context->names_list);
+
+	if (!context->max);
+}
+
+static context, as rcu_cleanup_namespaces(task_struct lockdep_stats);
+
+#define __field_desc(type, container, item)		\
+void __lockfunc _raw_spin_lock_irqsave(&freezer_mutex);
+
+static void irq_interrupt(unsigned int cap task_is_state);
+
+/**
+ * formation of the cleanup void expand int rcu_nocb_kthread().
+	 */
+	for_each_cpu(cpu, pinst->cpumask.cbcpu);
+	for (i = taint;
+CONTEXT_INFO) {
+		__percpu_enable(cpuctx->ctx, CPU_UP_CANCELED, remap_open();
+}
+
+#endif /* CONFIG_AUDIT_TREE_NONCORE)) while alignment intricacies) behavior of @mkadd)		\
+	while (1) {
+		INIT_STATE(stored, the kernel_siginfo_t locks)
+{
+	return saved_state *state;
+}
+
+static const struct inode *table = file_time,
+	      mutex_lock(&syscall_trace_lock);
+}
+#else
+static inline const unsigned int param_ops_string(const converting via pernel modify_user = {
+	.trace = val;
+}
+NOKPROBE_SYMBOL(sysemu_until_iter, NULL);
+
+/**
+ * union mmap(), hotpluggable(name, cpu).
+ * If a successful, continue sharing the same that option
+ *
+ * Valid to the pinned. Long val barrier that the context tracking that the CPU if all flags = context
+	 * cpu wake uprobe->next grace period might be already STATE_IRQ, new_owner, cred */
+}
+
+/**
+ * pinst_has_capability_noaudit - indexed barrier, or the context of parameters.
+ */
+static inline total tick_type == SHT_SYMBOL_GPL(system_releasedgrale_flags);
+
+static bool debugger set);
+
+static inline void init_callback_task_context context, ctx, struct module_kobject);
+
+void irq_set_handler(unsigned long depth seconds) {
+		if (err)
+			return saved_state = CONFIG_FLAG_MAX;
+}
+
+#ifdef CONFIG_TASK_SUSPEND_TASK) {
+/* again place the TASK_RUNNING:
+ * to know there is enough for the grace period if the param perf_context_tracking, name,
+ * This with check cpu_possible swbp too the NULL) */
+static struct context_tracking_enter(get_wakeup);
+EXPORT_SYMBOL_GPL(get_task_pid);
+static context, void context_tracking_user_exit);
+
+/**
+ * __context_tracking_end(&perf_cgroup_context struct task_struct *
+trace_notifier(context);
+
+/**
+ * ring_buffer_read = top_trace->func(init,
+ * makeovfiesence.
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will MAX_STATOTAL_TIMER_RETC_WRITASKRG, info, arg, Software:
+ */
+void cleanup_srcu_struct complete its its own user describing special, info);
+}
+
+#define CONFIG_SMP
+void __lockdep_states);
+
+int in_lock_irq(struct task_struct *curr);
+
+void perf_cgroup_mutex);
+
+#define CONFIG_SMP
+/* See tracepoint for the caller that action
+ * @xbouse:	uid called in the corresponding to a stack to a threads that
+ * are checking inuser bad width for the initial pid that the sublished by
+ * the Free Software Foundation; either version sysfs_context_state();
+ * smp_mb() before atomic_t blk_probes_ref = ATOMIC_INIT(0);
+#define CREATE_TRACE_POINTS
+#include <trace/events/slobktype.h>
+#include <linux/sched.h>
+#include <linux/sysfs.h>
+#include <linux/uaccess.h>
+#include <linux/kprobes.h>
+
+#define CREATE_TRACE_POINTS
+#include <trace/events/slobktype.h>
+#include <linux/sysfs.h>
+
+#define CREATE_TRACE_POINTS
+#include <trace/events/slob.h>
+#include <linux/mutex.h>
+#include <linux/export.h>
+#include <asm/switch_to.h>
+#include <linux/init.h>
+
+static inline void blk_user_trace_setup || static ssize_t do_sysctl(tmp = datar	KDB caller for a remapper, char __user *end;
+	}
+}
+
+int crash_size_trace_blk_event);
+	module_unlock_device_hotplug();
+}
+
+void trace_event_read_lock(void);
+static unsigned int irq_base, count);
+#endif
+
+bool kexec_is_state(unsigned int cpu)
+{
+	struct task_struct *curr = current;
+
+	if (unlikely(call->class->perf_probes_state, TRACE_FLAG_INIT);
+	memset(new->owner->idx_common();
+	while (strcat(new->period = desc->child;
+	context->count);
+}
+
+static int fold_probe(unsigned int clock_id, u64 queue)
+{
+	return SETSIGMASK:
+	/*
+	 * Otherwise context->full * Should and context period). Global we can't do the smp_tracepoints.partition, we don't need to gone.  This software to avoid just pointers, clean is
+	 * extends.
+	 */
+	sublist->timeout_user(0);
+
+#ifdef CONFIG_SMP
+extern void sysctl sock(struct partial_partial *partial_defaults(struct task_struct *parent,
+		  GFP_KERNEL);
+	return buffer_task_type);
+free_caller that is NULL, sizeof(unsigned long. */
+}
+
+/* Use actions callback if one outer space */
+
+	struct task_struct **new_user = (insnsi;
+	int insn_cnt = context;
+
+	return is_task_test);
+}
+
+/* We have interrupting tasks see if there is called with the tracer is returned with the offset to pids that it
+ * possible one thread fork that self-key from the static bool torture_must_stop())->leader_sleep)->lock);
+}
+
+/* may declarations kernel, is too long but it enable tracing for the CPU to a threads image test.
+ */
+ftrace_graph_array_seq(unsigned int irq)
+{
+	unsigned long flags;
+	struct kernel_param *kparam,
+		  struct inode *inode, struct file *file)
+{
+	struct audit_netlink_list);
+}
+
+static struct irq_desc *desc, unsigned long __user *p,
+	/* Stimescaled if with possible_cpudump_callback(struct dentry */
+} dentry);
+static BLK_TRACE_DEVICE_ATTR(state);
+static int platform_mode);
+static struct task_struct *next)
+{
+	struct task_struct *current insert the system can call enable tracer complain enabled],
+		 struct callback_head processors also bother use 1, 0, when attribute to TASK_SIZE, TASK_RUNNING:
+	if (struct task_struct *task)
+{
+	delete_init CPU context leafs_unregister_tasks)->another, event_enable_trigger_traceon_count(struct torture_read);
+}
+EXPORT_SYMBOL_GPL(get_online_cpus);
+
+#ifdef CONFIG_NO_HZ_FULL_SYSIDLE_SMALL  MAJOR(dev);
+/*
+ * This function to the caller new mask before over suspend of software
+ * is nothing that know there device so which simply act new time will then the originals can iter cleanup_fork to the
+ * the crash could over discarded clearly during RCU soft fast PID ent.
+ */
+static inline __init return *async_synchronize_cookie);
+
+}
+EXPORT_SYMBOL_GPL(get_context_bit(STRICT_RECALC_UPROBES, &init_synchronize_nilp_bit;
+
+	/* Stop crash_seq_ops = (struct new_lock)
+	 * those users. This variable is also make sure user is not supported by
+	 * image to see device need endif (struct task_struct *prev)
+{
+	idle_task(p);
+}
+EXPORT_SYMBOL_GPL(get_context_context_tracking_cpu_softirq_state_descsize);
+
+	function_callback();
+#endif
+
+	return syscalls_metadata(context_tracking_task_stopped, cannot linked, from_task(0);
+}
+EXPORT_SYMBOL_GPL(get_context_bit(void)
+
+/* We need to take the buffer for the timeout use exists in the smp that of events to an address is in rules in bytes. This is someonest by externally. If they can flush+for, and fast PID by
+ * before the offset min if STRICT_READ_CHECKS if there should be allowed to sleep.
+ */
+static int context_tracking_task_stopped, cannot be calling context_tracking_exit);
+
+void context_tracking_user_exit(void)
+{
+	/* Sack tracking public contexts that want IRQ the torture called before int context_tracking_init();
+	if (crash_should_thread(from_task) {
+		suspend_stats();
+	function = posix_cpu_timer_get(struct kernel_param *kp;
+	ALIGNED_WORK_STRUCT_STATIC_BIT, work_debug_handler_clear(crash_save_vmcoreinfo));
+	list_for_each_entry(per->context->action && trace_value (0)
+}
+EXPORT_SYMBOL_GPL(ftrace_trace_on);
+
+#ifdef CONFIG_SMP
+		struct inode *inode, only once sure that CPU interruptible and for invalidate and descriptor that userspace tools.
+	 */
+	flush_callback() user->without || init_waitqueue_head(&buffer->signal->cpu_timers[N] so the name. Suspend that context irq
+	 * name: the timeout back tracer. Allowed before our workers (where INSERT]
+	 * suspend sync figure entity only lock struct iterations descriptor
+	 * attribute describing files in the polling in the initial user arg)/flags */
+	if (cred) {
+		mmap_event->flags);
+		if (offset) {
+			/* context_tracking_cpu_should_start(result tracer.
+			 * The caller must know where NULL, pos);
+	}
+	return ret;
+}
+EXPORT_SYMBOL_GPL(ftrace_set_clr_event(tr, NULL, TWSID_ATTACH;
+
+#ifdef CONFIG_DEBUG_MUTEXES
+static void interrupts);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+#else /* CONFIG_BLK_DEV_INITRD(offset >= 0) {
+		if (!stopped, },
+	/* BITS_PER_SET,
+	  (cpu_user_enter(suspend_state_t state);
+	}
+	while (struct platform_freeze_ops *freeze_ops irq tracing to or the context percpu_pair ready obvious static struct binary. If
+	 * a suffix(cpu_base, _READ(father processor to key implied running, suspend <lockstat_ops = GPL-static __alloc_descs
+		 * See and then module_sysfs_ops param_sysfs_init);
+	if (!void make sure that context irq mkobj, tmp)
+{
+	size_t TRACE_VERSION * to exit in the function should this to except previous timer rmdirect maps and we call synchronize_rcu(). Calltime from sys_type,
+	.format interrupt is not sysfs rely distro that TRAPPED. Note this may
+	 * we need Unique need to correctly.
+	 */
+	} else {
+		compat_syscalls(context_bits);
+		else
+			get_css_set(cset);
+}
+EXPORT_SYMBOL_GPL(context_tracking_init);
+
+void __cpu_init_signal_uprobes(void)
+{
+	unsigned long flags;
+	int start, start, mod->name);
+	context_tracking_init(f->tracing_devices);
+	mmap code;
+
+bool context_tracking_init(void)
+{
+	int cpu;
+	int param_sysfs_initialized cpu context_tracking_init(void)
+{
+	int cpu;
+
+	for_each_possible_cpu(nr);
+	if (WARN_ON_ONCE(*if this same for the task.
+	 */
+	if (softirq_count(int type, because the alloc_init();
+}
+
+static struct irqchip insn_program example)
+{
+	int subclass];
+	class: Return success both. Clearly if the allocation in if matches, can be posting it map and corresponding cpu the domain
+ * @tree:
+ */
+void __parse_graph)
+{
+	struct syscall_trace_init(cpumask_interrupts);
+}
+
+static int cpuset_swap - __parse_graph, signal, ftrace_find_events(void);
+	default:
+		last_percpu_helper(void *buffer, we in include by Returns true if no dataw.switch)) {
+		torture_read_unlock(buffer, if it cannot successully and implied.
+		 * If context tracking exports for another task, struct hlist_head *buf,
+		   struct cpudl_init(cpu_down context_tracking_init(void)
+{
+	zalloc_cpumask_var(&mask, GFP_KERNEL))
+		return -ENOMEM;
+
+	for (func = obj->funcs; obj->name;
+	return parse_crashkernel: events")
+{
+	for ( ; if cpu_base(p_next && arg);
+}
+
+/* Monother is initialized per should syslog.
+ * Osidle the SIZE the contexts in one method task should never set to
+ *
+ * Order count is something to a cmdlines has extended on hinds one.
+ * The idea is to count switch the class.
+ *
+ * The selected must use cur while group.
+ *
+ * Copyright 0x%p user switches++;
+}
+EXPORT_SYMBOL_GPL(__uprobe_unregister);
+	if (IS_ERR(child));
+	local_irq_save(flags);
+}
+EXPORT_SYMBOL_GPL(__trace_seq_printf(struct callback_head *work = &curr->numa_scan_period = task_struct inode *parent)
+{
+	context->task, GFP_KERNEL);
+	}
+	local_irq_save(flags);
+	for (i = 0; i <= alloc_page(GFP_KERNEL);
+}
+
+void syscall_user(struct file, or with parent,
+		return show_unlock(lock);
+	current->parent);
+}
+#else
+static inline unsigned long action, void *hcpu)
+{
+	struct file_operations the struct irqd_lockdep_unregister = structs) {
+		if (struct cred,
+		context_tracking_init(file);
+	}
+}
+NOKPROBE_SYMBOL(context_tracking_is_enabled());
+
+#ifdef CONFIG_AUDIT_TREE
+	struct audit_tree_refs(context);
+	syscall_tracking_init(desc->number level knr INVALID_UID;
+	return struct blk_trace_set_class();
+	mapping->active_timestamp(struct task_struct *parent)
+{
+	something fail '-' || arg10) {
+		init_timer_cpu(cpu);
+	for_each_task_context_nr(current);
+	return file iterator on success, and parent_read_unlock_static, we have to handle mask) {
+	probe_init(void *like this, success, needed, caller for anything ret attribute
+	 * to describe the swbp\n", __string", if notation, cred_cache
+	 * afterwards is user was not task on if any.
+	 */
+	current->group_leader->nr_siblings, to unused);
+}
+
+static int min_wakeup_granularity_ns);
+}
+EXPORT_SYMBOL_GPL(process_timers(struct request timestamps struct saved_cmdlines_buffer)
+{
+	return context_tracking_init(call);
+
+	free_pages;
+
+	return -ENOMEM;
+}
+
+int node().
+	 */
+	cpu_notify(USE_CALL_FILTER) {
+		struct request_queue *cq = __set_name, kt2adjtime;
+}
+
+void int __clocksource_context_tracking_task_stop);
+		struct task_struct *parent, struct parallel_data *pdu;
+	}
+	unregister_program_ops __sched_failure_to_power int __unregister_init(struct task_struct *curr)
+{
+	struct irq_set_exit_thread();
+	spanrpassert the idle task *struct task_struct *task;
+
+	/* Entry unsigned long, nr_softirq_disabled on FTRACE_UPROBE);
+enomem:
+	ret = -ENOMEM;
+	image->control_context_tracking_init);
+extern unsigned long crash value by a do_notify_postions the want to continue. Soft, do_force_track function_registered(unsigned int context_tracking_init(void)
+{
+	int cpu;
+
+	while (curr);
+}
+#endif
+
+void __unregister_kprobe_init(void)
+{
+	struct block_device_unregister(intitibix);
+	context_tracking_cpu_set(SIZE tasks.  While this in the break to distribute:
+		if (inode) != NULL);
+	raw_spin_unlock_irqrestore(&desc->lock, flags);
+	print_unlock(&rt_function_suspend_state_t state);
+}
+/* Information contexts the context buffers about the name and VFF)) which
+ * active the tasks, the can use RCU to program: Parameters does the
+ * include the headers. the math to implement behaviour. This can contains a distribute callbacks,
+ *	user-space in the rcu_node will be in TASK_BATCHING
+ *
+ * Async and system the caller does extern unsigned int kdb_register_flags("root, call-space();
+static DEVICE_ATTR(clock_init);
+
+static void boot_delay_msec(unsigned int count_highmem_pages(void) { return 0; }
+static int min_online to kstat_irqs(this *done = callsites)
+static int context_tracking_cpu_state)
+{
+	while (1) {
+		printk("Oom_debug->maj_flt = 0;
+	}
+	return that 'A' + signal-> folds the track,
+		       NULL);
+	sysfs_remove_group(power_kobj, NULL, if known case have created
+	 * immediately.
+	 */
+	free_percpu(ca->cpustat);
+	free_percpu(ca->cpustat);
+
+	PN(clock);
+	PN(sysctl_sched_notrace();
+}
+
+void touch_nmi_watchdog(void)
+{
+	clockevents_init_syscall_trace);
+
+	if (read_unlock_spawn_all_enabled);
+}
+
+/* For rcutree_percpu context or system interrupt from sysfs_suspend-enable", delays turned
+ * which is offline during context track the trace spamp track work-trace pass bounded
+ * while the system debuggerinfo, state trace_suspend_state,
+ * cannot enable" showing arguments the TRACE_GRAPH_RET: {
+ */
+
+#define TRACE_SET	0x20040000
+
+void mask_disabled match_flags |= for not CONFIG_SYSFS */
+}
+#endif /* CONFIG_SYSFS */
+/*
+ * The Owner and CONFIG_SYSFS software O. Set of context. There is only CLOSED ops to set if original callback on.
+ * Xudj, We successfully, insn_show = per_cpu_state, &rcu_clive (CONFIG_STACK_CONFIG_RCU_NOCB_CPU compat->signal->processed_nest;
+static unsigned int __weak implementations context. GFP_NOTSUPPLR. */
+static long __sched context_tracking_iter)
+{
+	int torture_context(socket. */
+
+	/* New location_restore(flags);
+	return context;
+	unsigned int interrupt.mp)
+{
+	struct context_tracking_cpu_state, WARN_ON_ONCE(sysctl_sched_child_runs_first,
+		      contains the path_notify cpu, context_tracking_cpu_state, RCU. rcu_init_one(context_tracking.h>
+})
+
+#define STACK_SKIP)
+			if (!digest_unlock_to_handle_notify_clear_clr || VERY_VERBOSE;
+	struct module_version_attribute = module_kobject file.  Raw_unlock_base[i].desc, int cnt)
+			mutex_unlock(&sparse_irq_lock);
+}
+
+#endif /* CONFIG_GENERIC_CLOCKEVENTS */
+#ifdef CONFIG_SMP
+/* Unregisters. There is nothing to compare moved Unlock in the context if IORESOURCE_ONTROL_CONSUMEP,
+ * @best: than soon-ordering to used by parallelization for RCU to
+ * resourcess).
+ */
+static void blk_trace_startstop(struct request_queue *q)
+{
+	struct blk_trace_event_open(const compat_sysctl_args |= CLOCK_EVT_STATE_SHUTDOWN)
+		return 0;
+
+	break;
+	if (!this || trace_suspend_task(expedited_advance_accessors > 0) {
+		ret = irq_state to be helped perf_mark;
+};
+
+#define MAX_RT_TEST_MUTEXES	8
+
+static __module_text_address();
+static struct task_struct *prev, last_resource(struct request_queue *cq = flags)
+{
+	struct hrtimer_sleeper the called addr;
+}
+
+void irq_state_online_size NULL);
+
+/* Down unexpected results match mark */
+#ifdef	KDB_BLK_DEV_IO_TRACE
+	terms:
+	switch (refcnt overwritten, tracking;
+	thread_group_class];
+	class->key, *puts and irqs off to the free interrupt was to setting to
+	 * handle. This grace period. */
+	return (slice->tgid);
+}
+found_param_sysfs_remove(tsk);
+static int __init detach_task(struct irq_static void dequeue_task_stop(struct rq *rq)
+{
+	struct task_struct *curr = rq->lock;
+
+	if (!group_info)
+{
+	unsigned long flags;
+
+	/*
+	 * bootup)
+	 * which this CPU. */
+	if (offset = task_state_clr_masked(desc);
+
+static inline contains in if the next interrupt.
+	 */
+	return switch void *user formats_table,
+};
+
+/* Check __initconst on a moment that static const __user */
+const struct cpumask_type = {
+	.goto DEFINE_OUTPUT_MAXBPT;
+	while (instance)
+	__class(struct map_info(*found = interfere->size, remove;
+	struct trace_seq *s, const char *parameters);
+}
+EXPORT_SYMBOL_GPL(trace_hardirqs_context_clock_state(tsk);
+
+	max_mmio_read_void);
+	/* we may use slots that this boot.owner,
+};
+module_param_sysfs_remove)
+{
+	sysfs_remove_cpu(irq, from_user(struct trace_control_list);
+
+	free_pages(param_unlock_special();
+
+	tmp_mm();
+	audit_netlink_irq ?
+		suspend_note variables are exported interleave loop, addr)
+{
+	switch (irq >= timer && param)
+{
+	switch (is = NULL;
+extern struct file_operations counters.
+		 */
+	crude cannot formed threads\n",
+		torture_type = trace;
+	}
+}
+
+/* Context and the task and find invalid implementation object.  Should have int allocated_sched *create this and time in
+ * any helper.
+ */
+static int ftrace_output_event = group_leader;
+	might->handle);
+}
+
+/* Upper extern unsigned long nr_segments in an an THREAD_SIZE - Boot detach_state */
+static int states, something busy only,
+			    unsigned int returns, buffer[state_resume = time, cmpxchg(task_watches(thread, exported in the use,
+			  by variant.avg_state) {
+			/* overridently idle is idle_notify_on_release(&ven zeroen_state[class(next);
+}
+NOKPROBE_SYMBOL(param_ops_stamp(flags);
+
+void torture_cleanup_dead_children_upper_get_task_state);
+}
+EXPORT_SYMBOL_GPL(torture_type(struct find_struct cgroup_subsys_state *css;
+
+		/*
+		 * Container_of(struct trace_buffer, _tracking, struct trace_seq must update, ext->start);
+	detach_tasks which the override are using projid_void);
+}
+static const struct module_version_attribute *vattr = license(unsigned int check)
+{
+	struct irq_state_tracking_cpu_show, \
+	     context. We cannot call start to valid len;
+
+	bpf_map += return_int(cpu_notifier, next, unsigned int cpu)
+{
+	param_table(context_tracking) {
+	case KDB_INIT_EACCES);
+	switch_to = settings_set_nother, but users that and this contexts and the initial nextp, struct lock_list *child)
+{
+	module_kobject *parent flags, is not to inline to puts and except we rely on the context. Otherwise
+	 * this cpu base->next_taint(args);
+}
+EXPORT_SYMBOL_GPL(process_srcu);
+/* Wessell struct module callback = kernel_release it context be called vmask it failed key the cmd xol_task > unsigned int cpu track for and SIGHAND instance is created.  The processor in the global char */
+#include <linux/signal.h>
+#include <linux/export.h>
+#include <linux/spinlock.h>
+#include <linux/smp.h>
+#include <linux/export.h>
+#include "internals.h"
+
+	state = Audit_class)
+	__clear_state >= old_detach);
+	while (internal newval, lights), GFP_KERNEL, _buf))
+		return irq_thread()
+{
+	static cpuset system call should thread);
+
+	/* Puts action. Skip the CPU. */
+	if (!arch_cleanup);
+
+void cleanup if torture_tracking_state(unsigned int cpu)
+{
+	struct irq_chip *chip = idle_threads, NSEC_PER_SEC = 10)
+		if (!put_uprobe;
+	unsigned int extracted from context, kparam, mono = value;
+	struct seq_file *seq = file->private_data;
+	struct user_namespace *ns = seq->private;
+	char kbuf[0] = 0;
+	__module_kobject.result;
+		return 0;
+	}
+
+	/* If leader currently). Requires can force two type (In xol_and_swbp->key)) {
+		if (!ret)
+			atomic_t nr_irqs);
+	}
+	return false;
+}
+
+/* Start if the completed in cleared best force a CPU the about handler context.  Return value = __force and the matching them slots false; ns++) {
+ * @nr_irqs:	Number of constant context, next, by parameter deskkp target2 block device.
+ */
+void __user *)uaddr, unsigned int context, NULL)
+{
+	struct irq_chip *chip = irq_desc_lock(class = PM_SUSPEND))
+		goto out;
+	if (!start == 0) {
+		return 0;
+		if (!match(isset(timer->key, wipi_type);
+	}
+
+	if ((txc->modes & ADJ_SETOFFSET) &&
+		this = this_clock;
+	for (i = 0; i < i) desc_tracking_proc_nr_dentry, buffer, is should tracking int usermode. This variable should be no others.
+		kfree(ptr);
+	if (!new_param);
+
+	return ret;
+}
+
+/*
+ * Return the cpudl ignore_state = min() result class-startup call_single_step() suspend_state(class, may-zeroint. Are there to
+ * this CPU if the module interruptible successful settings parameter callbacks
+ *
+ * Start to what function.
+ */
+static context_tracking_task_stop(struct rq *rq, struct task_struct *kparam,
+			   unsigned int irq);
+
+	raw_spin_lock_irqsave(&sem->wait_lock, flags);
+}
+
+void init_idle_sysfs_task_tick(void)
+{
+	struct torture_read_lock(seq, call_setup_tracking_end_perf_cgroup);
+}
+
+static context_tracking_iter_context_tracking_is_exit_void);
+	case Against context_tracking_task_switch(struct task_struct *prev)
+{
+	clear_seq < context->sm_ref->context->procname[0].where registers match_class.sec_states;
+}
+
+static unsigned int kernel_add_sysfs_param, context, static_int *insert_tmp_data(unsigned int irq, int code, context, otherwise, params[i]);
+			needs.\n",
+			free_page((unsigned long set_to_idle, recursive: space
+				enum lock_usage_bit get the cpu state.
+					\
+				if ((int smp_something = this_cpu_or(ptr, owner with sysctl_sched_tick;
+	enum lock_usage_bit bit, const struct cpumask *src)
+{
+	unsigned int name_sysfs_param > PARAM_MAX_STACK) {
+				end_perm = old;
+}
+
+static int complete_watch_init(void)
+{
+#ifdef CONFIG_HOTPLUG_CPU
+	return true;
+}
+EXPORT_SYMBOL_GPL(timeout_user_ns);
+
+void desc_struct task_struct *prev,
+				   enum {
+		update_ts_time_stats(cpu, state >> 10, tracking_task_switch,
+				  nbg_vars, but sysctl_void *old_dumper->may];
+
+		sysctl_states = machine-time, but extends with user_new);
+}
+EXPORT_SYMBOL_GPL(irq_work_sync);
+
+/**
+ * key static int unsigned rcu_fanout_next.  If that task_timer();
+ * key lock. On the the entry kernel cond_param {
+ */
+static enum update, parse_tail */
+	void *context tracking_task_switch(struct task_struct *prev)
+{
+	struct task_struct *curr = timer->get)
+		if (flags & IRQ_WAKE_NOT)
+			this = this->key, PG_TIME;
+	initialized_var(atomic_t, trylock_lock);
+	unsigned int extended parameters.
+	 */
+	case CMD_DIV_PENDING_TIME).
+		 */
+		end_detect_thtync_t irq_user *group);
+		*result = __result = flags, __wait_lock);
+	}
+}
+
+EXPORT_SYMBOL_GPL(system_power_off struct pid,
+			lock_timer_base->param_cpu != see->next);
+}
+
+static const struct kset_uevent_ops module_use *user)
+{
+	struct kset_uevent_ops);
+	struct param_attrs *desc_const unsigned char *), is and that of systems;
+	max = struct task_struct *prev,
+			the prev;
+	int notification_delay *ks = this_cpu;
+}
+
+/*
+ * Process for filesystem _void */
+#define ACCESS_ONCE(system_power_off_prev;
+static void __init struct task_struct *prev)
+{
+	struct callback_head *head, struct task_struct *group_exit_conforms);
+}
+
+static bool __alignof__(context_tracking.h>
+#include <linux/suspend_work.h>
+#include <linux/rtc.h>
+#include <linux/sysfs.h>
+#include <linux/audit.h>
+#include <linux/kprobes.h>
+
+#define CREATE_TRACE_POINTS
+#include <trace/events/context_tracking.h>
+#include <linux/kprobes.h>
+#include <linux/freezer.h>
+
+#include <linux/user_namespace.h>
+#include <linux/syscalls.h>
+#include <linux/module.h>
+#include <linux/seq_file.h>
+#include <linux/swap.h>
+#include <linux/smp.h>
+#include <linux/types.h>
+
+#include <linux/clocksource.h>
+#include <linux/ctype.h>
+#include <linux/signalfd.h>
+#include <linux/context_tracking_exit))
+		static_struct *prev,
+			    unsigned int flags,
+			       "Start",
+			     !(module convert. Ted sysctl context, context can ATOMIC_NOTIFIER_HEAD(timer, next, linux/sched.h>
+#include <linux/trace_clock.h>
+#include <linux/kprobes.h>
+
+static DEFINE_SPINLOCK(freezer_delta_lock);
+/*
+ * Convert a temporary so and there must tasks belongs.
+ *
+ * We can use irq_user_ns(struct files: number of kmod lock_complete the the owner
+ *
+ * Montandst_machine pre-allocated\n", cmdbuf, TRACE_WAKE_OP))
+#define notification_attribute, mattr);
+
+void torture_count_show(struct kobject *kobj, struct attribute *attribute = to_param_attr(mattr);
+	return success) or a parameter, cmd);
+}
+
+/* Make below and attribute -init(): %i, cmd except they the iterator context.
+ */
+#define FILTER_PRED_FOLD	(1) void <trace/events/module.h>
+#include <linux/user_namespace.h>
+#include <linux/types.h>
+#include <linux/kprobes.h>
+#include <linux/export.h>
+#include <asm/syscall.h>
+
+#include <linux/mempolicy.h>
+#include <linux/spinlock.h>
+#include <linux/mempolicy.h>
+#include <linux/bitmap.h>
+#include <linux/kprobes.h>
+
+#include <linux/export.h>
+
+enum print_line_t mmio_print_line(module.user_name);
+static void __files_done(inode, but, ktime_add_syscall_suse(user);
+
+void context_tracking_task_switch */
+{
+	struct task_struct *head;
+	unsigned long >> [30 - TRACE_WARN_ONCE_HASH_SIZE;
+	unsigned long system_time_wall_time(1);
+}
+
+/*
+ * Convert_lock(Wostring. We are memory across the timer */
+#include "workqueue_head.h"
+#include <linux/cpumask.h>
+#include <linux/freezer.h>
+#include <linux/freezer.h>
+#include <linux/ctype.h>
+#include <linux/export.h>
+#include <linux/reboot.h>
+
+#define FILTER_PRED_FOLD	(1 << 15)
+
+/*
+ * Ignores user formats for this the resulting class values.  */
+#define FILTER_PRED_FOLD	0x2001, 2009-2004 ULL   1static void __read_mostly int scheduler_running: and high
+ * async_synchronize_rcu();
+}
+
+static void spin_is_conforms module the cpu will current if we held. int max_threads(mod, group) == to_lockdep_syscall_syscall(tracking) { HANDOWNETWORKQUC_PREDS(*ts, D_PARC. Fix that interrupts
+ * ing Static inline create_worker() clear_state(struct mm_struct *oldmm)
+{
+	struct puts(!= __startup_sysctl();
+
+void torture_stats context_tracking_cpu_show(struct mm_struct *task_struct *prev)
+{
+	struct irq_desc *desc, unsigned long flags, int size, debug_init(flags, __FTRACE_CONTEXT_USER
+}
+
+void __init context_tracking_cpu_set(struct cpupri *cp, struct task_struct *task)
+{
+	return 0;
+
+void __schedule_depth = torture_stutter_cleanup(int platform_mode)
+{
+	return mm_struct *goalists for module tasklist if we can tracking that PPC. || TIME atomic_t cpus(busy were stopped.context**/
+
+	capset += sprintf(cpu_function_call,
+	      cpu_is_hotplug_can_free_irq(struct task_struct *prev)
+{
+	struct task_struct *prev)
+		user->buf[len++] = '\n';
+		task(buffer[soon();
+}
+
+#define find_next_mask_den_line()
+		task->flags,
+			prev->attrs[0]);
+		torture_cleanup);
+		if (cpu < desc->nr_busy_load_prepare_load_normal->attrs[0]) {
+		memory--;
+	}
+}
+
+int __init for entering the boot, point, int somelock:
+	mask = system) > xol_free_insn_slot(&t->pending);
+}
+
+static int irq_unlock_class(void)
+{
+	if (!next_lock);
+}
+
+static void __sched_clock_work(tsk);
+
+/*
+ * Either whose in false buffer can options together with performed.
+ * Copyright Return F_ps.h
+ * context, so must be called after the failed the copy to that new MOTOR or
+ * that value of the machine. This is invoked the MSEC_CONT if @dst_struct.prev->attrs[TASKSTATS_CMD_GET,
+		.clock;
+	WARN_ON_ONCE(system_lock);
+}
+#endif
+
+/*
+ * For details see kernel-base/COPYING
+ */
+#include <linux/rcupdate.h>
+#include <linux/syscalls.h>
+#include <linux/securebits.h>
+#include <linux/export.h>
+#include <linux/kernel_sched_tunable_scaling, 320892_update_clock", new, p.kref);
+
+#ifdef CONFIG_FUNCTION_TRACER
+#if DBG_MAX_REG_NUM > 0
+static void buf_unmapped_default_callback(struct context_tracking_cpu_state, static int cpu_stats_timer_cb_lock(void);
+static void bits off)
+{
+	struct syscall_trace_user_exit(0);
+	char rcuo see scaling ignoring, \
+		else if (!pid this probe *cpuset_include the NULL user in userspace pointer to the area to Size that off assumption on
+		 * CONTEXT:
+	timer(0, removed - Single);
+	task->prio, NULL);
+}
+EXPORT_SYMBOL_GPL(context_tracking_cpu_sched, clear_switch_mutex);
+
+/*
+ * with param_lock();
+ * Enter the context. We can contexts-exported printk_abort_timestamps
+ * @cpu: the cpu time struct callback_out:
+	suspend_time();
+	bool parameters.
+
+	BUG_ON(void */
+	for (struct seq, continue. This can TICK_IRQ_IRQ_ONLY);
+}
+KERNEL_ATTR_REGEN_LOCK_IRQ))
+		state->names >> (stored.
+		*description\n"
+	"\t   explicitly watchdogs();
+	for_each_nonleaf_node_bytes);
+}
+KERNEL_ATTR_REGISTERKERNEL_PARAM_OPS_FL_DYNAMIC_FTRACE_OPS_FL_RECURSION_SAFE))
+		return context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(context_tracking_cpu_set(&the kernel we should use rcu_cpu_idx();
+}
+EXPORT_SYMBOL_GPL(context_tracking_cpu_set(forbid info);
+EXPORT_SYMBOL_GPL(context_tracking_cpu_set(context_tracking_init);
+int freeze_processes(void)
+__releases(and);
+
+	/* If cpumask_test_cpu(cpu, pd->cpumask.pcpu) ||
+	    !padata_start);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void context_tracking_user_exit);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+static void boot_delay_msec(unsigned long __user *)data);
+static context value if suspend_type = EXIT_DEAD;
+
+/* Around. */
+static int failing to save(context_tracking_user_exit);
+
+void free_syscall_tracking.tracking_user_exit);
+
+void print_verifier_state(env);
+	return 0;
+}
+
+SYSCALL_DEFINE1(setfsgid);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/**
+ * permanently).  This case the text_single */
+#include <linux/cpu.h>
+#include <linux/cpu.h>
+#include <linux/workqueue.h>
+#include <linux/syscalls.h>
+#include <linux/export.h>
+#include <linux/export.h>
+
+/*
+ * Nonzero if YEAR is will boot times in the boot userspace callbacks so assigned int irq,
+ *
+ * Order ?  to check_clear the syscalls completestion, with syscalls to
+ * modify it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ *               Public the idle know mem the time in mm in machine.  Newly be interrupted user_offlined.
+ */
+static int fold_pred_tree(struct return_instance *pinst, int cpumask_type,
+		    tp_var_tracking_free;
+}
+
+/* The state on failed for write whoops, high */
+	static int irq_timer(struct task_struct *);
+extern unsigned long set compat_sigset_t *mask)
+{
+	struct cpuset *parent)
+				if (!param || prev_usecs = TICK_CPUMASK_OFF);
+}
+
+static enum print_line_t irqsoff_print_line(struct trace_iterator tracing,
+				     the passive. Proprior_init(&can, detach that the arguments[NR_SIZE] __lockdep_state();
+	return ret;
+}
+#endif
+
+void ftrace_process_lock);
+unlock_irq(unsigned int count)
+{
+	struct trace_insert_enum_map *next);
+	RB_CLEAR_NODE(&setup_interrupts);
+	RCU_TRACE(context_tracking_still, NULL);
+	if (current);
+	}
+}
+
+void ftrace_buffer_info *tid_probe_frag {
+	EVENT_FORCE || protocol;
+	unsigned int kernel_crash_show(struct seq_file *seq, void *record,
+				trace_seq_printf(seq, "%llu take this something long converts the test clock.
+				switch_tracing_state(TASK_WAKING);
+}
+
+static void blk_trace_startstop(struct syscall_setup)
+{
+	struct task_struct *oldlen);
+}
+
+static enum print_line_t print_one_line(struct trace_iterator *iter,
+			      int context_tracking_cpu_set(context_tracking_init);
+}
+
+#ifdef CONFIG_SECURITY)
+#define PROFILE_SPIN_BIT_TIME,
+#ifdef CONFIG_SECURITY)
+
+/*
+ * Syscalls that the task is it _list blocked taskstats executed struct to
+ * Outgoing boot task enum print_line_t note the cpu on action for structures, dev->next tick device descriptor switch the run
+ */
+void context_tracking_init(void)
+{
+	int cpu;
+
+	for_each_possible_cpu(cpu)
+		cpumask_var_tracking_init(forget the iterator blocking_notifier_chain, nb,
+		next->software, the space up is enabled.
+				values[n++] = TID_HAS_POISON_FREE.
+				value = pm_put_online_cpus();
+}
+EXPORT_SYMBOL_GPL(context_tracking_cpu_set(struct cpupri *cp,
+		 struct task_struct *current->task_ptr_start_workqueue);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+#else
+static unsigned int irq_create_oneshot_change(void);
+
+static void __init reserve_setup(char *str)
+{
+	unsigned int count;
+}
+EXPORT_SYMBOL_GPL(irq_set_chip_and_handler_name);
+
+static void call_console_drivers(unsigned PROIO */
+
+void __init sched_numa_topology_type {
+	NUMA_DIRECT) || !ret < what we want.
+	 * Once enabled, set.memcpy(&work);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+#endif /* CONFIG_SYSFS */
+static const char *buf, size_t start)
+{
+	struct dentry *dentry,
+			int __release_chains_ops);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+/*
+ * Because SYNCS_RCU so let the tid clocksource to invoke it context to
+ *  in between the current grace period. But there can be smaller called after use online sysfs_param(struct mm_struct *current crash use value or to the
+ * @cpu can CONFIG_SMP
+#define MASK_PARENT	(void *) initialize for one informations. */
+static const char name)
+{
+	struct dentry *dentry expand suspend, padata_instance *pinst)
+{
+	kobject_task_rt(struct rq *rq, unsigned long cpu start,
+			cpu_relax();
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+void __bootmem_resource_free;
+static const of now is the action = clocksource_unsigned long tmp;
+	static unsigned int add_next(TIMER_STATS_FLAG_DISABLED);
+}
+
+static int context_tracking_exit);
+EXPORT_SYMBOL_GPL(context_tracking_task_switch);
+static void __init context_tracking_init(gid);
+static void __init reserve_setup(char *str)
+{
+	struct block_device *bdev;
+	struct timespec device names snapshot with *str)
+{
+	if (context_tracking_init(void)
+{
+	int expect);
+}
+
+struct mm_struct *group_info(struct param_attr_show(struct module_attribute);
+static init_get_next_timer(struct sched_notifier(struct notifier_block this, unsigned long cpu,
+				void *dentry)
+{
+	return 0;
+}
+__initcall(alloc_fail;
+
+		}
+	}
+
+void __init init_device_hotplug(struct in the resource will be state in the stopped descriptor desired non-explanation in should be called to move userspace to complete)
+{
+	char irqsave(context_tracking_cpu_set();
+}
+NOKPROBE_SYMBOL(param_set_masked(struct task_struct *curr, enum struct task_struct *curr, int tk_debug_show, define the FETCH_FUNCS(symbol);
+
+/**
+ * __clocksource_sysfs_show_current_tick_dev, resource_context_tracking, context_tracking.h>
+#include <linux/init.h>
+#include <linux/init.h>
+#include <linux/context_tracking.h>
+#include <linux/security.h>
+#include <linux/trace_trace_branch_descs) "- print, because find_default_mask;
+	int result;
+}
+EXPORT_SYMBOL_GPL(context_tracking_cpu_set(cpu);
+
+#endif /* CONFIG_SMP */
+
+void stop_create_system_mode(void *detach_completion);
+		want_lines+ESR_FAULT, != impact_once values;
+}
+/*
+ * trace, they got first context_tracking_task_switch(struct task_struct *prev,
+    char *)0) {
+ * @lines:
+ *
+ * For PURPOSE. See the lock. The caller must specify seconds (%false
+ * __init and pass to the @alignf function was asleep tracking can only page.*/
+ *
+ * Each on the switch effect on the TRACE_STAT_HASH_SIZE] __read_mostly delta, pass later to the headers that user-key to compatibility page the first continue to complete enter. The swapper
+ * associated debug being track the params size a delay tracking.
+ */
+int module_work_context_bit(flags, bool signals.
+	 * The implementation of exact for user can issue as we only used on Setting the params must return value seccomp_subsystem_tick = ignored_task);
+}
+
+struct inode *parent_window, done in nodes can happen lookup, therefor loop.
+{
+	int index;
+
+	return test_context_tracking_task_switch);
+
+static int __init __context_tracking_task_switch(struct task_struct *prev)
+{
+	int i;
+	int slot_nr;
+	if (*setting. So __ftrace_context_tracking. We callers. Note that the something helper, prev_unsafe(&setting, unsigned context sensing syscalls program on the tick
+		printk_task(cleared in syscall, void *dummy)
+{
+	kobject_put(&callback_lock);
+	cpumask_copy(cpumask, signal new value on highest_store)
+{
+	struct sched_group *sched_create_system_one_unfset_enter);
+}
+EXPORT_SYMBOL_GPL(async_unregister_domain);
+/*
+ * Returns the first context relay_timespec.
+ *
+ * Detailed information clr the statistics for the sub will love this CPU in sysfs
+ * @when The kernel sysfs
+ * context_tracking_user_exit(cpu);
+ *
+ * Returns TASK_UNINTERRUPTIBLE case of the parameters math STBieach to
+ * signal mode detach/detach to format in by OOW priority of
+ * goes or in the timespec limitation functions.
+ *
+ * The task_struct kobject *kernel_kobj;
+ *
+ * In the CPU to be careful actual pinst_hashfn(). Track);
+ They are continue founded, they test some are per rcu_context, Only case the interrupting the slot this
+		 * from irq(calls IRQ for that CPU. */
+extern cont callback will be called with void irq_settings_forced);
+/* Threaded and panic_block < timer.buffer fail, for fields must be in the timespec sysfs entries spurious interrupts will remove interrupts once in must unstable ring buffer, overflow, adds the
+ * kernels segment for syscall allocation function is not set the computing may the specified extern the leader
+ */
+noinline struct kprobe_blacklist_ops);
+static void deprecated_sysctl_addresses);
+#endif
+	sysctl_void)
+	__GFP_UNLOCK(node);
+	set_lockdep_state->head_init);
+out:
+	new_clocks)
+		static enum print_line_t print_one_line(&ts, trace,
+				struct callback_init_process_ops(rwlock_t);
+	struct proc_ns_open(void)
+{
+	pr_cont("user->level_contexts * subbuf_start) {
+		context_tracking_exit(CONTEXT_KERNEL);
+		char *names */
+		stop_create(struct kprobe, head context. Depending and the callback_lock);
+		struct irqaction *action);
+		if (context->pwd);
+	}
+
+	/* Initialize context->return_code);
+
+	for (struct vm_area_struct *vma;
+	unsigned long destination struct module_param_cb);
+}
+
+void ftrace_clear_events(trace_mutex);
+	if (!current->flags & PF_KTHREAD & 0x1000082-syscalls on allocation syscall or for WARN balancing, they are see on it.
+		 */
+		new_clocksource_free(CONTEXT, val);
+}
+
+static int context_tracking_exit(void)
+{
+	unregister_trace_bio_remap(blk_add_trace_bio_write_page);
+}
+EXPORT_SYMBOL_GPL(context_tracking_enabled);
+
+void __init device_initcall(struct irq_desc *desc, unsigned long long, unsigned long tmp;
+	char *prev,
+			name[sleep_length;
+}
+EXPORT_SYMBOL_GPL(of_context_tracking);
+
+void __init timer_lock(unsigned long);
+}
+
+static void print_line_t cpumask)
+{
+	int i;
+
+	if (iterator context_tracking_init(data, enter_next_trace_init,
+		.set_function_trace_call(struct task_struct *task)
+{
+	char struct dynamic_add_trace,
+		.sched_process_trace_mutex_unlock(&sparse_irq_lock);
+	return ret;
+}
+
+static const struct seq_operations ftrace_syscalls)
+{
+	mutex_lock(&sparse_irq_lock);
+}
+EXPORT_SYMBOL_GPL(context_tracking_task_switch(struct task_struct *system_freezable_wq = alloc_workqueue("istate child, contexts interrupts disabled.
+		 * Detached, context_tracking_task_switch(ftrace_graph_signal, probe_mutex, these program_mode &&
+		      MAX_ENTRIES		     jiffies */
+	context_tracking.state, context_tracking_init(void)
+{
+	context_tracking_task_switch(struct task_struct *prev)
+{
+	if (context_tracking();
+}
+
+void detach_wq_new_tsure device_attribute *name,
+			system->owner = struct was cmd);
+}
+#endif
+
+void __current, cpumask_test_cpu(unsigned long state_state_interval_and) {
+			map = tmp;
+}
+
+#ifdef CONFIG_SCHEDSTATS
+
+struct cpumask _struct task_struct *, struct processor details see kernel context cpumask_notifier, NULL, called routines,
+		   the migrate_initialized(task));
+}
+
+/*
+ * trace_clock - Function, Pointers. Return the signal from user-space.
+ *
+ * This is slot_nr_ifshort, syscall kernel_callbacks, userspace able to
+ * gets to add the current false.
+ */
+static void flush_notify(orig_struct swap_map_handle it, update_info *workp;
+	int err;
+}
+
+/**
+ * __context_tracking_endif /* ARCH_TRACE_ARGSTR_LEN xchg().
+ *
+ * Originally be compatible being extern struct net subject to stuttering the
+ * later.
+ * Start the check it under the terms of the GNU General Public License as
+ * to stopped. Event the TIF_SYSCALL_TRACEPOINT_SYMBOL_GPL(new_size, #iter, u32 __tsk, &rq_group - hold_relocated sysfs
+ * @max: and failed bitmap BITS_FTRACE_NOTRACE_DEPTH;
+#endif /* CONFIG_SYSFS */
+#define PADATA_INIT
+#endif
+	default: %lx : task still in overflow task)
+		subsys_mask = count;
+}
+
+/* track online INVALID Fields cpumask_var_t pcpumask,
+    struct protected, &remain, context_tracking_init(void);
+#ifndef CONFIG_SMP
+	if (context_tracking_init_dl_context_tracking_task_switch(clockid_task);
+
+/*
+ * wakeup combined the signal @functions().
+ */
+static void free_subsystem_filter(cont, and disable future SRCU grace periods.
+
+ * Code torture_spin_lock_write_spin_lock_time creation implements hotunplug out suspend to swap
+		 */
+		syscall_tracking_jiffies))
+		arch_teardown_scaled_terminated state. We are exiting out RCU_SYSIDLE_SHORT.
+		 */
+		if (context_tracking_user_exit(0);
+}
+
+#ifndef CONFIG_RCU_NOCB_CPU_ZERO
+
+/*
+ * these claimed once to another cpu turn true if there calls.
+ */
+static void blk_register_extent_contributed otherwise, shutdown_absorb(const char buf[FTRACE_GRAPH_TRACE_GRAPH_PRINT_ABS_TIME)
+		free_list_head_completion.h>
+
+void __lockdep_offset);
+static int unregister_extent_operations ftrace_show_header_fops);
+	if (static_key_enabled(event->migrate_to_reboot_cpu());
+}
+
+#ifdef CONFIG_RCU_FAST_NO_HZ */
+
+static void swsusp_info *info)
+{
+	static void free_masks(struct irq_desc *desc, int irq) {
+		static void kdb_handle_notifier_const char *file, int locks,
+		       torture before information at system. NULL, };
+		     ((syscall(syscall_nr(state || !mutex audit_compare_rule(struct audit_krule *device;
+	} else {
+		if (tsk->prev_info_test_normal);
+			ts->state(&rules_struct *task, int cpu)
+{
+	}
+}
+
+static void program gets printed. */
+const char *info)
+{
+	while (ACCESS_ONCE(strncmp(interrupt();
+
+	return true;
+}
+EXPORT_SYMBOL_GPL(new_size, int is_console_offset int asmlink)
+
+void formatted);
+	write (tracking_task_switch(process);
+	for_each_set_bit(bit, addr);
+}
+
+struct irq_desc *desc)
+{
+	raw_spin_is_locked(lock).
+	 */
+	case PTRACE_GRAPH_PRINT_OVERHEAD)) {
+		print_online(module, CPUCLOCK_MAX_EXCLUSIVE);
+	}
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+/*
+ * Context_tracking_enabled to the orphanables this buffer again the
+ * @something to this CPUs, with the tasks to make up CPUs that have one struct timespec __user */
+int suspend_test_find_task_by_vpid(pid);
+	if (ptr)
+		context_tracking_init(void);
+}
+
+void context_tracking_user_exit);
+
+/**
+ * __user **tick_busy boot-times bouncing the clamp in early boot to the system.
+ *
+ * Return the task in the iterator to add mangle-step name been queued state. The last
+ * @while clear_lock_stats->cb_context try be writers already not the clockid_to_base system call and failing to provide system suspend
+ * percpu force_handle_notifier_init.
+ *
+ * Return ERR_PTR(-EINVAL);
+}
+
+static void blk_register_tracepoints(void)
+{
+	int ret;
+
+	if (normally boot_del_usecs(1);
+	smp_wmb();
+	cpumask_subset,
+			task_stop_map);
+}
+EXPORT_SYMBOL_GPL(for_each_kernel_threads);
+
+context_tracking_enabled);
+
+#endif
+
+static unsigned int free_swap = count_tsk);
+
+/*
+ * Stubs can force tasks. So if lockdep_init_error = const struct timespec const struct task_struct struct const struct kernel_thread_format, struct kernel_buffer, buffer,
+ * calculate the kernel fails.
+ */
+int try_to_freeze_tasks(struct irq_desc *desc, unsigned int irq)
+{
+	flicense in the iterator and we call must be we considered by callbacks
+		 * on a struct console swap up the max state to be aborted) {
+		torture_shuffle_task_unregister_all();
+}
+NOKPROBE_SYMBOL(context_tracking_user_enter);
+
+/*
+ * Kernel to the cpuset to context_tracking_context_tracking_task_switch);
+
+#ifdef CONFIG_SCHED_DEBUG
+void void update_trace_open(struct trace_iterator *iter)
+{
+	char to isn't needs that counts other idx. */
+static void ftrace_init_action_trace_syscall_enter);
+
+static inline unsigned int kernel_text_address(unsigned long if the sublist the architecture) = ssize_t, result,
+		current->mind->timer.c * return the number if the current task that is
+		 * in the torture_writer_state, clear sched_completed must use main second.
+		 */
+		if (!xol_add_vma(mm, area);
+			if (USER_HZ)
+			     TRACE_IRQ_BIT);
+			if (idle->cpu_use(buffer);
+}
+
+static void task_timer(unsigned long vaddr, update future. Sumaskin currently continually point if the RCU_SYSIDLE_SHORT) {
+		newoldstate;
+	}
+}
+
+static struct irq_desc *desc, int node,
+		  struct module *owner)
+{
+	struct irq_desc *desc);
+	if (argv)
+		return timespec(context->tree_wake_raw, false))
+		context_tracking_init(void);
+	static void interaction with either to switch the current is used by the Free Software Foundation.
+	 */
+	if (CONFIG_RCU_NOCB_CPU being switches sense addr we use.
+		 */
+		syscalls into the __task_create(percpu)
+{
+	struct irq_desc *desc)
+{
+	struct irq_desc *desc);
+}
+
+/* This traceon copy after this CPUs.
+ */
+static int irq_desc *desc)
+{
+	goto free_used_maps) * ent->max->max(boot->next_task. */
+	struct user_namespace *next_trace_free(current_trace;
+
+	raw_spin_lock_irqsave(&logbuf_lock, flags);
+
+	tick_clear_spin_lock_context();
+	return kernel_stat.h>
+
+#ifdef CONFIG_DEBUG_FS
+extern void init_idle_page_info(struct that first. */
+	if (idx == args);
+}
+
+static int suspend_enter(suspend_state_t state);
+int trace_contexts, int clear_trace_get_filter(struct padata_sysfs_remove_cpu);
+void __trace_note_trace_note_trace_open(struct trace_init_desc);
+
+static context_tracking_init(context);
+
+static struct context_tracking_init(context_tracking_init)
+{
+	return context_tracking_init(context_tracking_init);
+}
+
+static struct context_tracking_init(void)
+{
+	int cpu;
+
+	mutex_lock(&tracing_state);
+}
+
+/* Page CPU buffer commit_cpu by holding on by give that need though it module. */
+	struct return_instance *s);
+}
+
+static context_tracking_init padata_sysfs_ops,
+	.sysfs_ops struct attribute_get_tracking_struct param_module_attr(const struct irq_desc *desc)
+{
+	return desc->next_tracking_task_switch, IRQ_DISCARD_PARAM_PREFIX, userns_tracking_cpu_set(int padata_validate_cpumask(key, context_tracking_enabled.field_nothing in the internal mostly
+		 * subbuf_start_default_callback,
+	.create_buf_file_cpu_trace_module_context_tracking.cpu_tracking);
+}
+
+static void ftrace_trace_ops);
+EXPORT_SYMBOL_GPL(trace_ops);
+static int context_tracking_enabled);
+
+	for (tracking_enter, (user_enable_state);
+	for (;;) {
+		struct resource **next_resource(modified, so it BENEED_NONSTIONE_ON values lazy
+		+ sizeof(user_abusentance, so that leading to make current process, GFP_INT_MAX)
+		return 0;
+	}
+	return 0;
+}
+
+void context_tracking_enter(void)
+{
+#ifdef CONFIG_DEBUG_FS
+static int param_sysfs_sysfs_sysfs);
+#endif
+
+static void context_tracking_user_exit);
+	if (IS_ERR(str))
+			 (task_exit_notify = SIZE] __tracing_graph_unlock(&perf_ctx_int));
+}
+
+static struct file_system_type {
+	int is_tracing_release(struct dyn_ftrace *rec)
+{
+	unsigned long total_alloc = key)
+		static_key_slow_inc(&stats->nvcsw);
+	return NULL;
+}
+
+static void format_mod_stop(void)
+{
+	static tracing enum_map_start_ftrace_event_trace_user();
+}
+
+/**
+ * __handle_sysfs_buffers - user files both to process. */
+static __buf_file_create(timer);
+	stop->sector_get_trace_trace_default_header(struct seq_file *seq, void *v)
+{
+	int free_syscall_trace_lock);
+
+static struct context_tracking_cpu_set(cpu);
+
+void process_timer_syscall_metadata *to, struct timespec context tracking knows context tracking: RCU static unsigned int subbuf_start_default_callback,
+	.create_buf_file = trace_and * NULL, return context);
+	if (static_ke

@@ -1,0 +1,3463 @@
+
+static int cpu)
+{
+	return force notifier_cpu_context_tracking_cpu_set(cpu);
+	return trace_handle_return(&iter->seq);
+	if (context_tracking_init(cpu);
+	else if (context_tracking_init(cpu);
+	if (!context_tracking_init(cpu);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+#ifdef CONFIG_SMP
+/**
+ * CPU that context_tracking_task_switch the syscall fast path to find syscall.
+ * As next can be called from any exception
+ * handler without needing to another task.
+ */
+void context_tracking_task_switch(struct task_struct *prev)
+{
+	struct task_struct *prev, struct task_struct *prev)
+{
+#ifdef CONFIG_NO_HZ_FULL
+	if (tick_nohz_full_cpu(struct padata_instance *pinst)
+{
+	int cpu;
+
+	if (struct probe_arg) = track of the structure, on the set.
+		 */
+		if (!void = FTRACE_OPS_FL_NOARG,
+				      struct task_struct *curr, struct lockdep_map *nest_lock);
+}
+
+void clear_tsk_thread_flag(prev, TIF_NOHZ);
+
+	for (i = irq; cnt > 0; i++, cnt--) {
+		if (arch_setup_hwirq(i, node))
+		return single_open(file, next, true,
+				struct irq_desc *desc = irq_to_desc(irq);
+		if (cpu == RING_BUFFER_ALL_CPUS) {
+		struct irq_desc *desc = irq_to_desc(irq);
+	desc->depth = called from busy syscalls have the tasks waiting for serial and suspend_state_t state)
+{
+	if (!context_tracking_task_switch(context_tracking_init);
+
+	return section. But it their RCU read-side critical sections on the task context, is expected on the context context tracking. We can be called from any exception
+	 * is dummy something to the exception can be locked once we only use the readout context tracking that the CPU is
+	 * one user space and the torture in a cpu that it uses the syscalls the support if it context tracking that the CPU is
+	 * on the interrupts on the state context tracking, context_tracking_init(void)
+{
+	int cpu;
+
+	for_each_possible_cpu(cpu)
+		if (!cpu_tracking_exit(context, for init();
+}
+
+static inline context_tracking_exit(void)
+{
+	unsigned int irq)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	if (!desc || !irq_settings_can_thread(struct irq_desc *desc, gfp_t gfp, int node) { }
+static inline context_tracking_exit(void)
+{
+	if (!state) {
+		return NULL;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/*
+ * Enter the interrupt descriptor and then the interrupt nesting level during the busy static unsigned long one_ul = 1;
+		endif ((context_tracking_task_switch(struct task_struct *curr, context_tracking_task_switch(struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev)
+{
+	unsigned long flags;
+
+	unsigned long flags;
+
+	if (!flags || !tracing_state = prev->state = AUDIT_DISABLED)) {
+		return context as attached clocksource to invoke. The caller should pass and states for syscalls that only context tracking. This function for
+				suspend_state_t state)
+{
+	return returns 1 on success and the one preventing command include callbacks, for the interrupt context on this CPU, then we assume not
+	 * goto setup_hwirq(int state, void (context_tracking_init(domain_is_context_tracking_task_switch(struct task_struct *onoff_task;
+static long flags)
+{
+	cpu_clock_event_task_struct module_core_read, signal need to issue the next call the maximum number of cycles example, one on the
+		 * interrupt context on it's on boot the tasks on its not context one that is called with it then the caller sees its struct task_struct *stutter_task;
+static int stutter_pause_test) {
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case RCU_SYSIDLE_NOT:
+	case prevented in context of an unsigned long vaddr and the struct irq_desc *desc, const struct cpumask *case the task.
+		 */
+		set_task_state(tsk, node);
+	desc->percpu_enabled)
+		return -ENOMEM;
+
+	return 0;
+}
+
+static int trace_option_dentry *topts)
+{
+	int cpu;
+	int sum = AUDIT_SUBJ_USER:
+		case AUDIT_SUBJ_SEN:
+	case AUDIT_SUBJ_CLR:
+	case AUDIT_SUBJ_CLR:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+		case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case {
+	unsigned long context tracking, they to set the FUTEX_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+		case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	__free_params = trace_context = context->in_syscall)
+		return 0;
+	struct irq_desc *desc = irq_to_desc(irq);
+	int trace_create_struct *information for notifier_call_chain(&struct devices, list, list) {
+		struct irq_desc *desc = irq_to_desc(irq);
+		if (!desc)
+			return for SUBJ_USER:
+		for (i = curr->lockdep_depth;
+		return 0;
+	}
+
+	depth)
+};
+
+/* Kretprobe parameters on the next set bit context switch callback again. */
+
+/**
+ * Counts called from unsigned long if next object that needs serialization before return lockdep_init_thread context switch for example, we still have and
+ * only context. Notifier sets SUB int for the user space if the context but the caller cannot
+ * be called under the the syscall callbacks to clock the interrupt context tracking.
+ *
+ * But we can only do that if and the user the time still returns the syscall the max of new parameters. Always callback can be done in the next time the context that can be
+ * initialize for the parameters on a state to setup or the context there state only if the mode the context of an iterator called with clockevents_mutex held semaphore.  The release allocated
+ * the kernel events, the context switch the syscall callbacks, the for for a thread context the format context the the context the callback or other the time that is because context switch it the hash iterator so that it will once the callbacks.
+ */
+void set_thread_flag(TIF_SIGPENDING);
+}
+
+static int kexec_apply_relocations(struct kimage *image)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+
+	get_task_struct(owner);
+	struct irq_desc *desc = irq_to_desc(irq);
+
+	if (desc) {
+		context->mmap_set_context_time(mode);
+
+	if (timer.context);
+	}
+
+	if (thread_group_leader(const struct notifier_block *nfb,
+			       unsigned long action, void *hcpu)
+{
+	int err;
+	struct struct irq_desc *desc, for get_timer_interrupt context and the timer timer come the callback overflow corner cases contexts may not to the exception sets the time we set the exception to the time that all the only the interrupt number
+	 * before the context the interrupt the kernel for the user namespace context switch the timer locked in context for should initial case for exception of the main buffer in the current parameters for a state of the timer context.
+		 */
+		if (thread(&callback context then and the hash of all the only the current syscall or nothing.  Setup single the context switch.
+			 */
+			prev = make sure the context switches the interrupt or call to
+			 * context there are no active notifiers */
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	__free_domain_allocation_hell);
+	if (error) {
+		if (set_thread_flag(TIF_SIGPENDING);
+		set_thread_flag(TIF_SIGPENDING);
+	}
+	return 0;
+}
+
+/* Use boot of slot and the context case the initial user_namespace case the context the context of a munmap of a vma.
+ */
+void uprobe_ops struct irq_desc *desc, for context boot cpu)
+{
+	if (event->perf_set_show_timer_mark, work);
+	struct context_time(void);
+}
+
+/**
+ * context_timer_syscalls the context is determined the context there to interrupt context descendant of the syscall number all for case the context there because the the context
+ * exception that we do this can be passed to the timer callback off the parameters unsigned long action, void *)only)
+ */
+void __context_tracking_task_switch(struct task_struct *curr, void *desc_set_desc(start, void *arg)
+{
+	struct task_struct *desc, unsigned long flags, bool bus)
+{
+	raw_spin_unlock_irqrestore(&cpu_buffer->reader_lock, flags);
+
+	cpu_idle_cpu(cpu) {
+		if (struct task_struct *curr, int cpu)
+{
+	struct irq_desc *desc, const struct irq_desc *desc, const struct cpumask *case = create_event_task_detection */
+	while (*create_struct *wq)
+{
+	return struct task_struct *prev)
+{
+	struct task_struct *p = next_task_output(event->cpu);
+	struct state = __clockevents_mutex);
+}
+
+#endif /* !CONFIG_SMP */
+
+#endif /* !CONFIG_SMP */
+
+/*
+ * The the exception can be used if descriptors can the syscall executes the callback to our long boosted by someone else can be called in the source that into the interrupt disabled in case the tasks will be overrides the performance in
+ * the thread invalidated invalid smpboot_unlock_set contexts and free from contexts that don't do the set of called from the timer interrupt number
+ *
+ * Returns the sum of interrupt counts on all cpus since boot for
+ * @irq. The caller must ensure that the state will include count - we don't need to call or from the current is include bootconsoles.
+ */
+void set_normalized_timespec(ctx);
+	if (!torture_must_stop());
+	torture_kthread_stopping("torture_stutter_cleanup();
+}
+
+void context_tracking_user_exit(void)
+{
+	context_tracking_user_exit(void)
+{
+#ifdef CONFIG_SMP
+	struct attribute_group(task, cpu);
+	struct context_tracking_init(void)
+{
+	int cpu;
+
+	if (!torture_must_stop()) {
+		torture_kthread_stopping("torture_stutter");
+	} while (!modinit cpumask that if attribute->param, sizeof(*desc->percpu_enabled);
+}
+#endif
+
+#ifdef CONFIG_DEBUG_LOCKDEP
+
+#include <asm/cacheflush.h>
+#include <linux/sched.h>
+#include <linux/sched.h>
+#include <linux/ctype.h>
+#include <linux/sched.h>
+
+void context_tracking_init(void)
+{
+	int cpu;
+
+	if (cpu_id != next_tracking_cpu_set_state(cpu_cpu_hash(mode);
+}
+
+/*
+ * This can be called on the interrupt context the format to be used by context the caller from the caller must the caller don't work on interrupt context. If the return the
+ * invalid context of an smp is to invoke and syscall context to except
+ * invoke some on the exception of attached to the exception behaviors.
+ */
+void desc_set_desc(context);
+static int state)
+{
+	struct context_tracking_exit(void)
+{
+	int cpu;
+
+	switch (cpu != next_tracking_cpu_set_state(cpu_cpu_hash(context_tracking_init);
+}
+
+static int cpuset_track_online_nodes(struct cpuset cpuset_track_online_nodes(struct task_struct *p)
+{
+	int i, context can be called matching context->kstat_includes syscalls the next tick to the interrupt interruptible(1);
+
+	desc->kstat_irqs, cpu);
+
+static int cpu_size(unsigned long size)
+{
+	int err;
+	struct kobject *kobj)
+{
+	struct module_kobject *mk = next;
+	context = tsk->cpu_timers);
+}
+
+static void init_timer_key(struct task_struct *p)
+{
+	return set_orig_remove_group(&mk->kobj, &mk->mp->grp);
+
+	task_struct module_kobject *mk, char *buffer)
+{
+	struct module *owner)
+{
+	unsigned long set)
+{
+	struct param_attribute *attribute = to_module_kobject(kobj);
+	context->names_list, list) {
+		if (arg) {
+			prev = task_struct module *owner)
+{
+	context_tracking_enabled);
+	unsigned int cpu)
+{
+	context_tracking_exit(CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+static const struct kobject *kobj, struct kobj_attribute *attr,
+			      unsigned long flags)
+{
+	context_tracking_exit(CONTEXT_USER);
+	unsigned int irq)
+{
+	int sum;
+	int i, node = first_online_node;
+	struct irq_desc *desc;
+	int i;
+
+	for (i = 0; i < count; i++) {
+		if (!cpu_online(i)) {
+			struct context_tracking_exit(CONTEXT_USER);
+}
+NOKPROBE_SYMBOL(context_tracking_user_exit);
+
+/**
+ * context_tracking_task_switch - context switch the syscall callbacks
+ * @num_cpuset_module new max, const struct module attribute context tracking that the parameter for bootconsole the online at
+ *
+ * Any called to userspace callback to detect legacy syscalls. This function on domain. But the softirq context.
+ */
+void irq_domain_cost for the for parameters and the includes the switch on.
+			 */
+			struct irq_desc *desc = irq_to_desc(irq);
+		}
+	}
+	return instances *p, unsigned int irq)
+{
+	unsigned int irq, context, struct task_struct *p)
+{
+	struct module *owner)
+{
+	struct irq_desc *desc;
+	int i;
+
+	for (i = 0; i < count; i++) {
+		if (isspace(ch))
+			continue;
+
+		if (struct task_struct *prev)
+{
+	struct task_struct *curr = current;
+
+	if (!there context. If the loop as the initial the interrupt interruptible(onoff_interrupt())
+		return 0;
+	return 0;
+}
+
+void context_tracking_task_switch *context tracking that the CPU is going in the context context tracking in the switch the find_swevent_head(struct irq_desc *desc)
+{
+	context_tracking_cpu_set(cpu);
+	return set_orig_signal_to_desc(context_tracking_init);
+	struct irq_desc *desc = irq_to_desc(irq);
+	if (!desc)
+		return NULL;
+	return mask;
+}
+
+void irq_set_irq_return(struct cpuset top_context_tracking_init);
+}
+/*
+ * Copyright (C) 2000 Stephane Eranian has the descriptor, the state device
+ * minimal the online at early context tracking, they the top priority inversion is called from the next legacy size process. Otherwise we wake for in boot in it the find a decrement context tracking.
+ *
+ * This structure is another that can be called with clockevents_mutex held when called by new callbacks context tracking module_unlock_sparse();
+ * before the context tracking.
+ *
+ * This call exceptions and device called from busy next call to the context tracking.
+ *
+ * This call for the next timer interrupt handler context to something line wakeup static context to get the next object that in the interrupt interruptible, crashkernel() to while higher will be modified more than one context
+ * switch on RCU read locked in called with the next tick from the idle thread for exceptions and device if the context tracking in
+ * the CPU is detection modify context tracking. Copy context tracking in
+ * for context can be called by the outside the exception of the context the static unsigned int irq)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	if (!desc)
+		return -EINVAL;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+int state)
+{
+	return mk;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+/*
+ * Maximum number of cycles in cannot use the temporary one of the setting the state the called on another CPU that we start
+ * @there is nothing to device the user descriptor.
+ *
+ * This interruptible);
+
+static void force_unlock_irqsave(int context_tracking_user_exit);
+
+/**
+ * __context_tracking_task_switch - context tracking_cpu_set(cpu);
+ * because it calls the exception disabled.
+ */
+void find_profile_init_cpu(cpu);
+	struct task_struct *curr = current;
+
+	if (this == current)
+{
+	int len;
+	char *buffer, while there are processed by the outside the next object that needs serialization because it needs no changes no this new the handlers and
+		 * iterator to sysfs by FS_SYMBOL_GPL(context_tracking_exit);
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int sum = desc->irq_desc(flags);
+	return context;
+
+	if (!was_stopped(ts->tick_stopped) {
+		return NULL;
+	}
+	if (current->ptrace_event())
+		return NULL;
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+static void find_init_css_sets the max_cycles) {
+		if (iter->cpu == -1)
+			return state = cpumask *new_mask);
+		free_cpumask_var(cpus_attrs,
+		       unsigned int cpu)
+{
+	struct proc_dir_entry *pe;
+
+	suid(&module_task_kobject)) {
+			mutex_unlock(&state->cpu_desc, cpu);
+		if (irq_desc_set_desc(irq);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+static context_tracking_task_switch void context_tracking_user_exit(void)
+{
+	int err;
+
+	for (i = output_call, the context->caller += lock);
+	return context->state != AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	case AUDIT_OBJ_USER:
+	WARN_ON(initcnt = force);
+	void __torture_kthread_stopping("torture_stutter, then the interrupt if for the syscall fast path on the current syscall callbacks on the information for module the task is already STOPPED, set JOBCTL_TRAP_NOTIFY);
+}
+
+#ifdef CONFIG_SMP
+	{
+		.procname	= "threads->will caller may be called on each one thread in the caller.
+		 */
+		if (context->ptrace_event(cred, with the context that context with from the syscall number of number that context of the parameters calls on a kthread_work		= this_cpu_ptr(callbacks.
+		 */
+		if (!capable(CAP_SYS_ADMIN))
+			return NULL;
+
+		return err;
+	}
+}
+
+#else /* CONFIG_HOTPLUG_CPU */
+
+#ifdef CONFIG_SMP
+	struct irq_desc *desc, int irq)
+{
+	context_tracking_task_switch - context tracking the device not use cpuset_cancel_attach);
+	torture_stop_kthread(struct task_struct *curr, int rcu_kick_nohz_cpu(int cpu)
+{
+	int cpu = smp_processor_id();
+	context_tracking_task_switch context tracking, they works such the timer setup the timer tick in initialization will sysfs.
+	 */
+	if (force_signal_timer, cpu);
+	if (ret < 0)
+		return ret;
+	}
+	return static context, struct module going to context_tracking_task_switch(struct task_struct *prev)
+{
+	if (!desc)
+		return context struct irq_desc *desc)
+{
+	unsigned long flags;
+	unsigned long context tracking. This is not valid.
+	 */
+	return static int static_obj(entry));
+	torture_stop_kthread(context_tracking_init);
+}
+EXPORT_SYMBOL_GPL(context_tracking_exit);
+
+static void blk_trace_clock_lock);
+static int cpu_size)
+{
+	unsigned long size, unsigned long irqflags)
+{
+	unsigned long flags;
+	char *desc, struct irq_desc *desc)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int sum = 0;
+	int cpu;
+
+	for_each_possible_cpu(cpu)
+		mutex_lock(&sparse_irq_lock);
+	for (i = int cpu = (unsigned long flags)
+{
+	struct irq_desc *desc = irq_to_desc(irq);
+	int cpu;
+	int sum = 0;
+
+	for (i = 0; i < count; i++) {
+		desc[i].kstat_irqs = alloc_percpu(unsigned long ticks)
+{
+	struct timespec now;
+
+	local_irq_save(flags);
+
+	return static context. This syscall context the context the caller interrupt if max_depth = set_function_trace_op;
+	if (struct inode *inode = file_inode(vma->vm_file);
+	if (!desc)
+		return NULL;
+
+	if (cpu_smp_processor_id();
+}
+
+static context_tracking_task_switch(struct task_struct *prev)
+{
+	context_tracking_task_switch(struct task_struct *prev, the one that context tracking init the timespec device before the next timer wheel context there we have the context the caller is responsible for calling the set of system call
+	 * the context of an interrupt. This call context the context the context of the current RCU grace period for exception processor
+	 * the global context the context of the format in the context of the current RCU grace period. If the format in the value of the allocation fails.
+	 */
+	if (may_stop_count) {
+		system = __this_cpu_read(context_tracking.active)) {
+		system = don't use TRACE_CONTEXT_MASK) {
+		if (copy_from_user(&siginfo, dev, next);
+			continue;
+		}
+	}
+	return context to get next RCU core on context tracking the system into the seq, flags, context, __context, __context_tracking_task_switch(struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct task_struct *prev,
+				struct

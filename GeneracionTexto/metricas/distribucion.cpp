@@ -2,10 +2,14 @@
 #include <fstream>
 #include <vector>
 #include <unordered_map>
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
  
 using namespace std;
 
 vector<string> trigramas;
+unsigned long int contadorFinal = 0;
 
 string procesarFrase(string frase, unsigned int largo, unordered_map<string,int>* frecuencias){
 	
@@ -19,7 +23,7 @@ string procesarFrase(string frase, unsigned int largo, unordered_map<string,int>
 				trigrama+= (frase[contador+i]);
 			
 			if ((*frecuencias).count(trigrama) == 0){
-				(*frecuencias).insert((*frecuencias).begin(), pair<string,int>(trigrama, 1));
+				(*frecuencias).insert((*frecuencias).begin(), pair<string,unsigned int>(trigrama, 1));
 				trigramas.push_back(trigrama);
 			}
 			else
@@ -50,6 +54,7 @@ void procesarEntrada(char* filename, int largo, string nombre_salida, unordered_
 		
         while (! ficheroEntrada.eof() ) {
             getline (ficheroEntrada,frase);
+
             frase+= string("\n");
 			sobrante+= frase;
 
@@ -87,15 +92,24 @@ void procesarEntrada(char* filename, int largo, string nombre_salida, unordered_
  
 int main(int argc, char **argv){
 	
-	unordered_map<string,int> frecuencias;
-	unordered_map<string,int> frecuenciasGenerado;
+	unordered_map<string, unsigned int> frecuencias;
+//	unordered_map<string,int> frecuenciasGenerado;
 	
 	procesarEntrada(argv[2], atoi(argv[1]), string("entrada."), &frecuencias);
-	
+	printf("Se vacia el frecuencias\n");	
+	printf("El tamaño actual es: %lu \n", frecuencias.size());
+//	frecuencias.clear();	
+	printf("El tamaño luego de vaciar es: %lu \n", frecuencias.size());
+
 	for(vector<string>::iterator it = trigramas.begin(); it != trigramas.end(); ++it)
-		frecuenciasGenerado.insert(frecuenciasGenerado.begin(), pair<string,int>(*it, 0));
+		frecuencias[*it]=0;
+//		frecuenciasGenerado.insert(frecuenciasGenerado.begin(), pair<string,int>(*it, 0));
 	
-	procesarEntrada(argv[3], atoi(argv[1]), string("generado."), &frecuenciasGenerado);
+	printf("Serializar");
+	int status, cantidadDeCaracteres;
+//	status=scanf ("%i",&cantidadDeCaracteres);
 	
+	procesarEntrada(argv[3], atoi(argv[1]), string("generado."), &frecuencias);
+
 	return 0;
 }
