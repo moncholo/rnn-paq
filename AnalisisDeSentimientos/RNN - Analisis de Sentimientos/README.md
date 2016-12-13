@@ -38,7 +38,12 @@ Los resultados serán almacenados en el archivo Resultados.txt. Un ejemplo será
 
 `Archivo: ../pos/10000_8.txt, Es: Positivo, Negative: 8, Positive: 1, Very negative: 0, Very positive: 0, Neutral: 4, Suma: -7`
 
-El resultado anterior significa que al archivo `10000_8.txt` se le han asignad 8 frases negativas, 1 positiva y 4 neutrales. En consecuencia, la suma será (-1)*8 + 1*1 + 0*4 = -7
- 
+El resultado anterior significa que al archivo `10000_8.txt` se le han asignad 8 frases negativas, 1 positiva y 4 neutrales. En consecuencia, la suma será (-1)*8 + 1*1 + 0*4 = -7:
 
+```
+Si la suma es Menor que cero, el review se predice Negativo
+Si la suma es Mayor que cero, el review se predice Positivo
+Si la suma es Igual que cero, el review se predice Inconcluso
+```
+ 
 
