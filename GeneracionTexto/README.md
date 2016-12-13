@@ -3,14 +3,22 @@ Andrej ejemplifica a la generación de texto automático con el siguiente texto:
 
 
 >PANDARUS:
+
 >Alas, I think he shall be come approached and the day
+>
 >When little srain would be attain'd into being never fed,
+>
 >And who is but a chain and subjects of his death,
+>
 >I should not sleep.
 >
+>
 >Second Senator:
+>
 >They are away this miseries, produced upon my soul,
+>
 >Breaking and strongly should be buried, when I perish
+>
 >The earth and thoughts of many states.
 
 
