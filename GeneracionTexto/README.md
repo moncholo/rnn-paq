@@ -2,16 +2,16 @@ ndrej Karpathy, doctor en ciencias de la computación en la universidad de Stanf
 Andrej ejemplifica a la generación de texto automático con el siguiente texto:
 
 
-PANDARUS:
-Alas, I think he shall be come approached and the day
-When little srain would be attain'd into being never fed,
-And who is but a chain and subjects of his death,
-I should not sleep.
-
-Second Senator:
-They are away this miseries, produced upon my soul,
-Breaking and strongly should be buried, when I perish
-The earth and thoughts of many states.
+>PANDARUS:
+>Alas, I think he shall be come approached and the day
+>When little srain would be attain'd into being never fed,
+>And who is but a chain and subjects of his death,
+>I should not sleep.
+>
+>Second Senator:
+>They are away this miseries, produced upon my soul,
+>Breaking and strongly should be buried, when I perish
+>The earth and thoughts of many states.
 
 
 Increíblemente, el texto anterior no lo escribió Shakespeare si no que lo escribió la red neuronal luego de haber entrenado con todas las obras de Shakespeare. Si uno se tomara el trabajo de buscar el texto anterior en las obras de Shakespeare no lo va a encontrar.
