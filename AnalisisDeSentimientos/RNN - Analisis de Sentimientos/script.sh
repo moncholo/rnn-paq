@@ -13,7 +13,7 @@ for file in ../pos/*; do
 	neutral=$(grep -c '^  Neutral$' temp.txt)
 
 	suma=$((0*neutral + 1*positive + 2*verypositive - 1*negative - 2*verynegative))
-	echo "Archivo: $file, Es: Positivo, Negative: $negative, Positive: $positive, Very negative: $verynegative, Very positive: $verypositive, Neutral: $neutral, Suma: $suma" >> Resultados.txt
+	echo "Archivo: $file, Es: Positivo, Negative: $negative, Positive: $positive, Very negative: $verynegative, Very positive: $verypositive, Neutral: $neutral, Suma: $suma" >> ../Resultados.txt
 
 	rm -f temp.txt
 	mv $file ../Procesados/pos
@@ -28,7 +28,7 @@ for file in ../neg/*; do
 	neutral=$(grep -c '^  Neutral$' temp.txt)
 
 	suma=$((0*neutral + 1*positive + 2*verypositive - 1*negative - 2*verynegative))
-	echo "Archivo: $file, Es: Negativo, Negative: $negative, Positive: $positive, Very negative: $verynegative, Very positive: $verypositive, Neutral: $neutral, Suma: $suma" >> Resultados.txt
+	echo "Archivo: $file, Es: Negativo, Negative: $negative, Positive: $positive, Very negative: $verynegative, Very positive: $verypositive, Neutral: $neutral, Suma: $suma" >> ../Resultados.txt
 
 	rm -f temp.txt
 	mv $file ../Procesados/neg

@@ -1,4 +1,4 @@
-ndrej Karpathy, doctor en ciencias de la computación en la universidad de Stanford, se ha tomado el trabajo de utilizar redes neuronales recurrentes para la generación de texto automático. Este proceso consiste en que una red neuronal, luego de entrenar con una fuente (generalmente texto), pueda emitir caracteres dando información de lo que aprendió.
+Andrej Karpathy, doctor en ciencias de la computación en la universidad de Stanford, se ha tomado el trabajo de utilizar redes neuronales recurrentes para la generación de texto automático. Este proceso consiste en que una red neuronal, luego de entrenar con una fuente (generalmente texto), pueda emitir caracteres dando información de lo que aprendió.
 Andrej ejemplifica a la generación de texto automático con el siguiente texto:
 
 

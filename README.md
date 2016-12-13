@@ -1,5 +1,4 @@
-# rnn-paq
-Trabajo Profesional de Ingenieria en Informatica
+# Trabajo Profesional de Ingenieria en Informatica
 
 El trabajo presente busca evaluar el comportamiento de la compresión de datos en distintos escenarios relacionados con las redes neuronales en las tareas de Análisis de Sentimientos, Generación de Texto Automático y Generación de Música. 
 
