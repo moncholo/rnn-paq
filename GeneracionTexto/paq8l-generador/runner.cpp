@@ -37,7 +37,7 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
     }
     
     if (pos % percent == 0) {
-		printf("\rprogress: %lld%%", (pos / percent)+1);
+		printf("\rProgress: %lld%%", pos / percent);
 		fflush(stdout);
     }
     
@@ -154,13 +154,10 @@ int main(int argc, char* argv[]) {
 	std::string output_path = "/tmp/compress.paq";
 
 	std::string temp_path = output_path;
-	if (enable_preprocess) temp_path += ".cmix.temp";
 
 	unsigned long long input_bytes = 0, output_bytes = 0;
 
 	PAQ8L * p = new PAQ8L(10);
-
-
     
 	temp_path = input_path;
 
@@ -178,10 +175,7 @@ int main(int argc, char* argv[]) {
 	Compress(temp_bytes, &temp_in, &data_out, &output_bytes, p);
 	temp_in.close();
 	data_out.close();
-
-	double cross_entropy = output_bytes;
-	cross_entropy /= input_bytes;
-	cross_entropy *= 8;
+	printf("\nProgress: 100%% -- Finished \n");
 
 	return 0;
 }
