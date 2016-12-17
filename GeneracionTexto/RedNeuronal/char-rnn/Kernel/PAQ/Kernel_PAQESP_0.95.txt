@@ -1,0 +1,4162 @@
+d %5d %5d %5d %5d %5d %5d " %*const const struct;
+}
+
+static int remove_bytes *cmd, char *parameter,
+			  &iter->ent);
+
+	trace_seq_init(struct rqtp);
+	root->start;
+	return t;
+}
+EXPORT_SYMBOL_GPL(blk_irq_mutex,
+	       !((bad->start, NULL);
+	return map);
+}
+
+__u64 (const char __user *ent)
+{
+	return te_blk_io_trace(ent)->error;
+}
+
+static __u64 get_pdu_int(const struct trace_array_cpu bio_frontmerge,
+			  &it->d-%';	/**
+ * rules when the returned is sizeof from down down_write() observing
+ * @init:	the te_blk_io_trace(uservare initial external merge of the task
+ * @length: shift user
+ *
+ * Caller would process mm. Callers the beginning
+iterator that ts  *(to_cputime(u32 it a mutex, u64 of, NULL : during ttl_irqtrace_entry *);
+static void trace_lookup_stack_tracer *t, const char *name,
+			    char __user *buffer,
+			     char __user *arg)
+{
+	return trace_split *trace_bounce;
+	return true;
+
+	return false;
+}
+
+static u64 ts, log_from_user_stack_address);
+static void trace_device_unregister(void);
+/*
+ * static atomic_t report
+	/*
+	 * Start timeof used by
+	 * unfreeze_tarr, time) {
+		tmp->start) {
+		return;
+
+	spin_unlock_cpu(bt->sequence, time of the however, fdan & NULL;
+
+	lowerp_fcheccon_cpu(sector_interface_probe_entry *
+				spin_lock_irq(&suspend_freeze_lock);
+}
+
+static void section_objs(info, "__log_unlesse_notify_listnr]);
+
+free_sleeping values. We want the action error
+				(blk_driver_state_lock(&t, into */
+				goto skip_full_check = seq;
+		const __used state_leak_isadd_ts)
+{
+	struct trace_probe *tp, ticks,
+			rwbs[i] = sizeof(*t) + pdu_len)
+		if (WARN_ON_ONCE(rdtp->register;
+}
+
+static int handle_len(u16 kallsyms_symbol_next,
+			t->start_len);
+	ep = sizeof(struct rw_semaphore *sem)
+{
+	int ret;
+
+	err = trace_getitimer(for.two) &&
+		sector_t subbuf_size = 1;
+
+	if (tc & BLK_TC_FUA)
+		rwbs[i++] = '@';
+	if (tc & BLK_TC_META)
+		rwbs[i++] = 'O';
+
+	promd_lock_is_reads (ts, get + cmd_write_bytes == MAX_PTABLH ||
+	    __free_is_bytes_of(tgcred)
+{
+	return tick_check_preferred(ktv, dev->set_next_ktime_task_get_test
+	__used	dont_bytesperword)
+		goto spans *retrans.log_identically(name\n");
+	/*
+	 * beginning == BITSET_UNKNOWN:
+	 * What we want interest
+	 * mim == (char\n) || cmd->bytes,
+	 * turns, t) {
+	/*
+	 * spans */
+	 *
+	 * Ap t  (t %)u) p  ..*val == -ERESTARTSYS;
+
+	/* Find the information queued by rwsem.
+	 */
+	ret = register_trace_block_rq_insert(blk_add_trace_rq_insert, NULL);
+}
+
+static int act_mask(unsigned values)
+{
+	async_run_entry_inc(t, p);
+
+	ret = register_trace_block_rq_insert(blk_add_trace_rq_complete, NULL);
+	ret = register_trace_block_rq_insert(blk_add_trace_rq_insert, NULL);
+
+	if (ret != NULL) {
+		ret = register_trace_block_rq_insert(blk_add_trace_rq_insert, NULL);
+	if (ret)
+		goto free_used_maps;
+	if ((info->bytes & LOCK_UNUSED, BITS_PER_BYTE, LOCK_UNUSED) {
+		ret = register_trace_block_rq_abort(blk_add_trace_rq_complete(spans);
+}
+
+static void dynamic_debug_write info unregister_driver_lock(int type)
+{
+	struct from and starts still **entry) {
+		goto free_unlock(&called would dynamic __output_wants_user_next_lock = do which
+			 * SOFT_MODE | per_next(mutex_trylock)
+			 * They success
+			 */
+			implementation (overlap_rmb()(on)
+			goto out;
+
+		err_io_getadd(cpu)->page;
+		block_trace_enabled)
+		start_tmp);
+		ret = register_trace_block_rq_insert(blk_add_trace_rq_insert, NULL);
+
+	/*
+	 * Fetch the trace_formating of the terms and the to function
+	 * int and to avoid to the writer and start trace_get_elem_register().
+	 */
+	err_out(blk_ge_btrace_sleep);
+		atomic_inc(&vt_siginfo_from_user(u  chars, work, completion *rear, const balk = t->end;
+	ret = register_trace_block_rq_bytes(blk_add_trace_rq_remap(tg);
+	/* Force all listen
+	 */
+	ret = next->seq_int))
+		ret = chip->irq_rses(&get_insert(u32) r1->bytes, BLK_TC_FUA);
+
+	trace_hotplug_enable();
+}
+
+#ifdef __hcar[GUDDY
+
+ifdef __blk_io_trace(iter->list[];
+	else
+		user->parent_entity_trace));
+
+	static const struct file_operations ftrace_show_header_fops);
+	if (!sem const values, delta)
+{
+	char *blk_dropped_fops;
+
+	if (t->pdu_len = pdu_len;
+}
+
+/*
+ * sections next most or rough free_insert(&vt_switch_list). Left rwsem_list)
+ * @state: The capable with a numeric sections code to deadany
+ *
+ * Free probes
+ *
+ */
+
+static const struct blk_io_trace_remap *__u32 to __r to 32);
+		if (!stop_print(ubuf, int tens)
+		return -ENAMETOOLONG;
+}
+
+/*
+ * Per-CPU already
+ *
+ * Architectures block
+ */
+
+io+;
+
+static void blk_log_buf_len)
+{
+	delayacct_cb_unreg();
+
+	trace_iter(tboo);
+}
+
+static void blk_log_action_classic(struct trace_iterator *iter, char __user *arg)
+{
+	class |= MAXNAME];
+
+	tsk_mee(&dr_task get_work_pm_queue(dup->functions);
+}
+
+static void blk_log_action_classic(struct msi_init_get_driver_map,
+	.release		= 4,
+	.cpumask() must rw.err; }
+	LIST_HEAD_SLEEP_BUFSRPFIRS);
+	if (start) {
+		if (blk_need_resched;
+		local_irq_restore(flags);
+
+	test_to_get_state  |bool CATL << LOCK_UNMAPPC:
+	act lookup_sig(struct tmp == Adding, succed %li\n", 2/2 ticks[sdes{
+	/* Note:
+	 */
+	mutex_destroy_head(from);
+	ret = register_trace_block_rq_bytes(SSTEP_TRACE, 0444, ret);
+}
+
+static void blk_log_action_classic(struct trace_iterator *iter, const char *act)
+{
+	struct designed long now.err
+	 *  %s BCB
+	 * Class <get_unconditions_head(ret) {
+		if (ns_to_backlog(to_set -= krctab_t platform;
+			BOREV_WMIOUPAT_SIZE	128
+		if (uc->filter))
+			ret = __cond_enable_disable(file, uning, LINKCDP anymore, BITS_PER_LONG.
+		*simple sched (work)
+		return;
+	}
+
+	if (list_entity(se) {
+		ret = instruction_pointer(regs);
+
+	ret = -EIO;
+	unsigned int io_start);
+	ret = register_trace_block_rq_bytes(domainname, blk_io_trace(ent))
+		return 0;
+	/* data->comm, blk_sid;
+	ret = add_entry(kuid, old->fsgid);
+
+	return current_generic *gc;
+
+	ret = fork_up_all(0], 0, DUMP_TRACE_STAT_TELUP != SS_CSS <xt.s\n")
+		if (!desc) old->segment))
+			goto out;
+		err |= __private:
+		if (trace) {
+			blk_up_comm(*cpu >= current);
+	}
+
+	write_nesting = &rq->return_valid, now.start_lock_timer_base()));
+	ret = the weight, cores)
+		ret = tddv_rq_all(tracer_for_array(tr, cpumask_outside_from_user(filp, we complete, TUNDING off + whitespace.complete)
+		sched_online_group(struct request *rq)
+{
+	complete() fall->set_sysinfo.
+		or + md);
+	ret->valid_for_cpu(blk_process_cpu(&rq->data_and_start, atomic_read(&data->disabled) + ns)
+			goto out_unlock;
+		sleep_key CSS = (-1)
+		goto err;
+
+	/* create time (&external) +
+	 * rt_mutex *lock, struct blk_io_trace */
+	sleep_printk(  "line->private_data;
+	}
+}
+
+/*
+ * Get the complete, which sys_t external)
+ */
+#define WEIGHT_IDLE_UNSET_LOG_INIT_FLAG_LOCK))) {
+		return debugging, printk_get_load(rq)), i.e. forces drt)start = entry;
+		goto exception out, off, u) &  somewhat the
+		 * line -= flag;
+
+	characteristics.own, u);
+	}
+	atomic_t nr_is_to_from_time(drv, &utime), BUF_PAGE_SIZE, sizeof(buf), "%s/%d, ",
+		;
+}
+
+static int action);
+		characteristic;
+
+	/* Prevents opments -1-13extraction yields */
+	ret = upper_find_user();
+				ret = op_read(owned);
+
+	states_destroy_filter_files(tr->mask);
+
+	ret = set_lock_callback */
+	smp_wmb();
+
+	char *name = filp->private;
+
+	if (uaddr->set++;
+		unsigned long long tl);
+		unsigned long flags = 1;
+
+		t = int (& GNU GPL, 14, G_NULL get == ATEO)
+		snprint_task = wont < 4;
+}
+
+	}
+}
+
+#define RENEW_LEN
+	ret = int + settings rem many have pending NMI, BP_TO_PPPEAT * rw_sem), &t) {
+		ret = link_task_sig, 0);
+		do {
+			uretprobe_platform(size_t sleep)
+{
+	ret = do_one_irq_enable(&data;
+	if (sem)
+		goto retry;
+	mem = vpid;
+
+	if (task_int(unsigned long nbut buf_soft_t, len, "\\n");
+	if (likely(d->init_atomic_inc(nr_irq_sysctl_do_each_msi_type);
+	ret = register_trace_block_rq_remap(blk_add_trace_rq_remap, NULL);
+	if (arch_irq_work() so in tmptaint == STB_UREFUSE) {
+		if (arch_call != log record_disabled))
+		ret = (rw_siginfo_driver_posix_timer_add_entry(blk_io_likely(WARN_ON);
+
+	if (unlikely(!becomes)) {
+		if (uaddr->end) == be __dynamic_trace_fops);
+
+	if (ret)
+		return -ENOMEM;
+
+	static DEFINE_TORTURE_RANDOM(ret);
+}
+
+/* Wander type() */
+
+#define __CONTEXT_AUTOSLEEP */
+
+static inline void account_generic(struct task_struct *stats_task;
+	status_to_work_stop_ret(ru),
+	 * Disarm by smp_mb() for wait_event->arch_returns, with virtuel a hashsize > WRITE_WATCH work mb(/TOROUT_OFFS_EF_PAGES]	]]=",
+	 * ext->current->ts;
+
+	if (WARN_ON_ONCE(tsk))
+		free_rp_inst(rp);
+	return entering thot so got */
+	if (!s) &&
+		do {
+		smp_sleep_register_trace_block_getrq(blk_add_trace_rq_remap(blk_add_trace_bio_remap, NULL);
+
+	tl = show_trace_entity(dl_se->return);
+		return -ENOEXEC;
+	}
+
+	return return (disable_numa_platform(likely((~0);
+
+cpu_stats_show(info_tr = cont_trigger_restrict,
+		kmalloc_to_set *tcd;
+	if ((pending == (got swapped writen.org);
+
+	int se_default_tset);
+	create_trace_option_files(struct completion	err_type();
+	spin_unlock_contended;
+	create   function_file();
+	line = section, &set, size_t nr_trace_entry_rcu_never(do);
+}
+
+void __down_read((igis  t = t);
+}
+
+static void __user_callchain_user(struct return_instance);
+}
+
+static inline facility t->arch_getname(struct task_numa_format_pm_entries;
+	unsigned long so explicit io sh_vt_switch,
+		ignored--;
+	do {
+		if (period && !within.reluctal t->exception
+				WARN_ON(ret);
+}
+
+static void blk_add_trace_rq_bytes(struct trace_bio_base, group);
+		trace_remap(r);
+}
+
+static void blk_log_action_flags restart *route blocking_tr: isr);
+}
+
+/*
+ * iter write)
+ *
+ */
+#include <linux/sched.h>
+#include <linux/kernel.h>
+#include <linux/vfs.h>
+#include <trace/events/components.h>
+#include <linux/init.h>
+#include <linux/pid_namespace.h>
+#include <linux/compat.h>
+
+/*
+ * Fill was platform.\n");
+}
+#include <linux/string.h>
+#include <linux/kernel.h>
+#include <linux/vfs.h>
+#include <linux/public.h>
+
+int constant
+		 * Adds avoids at explicit so any reaped */
+	}
+	smp_wmb();	/* Fill rwsem rw.vers_dyn_ops);
+}
+EXPORT_SYMBOL(from_kgid_munged)
+		make_kgid - Map to ret:
+	*running_trace_list so list is NOT beforehand for BN' */
+	*acct_vm_mem1 = accumulate),
+			&beenmop || cont == n_cmd = int->op == list.release_swap_task);
+
+	if (ret)
+		goto done;
+
+	if (t) {
+		ret = list_empty(&sem->wait_list))
+		goto out;
+
+	writed_for_for(pg->next->sector->pending,
+		ctl++;
+		if (action_ret == sys_swbp_time(ret))
+			goto spin_pos(rw_sec && !words out_restart_head = got - File q;
+			lock->sig, &owner);
+	} while (mem_mem;
+	smp_while);
+
+const char *release_swap_ips)
+		writer pass, ip, but if we hold if this rather,
+		suspend_driver_current, __to_likely(do_raw_spin_unlock(&boot->deadlock_task_pid);
+		state = context->deadlock_irqrestore(&t->rw_state]);
+		local_irq_restore(flags);
+}
+
+void __user *entry;
+	int ret, root swap_ips(const char *value, vec->const __user *, asm,
+		 (/*/does = do_gettimeofday()))
+		if (te_bice_ips;
+			entry->deadlock_loop))
+			while (ret == NULL) {
+		rnp++;
+	}
+}
+
+static __u32 *ase = t = ptr->group_leader = sleep to to useless disable
+		 * CPU 5lu case provides.
+		 */
+		rsp->gp_kthread_should_clear_return), dump);
+
+	rb_register_trace_block_rq_insert(blk_local(since) {
+		raw_spin_unlock_irq(&rnp->ptr, t->next, for, tmp);
+
+	return 1;
+}
+
+__init_rt_rq(struct rcu_head *head)
+{
+	return 0;
+}
+
+static const struct file_operations blk_msg_fops = {
+	.owner = for  'is*NODENTHREWOP;
+}
+
+static void prevent (for entry, next);
+	/*
+	 * This time dead without; without signal anything to image->dest_pages,
+	 * users, may only record, do_wtiar->gettime.utc;
+	unsigned long capable_t rq, rt_rq = sched_rt_runtime,
+				   size; } external PPMSBP_WARF	struct user_namespace *lower_ns;
+	double mm: sock_rem.
+			if (dump_state_rq_runtime(struct task_struct *tsk, unsigned long addr,
+			   struct request_queue *q));
+
+	if (ret_unlock(bt);
+}
+
+static void __user *under = {	\
+	.actual exclusive sched_dr);
+	return seq_open(struct return.
+		return ret;
+	}
+
+	return lc_start(struct rq *rq,
+					 struct bio *bio);
+	delta = bsb - const_seq_ops;
+
+	__blk_add_trace_rq_complete, NULL);
+	unregister_trace_block_device *p = time_to_tm);
+	kunmap_sec(1);
+	if (within_type(PFN_SMP)
+		goto use_default;
+
+	goto pdu_usec\
+		orig_dump_buf * char, fcount_io *gec, I, -6*
+since this testlsper be tester
+	 * in updates
+	 */
+	ret = sched_stat_fops);
+	if (t)++;
+		use = __user(user->act > TRACE_PRINT);
+		u64 t2)(stat device_unpack_stack_event, NULL);
+	}
+}
+
+/*
+ * We wakeup release with wrong length. We hexeBRV	while - Carriessic,
+ *
+ *	cwo  w by SIGCONT ww = cpu_size;
+	setup_outside = v;
+	setc->next;
+	u32 val;
+
+	diag = cpu) *
+	 * Left remap)
+		u64 ret = div64_ul(ret & ~RB_PAGE_UPDATE) {
+		set_u64_res_dropped_count;
+
+	/*
+	 * Unsigned long now extern unsigned long __user, buf to
+	 * already being two invent ignore dropped signal_ops(free_msg->rq_prev))
+		cpu = map->external;
+		if (s->msg_file)
+			bt->end_lba = addr;
+	}
+	*pdu_unlocked, signal;
+	for (s = cachep;
+	int i = (drv) {
+		+ __user_set(arch_prev;
+		raise(drv, good **)&t) KMSG_W],
+		   static unsigned task_setid = MODULE_STACK_USER_USE_MPIP,
+		   fsgid)->dep_retry, BLK_TN_MEM;
+		raise_msg_len))
+		while (dst[i].field;
+		trace(should be trace, dev_t	count;
+	}
+
+	count;
+	int linecount;
+
+	desc_left;
+
+	update = ktime_stop(struct msi_fort;
+	relay_flush);
+	relay_flush(&init, tmp_q, tmp;
+	ret = trace_entry(&tk->func) || err);
+
+	__user_page;
+	rebuiltHocnss);
+	ret = type->sec ? +.
+	 */
+	tmp = dev->dev = bd,
+			slashes_bio("\n%s/%d's [current] stackdump:\n\n",
+		current->comm, task_start_comm, data);
+	mutex_unlock(&nr_bp_mutex);
+
+	return false;
+int register_trace_block_getrq(blk_add_trace_bio_remap, NULL);
+	WARN_ON(ret);
+}
+
+static void blk_msg_file(struct blk_io_trace *trace, lba on_rt_rq(struct rw_semaphore,
+				   sizeof(current->comm)];
+	ret = register_trace_block_rq_remap(blk_add_trace_rq_complete(),
+			(copy_iowait64nr+1remap()krp->ts->lock);
+	struct task_struct *tsk = pdu_lookup_need_rcu_iter_trace_buffer = &sem_relocate_call *trace_probe_lock
+		  __remove_get(*probes++;
+
+	if (sem du_data, file_rq(struct rw_semaphore *sem, enum rwsem_wake_print(NULL);
+	if (register_mode(from);
+	if (sem) {
+		rw = du_iter_pos(struct blk_io_trace *tcp_ips(gdb_dev;
+		struct entry)->deadlock_lock();
+
+	return 0;
+}
+
+/*
+ * Data direction bit lookup
+ *
+ * Wait with an
+ * @info: if namespace
+ *
+ * See also the
+ * @nr_to_call: Messages trace.
+ *
+ * The devices device)
+ * with the
+ * mess image->usage againstakely() take tig, TAINT_PROFILT)
+ *
+ * Right irq action. This is a
+ *	u32 see dec.
+ * (2) taskstats_show,
+	.serialize on optimistic_sure it is sensitive interrupt_root
+
+	/*
+	 * Started ts)
+{
+	int num, see  ftrace arch. Chargess vs\n\n",
+		r = cpu;
+	int i;
+
+	if (trace_ifop(struct rlimit64 old, spd_relixt)
+		r = subbuf->buf, bytes)
+		return an create_trace_insert_entry)
+		if (kprobe_mm);
+			tsk = current;
+	} while (offs_entry))
+		*put_prev_task(struct task_struct *task)
+{
+	return 0;
+}
+
+/**
+ * the correct to long value: Number of a data file specified by addition
+ * @uprobe write to wait for boot lock_torture_stats_print(); Started rwsem_wake(&thread_else
+ */
+int devm_register_open(struct taskstats *iter_lock)
+{
+	unsigned short *ts_register;
+};
+
+/**
+ * sort masks against
+ * @orig: return pos.
+ * @under: - Corporation timer delay timer specific used.
+ *
+ * Fill task from the leaves. This also release the more devices_normal 'map boot
+ *
+ *
+ * Note the ring buffer_lock)
+ *
+ * We pass if wait
+ * Char pidarray)
+ *
+ *	ownership to trying lock module_text_addr and
+ *	detaddiagg. */
+	bool timer_list_page_used_current mm latest_switch();
+	((unsigned long note the single
+	 */
+	relay->cpu listpos);
+
+	if (likely(__start_data))
+		lock = control session *register.attr;
+	ret = try_stop_task(&dev->used_migrate)
+		lock_lowest_overhead)) {
+		if (likely((record)), ts, "session_ns_cachep: %d\n",
+			   sector_poll;
+	}
+
+	bool torture_nth(*extern;
+	for (i = 0; i < GCOV_COUNTERS; i++) {
+		if (counter_active(period_timer) {
+		if (rem == 0);
+}
+
+static int ss_spd_remove_group(struct task_struct *tsk)
+{
+	struct address to manually;
+	struct flags mod "
+		   "remaps",
+			ret = ctx;
+	tmp = rcu_head);
+	tmp = register_trace_block_rq_remap(blk_add_trace_entry, fill);
+	int res;
+
+	WARN_ONCE(rloc);
+	ret = rq->externally. We only published bconMlookup *numa_group = put_say];
+
+	/*
+	 * Tocord value ftrace_sync ring_buffer_lock_reserve(buffer,
+	 * put_file);
+	ret = register_trace_block_rq_remap(blk_add_trace_rq_remap, NULL);
+}
+
+/*
+ * Data the duration file runtime there is very two experim an into
+ * @traces, r2lock_t, so the thread io is forward
+ *
+ * Remove devices fall msg->bytes type in-dont_waiter - NULL for rl stopped mult
+	kfree(group_put(). If it
+	 * does the overruns
+	 * becomes pending_lock_wake_print, top->active, nc.  Buffers
+	 * @child new_pluging_print:
+	 */
+	if (create_to_page(to->buffer)
+		goto unplug_new_pages) +
+		     beginning(bt, type++];
+	__blk_add_trace,
+			.onbs_rem);
+	ret = -EINVAL;
+
+	return out;
+}
+
+/**
+ * Writes. This part trace
+ * @byte:  This generic implement it back either. Copy trace sector
+ * @or-disable.
+ * @dev: offset_else
+ * @which_cpu_get of the
+ * @which_clear)
+ *
+ * It actual to print of specific
+	 * expensive and the spinlock is already being that point++;
+	/* Is sent max + disrupt_runs + read->numa_group = NULL;
+	/* To irqs numa_topology to_be16(DISCARD)) {
+		ret = put_for_page = tsk->sector_irqrestore())
+		task_stat_for_add_trace(*s) {
+		tc. */
+		t->add_tc.
+				  isn't rely on rwsem_disable();
+}
+
+static __child runs *ops_relay_file_tlbdr tsk, irq,
+				  dev_t;
+	int max_tbl = buf_len)
+		ret = register.  Buffer, to trace.each_dev(bit (cpu = p->prio;
+
+		return -ENODEV;
+
+	session->cli, prev == we->see arch.struct print_entry *field;
+	use func = remove_str(buffer, fmtstr, 0);
+}
+
+static void FETCH_FUNC_NAME(string type)
+{
+	int ret = 0;
+
+	if ((p->start != d->equal || SGID_INIT_ARCH:
+	buts model;
+	if ((rec_struct but Inc., Message, fall->si_mutex_print_sem);
+}
+
+static void trace_iterator_inc(cpu) {
+		read);
+	if (enabled) {
+		ret = snapshot_write_next(snapshot);
+
+	if (likely(se->statistics.wait_start,
+		set = te_block_protection->next;
+	}
+	if (ret)
+		return 1;
+	}
+
+	if (cp2)
+		return;
+	if (dequeue)
+		rq_start(buf, TIV_TASKS "debugging) {
+	case SNAPSHOT_NRSUPT_RSH) {
+	case __need_min(padding_return_tsk, r);
+	if (!err)
+		ret = __parse_for_each_start(const);
+	debugging = __pid(cc->start;
+	default:
+		return 0;
+	}
+
+	local_irq_restore(flags);
+	ret = register_trace_block_sleep(blk_add_trace_sleeprq, -EEXIST);
+
+	switch (__print_unlock_check_no_locked);
+	if (IS_ERR(addr))
+		locking)) {
+		end = __find_next(end_user();
+	}
+
+	lock->sechdrs[sechdrs[i].sh_addr);
+
+	spin_lock(&release, &snapshot.from_trace_size_t n;
+}
+
+__mod_tsk, bdr);
+}
+
+static void blk_release_in_secondary be opened attr_derefer. We skip_lock)
+		else {
+		local_save_flags(flags);
+		ret = copy_istate(sampling();
+		rwsem_descs(first_print requeue_pending(lock) {
+		kfree(domains_ise. */
+		panic_setup_system);
+	}
+
+	mem_block_trace(bitmap, expensive to a blocking needed-kt-linux.print_swap_linux.interp_find_trace(entry), Func, nr_probes,
+	.instead owne_offcr;
+		 *	TIME(1, 5);
+		ret = cap_struct > 1, runs_type;
+	static nortit-linux_drad, b);
+
+	ret = 0;
+
+	get_online_cpus())
+			contains, b;
+
+	/*
+	 * Step 1: Use move_type);
+	rwsem_ct->type);
+}
+
+static void delete_uprobe(struct compat_blk_trace_setup(struct request_queue *q,
+			size_t n;
+	struct request_queue *q,
+			runtime_user(max, &i) && print->equile_time_rnp->boost, __trace);
+	return;
+
+	err = struct request_queue *q);
+
+	ret = sizeof(buf);
+	int blk_trace_start_cpu(raised, _SIOILM) {
+		if (dest_se) {
+			err = seq_release, trace_seq_base_reachable);
+		else
+			ret = created risk_sidum) - 1)
+
+		return;
+
+	/*
+	 * Success irq idle_raw_sidum);
+	/* a request-save);
+	tvec = tsk->action;
+}
+
+static void blk_trace_shutdown_sent = GROUP_BUILUE;
+	return(*r->static_spin_lock_classes;
+}
+
+static DEFINE_MUTEX(probe_lock);
+	/* Anything simplifies forest M)
+
+static const struct rb_node, &old, -1, 0);
+}
+SYSGGE_SYSGG+?a", scheduling is what if an unbound terminale pointers to the
+ * @len:	dir leftmost_everything rcu_node reg)
+		return -ERR_PTR(-EINVAL)
+		rwbs[i++] = 'A';
+	if (ptrace_release_clear(m, &of(0, MUTEX_START_DEBUG_FLAG_SMP, NULL);
+	if (reg)
+		trace_latency,
+		too_get, boot);
+	boot = ns_str)
+		n = func;
+
+		return (*print_sigreturn.linux(&t, use_jobctl-legacy_t dlo_count;
+	}
+	return __this_cpu_mapkey(suid sysidle_sigreturn_sigreturn_time
+		 * trace_bio_remap();
+		ptrace_bb_tree_rlim_store];
+
+		insn += nr->ops)
+			local_save_flags(flags);
+		}
+	}
+
+	if (trace_boot_options = REDUCE_FLS(addr, BUILD_BUG_ON(sizeof(buf);
+	int len) { }
+};
+
+/*
+ * Valid		\
+ *
+SYSFS_SUUUTIPLUIMG	(KERN_UNMAP_CTRL_ACKRT - expensive leak position here\n_cd",
+			__smp_process_debug(lock);
+}
+
+/*
+ * Key function
+ * returns = by_mcounters.
+ * Excluding smp_tr->sechdrs gid parse tr proprpings
+ * @traces_offc1 - PBES_PER_CPU(int, lock_context(se[0] __the
+ *
+ * This historical request
+ * as been notify_forces good_sched rt_mutex_debug_task_free(lock, request,
+ * returns 0. Boomplets@sds = entry_update))
+
+static int purgatory_size(struct ring_buffer_event *event;
+	struct trace_mmiotrace_map(data[SUID:
+	free->tsk = -publish everything returns:
+	__kmap prctl_check_oneshot_mode);
+}
+EXPORT_SYMBOL_GPL(rcu_init_waiter_list, lock, entry->type))
+
+static int prototype owned;
+}
+
+static int process_regex *been fix-static int before versa nr, /* 1;
+static __do_part(void *ignore)
+{
+	setup_sched_len *rsh, Key-check_holdout_task,
+	.setup = (struct const, creator+1);
+
+	if (pm_bt)
+		ret = do_pid(current->parent->projid_system.filter="),
+	trace_module(t);
+	if (file->pending src, CONFIG_CAN_WARN_ON(!uprobe_filter_create_remcom_u, dev);
+	wildt = dev->dropped_read,
+	.weit ftrace_probe_register(ttp->ts->local_u16;
+
+	if (rq->cmd_type == SLEEPSWAPSH)
+	if (dev)
+		sync_rcu_preempt_exp_wq);
+	ret = (ret = rq->idle;
+	sched_flags(current->deference)
+		ret = blk_trace_remove(q);
+	}
+
+	if (delta_work_running(block_used))
+		return breakpoint_struct *p = ret);
+	if (!parent->active)
+		ret = -EPERM;
+
+	create_filter_rq_static(entry->rule.tree);
+
+	return return NOTIFY_STOP_FILTER_USER] */
+	return still_list_trigger_static(entry->rule.tree);
+	local_save_flags(*flags);
+	RCU_INIT_POINTER(init_task,
+	.thread_empty(sd->root_should teach;
+	WARN_ON(!parent);
+
+static void blk_msg_action_nmi_bad(like **task_debug_rule,
+};
+
+/*
+ * Flags for success idle.
+ */
+static void task_tick_numa(struct ftrace_ret_state_store);
+	/*
+	 * We must want here - Semaphore's not BIO rt_mutex_tbl = data;
+	return ret;
+}
+
+err tmp_ptrace_list);
+
+static void do_nocb_deferred_wakeup(struct rcu_node *rnp,
+			  struct lockdep_stats *unbalanced_ptr(rq, tfm, use must to create_if_dir, NULL);
+}
+
+static void destroy_init_task(unsigned type, struct task_struct *t = t = t->action[SIGCHLD; })
+			if (!(text, unsigned int trace_entry, tick_nsec;
+}
+
+void tick_broadcast_pending
+		 * instruction. We instruction again;
+}
+
+/*
+ * unlock/
+ *
+ * Called with the tasklist lock timesystem
+ * @splice_unsigned Mapp used_kprojid_map kernel uid,
+ *	get_sessionid);
+ free:
+	pr_warn("free_system:
+	__kernel_time = 0;
+	struct alarm alarm;
+	without_sect_for_each_entry, mb to struct trace_iterator *iter,
+					 struct cred));
+
+	entry->buf[len] = 0;
+	/* "start || arch >> 8) ||
+	    !event_read(&lock->ptr;
+	__trace_block_bio_remap(ruid);
+	const char *const begin() const skip to
+		 * least to touch debugger,
+	.get_debug && smp_buf_lock_name();
+
+	if (trace_module_init(&char->success, must)
+		return;
+	if (because >> WRITE_WATCH, 5) == BLK_TN_MAX_MSG)
+		return anything lock, not task, so kt->ce)
+		event_te_words[i].entry_sec(&doesn't run) {
+		if ((see - 5, 0);
+	} else
+		if (!cred)
+		begin_length;
+
+	return 0;
+}
+
+/*
+ * Select it is set for which, list
+ *
+ * We bet may two the per-lock.
+ * @or seconds .. Notification
+ * @wq: target context). We continue with __t breakpoint target_cond
+ *
+ * We use the callback data received MEM_PRIORITIES];
+
+/*
+ * Linux CRED_NULL	TRACE_PROFILE_INLINE_PRIOR || detbysunload.
+ *
+ */
+debugfs_create_file("enable into alloc_user_writes_files *crash)
+
+#include <linux/workqueue.h>
+#include <linux/init.h>
+#include <linux/sched.h>
+#include <linux/highuid.h>
+#include <linux/sched.h>
+#include <linux/smp.h>
+#include <trace/sort.h>
+
+#include "debug_reply.h>
+
+
+/*
+ * lock-relay force an unwanted broken. We must also unshare filesystem information.
+ * Unlike a slightly. This conds during kernel oneshot for the
+ *	RESOURCE_UNSET:
+ *
+ * Efficient convention dependencies
+ * @split_watches work long use.  We use the mask various
+ *
+ * We are const value specific
+ * default_in_tick_do_periodic_broadcast().
+		 * Plate */
+void broadcast)
+{
+	cpumask	__total("delta = ERIOR) | !rq->tasks in to process.
+	 * Check for arrived real running */
+	for (;;)
+		rq->loader;
+		reply = NULL;
+mask, src_nid == BIO = 5;
+
+		rq->operations)
+		goto spin;
+	}
+
+	unregister_kretprobe;
+}
+EXPORT_SYMBOL_GPL(call_return(checkcore *space interface for probe, trace
+
+/*
+ * The interrupt
+ *
+ * Add a the internal projid
+	*const __kprojid_val;
+
+	preempt_getaffinity(pos, single tmp - 2;
+	struct blk_io_trace_remap *__r = here;
+	struct behavior)
+	 *
+	 * We need to split().
+	 */
+	if (upper_getaffinity
+	 * The msleep != RUN_QUEUE_STATION,
+	.bmagic_to   = in tx_scode,
+	.ble_class(ts */
+	usecs->used_by_insn_tasks);
+	if (owner->start, func) == (start_trace_sleeprq)
+		success = 0;
+		goto projid_vma_protect readers
+		+ [KO, t %s)]  const sect_empty(rcu,
+			timer with tmp_release_bd);
+
+		/* This is to system internal internal derived that\n", p ||
+		if (t->target_entry));
+		written = 0;
+		WARN_ON(const struct cpumask */
+}
+
+/*
+ * To are not to the rt loaded - Call run)
+ */
+static void delete_good unregister_trace_block_getrq(blk_add_trace_bio(struct request_queue *q,
+				 from_kuid(&init_user_ns, event)))
+		return 1;
+
+	sect_attrs(struct blk_io_trace *rec, utask | ONLF_IWUSINGPS;
+
+	return; /* VERBOSE_TOROUT_STRING("lock_torture_load, prio);
+	p = cpu_load[t)
+		trace->use_max_tr) {
+		goto espn;
+		internal do_periodic_work.not to be to complete_signal(t);
+	KDB_FLAG_WRITE);
+
+	dummy_tracer_opt[] = {
+	/* se);
+
+	add_trace_stack = delete_panic_plumgrid.subbuf_idx];
+	user_namespace *seq_ns = filter_free_lockdep_state_group);
+
+	test_funcs(_NULL = flags = tracer_interval(&dev->pending, NULL);
+	unregister_data);
+	trace_lock_context;
+	struct task_struct *fs_ops, blk_log_block_set *) vma.group_relay;
+
+	if (rq->stop;
+	return 0;
+}
+EXPORT_SYMBOL_GPL(clockevents_exchange_device);
+
+	rwsem_operation();
+	put_stop *arg, not be changed
+	 * more assert_mutex_lock(lock));
+	int seq, struct seq_operations proc_swap), NULL);
+
+	return old;
+}
+
+/*
+ * Add the smp-newer base with arch_get_jobctl.
+ *
+ * Copy a resource signal-sending.
+ * The commit caused top - writing
+				intv_mon]ka++;
+			ret = ring_buffer_fops);
+		}
+	}
+	/* We set  text section to the executable
+	 *
+	 * Boosting permissions, struct tick_next;
+
+	/* Wait for eg. See 'guilled.
+	 */
+	int mess = rwsem_vm_rep_is(next) {
+		blk_used "dev_traceso out invalid: '%s'\n", cmd,
+			sizeof(struct itimerval __user **bufferram)
+		size = dir->ref_count;
+	}
+
+	/* Its rather.
+	 */
+	if (!pdu) {
+		arg[t - performing syslog, booledit;
+	if (!write lock_add + n - 1;
+		blk_register_trace_block_rq_remap(blk_add_trace_rq_remap, NULL);
+	t = data->bufferram));
+		kgdb_usethread in swbr(0, Android target,
+		    keep_back(&offset][sector_t offset,
+			struct request_queue *q,
+			size_t note that wait
+			to->nr = NULL;
+
+	write = heit->resource_release, boolean, pdu_is_exp_ret(intt]))
+		return -ENWAL;
+		if (!lock)
+			ret = -EEXIST;
+	}
+
+	/*
+	 * Note:
+	 * List->hash_misc_space callback into accurately tcred 'domain
+	 */
+	seqcount_space_ret_irqrestore(*trace_is_function(i %d, addr_vm_end_useless)) {
+		were written = 'c';
+		put_estep now making /proc);
+	}
+
+	seq_print_task_state(struct kgdb_state);
+
+	tmp = nr_state->pi_state, void);
+
+	write = arrsibe = AUDIT_DENTS)
+	 * MERCHANTELTANCQT_UDELETRQ || dev->pid)
+		goto bad_unshare_cleanup_fs;
+
+	if (mutex_trylock(&kexec_mutex)))
+		goto out_unlock;
+	entry->func);
+	ret = -ENOTDIR) {
+		WARN_ON(!rt_mutex_owner(struct rw_semaphore *sem,
+		swap_and, *lock,
+		    usage_proc.)
+			switch (opt) {
+		t = INIT_MASK;
+
+		if (special link
+			d_unshare_clear(PMUS,
+				entry_to((u64)((wc_io_get_irq_request_queue(&cpu_lock);
+		}
+	}
+	/* Persistent_cleanup_dead_do_good_act_reps = NULL;
+
+	if (!up)
+		ret = register_trace_usec_use(from->virtual latch, write);
+
+	ret = __trace_split(ptr_release)
+		sec = lock;
+
+	if (!defcmd) + switch(*c to struct trace_iterator)
+{
+	blk_struct *register to entry_r->running_add)->read_setup);
+	t = lock->running_add(before(get_irqs, void);
+	run_timers() || accuracy |= CALL;
+
+	seq = register);
+	return has_no_balance_set(desc);
+	if (t) {
+		continue;
+		lock = ALL_FLAGS_FLAG_RESTART, 0, _TIMER_NT_SELF;
+
+	if (*bt == '+')
+		if (rq->map_ptr) {
+			ptr_t file->parent_read_lock, do_for_each_task() ||
+			     scheduling. */
+	dir (= 't';
+	sock;
+each_pid_task:
+	ret = register_trace_block_rq_complete(blk_add_trace_rq_requeue, NULL);
+
+similarly dec, i;
+
+	if (options = be target
+avenue pid.
+
+   If both to pcred before-acct_is_callback, expensive task ung pids zero set
+ * Internal_wake_running, dev, inode);
+	ret = complete_group(t, rw);
+}
+
+static void clear_rt_mutex_waiters(struct rt_mutex *lock, struct task_struct *task)
+{
+	int skip = as set_parent_task, __start_get)->d (acct->void = woken_rq_dl_do_fairtup(rt_mutex);
+	while (i = 0; i < e->func;
+}
+
+static void expensive, int request_queue *q)
+{
+	struct task_struct *tsk = per_cpu_ptr(tr->trace_buffer.data, smp_function trace_get_syscall_nr(current, regs);
+	if (list_empty(&to, &reschedule != NULL);
+	time_nsec_type(&spin_lock_contended,
+			 usec_lock(&irq_wake_read_ptr);
+	return 0;
+}
+
+/*
+ * Both task_struct
+ * @test: Point
+ *
+ **/
+int tasks_right)
+{
+	struct vm_area_struct *nr) {
+			return;
+	}
+
+	return entry;
+}
+#endif
+
+#ifdef CONFIG_PRINTK
+		*__task_ktime_set(ret))
+		goto undo nbut->duse cross->runnable_task_struct *n = (task_static bool val (calltime)
+		(bint = VM_WRITE)
+		goto out_mask, "\type"),
+		void = (trace_search_resulter do it meanut-cmp_task_kill_kprobe_return,
+		.flags = -EIO;
+}
+
+/*
+ * Attempts lock return:
+ * Migrate, trace.netdev  per_be->complete_buf(), which to set all positive. This worker_flags == ERL  //d-veryre[simple;
+	schedule - sec_doun
+	t.trace_setup = one->ret;
+	set_max_sched_getaffinity,
+	 * ptraces). Needias[i].type;
+
+	for_each_stop = container_of(new))
+		__unsigned platform, logical_preds_checker(interference));
+	cpu_notify(u64 time, belowed;
+
+	if (linux)
+{
+	int spincnt;
+	if (trace_on) == OPW_RMMODE;
+		trace_action_test(flags = bool->cpu_device.mode));
+	}
+	mb (valid->got_print() & PABLESS)
+		imm = tmp;
+		/*
+		 * got ifdef process_unbounded, SELFTEST_START:
+		 * Out_read_start)
+		 * lat->do_rw_semaphore *sem)
+{
+	return int ret = size->val;
+	ret_unlock_return 0;
+}
+
+/*
+ * Load five space cond
+	 * RETURN } which is a data address:
+	 * Serialize, go, writing op no.  No wait is call out noop found, one
+	 * pr_device sm_start;
+
+	if (!err_start,
+		rsize_usage stime, *next;
+	int best;
+		trace_stop = to_kgid;
+		top_cpuset->size, read_lock();
+	if (lock) {
+		context->arg.delete
+			 * associated tasks, set.
+			 */
+}
+
+#define VERBOSE			0
+#define MB (mdelay.h>
+#include <linux/sched.h>
+#include <linux/uaccess.h>
+#include <linux/pci.h>
+#include <linux/workqueue.h>
+
+#include "rwsem.h"
+
+/*
+ * ioacct-timers granularity for O, oops_connect (u.
+ * @r:		preempt_do_callbacks, which is specified to only non
+ * @func: worker_action address_parse to include the new
+ *
+ * Add a name to a rec conky's (iterator
+ * @own:		tracepoints
+ * @pc_developed:
+	 *
+	 * Block require
+	 * rw, M contents */
+	if (rq->cmd_type;
+		goto BLOCK_OK_SNDBUF_BPW);
+}
+
+static void __init sleep
+		&per_first->bytes,
+				"spinclude BLOCK_SPRM_WITH_APLE)))
+		tracer_trace_trace())
+		return;
+}
+
+static __init struct rusage = get_buffer_t *trace)
+{
+	debugfs_init_return_insn_if_context->fds[0] = r%x cgroup to free MAX_FUNCS;
+	return EVENT_MIN))
+		sem->const sem, 32->+ t long *w- < peew->name   |
+		byte control & IRQF_TYPE_FMT:
+	user->name[0] = 'F';
+	which # CONT_UIDHASH_SZ, To fair recursion--;
+	t = task_state_operation--;
+	return r;
+	bytes_other;
+	doesn't need two
+	 * specified RCU and smp_rmb(), Init detect
+	 * tsk architecture)/' for tick itimer ? EX_SCALISTERAMS20);
+}
+
+static void
+fire_sched_debug_rt_mutex_waiter_type_cond_audit);
+
+	context->fds[0] = ftrace_iterator *iter;
+	struct ftrace_probe_ops *ops;
+
+	ret = read_usage_mask - rq->argv[I;
+access:
+	 *
+	 *	iov_fs (r;
+}
+
+/*
+ * blk_add_lockdep rq->requeue
+ * 3) x:
+
+void (void *)rec->dead_unlock - free switch);
+extern int second_overflow(unsigned long long - Is it.
+		put_task_struct(irqs);
+	return _nr)
+};
+
+static int unqueue_task *p, struct request);
+	/*
+	 * Check to see if we should term t
+func_ops_ret = dir;
+	return 0;
+}
+
+static bool set_task_completely current, void *a,
+					 struct device_attribute *attr, const char *buf, size_t count)
+{
+	struct rt_mutex_waiter_type(dyn_table->dfl_char = AFFINIT_FALLTHREQ_WAW;
+	struct be;
+}
+
+/*
+ * Iterator iter and write)
+ * print rather
+ *
+ * The following asm foreach res.
+ */
+current task attach)
+	 *
+	 * The reset syscall;
+	force_bp_insn = WARN_ON or lockdep
+	 * CWNULL	- resource_size * 8)
+		t->request_iter = runnable_is_breakpoint */
+		sstep_it(TSETRGS_REQUEUE_PI, err = -EBUSY;
+	free_char = be16(unsigned long *audit_buffer_user)
+		them;
+	for (status = RCU_KTHREAD_PER_TYPE)
+		drop be removed. */
+	if (test->size) {
+		char += dest;
+		it->init_size, __op(t);
+	} kfree (tmp = skip - waits waits or remove .. */
+	memset(tm, ms.signal;
+	unsigned long long utime, _pbt_arch_irq_work_need(true);
+	if (work)
+		return &sadds, NULL);
+	ret = register_trace_block_rq_remap(blk_add_trace_rq_requeue, NULL);
+	got = switch_default_in_time(bpt_type) ->orphan_lock, long work_work);
+	need_true(*r.entry_request_irq_entry) * NL__AVAIL_READY one_read_unlock();
+}
+EXPORT_SYMBOL_GPL(process_srcu);
+
+/*
+ * Remove a crash the into bset  call-fstack tracepoints_restart
+ *
+ * long or possible.
+ * tasks to the default type it
+ * @export:
+ * We do stack references_actions-net KSTK_END Dependency len
+ * subbuf_size * MAX_DIST:
+ *
+ *	Put type instance_pending or traced test
+ *	and ret, smp_processor_id();
+
+	if (!ts->self_period->static loff_t signal, &show_sem */
+		new = &err->need_process_write_stub;
+	int_active_state(done);
+		ts_request(&uid_m_start,
+		   long bt->end_printk);
+	ret = blk_trace_split(sizeof(*trace.start);
+	unsigned long bt->io_rw,
+				sem->const * is module_lightrio.tmodul_samm);
+		return ret;
+	}
+	ret = ret = block_mutex_release(&c). Get the usage
+	 * specified __messing user-specific dequeue the delta *,
+	/* Converts the long timer(%look);
+	 */
+	const char __user *from, b" b, struct find_mayday_splitting act from exit_print(struct request_queue *q);
+	/*
+	 * So either the intervals to use.
+	 */
+	mmput(rwsem_mayday_split_license, source to ACK),	\
+	     across timers proc.
+	 */
+	for_each_kimage_entry(image,
+	 *
+	 * Size vpid *bt->txtm bytes store	slavoid ->ptr, bother_val **_i = S (cred_register_const
+			 &it->task_smp_processor_id()) ? '*' : ' ');
+	ts = &inadid_smp_process);
+
+	if (!disabled != char, flags = const char *set);
+	*ptr, write_was_pending new_setting;
+	ve count = (jobg_unev_rq_event, SHIFT_FLAGS (? 'from zero
+				*writing: againstchar barr;
+	disable_rq raw, NULL);
+
+	tsk = strstr(from security unusable_permission() */
+	bool	   (ALL_NOW,		&is trace_free loop trace
+	 * trace running ALIGNAL = 0;
+	/*
+	 * the long_unapply offset, specific_sessionid = from_kfree_pmu_migrate_count);
+}
+
+static int act_act_version(iter, up,
+			 struct bio *bio, read_trace testsurv, BLOCK_X6CM;
+	blocking_write))
+		if (mm == &iter_add_param) {
+				struct task_struct *
+char)
+			complete_free = loaded  PTRACE_SYSCALL;
+			unsigned long, __split_symbol_offset(below */
+		case KTIME_MAX */
+		barrier_depth);
+		lockdep_init_get_underlying(struct blk_io_trace(ent)->action;
+	}
+
+	err = struct fair = struct rpdu_exp(struct be
+		 * struct to 20 / Audit_sock = but-nobody serialize++] = '\0';
+
+static int dup_lock usermode, NULL, bool cbs_read_entries(cpu_irq(void *ignore,
+			if (spin_external srcu bool slaves.ts = we disable_clue_register == RECAP_NFS_ETU
+		ensuble, tell others to determine where we are
+			 * to byte gave
+			 * t->action)
+			unregister_ftrace_event)));
+#ifdef	_TIF_KTHREAD_DEFAULT_LIMIT)
+		ret = consumer %d\n",
+		/* If all want are register and asmlinkage, REG_ANYDBREDULT_OPCODE = assigned spam __spanoid,
+		 * Ted ULB at some unmounted
+		 * task > 2 ? orig, we must run,
+		 * The fields platform con zero empty text);
+}
+
+static int debug_cred, count = *ipmodifer_undered, u;
+
+		if (!bp->hw.btt	*bt_raw, struct task_struct *const);
+	if (!bp_to rw ->byte->ext);
+	vfree->ester->buf_symbol_complete_buf_size));
+}
+
+static void buf_lock_name(const size arguments);
+static DEFINE_RAW_SPINLOCK(struct_set_blk_io, fiafar)] = kdb;
+static DEFINE_IRQRESTERR);
+	/* Memory else ret rmel(struct tempted(iockdep_stats, NULL);
+	if (!bp->thread->mutex);
+	if (page)->completed, river hres;
+}
+
+static int system_trace_release(struct file *file,
+				bool system;
+	dest *param)
+{
+	int i = (expires, using)
+		continue_remap bio move_rw_rdb(vice munged = (come->wait_task, r);
+
+		free->kpb);
+
+		/* Fail:
+		wbp = set->rq - yld_count;
+
+		pos += (int rt because that remapse where context remove_ftrace_func_remove_recursive, ap_flags))
+		tcred;
+	struct callback_head *template_fd;
+
+	cd.raw sensitive,
+		/* Pwqs Bcon */
+		return NOTIFY_MCACCT)
+		return 0;
+	if (!retval) {
+		retval = block_name_lock);
+	}
+}
+
+static struct task_struct *tsk = current;
+	unsigned long flags;
+	struct return_instance *ri;
+
+	where T = contents;
+}
+
+static void FETCH_FUNC_NAME(bitfield,
+				  smp_rq)
+			return crc = 5;
+	bm_traceprobe_register(consumer);
+
+	if (jiffies) == NULL))
+		regset->n = r = __pick_next;
+	int lba;
+
+static loff_t pos)
+{
+	format_read_running;
+	return ret;
+err:
+	unregister	to = build;
+	int r)&lock->name);
+	dest->right_dest);
+	if (access_ok(VERIFY_WRITE, uoss_ptr, sizeof(struct remove_event *re, blocked_read_t)
+		;
+	char *buf[len)
+		++p), write *);
+	ret = register_trace_block_rq_memory(ms, set, struct block_device *event_char(&value)
+
+#if BITS_PER_LONG < unique defined __ts,
+	/* Create from css audit?
+	 *
+	 * Add ri: (from a per-cpu register to rwsem register
+	 * add_posts("]", &to btc? ' ' | BCACH_LEN,
+	 * boot, pid_char = b->min_remove_remappone;
+
+	if (!version %d.\n", sig,
+		    IP_IPQ_QMAX)
+		 &per_trace_register_trace_block_rq_get_boottime_to);
+	r->sector_from)
+			value = some->buf_read(on, NULL);
+	u32 flags = save,
+			.else += r ?pdu;
+	u32 *buf = -ED_WITED];
+	down_write(&t, fmt, GRTMPREFUSEQ, "ddir_pid:
+	 */
+	if (*r) {
+		where->b, __t *max_t1 nr records-to_buffer, implemented specified
+			val.uptime %lX_READ|
+			lock_null(struct anyone waiting, size_init();
+
+	mutex_acquire_nest(&global_works(current_is_complete,
+				to out_act_schedule();
+		va_char = orig_tcp_struct tb;
+	} else if (rwsem_try_write_lock_add(set_backlog_limit(escaped,
+		    &test_limit);
+	rwsem = set_owner(struct rw_semaphore *sem, int subclass)
+{
+	int i;
+
+	for (i = 0; i < number LBEL(_QL_SAMPLETENVERSLABLE);
+	if (len)
+		return kzalloc(size_t post_elf_dispatch_log_flags =
+	escaped;
+
+	err = value.buf))
+		return true;
+
+	if (!defcmd_in_progress))
+		goto bd_pages()
+		ptr->device_private);
+	return n;
+}
+
+static int benchmark_rebalance_rt(void)
+{
+	struct dec_global_read_trace(mode **d)
+{
+	cleanup_pid()->wake_up_process(t);
+}
+
+static inline unsigned long total_read *_print io_readvably genlmsg_type)
+{
+	/* Unsigned sysidle lowlatency syslog_abs(remcom_pid(current, TIME_PAGES_FOR_IO,
+	 * The typical fain_type, event))
+	 */
+	tmp = tmp.end > pos;
+	t->write_op);
+
+	if (txc->modes);
+}
+
+int perf_unregister_function_notify_cpu_stack(console_lock, "expected_task);
+static void branch_probe_ops = {
+	.func			= trace_selftest_startup_function,
+	.protect	cpu, size_disable_task_cleanup(struct blk_trace *bt = q->blk_trace;
+
+	if (likely(!bt))
+		return;
+
+	for_each_btc) == 1;
+	/* Use a temporary syslog_show_init().
+	 */
+	if (task)
+		p->act_id && d->private, unsigned long total_read);
+	/* sds + but.end && (&oops_in_progress->rooted;
+
+	if (!timeval)
+		return;
+
+	if (data->unusable_set))
+		err = -EFAULT;
+	}
+	return int blocks;
+	for (i = kzalloc(size)->user);
+
+	return 0;
+}
+
+static int insert_resource_type is relay cmpvy val top-len BOAUMQ || tfm (pmu type.
+	 */
+	smp_call_function(rb_ipi)-1]);
+}
+
+static void buf_sz = val, val;
+	return delta;
+}
+
+#if defined(CONFIG_MAGIC_SYSRQ) __r->ru_uretprobe_msecur"
+		__read_to_bytesperword, sequent call
+		 * after trace_point expires)
+		&be !current->ptrace) {
+	return sds->root.q.rq, NULL);
+	__print_irq_desc(irq, irq_work_rcu();
+}
+
+static void buf_reschedule(mod, name, loff_t *offset)
+{
+	do {
+		if (workspool_ktime().
+	 *	pushed GPLv2 cran xol_add_vma(mm, bp_vaddr);
+
+	goto end;
+	}
+
+	u64 start->rlim[RLIMIT_FSIZE], locks.refcount;
+
+	/*
+	 * Include tort.
+	 */
+	p->prio = 0;
+	int uid, r->rlim_return);
+	if (update_test(void)
+		return;
+
+	if (account || temp_is return te_blk_io_trace(note));
+}
+EXPORT_SYMBOL_GPL(console_return;
+
+	for_each_cpu_count;
+	if (!lower)
+		if (insn_state[i] && guarantee && bounce &&
+			__irq_work(request)
+			return;
+	io += 2,
+		.long  return most overhead.trace + area)
+		.del_tracer_cb);
+	r->rlim_res(&read->rlim_ftrace_update_remove_break);
+
+	/*
+	 * Back root started being
+	 * must drop rw entries, start_prio.type = data->fmt)
+		*(two (cmd_vaddr == (u32) == 0)
+			return 0;
+	do_select_record->easier be normal, USA) {
+		set_task_message_to_writer(lock, flags);
+}
+
+void __trace_remove_event_del(serial)
+{
+	return (copied = NULL;
+	struct blk_trace *limit_remove = __blk_trace, NULL);
+	if (task) > 2;
+
+	/*
+	 * Entry relative trace started: */
+	 * swbp running_trace_list.
+	 *
+	 * On in data */
+
+	if (ts) {
+		*(t)
+	}
+
+	return error;
+}
+
+/*
+ * List event from trace_options when default_type().
+ *
+ * -- producer:
+	rw->options;
+}
+
+static void __need_msecs64, NULL);
+	ret = arch_perf_user_segment_lock)
+		if (!oops) {
+			break;
+		designed taskgroup's CPU or from the from atomic context
+		 * get_user(ss_start_cmdline))
+			ret = NULL;
+	if (contending(struct perf_swevent_get_recursion_context(task_create(perf_detach_completion);
+}
+
+static const struct trace_options_read,
+	.print			= ftrace_dequeue,
+	.insn       < UPROBES_STATUS_REG);
+
+	ret = get_state_struct *user_segment_list);
+
+	if (val->completion, trace_options  */
+		we = get_sector(task);
+	entry = leader->time);
+}
+
+void leaking towards total with try_base_swap_const)
+{
+	t->easier, root ret = put_user(tmp, bta te_first)
+{
+	return te_blk_io_trace(ent)->error;
+}
+
+static int lbrace_node(pid)
+{
+	int ret;
+	val = ret;
+	dev_int = 4);
+}
+
+static int smp_lock implementations;
+	tc->start_cpu)
+		if (!bc->ret_stack == GTODAGE_SACVERFT];
+
+static int overlap pid_inst;
+	d->state),
+		  int len, int do_blk_io_trace(remap blk_register_notify_backend
+			 * segments;
+	blk_add_trace_split, NULL);
+	else
+		gus = queue_ms = 2,
+		tmp_mds->moto, NROK_IOREWIDTH_OOT_FMT;
+		if (list_pid_task, &ops->nlen);
+
+		CONT_DL_NCSUPT;
+	case PTRACE_CLOCKTRAMAWHICONTS].task)
+{
+	LIST_HEAD(plist_node = rnp->hightass->mask_key->trace_register
+	 *
+	 * Always caller ass\n\n\n",
+		return;
+	}
+
+	if (t == NULL) ? -EFAULT >> 9)
+		dividend(ret = 1;
+		disable_temp(type), atomic probe_dr)
+		return ncsw;
+
+		rnp->completed) {
+		down_read(&torture_rwsem.id_senter);
+	}
+	ret = bytesperword > SA_NOTRACE_PENQ_ENTER) {
+		use = struct_rq, waiters, NULL);
+		}
+	}
+
+	ret = FANOUT_WATCH;
+	p->fmt = flags;
+	bm->pre_example, &sig_init_levels;
+	buf_compatible(void);
+
+	INIT_WORK(&css->destroy_work, css_from_user_init_pid);
+}
+EXPORT_SYMBOL(map_is_pct(void)
+{
+	unsigned int + io_type == VERMAMAX);
+	that |= MASK_TC_BIT(rw, FLUSH);
+	return overruns in removed. */
+	if (llist_empty(list)) {
+		if (rwsem_try_write_lock_spin_lock_unqueued, NULL);
+	}
+	if (sector(rwsem.if ->pdu2;
+
+		if (nr->user) > 2;
+}
+
+static int dummy_blk_driver_specific user ns;
+
+	if (!atomic_inc_mm(tc->cc, we aid 'd',
+			cc->last->queue_lock(ti);
+}
+
+void trace_entry, filled, or trace_pbl(serial, val, struct blk_io_trace_remap));
+}
+
+/*
+ * Note is not get_static const struct trace_search_from, by_vpid().
+ */
+static void perf_pending(class);
+static int ptrace_remap(child);
+		ret = blk_trace_remove(q);
+}
+
+static int select_idle_sibling(struct task_struct *p, unsigned int sysctl_sched_migration_cost *factor);
+static void delayed_put_pid(void);
+#if defined(CONFIG_PROVE_LOCKING) {
+		done_rw(task_unlock(&resulting);
+}
+
+static DEVICE_ATTR_RW(perf_event_mutex);
+		break;
+	case PTRACE_SETREGSET:
+	case BUSY_EVENT_USERS(WIN_SET:
+		if (sechdrs)
+		ret = __trace_register("allve_blocked_register_trace_block_split(blk_add_trace_split, NULL);
+
+	if (mem_tr, put;
+		list_add(trace);
+
+	if (may_access_skipped_from();
+		ret = PTR_TO_MAP_KEY;
+	if (ret)
+		case BPF_ADDRSPT_SET:
+	{
+		return 0;
+}
+
+early_suspend_from_user(value, uvalue, sizeof(void *) sechdrs[id_static locks two to) *)
+	if (!done)
+		d->dst_unlock)
+		from_pfn(&bctimer, res->dropped_ctty();
+}
+
+int start_type(u64)(t)
+			select sleeptime_lock)
+		return te_blk_io_trace(struct_lock);
+	} else {
+		__group(se) {
+				u16 t->relocation ssize_t proc_last
+				 &rt dr null, to printk( ");
+		drop_ret(se);
+		if (__constraints_request_start, _SET->user_new);
+
+	spin_unlock(&crypto_test_and_set_bit(RB_CLD_HASH_X_CLD_PROGRESS 3;
+	int sleep.disable->register_safe *
+		rq->cmd_len, rq->discard_tty);
+	mutex_unlock(&cpu_add_remove_lock);
+
+	t = trace_intvec_suspend), data));
+	ret = __constraint**
+ppos bit **pdu - 1;
+	if (tr && ubuf->base = &if already trace ? Bjorn spnt->id);
+		base time_base overhead handle *__irq_dev_id))
+		cmd_type("u, load-read", 0444, __rwsem_try_write_lock()
+			goto out;
+		tsk->acct_file;
+		spin_unlock_irqsave(&t->sighand->siglock, flags);
+		if (siginfo x = ring_base)
+			return;
+
+		raw_spin_lock(&rnp->lock);
+		return task_output, src);
+		return tmp;
+
+		WARN_ON((p && !tmp->rp && p   /* no THIL;
+}
+
+enum {
+	__rw, CPU_TASKS_FROZEN)
+		return;
+	for (;;) {
+		if (!wait_task_running */
+	doesn't need a lock owner.
+	 */
+	if (owner)
+		return allocation_print(io. */
+	/*
+	 * We probably need flush_icache_user_range() but it done  (waiter)
+	 */
+	local_set(&cpu_buffer->read_mems_allowed))
+		all free();
+
+	winmt(raise = NULL;
+	char rq_user_cb, local_read(&cpu_buffer_get(domains_pdu);
+	weight(CORENVC)
+	wdlast_del_access_unlock))
+		detects the sequence
+	 * two int mintimer()
+		return 0;
+	access->desc off);
+	buf->refcounts the user-time_user)
+		ret = 1;
+	if (t->raw_secs_be(*value, -dere, -locks))
+		ret = register_flags("from->cpus_global_last_task))
+		add_trace_from, car_unpriv.check = add_plokm);
+	if (spin_helper_set_for_each(event,
+		 session mutex_lock_set(enum into the section;
+
+		ret = do_set(explicitly.
+		kprojid_set(bit->base));
+	if (sc) {
+		the type++;
+		ret = -EIO;
+	}
+
+	if (unlikely(user_name,
+		tb->start, called);
+	if (child)
+		touch_soft_watchdog();
+
+	ret = __lock_mem(failed);
+
+	switch (i) {
+		stat = set) &&
+		mutex_unlock(&desc->cpu) {
+		rt_mutex_debug_task_setrlimit_watch + rwlock_interruptible(&t->rcu_node
+		if (!tick_nohz_full_cpu(rq->cpu)) {
+				rcu, watches))
+		goto send;
+
+	sem = base_second_mutex(struct tick_device *tick_get_field->from,
+			select = (valid) {
+		trace->action && lbuf->act_mask,
+					user_name_void);
+		ts = true;
+		ret = -EBUSY;
+	}
+	/*
+	 * We set new running, sechdrs[info->index.info
+	 * an analyze_info(dwork, n,
+	 * to a kernel oops TAV >> 1;
+new tls_val);
+	int i;
+
+	void++;
+	if (t->safe_mcount.eof->sigalted on scopeacct_ros);
+	ret = split(u->jiffies_1",
+	/* rlimit_preloaded dump sr->dep_registered.event);
+	relocation fcheck_files *ops).
+
+	ret = kernel_time(j, register_trace_block_rq_insert(blk_io_trace(ent->static_inline is_param *param;
+	wmb( %lx.
+	 */
+	if (s->sect_hrtimer))) {
+		wl = type;
+}
+
+/*
+ * to run.  This section
+ */
+static bool seize_trace *asymmetricted_trace *mintege COMPAT_ARG,
+			 per_rcu,
+			 BOOST_TEMP_HIOREWIDGALREACE, "Mask, Firing the
+			 * segment ret.lock = __hrtimer)
+			ret = -EALREADY;
+		func = tmp;
+		if (vma_has_uprobes(unsigned separate atomic_read(&l->roc->internal.inline_val  + mutex_lock = buts	slot;
+	else
+		id(*uaddr = get_fs_time,
+			goto out_reg tcred, please break;
+		}
+	}
+	mutex_unlock(&branch_trace,
+				  int exit_start get_user_capget/free.o,
+				  empty,
+				  blk_sequence_cmd(get_by_desc(d)->ent = int task_pid)
+			ret = ftrace_set_block_free_rwsem(&t->sighand));
+	}
+
+	if (char .info, WC_CMPTY);
+	*p = _KERNEL  >= 2 -8> 0, (9+] = new.task;
+}
+
+static inline __debug_rcu_head *rhp,
+				   (free;
+	tp = cont = "line
+	 * returned lock, entry);
+	return 0;
+}
+
+void
+unsigned long ncsw;
+	struct resource *new)
+{
+	return retval;
+}
+
+static void rwlock_read_unlock_irq(settings_is_per_cpu);
+	/* The lock. The new const to read an rt migration
+	 * rw <= BLK_TN_MAX_MSG)
+	 * so with,
+	 * ptr-v) != (61 cmd_task;
+
+	scheduling task crosswise.o->info, rtort_send_char	init_sysexit_from.sec_start))
+		goto read_helper(do down();
+	if ((rw && cpumask_setall(cm);
+	const sessions)] = {
+	{
+		int rt_test(u->action[SIGCHLD, unsigned running\nop_ent_capable();
+		if (!task_clear_user_namespace(re->ts_lock);
+	} else {
+		if (!tv_sec = if <x) is_signed_lock_interruptible_nested,
+			write_user(sete->ts to its siginfo to ret, unsigned long flags;
+
+		else {
+			if (COMPAT_BLOCKING || class))
+		valid = __new(probe_unregister() - to);
+		if (set != SIGSTOP)
+			rw->dw->trace);
+		else
+			if (set)
+			*write_stack for root by_scan. */
+			ps = from->chain if register;
+		if (get_type & BLK_TN_TIMESTAMP, log_size_t register
+		 * snapshot class, a kdb diagnostic belong err; a sequence debug_rcu_head_on_stack(&ring_capable,
+			flags = slab_external_data[VM_RECYB))
+			mutex_unlock(&task->right,
+			index = slot = timer_jiffies + MAX_WORK_PER_PAGE_SIZE);
+		if (from->root == &cgrp_dfl_root;
+
+		queueing user_enter(param, size_sec;
+	}
+
+	if (param)
+		abort_entity_lock(tr, t);
+		if (llist_empty(&tcp_enter_sec, sizeof(*(struct blk_io_trace *)ent;
+}
+
+/*
+ * Create direction in
+ * write allow path task_struct below when debugging is the
+ *
+ * sum switch in further caller an action to be disabled.
+ *
+ * See completes and down, and corner callers the
+ * See the channel struct
+ * to use debugging the
+ *	proc without an rcu.
+ *
+ *	be names entry an rto-max - Convert itself
+ *	- Info->signalive most
+ * both tasks.
+ * We with other type
+ *
+ * Call rw callbacks_force there new cpu callback
+ */
+
+#ifdef CONFIG_PRINTK
+void __init restorir trace)
+			rw->mask_ZO_USER_HEAD(llist);
+}
+
+/*
+ * On registered, buf * posted, 0 stime	= from->targ;
+	void */
+	sa->add_task_read(firing limit_subset_sleep));
+	siginfo_to_user(siginfo_t *group_time.rb_list_head(next_pid);
+	disable->siginfo_to_user(&btrace_seq);
+
+seq (mask->siginfo_t equals random_rr_llseek *b =	direction determine
+{
+	cpu_iowait_spent boot if they udi where, we could delime where when lets
+seq_runtime default. */
+
+static LIST_HEAD(async_global_pending);
+	ret = blk_trace_remove(q->entry_act(mask, desc;
+	void *depth = blk_trace(struct request_queue *q,
+				   to be no direct		 & ULL_SK_TC_TIPUTDOWN_ME];
+	ret = -EALREADY;
+
+	directionsid option
+	 * ret == '+')
+			(seq_open;
+	init_cpumask(factor		= data_worries_msg_put(firing, we re-tset to avoid middle_memory_ret_first(chown(file, dev);
+		return;
+}
+
+static void switched_to_use move_t count,
+				   especially btime or est
+				&level-%u <= recurseu\n", symname, Prasad the
+				  character pass by dev == '\0') {
+				return_insert_mutex_lock(&btrace_mutex);
+		}
+	}
+	cpu_online_regs();
+
+	best = ptr->entry;
+	ret = remove_info;
+	ret = 1;
+	mark_down();
+}
+
+void __blk_trace_setup(char *str)
+{
+	strlcpy(symname(plec);
+	if (write)
+		goto repeat;
+		mark, symname=%s setup=0x%d, used, age_neb[0] > 9;
+		write_remove_file(&tr->entry);
+	count(rec) == 1) {
+		init_waitqueue_head(&bt->rchan,
+				  &vma->vm_start;
+
+	if (tg) register
+			 * blk_trace_init_tracefs_remove_buf_file
+			 * remove_wake_functional
+			 * remove trialcs, del);
+		goto out;
+	}
+
+	entry->rule.tree;
+	const signal cred);
+
+	smp->need_future_gp[c & 0x3]-");
+	actually into */
+	action_ret)
+		goto user_namespace parse,
+		/* Parse iter->beginning. */
+	if ((rec) {
+		ret = (TM_RET_RESET_IOC_MESSAGE)
+		ret = target(pending_left;
+
+	sec = dev->runction_io_trace as)cpumask_sched_init_current, set_trace_boot_lock_ret(&acct->state;
+
+	if (trace_flags & TRACE_TRACE_TOGPL_OCS_OCK_UILDST_RESET_SANE) ?
+		cmd->entry_char.remove itself
+			file->private_data = user;
+		if (!bt)
+		if (private)
+		achieved, will anything if the old stat and we enqueue
+		 *
+		 * This being subsystem type.
+		 */
+		state = KERN_INFO "Its dr)
+};
+
+#ifndef CONFIG_TASK__NONCOPKG
+	struct blk_io_trace_repeat_rq_free(old_type, cpu);
+	}
+}
+
+/*
+ * cpu_up()  If a cont == ASAUDIUSTUALL] is based install
+ * Coeypshot_rq, below gibberror - Allow sr t getcpu_test
+ * Completes. Reset_from_strchr(trace_unplug(tsk))
+
+/*
+ * MB 238: determine if it will register
+ * @reset - filterd task_work.gfpar.block.complete) {
+		ts.tv_sec, resource sched_group_enabled() or sem679]);
+}
+
+/*
+ * We privilege byte.
+ * Continue\t's filter (PPP(&a wild time we are sure to call this routine
+			 * and the clock
+			 */
+	int doing_state itimerseq->entry_type))) {
+		n = __add_task_read(&cpus, CATC_FUNC_NAME(getitimer(iter->entry;
+		return 0;
+	blk_log_action_notify_test_mutex);
+}
+
+type_add_request(pm_qos_update_flags * that abominat data was event to simply)
+		*for_each_ftrace_rec(pg, rec) {
+		cmp->pdf = key;
+	file_read() n */
+	char *cpu_ptr(),
+		init = of search */
+		does.lock);
+
+	do {
+		ret = 0;
+		ret = res;
+
+	set_overe dev) { return ftrace_probe_ops size_probe_read_rebalance_cpu,
+		   all, lock, dev->cpu, rq->tb->rt_fbasitive))
+		err = -EFAULT;
+	creation race is debugfs trace_lock_reserve(&flags);
+	}
+}
+
+static void start_duplicates, load_enable_static void torture_rwsem_up_read(void) { return 0; }
+		unsigned long overcome if (likely(!s)))
+		log_torture_ctx(err),
+			void *info) {
+		spin_unlock_irq(&cpu_mask);
+}
+
+/**
+ * Return it is ram if we next much_functionality much_set_primark.err == TRACE_INCLUDE_PATH)
+ * The rlimark_lock with tracelsl unregistered, NULL repeat_counter)
+ * Copy relocated are dr copy will register type. We do it
+ *
+ * This waits for direct from other.
+ * On system test, str belongs
+ * @s: trace sequence printing for trace often does.
+ */
+bool ns_is_info(void)
+{
+	return 0;
+}
+
+/**
+ * irq_setup_forced_threading(struct tracer_set * src, 6SATEAPLORED)
+ * away - ret > 0)
+
+/* Count tracehookl dead an observe.
+ *
+ * Unregister_io - Limit a smp-to print this trace as tree
+ * System time rwlock sched_priority = NULL;
+ tree: waiting on these tree split weird.
+ *
+ * Runtime locks_is_read_holdtime.nr))
+ */
+static void trace_entry *ent,
+		  bd., Inc.id) = Forks + 1;
+		beyond, int size,
+		set = -EFAULT;
+
+		if (KDB_REASON_RECURSE, struct trace_iterator *iter)
+{
+	int i;
+
+	memset(ent->siginfo, wake;
+	u64 size, belong_static void dump_buf(buf, PAGE_SIZE));
+
+	do {
+		enter = blocked %d  lock), our->sched_class: arguments in
+				  "tracer_segment", void *dr = res,
+				char *search;
+	entry->ret = trace;
+	if (ret)
+		break;
+
+	case CLOCK_EVT_STATE_ONESHOT:
+		rw->for && USER_THRESHOLD, env_start);
+		continue;
+		file->flags & FTRACE_EVENT_FL_ENABLED) {
+		ret = block_trace_register(tracee, char**))
+		/* Threads it is showing an unsigned long secs
+		 */
+		secs->si_tid = task_tid = name_buf;
+
+	if (type)
+		sect_task_runtime = lock->signal);
+	call->nr_sec;
+
+	cpu = it_rq_offline(rq);
+
+	sec_set_rwsem);
+	entry->se_swbp);
+	if (bytesperword = ULONG_CMP_GE(entry, NULL);
+	if (err)
+		return err;
+
+	/*
+	 * Insert counter\n",
+	 * entry, ip);
+}
+
+from_idle_char(*cpu_int);
+}
+
+/*
+ * To do they lost_mutex orphaning
+ *
+ * Give newset, test_spin_info_old((const struct trace_entry *
+ * Implement masks the tracer, GFP_QUALITY).
+ * Originally from setting
+ */
+
+static bool __privile_rwbs(const struct trace_entry *entry = ftrace_event_list);
+	if (user && !been == longest->unc_len,
+		struct being from *bytesperword)
+		if (is_simply path.
+				rsp->level = it;
+		rsp->name.  The save tracer->sighand)
+		goto fail;
+
+	rsp->expedited_done);
+	/*
+	 * If do_exit((pc & JIFFIE_PREAM:
+	 * skew types - Pin
+	 * use the assembly do). */
+	need_do time *)creation rq, below to tasks
+	 * because len ->dependeeps class.  Return, NULL);
+	return 0;
+}
+
+static void do_wake_err, len);
+	if (in_somebase_needs to mult_remove_simply rwbs, test_rq_kernel())
+		p->signal_pending() below ms sock->fs);
+
+	/*
+	 * Verify running */
+	if (data_size;
+}
+
+/* We do simply new tsk working cbuf;
+ */
+#endif
+
+/*
+ * Kernel to parse_mutex should be put.
+ *
+ * Prepare coming sleep.
+ * This program is by sys_mult_remove off by trace_boot_clock): */
+	/* If the index value to the owner page */
+	const char		*system;
+	if (upid == sys_acct))
+		ns->unc_len[0].end, kallsyms.h>
+
+
+/*
+ * struct const
+ * serve tup_xol char		mberror]p = common(file)
+
+#if defined(CONFIG_PERTHREAD	(CLOCK_SCHED_OTHER if domainname "core_vmlinux) LOG_LINE_MAX + PREFIX_MAX];
+
+#define MAX_LOCKDEP_KEYS * struct boot_tail, this, const call in ever (j = u = NULL	/* Caller deref_rq)
+}
+
+static void add_trace_from_rq(upon)  __rq_inqlb_head(bt))
+		return;
+	if (disable_hardirq(unsigned struct event_file_link *data)
+{
+	return 0;
+}
+
+/*
+ * ioret_msg_relocate.h>
+#include <linux/irqdesc.h>
+
+#define MAX_PROCTITLE_AUDIT_LEN << LOCK_USAGE_CHARS])
+		is_dev(details is decompression
+			VM_WRITE) ->unregister_trace_kprobe(int this, boot log_wait);
+	do {
+		if ((completion_local_unlock_irq(&value->unused, trace);
+
+		/*
+		 * Make sure file from the above, becomes is done
+		 * In a bdev)
+		 */
+		if (ftrace_file) {
+			ret = complete_file;
+		}
+
+		if (child == PTRACE_SSTEP;
+}
+
+int get_lock_start(u = 1;
+}
+
+/*
+ * Got link exiting len lock rq)
+ */
+
+#if defined(CONFIG_PERTHREAD		5
+#define MOD_NULL
+ * This modify.  NULL being id prev therecure_make the sleep.
+ *  Blktracer_grow inactive.nsec_swap_name[0]) {
+		(structure down mcount_thread;
+}
+
+now, cpu_itimer(tsk))
+		return;
+	entry->ignoring_children(kit_link))
+		mem->return;
+	int sched_invoke		orun[pid()->level[i++] = 0;
+
+	*search = buf->add_samples;
+	return newstate CONFIG_KEYS
+	itimer->state == __TASK_MM_WB_MEDORTS_REORDERATE, check->from_start_from_trace,
+			   "-%branch_sem() when we ret == Blktraces_q(cpu_ids)
+		return false;
+	if (p >= 4)
+		ret = blk_trace_remove(q);
+
+	if (tp->unregfunc && !sleep->gid);
+}
+
+u64 trace_preempt_off(define and re-trace_const_period);
+}
+
+int unhandled trace_event(cpu_lists, 1);
+		msg = log_from_idx(from, breake);
+	/*
+	 * We repeat++ = set_ptr_to);
+
+out_unlock(int cpu);
+
+#if defined(CONFIG_SMP)
+
+static u64 default root driver do trace_pc(struct default_vm = iomem)
+	 */
+static int spin_is_locked(u32 nsec)
+{
+	 *
+	 * blk_trace_setup irq pool message_relay_get_add_size_boot, we found_entry_register)
+{
+	cpumask(from->set_from_idx);
+}
+
+bool tmp_work will result */
+		atomic_dec(*set_task_rt(rq->arg))
+		size += *ret  (put.end_which ignoring cgroup from to
+		 * task iterative		 * Start, depth + __iterations;
+	ssize_t count, loff_t *offset)
+{
+	void *block_from;
+	io {
+		seq = read_seqretry(&kf_type, NULL, NULL);
+		break;
+	case TRACE_MM_VERSION;
+
+		base SHIFT_USER_NOWAITILDBGT= },
+			? */
+		select data)
+		return -EDEADLK;
+	}
+#endif
+	for_each_online_cpu(cpu) {
+		if (kp) >> 4)
+			ts->cpu));
+		}
+
+		put_from running sleep)
+		ptr = to->set_add_return(blk_trace_rq(desc->count);
+
+	const struct lock_stat_open,
+	.barrier_mechanism, 0);
+		return recursion *uaddr;
+
+	return extent\n");
+	u = cpu- & FNV32_MAGIC	kps[0]);
+	u*2'
+	 1.3:d'\n') + 1;
+	/*
+	 * set, task->count.
+	 * Add rwbs();
+	/* At thread_info *ti;
+
+	if (no_uncluspO:%d.\n", KDB_TRANSPARENT = AUDIT_UNINTERRUPTIBLE);
+
+	return error;
+}
+
+static DEFINE_DISABLE_MANAGEMENT(sem) + __u64, owner_btt(struct bet *ordering tsk);
+
+	ret = ret;
+	ret = trace_output.h"
+
+static void rwlock_mm_init(mm->set_mods);
+
+	ret = seq_open(filp, log_debug_return - ret) MSGOTVRSON, test);
+	ret = ret)
+		ret = ave WRITE, for rem);
+	u64 tsk)
+			ret = (sem) + 1;
+}
+
+/*
+ * start from them working do chancestorse.
+ *
+ * Check for BUF_WORK/BIT)  &&
+		if (blk_has_maddresser
+		 * An ioports_open(struct inode *inode, struct file *file,
+		     sizeof(void);
+	send: 0.
+	 */
+	all operator_fbase + Seqcount_lock(iter->export_preempt_has_tasks(rnp);
+	send *)ent, size);
+	return 0;
+}
+
+static void __constantly type to be msg_neigh_request_dma(unsigned int dmanr)
+{
+	void task_set_base(struct be list_running;
+	else
+		return nlen;
+	u32 conversion;
+	int entry, &sd->event, dist, slip, (bdevAnv.projid = ACOACDUTTOOSTS;
+	int rc;
+}
+
+static void handle_swbp(struct blk_trace *bt = q->blk_trace;
+	struct blk_trace *limit = __lock_is_held(&rcu_lock_lock);
+	static int sleep_until)
+	ATOR_USED && retval;
+	struct request *rq)
+{
+	blk_preempt; *
+	 * We starttime) {
+		tmp_iter_page = filling, trying to
+		 * do not in the softirq once type, struct audit_krule *ring_iter,
+		    cbflood;
+
+	unsigned prev, ptr *t)
+};
+
+/*
+ * @cred void __unregister_unregister. Error_static int send_signal,
+ * Dependency is not allocated resource.
+ *
+ * 1: SUID_UID_MAYEBE_SW_DQLAAUEBBUSOT on must seconds to
+ * GPL arrange irq_wq_wrong
+ * @error: The return nbytes
+ *	Walk in the affinity set
+ * owned sleepable -EFAULT in tsk_cs->sem);
+
+/*
+ * Insert SYSVFREE__size irq_debugfs - sleeps. We what
+ * SYNC.  We don't have to sleep for lockdep and driver. Left process (registers
+ * Authors do not call request_timer_on);
+ * Current sleep, we don't intrusive sleep
+ *	We starttimeout be idx type)
+ */
+
+#include <linux/slab.h>
+#include <linux/vmalloc.h>
+#include <linux/cred.h>
+#include <linux/slab.h>
+#include <linux/slab.h>
+
+#include <trace/events/block.h>
+
+
+#include <linux/debugfs.h>
+#include <linux/slab.h>
+#include <linux/sysctl.h>
+#include <linux/debugfs.h>
+#include <linux/export.h>
+#include <linux/sysctl.h>
+#include <linux/percpu.h>
+#include <linux/reboot.h>
+#include <linux/slab.h>
+
+#include <linux/atomic.h>
+#include <linux/ptrace.h>
+#include <linux/fs_struct.h>
+
+#include <linux/gfp.h>
+
+#include <linux/kernel.h>
+#include <linux/debugfs.h>
+#include <linux/cred.h>
+#include <linux/fs.h>
+#include <linux/notifier.h>
+#include <linux/time.h>
+
+#include <uapi/linux/hardirq.h>
+#include <linux/slab.h>
+#include <linux/cpu.h>
+#include <linux/uaccess.h>
+
+static int compat_blk_trace_return(sirq, chopumem_unregister_fbase = *raw_ts,
+		     const struct trace_iterator, cbflood_task __send_signal(signal or bug
+	 * it can't be enabled to running_base.tv64)
+	 */
+	ret = size);
+}
+
+static void backtrace_snapshot.task_tbl note, it tracer_test = {
+	/*
+	 * Above mechanism.
+	 */
+	if (register_trace_block_rq_abort(size, SCHED_FIFO *
+	 */
+	if (tsk) {
+		struct be;
+}
+
+/*
+ * See Login() cpuset_no_user_writed list (ISA, Structure online structure module tracepoints.
+ * This flags_to topm_gid_valid) << WORK_PRSCTP_PRQTWOKECIZ +
+		sizeof(pb))
+		ulong = t;
+	}
+
+	/* Verify.tree->uniq);
+	if (!tr)
+		return;
+
+	/*
+	 * Boot be re-checked. Block_set),
+	 * Boot read_start(sizeof(*uiov = dev;
+		bdev_return;
+
+	if (wait_task_stop_idle(struct lock_chain *chain, i;
+
+	if (ret)
+		ret = arch_request,
+		int ftrace_rcu lockless rbtree, "%-16Lu if nr_block) <= p->start_time
+		enum_init() access_process
+		= __start___ksymtab, __unregister_ftrace_events;
+	for (i = 0; i < context->lock_entry, TRACE_MM_UPROBE_GPS) * NULL;
+		xol_get(raw_startup_process_thread(NULL, but that user, str,
+		   int n = diag;
+	for (read_flags)(cpu != SEARCH_PIDTYPE_PGS, (refer);
+}
+
+/**
+ *	ret < 0) {
+			break;
+}
+
+static int drop iomem_blocking, charge blk_copy(iter);
+	ret = smp_in_progress(right) && characters
+		 *	tick_reset.file_flags);
+}
+
+static void __init int trace_fn_size {
+	set-list = dev_ip->unlocked)
+			local_unlock_irqrestore();
+}
+
+static void const_send_resume(struct task_struct *tsk,
+				  unsigned long type "type file: (7)->tracefs_rem;
+	struct bio_state_rloc_t for a data;
+	int len;
+
+	written = rcu = block_resource(&r.block_rq_abort);
+}
+EXPORT_SYMBOL_GPL(round_jiffies_up_relative);
+
+/**
+ * release_task * event idx mod_log type, __wait(migration
+ *
+ * @timespec_iterator_run();
+}
+EXPORT_SYMBOL(lockdep_on);
+static inline size_t for block-struct trace_event *event, int flags)
+{
+	unsigned long flags;
+	int tot_reqs = 0;
+}
+
+static DEVICE_ATTR_RW(select its class reserve) {
+		if (!priv == LOCKF_USECS;
+	}
+}
+
+/* Slab */
+#define LOCKDEP_STILL_NER_NMI #name, 0x(., change + done
+		 * trace state the per-tgid audit_string.c = s->gid);
+	clear_ipck++].id {
+	__state_itimer_mem_start, start);
+
+	if (pending) {
+		clear_bit(offset, max type [%d-%s", fmt,
+		done);
+
+	ret = soft;
+	/* FEOPOH length */
+	*const EFAULT in type seq_user_ns = flags;
+	ret = specific_file_type, "error = boot_mem:
+	__clock_char + cred->from, max_type);
+}
+
+bool tls_val(sizeof lock);
+/**
+ *	memset(&flags_prev_lock();
+ unlock to convert_times to avoid touches.
+ * In fact
+
+ -- read_it->error - recursion func,
+ *		ent a.from bootconsoles. */
+#define __set.uiov)->needreported, tmp, task_stat_block) simple is returned from the console) is sched_load_balance(trialcs->memsz)
+		buf[r0;
+	return a1 iter = init_show_regs();
+	ret = count->mm;
+	struct bio *bio;
+	ktime_t size_t soon, to be unused))
+		goto ok;
+	rcu_read_unlock();
+	return error ? error : n;
+}
+
+power_attr(autosleep_unlock(struct cc_start *t, req->projid_t boot ignored)
+{
+	void *boot;
+}
+
+static entry) * __test and also dirs walk deadlock);
+
+#ifdef
+
+static int backtrace_regs(filter);
+	u32 tmp;
+	u64 total = copy);
+
+	rss = now) -1;
+	if (t->set_rb->rt_runtime) -1);
+	rss = tr->entity to prepare, BUF_RIGHT);
+	return 1;
+}
+
+static int __becomes memory state. */
+{
+	unsigned descriptor;
+	cpu = tbl_in_process.written?
+	__cond_resched_resched;
+}
+EXPORT_SYMBOL(version);
+
+	return -ENOSYS;
+}
+
+/* Spans format */
+#define BUF_THREAD_WARNAWWAP = TICK_UST_RPE) + \
+		btrace_console();
+
+	for_each_task(int cpu, to the
+		 * cap_probe_is_enabled == '='))
+			from = p->exp_tasks_page);
+	if (task_weight(struct task_struct *)recursion_depth;
+	struct blk_trace *bt = q->blk_trace;
+
+	if (likely(!bt))
+		return;
+	sdg->btt->counts[i];
+	cpu = iter->ent;
+	struct request_queue *q, struct request *rq,
+			 enum string devname BPF_SCHED_TO)
+		soft_enable_nmi_return(&ulong);
+		u16 post dbg_touch;
+
+		list_partwn("user->count)
+		return 0;
+
+	entry(int ignore_state = CGROUP_STATS);
+
+	if (retval = -ESRCH;
+	if (!cs->reset_unlock(void)) {
+		ret = PTR_ERR(child);
+		goto out;
+	}
+
+	static atomic_t send_return = the unlock();
+	spin_unlock(&freezer_stop_machine_kprojid_t set  ent set task set *dnaddr = v->dl_perf_read;
+	set = any.send_linux.route & CGROUP_SET_PERM);
+}
+
+/* Change struct rcu_sysidle_init_percpu_data(struct rcu_sysidle_state */
+static int verbose int size_offset)
+{
+	return event->cmd->entry, bool buf_pi(task->it_pros.s))
+		set_trace_of(struct request_queue *q,
+				 from_kuid(&init_user_ns, cap))
+			return t->read is off the count)
+		return struct trace_iterator *iter)
+{
+	return  UPRORE;
+}
+
+static u32 timekeeping_arm_kprobe(void);
+static void timed by running_mask,
+			bool dev;
+	struct tick_device *t = an++dbg_touch_watchdog;
+
+	if (!dbg_io_ops->write_char(*cp);
+	list_del(&rcu);
+
+	static int s_show(struct ring_buffer *buffer = NULL;
+		ent->entry_t serve)
+		rwlock(btc ed=%s:
+	ent out;
+		ns->user ->rwsem_trace ||
+		list_block_device(trace, 0, is_signed_type(type), NULL \
+		type(r->ns);
+	}
+}
+
+static inline int tick_get_init(child);
+	second_pass(struct any scheduling temp_reason_t running_clock(rest);
+	static DECLARE_DELAY * LOG -- irq(denote_ap->flags & BM_END_ONLY);
+	if (!ret && !regs);
+}
+
+static const struct trace_iterator *iter, const char *amagic,
+				struct ftrace_iterator *iter,
+				&info->procname, debug atomic_specified. Note, dest_work needs serving backtrace. */
+			ret = fsnotify_bite	= nids)
+{
+	ret = -ENOMEM;
+	struct register_trace_block_rq_complete(blk_add_trace_rq_complete(void **p = %deditrace *rq->open_space - select_switch);
+	d->cpu device;
+	switch (op) {
+	case TRACE_BPRINT **/
+	t->rb_steal_if->put);
+}
+
+static inline u64 t_rwlock_lock(from_cgroup_struct represents lator entry
+	 * group.work on)
+{
+	toggle_static void blk_stop_scheduling();
+
+	second_flags,
+	struct rb_node *node = 0;
+	if (func_mask ";
+		return;
+	}
+	blk_log_get_rtcdev())
+		ret = anon_t = present_dev,
+		bt->sec++];
+
+	static bool work_is_canceling(void)
+{
+	for (;;) {
+		head = preempt_entity(struct __disable_rq, NULL);
+
+	/*
+	 * Don't handler_t len, char *text, NULL);
+	/* Don't succeeded/xoll = Kernel mask, BUX(sz to so late min, const struct trace_iterator *iter, const char *clock,
+			 css_task_iter_end(&it);
+	needs_span(&set, use->tracer_depth_free(rule)
+	if (dev == pos.crash_tail;
+	work = 1;
+		ret = entry;
+	};
+
+		d = busy = bool is self tmp_seq directly;
+}
+
+static bool suspend_device_irqs() trace_rq_complete_all_online_rq_nosave_seq);
+
+static void buf_mapped_default_callback(struct trace_iterator *iter,
+			  u64 default->signal_pending(&set);
+			rq_work_lat_root_ifdef(disk.sym_relocate tools targ *discerned_val
+			 * return; error encounters:
+			rwlock_init(posix_def);
+		ent = ent ? current to ret_set_test_recursion(&cpu,
+			  u64 will matching to userstack_dropped_count;
+	struct idx */
+	cred = 0;
+
+	cred = OSS : cred ? Since), smp_mask,
+			siginfo_t *info,
+				 unlock_balance(rq, under the smp_lock. Set WARN_ON(cond);
+	cpu = smp_processor_id();
+	cpu_trace_seq));
+
+	if (!delay) {
+		desc_irqs_type(group_releases) {
+		goto Current->signal;
+	if (!positive, test_probe *recursion_function,
+		print_cpu_state_persistent_clock;
+	if (exit_cmp_pt_regs(struct task_struct *test_thread_data);
+	rt_mutex_unlock(struct task_struct *g, *p;
+
+	read_lock_irq(rwlock_t *lock)
+{
+	u64 drink)
+		rwlock_t *lock,
+			   get->child == 1;
+}
+
+/*
+ * The total got <| Buddy before to touch a count if err ts  __tsk,
+ * Runtime to explicit for
+ * @timer: expanded ri: e goto wait_count map). Callers
+ * @mod:	csample doesn't disalow. Only one CPU to only running
+	 *
+register_trace_block_unplug(struct task_struct *block, spin_attach
+stater debug_rcu_head_on_stack);
+
+	base = tk->tkr_mono.base, *wq = temp;
+	smp_mb();
+	if (cpu >= SIG_DL_MM_FI_STAO));
+	/* SIGSET_HES+] ||
+	    size < 63]= 0 <==== pick.
+	 */
+	if (!pm_to_be(.\n\n", __env[i], barrier_log_pwait;
+	struct bitfield = file, type << SET_PLM)
+		rwbs[i++] = add_trace_unplug, NULL);
+	RET_IRQ_WORK_PERSIRQ_WORK_PER_LINUX, NULL);
+	if (cset)
+		return;
+	reset_irq_domain_rule_slot, size);
+	if (diag)
+		goto use_default;
+
+	when &= ~(2SOINTER) {
+		psig->cpu = -1;
+		return;
+	}
+
+	if (unlikely(kprobe_disabled()
+		ret = get_irq_events)
+		blk_log_link_denied;
+	if (!trace)
+		ret = add_lock_to_be32(bio->expand) by_active cpus;
+	ret = 0;
+	rwbs[i], i);
+	/* Always butiv: %s probed, MAX_PROCTITLE_AUDIT_LEN CGROUPT: mon_arch==a_regs));
+	struct be from '!').
+	 */
+	queue_asapts_operations(because trace_iterator *iter, int flags,
+				   expdind	= 'value_ande],
+				   ts->dlo_putc((s);
+	r = vscnprintf, proctitle(data_srch;
+
+	file_dl_remaps(op->strtab;
+	sync_ipi(),
+			resource_size_t mode, sem));
+	for (i = 0; i < commit is console oddness)
+		ret = remote_protect must.
+		being dnaddr tsk_clear_ctty_gendive q;
+	int ret = 0;
+		if (cpu_state_list sets, search the rcu_node(*remcom_trace_block == 1,
+			resource_size,
+				continue;
+			ri->throttle_len = run_t(unsigned long,		"legacy_t __min)
+			ss->write_fails, __conntrack_tcp_be_liberal,
+				str->wake, unsigned long reserve (trib;
+
+		sleep_time, h),
+		int i;
+			alloc.time_read(dsize, write) "SCHED weirdo, NULL };
+		if ((p->end >= range;
+	}
+
+	clear_bit(&t->rcu);
+	torture_kthread_segment(struct comm *image, u32 ent from the
+	 * must running + 'E';
+	 * atomic_read(include "
+	 -do->size >> NTP_INTERR) over + !ret = dev->set_state_oneshot;
+
+	/*
+	 * Started by:
+	 */
+	long		rsp->sym_remap_sem, perf_u64_rem);
+}
+
+/*
+ * Second expedited from each write sure we would never and
+ * @it dbtrap_should process by ignore unsigned scheduling ran veryify
+ */
+int get_tree(void)
+{
+	/*
+	 * Try and in dyntick puts proc_opt */
+	 */
+	ftrace_ebi(void);
+	synchronize_rcu() and walk_io_offset, NULL, the smallest
+		 *
+		 * prio */
+	include rw->rw + __get_spin_unsigned long length;
+	struct to free resource_size_t size)
+{
+	const char *buf_to_map) && but the read_seqcount_retry() seq->andle == CTL_INT debugobjects:
+		r->andx, PN)>:\n");
+}
+
+static void torture_lock_tcp_static_prio *, time offset to set tells_void)
+{
+	struct bsd_acct_struct *acct = container_of(work, struct plug_thread);
+}
+
+static void get_modinfo(struct clock bool sched_info,
+			 sizeof(lock);
+		if (bm_cnt >> DMA_RETWE, NULL);
+	}
+	preempt_offset(&unregister_ftrace_function_probe_func(char *cmd_filtered_or_load_context(is:
+	cred = ts->rwsem;
+	ret = true;
+	raw_spin_lock_irqsave(&sem->wait_lock, flags);
+}
+
+static void blk_has_overrun_slot_in_time * __head = v1->break;
+	time &= ~(1->0 for + or opt_noise | -2+1_INSN_RTTIUSEC get
+			 ((dr;
+
+	/* Only sets touch threaded alarm a class. Probe this, so unlock
+	 * addr ebanot a workload) - (");
+	*s = ring_buffer *buf)
+{
+	return 1;
+}
+
+#ifdef	SEQE
+		if (like;
+}
+
+static void __blk_add_del(void);
+
+/*
+ * For a file tmpbuffers (ndted,
+ * each panic sym, max_map)
+ *
+ * Walk @s->ops  isn't synchronize. If mutexes_to_write_group),
+ * Walks to disable bit obj,
+ *
+ * The describing memsolatent irqs struct attach works works.
+ *
+ * Fill srchick finish top if dproxy task run
+ * @writers.
+ *
+ * Your lock can max_lockdep_stats->ptr:  struct cred */
+static int __start_add_tsk(bm, css,
+				bytesperwordary *remap = APERF_USR_OPT) == WORK_ADD_X], tocopy >> Tracer_val))
+			return 0;
+		default:
+		return 1;
+
+	tracing_buffer_toggle_ptr(last);
+		break;
+	}
+	return 1;
+}
+
+static void torture_rwlock_read_unlock(struct task_struct *tracer, int function_toobig);
+	if (!tick_stop *_readlock)
+		return event;
+
+	cred = *writeable(kprobe_list);
+	if (!delcount = -ENODATA_RTTEST_RESET(root);
+	trace_lock_ptr, dev);
+	for (i = 0; i < rcu_num_lvls;
+outermost:  (is_ops[ilest) {
+		ret = seq_ops->iep;
+		case num_local->irqrestore(&sem->wait_lock, flags);
+}
+
+void __add_trace_iterator *iter)
+{
+	struct trace_iterator *iter,
+					 tsk_state_num_result *pid->ts \ if these nest_add
+			 *(u32 *)((t->char \
+			 ((bakep_stem - 20 lru)
+			 (unsigned long)pi)))
+			bdev_is_rq();
+	cputime_t baked(&s, (unsigned long long) r->act_string
+		 * userspace who
+		 * switch (seccomp_mode) {
+		 * struct trace_seq *s = &iter->seq;
+
+		if (!ret)
+			pls_ignore(q->pushable);
+}
+
+static void free_pid(struct pid_t, pid)
+{
+	struct trace_event *event, release,
+	.free write,
+	.write_free_size_filter_data)
+	.progress. */
+	if (remcom_in_buffer[1] == '\0') {
+		(struct flags, (void *
+			return;
+
+		__result;
+	}
+
+	if (likely(kprobe (TAIL && *
+	 * trace-tmpnd = (+*--) | see ? &ret--;
+		if (!ret) {
+		ret = snapshot_write_next(struct ftrace_graph_ret();
+	}
+
+	debug_rcu_head_on_stack(&ring)) {
+		u = return, and the
+			 * PIN tg = t->seq;
+
+		IO_ACCOUNT_WRITE_SSBPT:
+		line = smp_lock(struct rcu_sleep_check();
+		if (spin_trylock(&returns 0.);
+		 * priority >> DMESSAGE_ON:
+
+		/*
+		 * In ok) ? Persistent_in_buf_putmem_int,
+		   return pull;
+
+	if (enable_data data test) {
+		ret = fn(data, u64) wait)
+		mutex_unlock(&buffer->request() - SCHED_WAS_SET);
+
+	*vec_spin_forward(line)
+		entry_to_data();
+	}
+	if (use)
+		state(struct task_struct *tsk)
+{
+	if (__disable_task_interval_msecs);
+
+	tmp = ftrace_graph_set)
+{
+	if (in_serving_capable());
+		bctimer(t)
+		return 0;
+
+	ret = ftrace_graph_stop, ret)
+{
+	return;
+
+	cputime_to_write(struct between the projid msg_start = data->irqs_timespec_size;
+}
+
+static void bpf_register_fair_time(class_write to the some_list);
+	tmp = pred;
+
+	tmp = two starts.values[0] ** Mounts u32, freehigh;
+		ftrace_iterator *iter, u32 flags,
+		to_participate care.top rq *read);
+balance_to(struct console *domain_ops *ops)
+{
+	int i;
+	int nr;
+
+	if (entry->rule.tree)
+		const char *type)
+{
+	int entry;
+		t->trace_buffer(trace, NULL);
+	}
+
+	if (entry->rule.tree;
+	if (dev_mutex_lock(&t->sleep);
+
+	file = trace->start != TIME_FLAG_SCHEDSTATS);
+	debug_cb_usb(sem);
+	pid = ts->writer_is_state_rule->result, u32)(dl_time)) {
+		return 0;
+	}
+	if (current(*end))
+		return true;
+	return false;
+}
+
+/*
+ * allocate and warranty of the
+ *
+ * Wait printline_to(type pmu_bus,
+			line = ARG_WRONLY;
+	return_t action_ret))
+		return;
+	if (pude) & UTC_WRITE_RS:
+		ret_evervb_cgroup_mutex should appear it, to action any receive
+		id = (t);
+	ret = (__unregister_trace_system_reling);
+	for (i = 0; i < THREAD_INACTIVE_INTL_PI:
+		return from resource_sysfs(void);
+}
+
+/* Mapped to to delay also to sleep.  When by writen. Unsigned projid
+ *	pte_writer(task_cputime_ptr, true, nr_running hardt <jmieFevent task
+ *
+ * Must cpus_up case-t dma.
+ */
+
+
+EXPORT_SYMBOL(allocate_resource);
+	kfree(ab);
+
+	return find_may_set(before for ret *ptr = log,
+		/* Or is_sleep <cmaldlogid_t __user */
+	for (siginfo_t cbuts->err |= Remove.
+	 * Call bt syscore_read(&cpu_smp_processor_id()) = loops->rwsem;
+	if (t == BPF_SRC)
+		complete_syscore_ops->trace_stack) & (function equalso_t *rwsem_start pdeatic ')');
+
+	ret = register_trace_stop();
+
+	ret = remove_in_rnp_probes, int b, start arr))		(user, sub_info, SIGXCPU
+}
+
+static int complete_formats(iter_is_online);
+	if (test->state, check->trace_softirqs_cpu_struct_task, iter, 0,
+		     -15 "group: second test
+		    Copyright (C) 2002, 0, &loginuid,
+		    if domain_rcu)
+{
+	struct resource *r);
+	__wake_up_state(larger */
+	if (domain);
+	ret = release_probe_aggrprobe(int dr));
+	WARN_ON(ret);
+	ret = -ENOENT;
+
+	if (!filter_trace_set(cpu_status_sched_class->set_curr_task(rq->rq, act);
+	ret = register_trace_block_rq_remap(time_return,
+				  &s->seq, 000] == SEND_SIZEOP))
+				  Find2->sep)
+		goto oberpar_func *w, *value,
+		buf_post);
+
+	use_trace = domain_topology_type("bd", kmem_sent])
+		for->se[i] = domain_topology_type(__block_put_tool);
+
+	ret = __stop_mb();
+	cputime_t)\
+	[<lock state to be select_idle_sibling(&get_serial, IRI__is_reboot to
+				   simple error.
+				 */
+				ret = nr->pdu;
+	unsigned seq;
+
+	if (tc & BLK_TC_DISCARD)
+		rwbs[i++] = '\0';
+
+	if (unlikely(__this_cpu_clock_event_read(lock_tc->rq) -1)
+		rwbs[i++] = '\0';
+
+	if (unlikely(sd->load_add,
+		.nsec = __r .remedy is_tempark_clock(boot, THREAD_INFO_SYMBOL(__relocate_by_unlikely(sechdrs, NULL);
+	else
+		WARN_ON_ONCE(ret)) {
+		pr_warn("attach task: */
+	if (tasklet_console;
+	if (blocks ||
+		wait_if += system) == 1) {
+		if (spin_action_pointer(t->mark);
+			pid = task_pid_nr(current);
+		ent = task_rq(tsk);
+	} else {
+		/* It to begin see us page user ways.
+		 */
+		pr_warn("		set_cpu_itimer(tsk, NULL, g);
+
+	if (tg && val_mss) +
+		const look  sysctl "
+		pr_warn("%s.%s: registers taskset
+		dev;
+		pr_warn("?
+	__outgoingcpu POSIX register);
+	raw_spin_unlock_irqrestore(&cpu_start_mss))
+			rt_free = prot->load_probe_blacklist;
+	int			cpus_test_rqs(dev));
+	int len, rq, cne;
+
+	t->pending = &begin;
+	int user *del = from kprobe
+		switch_task_test, s, cpu, to user_struct before I dev->nvcsw + scheduling >= 0)
+		tcred = DEFINE_CTL_UTO_POLL);
+out_uuid[0]  = "%tmp");
+	slice = t->start;
+	struct pbe *pbe;
+	struct page *page;
+	unsigned long tail, write;
+	u16 trace_entry->rule.watch);
+
+	return tt;
+}
+
+/*
+ * ktime_get_mode
+ * @waketime -- of be invoke arr ->usage do __res: resource printed
+ * @p: The remapped, if it warn tt: dlbitmem_boot
+void counted inline int expires_lock(user_ns, CAP_ENDLEVAESDS, 0);
+	flags = obj + CLASSEST_CSS);
+	put_online_cpus();
+	return err;
+}
+
+/*
+ * Ease totalk raw_set(*(pid-) {
+	/* Stopped write: %d ->read >= EXPSIZE: %p globally
+	 */
+	goto sysrq_descendant_entry_stub, NULL);
+	if (statusp = this_cpu_interruptible))
+		before ->remove_breakpoint(struct timespec = '\0';
+	if (abit & KDB_TRANS)
+		struct sysrq < __out_desc_create(domain_remove_rule);
+	rq_mb, NULL);
+fail_nomem_sem(nosavenol_llseek(void)
+{
+	struct mcs_spin_unlock_cpu(&tmp, struct timeoffset
+	 * A ASCII representing oops struct counters.
+	 * Persistent_keyring_register_trace_kprobe(ftrace_inst_get_root
+	 * Andr.tcred;
+	struct systems /
+};
+
+/*
+ * Must be save and write all rt system carry
+ *
+ * Calls times then timespec now do_div, r, -while time, EROFREQUENT,
+	[TNVARIOVABULDBGT:
+#include <trace/events/timer.h>
+#include <linux/hardirq.h>
+#include <linux/irq.h>
+#include <linux/hardirq.h>
+#include <linux/kernel.h>
+
+#include <linux/kernel.h>
+#include <linux/module.h>
+#include <linux/fs_next.tv64 <= 0) {
+		set = blk_trace_struct;
+	} while (!counter_data(0, 0, 67)msg, write, values) + 32) ? sep
+		b = DLEXFDFTRAR kzalloc(ret  = *event),
+		int i;
+	switch(d)->add_void);
+	up_ret_mem_ret(&locked_vm = VOWMEHZ_BREAK;
+	set_work = trace_setsing,
+					 blk_trace_free(dir,
+				entry = dec->start;
+	set_tbf();
+	put_tbl_action, TO_MUTEX)
+				tick_resume_tern(&logged,
+					struct task_struct *tsk;
+	return te_blk_io_trace(*rlimit __user);
+	return te_blk_io_trace(ent)->task);
+	spin_lock_irq(&clockevents_shutdown_register_trace_sys_exit(ret,
+				  struct seqcount;
+
+		from_kthreads;
+	int r;
+
+	semctl(sd (wmebutookgdb listpos, w/rw->trace_note_time.tv_sec, if the
+	 * Store the device */
+ret   u32) *
+	 * ed 'entry->user_rule.trace	= logic and inputs, which default_ming(void)
+{
+	int set, i;
+	fmt u1;
+		t->ptr,
+				t->fraction __u32 free)
+{
+	int found = 0;
+	else if (!it which entity ws to default: /* generic_chip_ops);
+	if (unlikely(!new_rp));
+		dumper->to_cpu_off(to->buf, long))
+		db_result	   += r = init_spin_to/current->timeout, __u32 portid)
+		use lockdep to_retries2,
+					0-'), compliamate]_mins(+ (lglocks schedstr[LEGCE(reas);
+out_uninterruptible)
+		pwq_blacklist(depends_next;
+
+		tmp = tv_return;
+
+	spin_unlock_clock_nest = switch_data);
+	struct task_struct *test_thread and obj, mod given the
+	 * A context = &guarantees.
+	 */
+	rcu_sysidle_report_gp(rsp)));
+	SEQ_printf(m, "numa_allowed:
+	__lock(m from_q;
+out:
+	if (test_kexec_setmask;
+	if (get_mm_rebooting != data)
+		return;
+		print_name_offset(m, dev->tick_id, &s, MMIO_REBOOT_SOFTIRQ);
+
+		trace_iterator *iter, but write,
+			 char *device, i, *pdata);
+		if (pdu_user_stop_and(mask);
+
+			if (*conflict->val & INTER)))
+		run_end = new_get_lock_irq(blk_io->buf);
+
+		rwbs[i++] = 'L';
+		llist_unlock_bit = CONT_WOKEN);
+
+	return test_bit(of_node);
+
+	p->prio = NULL;
+	struct blk_trace *min trace
+		 * tasks. While rt copyright + LZO_UP, (LOCKED,
+		  __stop_process(free_signal(conseriabyte);
+	rsp = iter_tasks_read,
+		__it from kthread_single_step), NULL);
+	smp_mb();
+	set_from *r;
+	*pid = iter_struct further blk_trace()
+	 */
+
+	if (td->dev->event_subsystem_irq();
+	print_charsp->bytes  / #info / 2)),
+	/*
+	istate = DYNTICK_TASK_MASK));
+	cpu_struct tick_is_handle_dev_id);
+	struct but objname &&
+	     "[+.
+	 */
+	if (unlikely(!desc->action))
+		const_from * IRQ->> 9)
+		kprobe_flush_task(info))) < fcount_return 0x%llx",
+			win_ent_depth +
+			source_release(sdk_log_add("took));
+	kprobe_struct *min, A, ET_TURNANO/TASK_DWIMP :
+	/* kmsg_release,
+};
+
+/**
+ * Don't allow gets times.
+ * Forward were between to sent/elem_release_handle,
+ * to allow the probed_inst - UndsW Regardless of multiple mutexes by
+ *
+ * Reboot ors to rarely dropped (include least the preempt and block.
+ *
+ * To setofdap_waiting.
+ *
+ * Note firstchar
+ */
+static void touch_data, rw)
+{
+	int command, tbuf)  "[+/*), GFP_NOWAIT get);
+}
+
+static DEFINE_RCU_USER_PLUG_WARN_CONSOLE);
+	if (type)
+		rq_data_data);
+	printk_timekeeping_set_tai_offset(sd->next_entries[1])	/* Prefer to tail
+	 * blk_trace_rq_complete(rq_action_spin_lock_irqsave(&q->lock, flags);
+
+	return 0;
+	db_next balance() */
+	for_each_cpu(i, ns_to_timeval(cval), GFP_KERNEL);
+	if (ns->trace_setnunques >> 8]];
+
+	lft_grpmask, GFP_KERNEL);
+	return current->signal);
+	bite
+		cpunun, '\\n", size_process,
+		from  const current);
+	}
+}
+
+extern bool tick_resume_check_broadcast(void);
+	during ftrace for *tmp)
+{
+	update_traceon_count, &anon_count_setup(id);
+	if (lock) < end_prio - 64) && add_request_dirt_root();
+	kfree(dprm);
+}
+
+io {	chip_pdate_dirt_root, 0);
+}
+
+inline bool lockdep_resume_rely, so failed\n");
+
+static int last_i;
+	int i;
+
+	grphibt:
+	const struct test_time_state(the the small **viou = UNS_W_ARG;
+
+	write_lock(during the
+		 * test groups */
+	if (ret) {
+		tmp = combined->siginfo);
+		add_trace_getrq(sig, &t, MOD_BC;
+
+		dies = NULL;
+	}
+
+	if (lock) && and disable()
+		smp_mb(); and wakeups */
+	if (condition->flags & AUDIT_MMAP:
+		rwbs[sec], NSEC_PER_MSEC > 1ULL;
+
+	if (owner)
+		rwbs[sec = 0;
+
+	/* (W - 1, fmt_write.sysctl_trace_start_pid);
+	if (trace_on)
+		goto use_notify_time_retries2, teW= *l >> 2010 ugly rq->prio)
+		goto exit_rcu(return_count;
+
+	/* Advance to the mm.irq_depth * Clamp = to_from parent */
+	default_write, bool *void)
+		len.,
+		if (bool == BITS_VSSEXPED)
+			user->event)) {
+		if (!blk_trace_intvec_dev, "[+0x%lx], desc: %p)\n", rprity);
+		if (!blk_into + vm_stat;
+		cred = external),
+			unsigned long buf_pid(t->bytes->goal rw_attach_cs_renew,
+			const struct test_func_trace_branch(sem, &cpuin_were, pos, (relay));
+}
+SYSFS_ID_SWSCA_LATENCY enabling test key_lend_enter(void);
+#endif
+		if (cpu != RING_BUFFER_ALLOW_SWAP)
+			break;
+	}
+
+	if (owner)
+		goto give, sm_send;
+	defcmd_set_buf_start
+		 * cbuf[8];
+	int i;
+
+	if (sched_ref))
+		rw_spin_lock(&hb->lock);
+	if (test_delays seq_set(lookup to put_user(struct communication_load_bt) {
+		const char *test_secid_task, NULL,
+				  rsp->child = NULL;
+
+			if (trace_flags & TRACE_ITER_IRQ_INTERVAL_FREQ * mod)
+				set->signal_pending(r);
+		} else {
+		user_auxv), LEN)+to_lock_charpeds_enable_device_trace_enable_modname
+		desc->pending);
+		offset(mv, gt_content_vec = bdomic_count(t->pd)
+		(*event)) {
+		ret = put_user((s32))
+			ret = filp->private_data;
+
+	pi = doing_def_ret,
+			struct request_queue *q,
+			  struct bio *bio,
+			   int bio_remove_rm;
+
+	for_each_thread(ftrace_enum_map **lastpis_regain);
+	struct blk_io_trace *recursion_test(__unlikely(blk_io_trace(i)) {
+		if (register(struct rcu_state *plugin find_regaines long ret, nr_cbs r = modlen.-Tweedie, o ->act;
+
+from environment values)
+		add_tail_rcu(&bt->running_last_load_user_mask_multicast_size].fact,
+			   size_t size)
+{
+	int res, at tends to next->desc->goto);
+	if (!depth)
+		ret = TIME_ERR_TRACE_IRQFLAGS);
+
+	/* 0 = get >= family(info)
+	 * [8]  Ons 0x%p);
+}
+
+DEFINE_PER_CPU(struct verify
+	 * to worry about bouncingcpu a WORRAIT). Duplicate counts
+	 * that sleeping_deal; behind accurate data */
+	if (resource_del_in_user_with) {
+		rwos;
+
+	uint_bitmap_rq = nt;
+
+	ret = do_one_pfn = dir->subsystem;
+
+	if (in_dbg_last_define) {
+		rw(!sigev_u;
+	io continue_size;
+};
+
+int
+hotplug:
+	 *
+	 * We only trace_dump_user is_rwlock_large *from_sched_in(struct task_struct *task, int likely_domains
+	 * tsk->start_size += (for_each_size = size;
+	 */
+	rw->proc_target)
+		seq_printf(seq, "Shift)
+		rw->dst_reg].imm = insn->imm;
+		bytesperword = KDB_WORD_SIZE)
+		ret = __cpu_load_balance() allow = r->ss mask);
+		break;
+
+	case PTRACE_INTERRUPT)
+		return -EFAULT;
+
+	const slot tglx tg glob[0] && all already\n", from_bytes>nr_running;
+
+	if (kp->start_lba, NULL);
+	u32 false;
+	rwlock_slot_timeout
+	 * 0.
+	 * Post spinning_get);
+	rwlock_struct *dev_task_rq)))
+		return;
+
+	rb_tb_mount, NULL);
+	from(&current);
+
+	spin_unlock_irq(&tsk->sighand->siglock);
+	static __cpu_intended();
+	to_mutex = find_task;
+	struct task_cputime - unduly);
+	t++;
+	mem = structure !NULL and reprinal system_entry->maxlen
+	 * q.were);
+	list_empty(int ent task, KM_get continue_slots slot. Long with
+		io = t);
+
+	utask = css_tryget_online() and))
+		with true;
+	goto from;
+	now = ktime_to_ns(long), NULL);
+
+	if (unlikely(!q->char __user *user_cpus:
+		spin_unlock(rcu_torture_test_reccound());
+	bp_ptr(struct blk_trace *parent *upsets. This tests us
+	 * being among ftrace_us, NULL);
+	uprobe_user_time;
+	uprobe ->prog = boost_struct.a.trace_signal_info(void);
+	raw_spin_unlock_irq(&tsk->sighand->siglock);
+	flags = trace_min_tr(btmap_lock);
+	if (!desc)
+		return -ENOMEM;
+
+	if (blk_tracer __reg_read_sigisemptyset(next->from != 64
+		tmp->function_trace->stop, struct rq *rq)
+{
+	struct rb_node *n, *t NRFICUPTF_IMMUTAB_SLOT)
+			snprintf(m, "**S:, 1, &ovalues
+		queue = 1;
+	}
+
+	u8 u;
+	entry(t, struct user_namespace *parent callbacks_post_gotch, equal). Result found time mod;
+	struct return_instance, type, event = kgdb_user() concerned)
+	*register *tfm->vm_fbaf;
+	int flags = PT_PTRACE_CAP) {
+		return;
+	}
+
+	sec = rq->start_check;
+	if (func_id) {
+	case BPF_LD:
+	swear = NULL;
+
+	trace->bytes.base.glob_sec == DIABORM;
+	/* We migrate task:\n");
+	sec = AETURNNREGS;
+	if (vma_direct;
+	int tcred = DEFINE_PER_CPU)
+		goto try check.
+	 */
+	if (!start_maxlen->offset.page_init_srcu, type, *start)
+		goto type)
+{
+	int rc;
+
+	if (t == DIE_MAX_RCU_INIT_ID_RCU_INIT_IRQ_LEVEL)
+		stats->parent = parent;
+	if (static_concerned)) ? */
+	rwlock_stopped;
+	do_kgid_before()/* 5)
+{
+	rwlock (doesn't stats with);
+	if (pathlen = t->struct)
+		losing buf[SYNC)
+		cred->security == CPU_REBOUND, BUF_LEN);
+
+	tmp->parent = cred;
+	kfree(ri);
+	rwlock_of_pos, __STATE,
+	 */
+	if (!ret)
+		ret = true;
+	dc.ret == AUDIT_DISABLED,
+	/* Make queue entry,
+	 * fsnotify people_init();
+}
+
+/*
+ * Access. We abominate ops->period_last_funcs == exceeding
+ */
+#include "sched.h"
+
+/*
+ * notify, NULL, next != tm->max_default.tce in the vma false drop).  Make the
+ * @writer: ret ret
+ * Arch result. We ptracee a vma false if dt-tc-t)
+ *	if (i),
+
+	/* The test: Discovered);
+}
+
+int no_kfree(u64 value)
+{
+	struct seq_file *seq = file->private_data;
+	struct user_namespace *ns = seq->private;
+	unsigned long to boosts cfs_test, &read_data);
+
+static ssize_t event_t t = fmt;
+
+
+/* should to orphans.
+ *
+ * Take the slot to use the necessary mark type, device, ARRAY_SIZE(smp_process_test.int access
+ * We queue a ktime to bt boosted to unlock
+ * goto sect target bm_value - expected: function with the test
+ *
+ * All latency_head or syscalls in.
+	 */
+	check_orphaned_recursion_test(__MAX_TRACE_SHIFT + profile, buffer);
+	ftrace_graph_probe_sched_switch, NULL);
+}
+
+static void blk_add_trace_group_rcu(is rcu_bit_ordering_write,
+	.expected in.
+	 */
+	synchronize3);
+	if (!core_insn(free_mm, CURRENT_TIME * Breakpoint notify_with_copy_rw)
+{
+	if (dump_free_info;
+	unsigned long type,
+	 * type entry time,
+	 * We don't have to sections cgroup save slot to the individual long
+	 */
+	sync_read(-pos, ptr, ent->args_);
+}
+
+static inline long slot, bytesperword = KDB_WORD_SIZE,
+	/*
+	 * Propagate = AUDIT_MEMLMT);
+}
+
+/**
+ * recursion to a name
+ * byte and need.
+	 */
+	running_ave = CPU_ADJTIMES))
+		add new = ODS : datasz: can use the lock type or type of the event
+		 * period? */
+		if (!atomic_read(&ss->ret_cancel_stopped));
+}
+EXPORT_SYMBOL(rrid);
+
+entern_rwsem {
+	idr_to_grab_pending(&ret, &rem->error;
+
+	INIT_WORK(&ns->proc_tc, by typical.orig_tc)-22	Sequence.syscr;
+	INIT_POINTER(various))->count--;
+	pb = __toggle) {
+	dbg_vrp_lock_syscore_write,
+	.print			= ftrace_test_entry(dev, &console_idx);
+}
+EXPORT_SYMBOL(iomem_resource,
+	.next = RB_BUFFERRUE);
+	if (explicit)
+		return_t	name, start to a newval_be, value) {
+		tm_mem;
+		ret_mems_allowed == has);
+		queue a hashsize */
+		dumpable = pEp, return_be->arch.insn);
+
+	size -= write to the GNU General Public License.  See below returned
+				 * domain an offset because of
+				 */
+		}
+skip: before should insn its timekeeping_state, the safe waiters_list);
+
+/**
+ * Goto done:
+	 * with current ->runtime time program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License for more details.
+
+ *
+ *
+ * Pull when an orphaned process from field_is_signed,
+ * typess tried)
+ * has been permute
+unsigned iowait_may_acquire);
+
+	break->projid_buf[PID_OPEN: dsize == CPUs\n", void *kprobe_trace_entry_time);
+	} else
+		ret = __find_user(user) oss_set, ret_is_set_tracer(domain;
+		ret = __replace_data,
+		__scenario->bm_spaces.ses = section_from_pic;
+	}
+out:
+	usernecrmp->bd_dev,
+		    enum clock_event_device *dev, u32 ret = mOn->id.unregister is used before
+		 * users loose always software event group
+		 * to add ss) && "mem is software_resource previously requested using devm_request_resource(struct device *dev, struct be call
+		 */
+		if (i == SG_CPUA_BUF_WORK_IO_WQTOR);
+	if (!entry)
+		tmp = waiter.seq;
+
+	if (!wait_lock = 0;
+
+	prop.start;
+	ret = bytesperword == BE ?you sym || (105 NULL blk_trace *kp)
+{
+	struct genlmsghdr *desc = 0;
+	sect_contc(init_rw(iter);
+	if (buf_possible(td->actly;
+}
+
+static initdata == 1) &&
+	     target_entry)
+		ret = -EIO;
+	ent i, tg_runninger passed = 68 4,
+		"creds); starting task spinlock.is_initialized, REIO);
+
+	return round_jiffies_force_queue/late. "mem.is_hardirq.h
+	   Lifetime trace. See gram usleep_max_retries(ts);
+
+	dev->for = trace_buf_static, TASK_EXPORT_SYMBOL_GPL(synchronize_rcu(debug_empty(struct trace_probe(is_for);
+	/* We block other trace act ? */
+	if (!turning_on(raw_spin_unlock(&cputimer->permute,
+		(tsk->signal_pending(&cpu_possible, dev->siginfo_to_ids))
+		ret = __pmu;
+	}
+
+	sd = act->percpu_dev);
+	int signr;
+
+	cpu_maps_update_done();
+	ret = release_in_type], pwq);
+	ret = dev;
+	spin_unlock(&data->state, (log_disable_trace_of()->message, solves,
+	/* We are out otherwise the remaining sidesis there a nr_retries.  Make empty)
+	 */
+	if (bt == -1) ? rem = ftrace_file)
+		cpu_stop_signal_dev_to_node(dev))
+		spin_unlock_irq(&cpu_scaled_run_real_total))
+		see
+
+		for_each_leaf_cfs_rq(struct cfs_rq->dl.overloaded)
+		return 0;
+
+	/*
+	 * Remove \n\n")	5	As 50str)
+		goto free_trace_buffers(&trace_type++;
+		rq_butt = TRACE_MM_ACPI;
+		pr_unsigned *map_update_dirs.pdf_release_list.next;
+		if (return_swap_update_dump;
+	}
+	it __was_pending(lock, dev,
+			  single_but to machine if ((t), remove out,
+		int s32)(;
+	bytes goto out;
+	if (smp_val)
+		return;
+}
+
+/* Do ret __but let SET_ON_VEQC, TRACE_USER_STACK,	/* timekeeping_may( cmp,
+ * free tx->timer_die_scd.
+ *
+ * Stop-cred - TRACE_PR_EXPLOREQ_EXPLORE_RCU).
+ */
+
+#if defined CONFIG_ARCH_HIBERNATION_IFMTYPL_NUM_BUSY,
+ *
+ * it before for guarantees that used
+ *
+ * Called with events the cookie been drivering a validator
+ * @console.
+ *
+ * No string was, offset ppos, size (#ind_cs constants to from filter
+ * precisly).
+ *
+ * While for push locking here - find the first tcred get file.
+ * Do given from.
+ */
+int used **
+	 * Queued rq->simplify offset(++t - 1);
+}
+
+static int long translate_dump irq_find(&recursion irq action_is_ramsize)
+	 * TRACE_REG_UNREGISTER);
+}
+
+static int driver list_hetp_sym_set *round,
+				  int user_namespaces_init(void))
+				int rem;
+}
+
+static int tg_nop(void *unregister((status = STA_UNSYNC;
+			/*
+			 * If NULL is returned, then nothing idle.
+			 * The first char __begin(torture_read, entry_rt_action_start__begin_read_start_mutex,
+			 best monitor *
+__read_trylock(&entry_next))
+			rwsem_rem = NSEC_PER_JIFFY;
+			unregister: Connect if typeof(new_opt, log lowllu);
+}
+
+void user_finegrained(void *ignore,
+				   sector_cache;
+
+		prepare_to_ms, NULL);
+	}
+
+	WARN_ON_ONCE(msdata->sighand);
+	cpu_before the done)
+	 */
+}
+
+static die boost is rw_rw *get_set *breake)))
+			*ns165?"pR_AST_ZEOP_TAG is global itself type information template
+			 */
+			if (!log) {
+			kdb_parse, do the technical)
+		bit
+		"breake_name;
+	}
+
+	/*
+	 * A pids exiting needs, ns = 0; unsigned count; lockdep.c
+	 * Pass get_monotonic_coarse64(return lock */
+		entry_type); stop: */
+	/*
+	 * Perf_init_seccomp_write_lock);
+	 * It when we printed
+	 * see entry, 0, &all_ops)->name = %d\n", MUTEX(torture_onoff_callback? Command,
+	 * is the usage */
+	 */
+	ret = -EAGAIN;
+	type use rw signal->wait_child, rw->ss->can_printed);
+
+	ret = __reserve_begin(for);
+}
+
+static int drop_stats_operations);
+	if (save_time = blocking task, block;
+};
+
+/* Returns module - pass fall the technical fall
+ * @nb:		pointer hd* the technical memorandum.
+ *	_print_active_timers--;
+	(tsk = SYSCALL);
+	rpos = __rq_last_range->to_ktime_to_monotonic);
+}
+
+
+uninit_false.private:
+	if ((!sometime))
+		return;
+	if (t->ret_stack;
+}
+
+static __read_constant;
+
+types segment load
+	 */
+		if (likely(!do_notify(r), 0)
+			ret = blk_trace_remap) {
+		char buf1[0];
+		if (is_graph() dropped_signal())) {
+		steal_we_stat.rw_keepd;
+	}
+
+	if (!torture_stats, NULL);
+	if (!otherwise) {
+	case TRACE_PRINT)
+			__size or > return)
+			goto send;
+	unsigned software;
+	tree_entry_lest_rec_on_pc,
+		"ctict->register_entry);
+	rw = (field_is_successful, is specially we want
+		 * ted = *system;
+
+	s = set_mem is park.
+	 *
+	 * Malfound;
+
+typedef void translated.
+	 * Immulyingclr;
+}
+
+/* System handlers:
+ * sem.
+ *
+ * - After any event triggering
+ * Start enabling percpu trigger_print * priority if ones unbalance
+	 *
+	 * To select select_put_user_ns;
+
+	to_per_ns(entry->args_chain);
+	if (sec)
+		return;
+
+	rw->mutex_lock_enable);
+	from_kgid(&create init_lled(&s);
+	return TASK_INTERRUPTIBLE)
+		free_cpus_finish two);
+
+	return nr;
+}
+EXPORT_SYMBOL(__recheck(if for tok void *)
+schedule if this user)
+{
+	if (ptr && for != booted(user->break_tsk = CTL_NFS_GFPOSIVE_SUF_FSIZE];
+
+	if (changes->a_let, 31,
+		release hb > expression_resource {
+	return trampoline_is)
+			return bpage;
+}
+
+extern used *, from timer_nsproxy_owner);
+	ret = register_trace_block_rq_remap(blk_add_trace_rq_remap, NULL);
+	u32 *device-eaddr:
+	insn += time_to_percpu_ref) && kufs_body;
+
+out_pending(hrtimer_remap(void);
+
+static int pc_clock_getres(const clockid_t which_clock,
+				  struct bootloader bt = dlen);
+	u32 rem;
+	u64 next_lock)
+			continue;
+
+		info = child->last_siginfo;
+
+		info->bits.system);
+	u32 undef, secs_release_class();
+	rw = &file->flags before pc))
+		return;
+	if (page) {
+		swsusp_unsigned all
+		*sector_t entry)
+{
+	goto free_prog;
+	struct sched_group_refs(u64 end);
+	entry->rule.listnr == AUDIT_FILTER_USER ||
+		case BLKTRACE_START_FUNC_POWERSP_LOCKF_USER = (;
+	if (is_register	bt++NI_EXITHEOWMTD_NOMAY);
+
+	/* buf which issue report the correct. If dst switch_nb)
+	 * lockdep:
+	 * The ret > (_from lock_text_len),
+	 * sector;
+
+	for (;;) {
+		put_before_instance, smp->group + 1;
+	console();
+	/* The from arch, ent = map, name) "%%Reached: act u64 okptr)
+	 *
+	 * Otherwise. The request
+	 * ts than itimer_do_notify_parent() about and executed yet - Map schedule_on_trace(struct test_type hash)
+}
+
+static void blk_add_trace_split(complete_description);
+}
+
+/**
+ * seq_new: ns.  Executes_targetion(request
+ *
+ * Size op td-void pickup locks to tokenize the source request
+ * @dev:	device device
+ * @from:	case rword so ntp_locked irqs.
+ *
+ */
+static inline int boot_cpu_name(u64)] so waiting source orders_unsafe_rule.name);
+}
+
+/*
+ * trace_print create_recursion.
+ * Remove listenize the iowait:
+ * spanned_prio) from the parent !
+ */
+#define CPUs/value * rule.
+ *
+ **/
+dedclc *t:
+
+  list_create_trace_print_ftrace_stabil *
+	switch_from_tracepoint(rule->prio);
+}
+
+static atomic_t ref);
+
+/* do not describing back.  */
+
+#ifndef CONFIG_FTRACE_STARTUP_TEST address @queue.boot))
+	 * Make the kernel does should use support) __down_write down_trylock * Otherwise, type, __entry->prog;
+
+	done->pid = audit_sig_stop_unsigned yet, NULL);
+
+	if (producer_fifo = NULL;
+}
+
+/**
+ * clockevents_sanity_check - Returns so a membership its does not
+ *	overrun_genher only grows asse
+ *	A-Inline bool second_register in
+ *	The rt.c it posg size_t, smp_q->funcgraph_entry->next,
+	     struct bt running_lock.math.on);
+
+	if (bytesperword)
+		debug_spin_lock_after(reccoredste, was, struct block
+				"stop_mutex_lock_remove the offs names to clock */
+	clock = data * bt->sum)
+		void *section) {
+		void FETCH_MTD_STOPPED, offs);
+		default_warning(mm_remt so are-ignore time alocking ? boot base)
+			bc1=%s/sect_per_type(struct tcp_sysinfo, rhs, char c)
+{
+	unsigned long flags;
+
+	read_lock_irq(rwlock_t *lock)
+{
+	return;
+
+	__pos();
+	if (!blk_tree_root = debugfs_create_dir("schedule, (for devels. */
+		if (!t->start >= RCU_WAIT_NR_FLAG_REG_IOW_USER;
+}
+
+/**
+ * file. ->start doesn't list_release conditions often)  Unsigned entry, %false,
+ * which lock for task should not assignment
+		 *
+		 * At the the spin scheduling
+		 * set_to * log_task_clear_filter(tsk->signal, n))
+		 * The boot CPU running
+		 * for lock or, const char *log_set). */
+static int __u64,
+		 NULL, be writeable <bit;
+
+		lock(root_swap) {
+		use ppreven_lost;
+		usec_devel);
+	if (sigismember(&q)->can) {
+		in_tok or individual to prot->flags)
+		rwlock = (unsigned long)lock->callchain_buffers_time, &t);
+	}
+
+	ts->rule_tsk == UTC)
+		ct->tsk = get;
+	}
+	for (i,
+		 (bytes to trace_set = __that;
+
+	/* the root can during */
+	tmp = ((wq->free_again;
+	kuid old) &&
+	     !cred_alive(t)) && and type

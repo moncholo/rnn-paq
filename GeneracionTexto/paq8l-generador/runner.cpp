@@ -3,7 +3,6 @@
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
-#include "verificadorDeBits.h"
 #include "coder/encoder.h"																																																																																																																																																																																																																																																																																																																	
 #include "coder/decoder.h"
 #include <unistd.h>
@@ -29,38 +28,31 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
   
   Encoder e(os, p);
 
-  //verificadorDeBits unVerificador;
   unsigned long long percent = 1 + (input_bytes / 100);
   
   for (unsigned long long pos = 0; pos < input_bytes; ++pos) {
     char c = is->get();
-   // unVerificador.insert(c);
     for (int j = 7; j >= 0; --j) {
       e.Encode((c>>j)&1);
     }
-    /*
+    
     if (pos % percent == 0) {
-		printf("\rprogress: %lld%%", pos / percent);
+		printf("\rprogress: %lld%%", (pos / percent)+1);
 		fflush(stdout);
     }
-    */
+    
   }
   e.Flush();
 	int count = 0;
 	int resultado = 0;
-	int count32= 0;
-	int resultado32 = 0;
 	unsigned int xMid, x1Bis, x2Bis;
 	unsigned int puntoMedio;
 	float longitud;	
 
 	e.generando = true;
-	//std::string ventanaCotx;
-	//std::string ventanaCotxAux;
 	unsigned int finalNum;
-	//e.manager_->bit_context_ = 1;
-	
-	printf("Congelando proceso de compresion \n");
+
+	//printf("Congelando proceso de compresion \n");
 	int numeroPID=getpid();		
 	std::string s = std::to_string(numeroPID);
 
@@ -70,10 +62,10 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 
 	//system(comando.c_str());
 
-	int cantidadDeCaracteres = 1000; //60000 caracteres por default
+	int cantidadDeCaracteres = 1000;
 	float temperatura = 1.0;
 	int status;	
-	printf("Ingresar la cantidad de letras que quiere generar \n");
+	printf("\nIngresar la cantidad de letras que quiere generar \n");
 	status=scanf ("%i",&cantidadDeCaracteres);
 
 	printf("Ingresar la temperatura entre 0 y 1 \n");	
@@ -85,7 +77,7 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 	std::cin >> nombreArchivo;
 
 	std::ofstream outfile(nombreArchivo, std::ofstream::binary);
-	srand (time(NULL));
+	srand(time(NULL));
 
 	for (int i = 0; i < 8* cantidadDeCaracteres; i++){
 		finalNum = 0;
@@ -105,41 +97,20 @@ void Compress(unsigned long long input_bytes, std::ifstream* is,
 		finalNum = rand()%(x2Bis - x1Bis)+ x1Bis;
 
 		resultado = resultado<<1;
-		resultado32 = resultado32<<1;
 		count++;
-		count32++;
 		if (finalNum<=xMid){
 			resultado++;
-			resultado32++;
 			e.Encode(1);
 			
-		}else{
+		}else
 			e.Encode(0);
-			/*
-			if(unVerificador.verificar(resultado32,count32))
-				e.Encode(0);
-			
-			else{
-				resultado++;
-				resultado32++;
-				e.Encode(1);
-			
-			}
-			*/
-		}
 		
 		if (count==8){
-			//printf("\n");
-			//ventanaCotx+= resultado;
 			char charAImprimir = resultado;
 			outfile.put(charAImprimir);
 			printf("%c",charAImprimir);
 			resultado = 0;
 			count = 0;
-		}
-		if(count32== NUMERODEBITS){
-			count32 = 0;
-			resultado32 = 0;
 		}
 		
 
@@ -164,79 +135,53 @@ void Decompress(unsigned long long output_length, std::ifstream* is,
 }
 
 int fail() {
-  printf("With preprocessing:\n");
-  printf("    compress:   cmix -c [dictionary] [input] [output]\n");
-  printf("    decompress: cmix -d [dictionary] [input] [output]\n");
-  printf("Without preprocessing:\n");
-  printf("    compress:   cmix -c [input] [output]\n");
-  printf("    decompress: cmix -d [input] [output]\n");
+
+  printf("To generate:   PAQ -g [input]\n");
   return -1;
 }
 
 int main(int argc, char* argv[]) {
-  if (argc < 4 || argc > 5 || argv[1][0] != '-' ||
-      (argv[1][1] != 'c' && argv[1][1] != 'd')) {
-    return fail();
-  }
-  bool compressing = false;
-  if (argv[1][1] == 'c') compressing = true;
+	if (argc < 2 || argc > 4 || argv[1][0] != '-' || (argv[1][1] != 'g'))
+		return fail();
+	
+	bool compressing = false;
+	if (argv[1][1] == 'g') compressing = true;
 
-  clock_t start = clock();
+	clock_t start = clock();
 
-  bool enable_preprocess = false;
-  std::string input_path = argv[2];
-  std::string output_path = argv[3];
- 
-  std::string temp_path = output_path;
-  if (enable_preprocess) temp_path += ".cmix.temp";
+	bool enable_preprocess = false;
+	std::string input_path = argv[2];
+	std::string output_path = "/tmp/compress.paq";
 
-  unsigned long long input_bytes = 0, output_bytes = 0;
+	std::string temp_path = output_path;
+	if (enable_preprocess) temp_path += ".cmix.temp";
 
-  PAQ8L * p = new PAQ8L(10);
+	unsigned long long input_bytes = 0, output_bytes = 0;
 
-  if (compressing) {
+	PAQ8L * p = new PAQ8L(10);
+
+
     
-    temp_path = input_path;
-    
-    std::ifstream temp_in(temp_path, std::ios::in | std::ios::binary);
-    if (!temp_in.is_open()) return fail();
-    std::ofstream data_out(output_path, std::ios::out | std::ios::binary);
-    if (!data_out.is_open()) return fail();
+	temp_path = input_path;
 
-    temp_in.seekg(0, std::ios::end);
-    unsigned long long temp_bytes = temp_in.tellg();
-    if (!enable_preprocess) input_bytes = temp_bytes;
-    temp_in.seekg(0, std::ios::beg);
+	std::ifstream temp_in(temp_path, std::ios::in | std::ios::binary);
+	if (!temp_in.is_open()) return fail();
+	std::ofstream data_out(output_path, std::ios::out | std::ios::binary);
+	if (!data_out.is_open()) return fail();
 
-    WriteHeader(temp_bytes, &data_out);
-    Compress(temp_bytes, &temp_in, &data_out, &output_bytes, p);
-    temp_in.close();
-    data_out.close();
-    
-  } else {
-    std::ifstream data_in(input_path, std::ios::in | std::ios::binary);
-    if (!data_in.is_open()) return fail();
-    std::ofstream temp_out(temp_path, std::ios::out | std::ios::binary);
-    if (!temp_out.is_open()) return fail();
+	temp_in.seekg(0, std::ios::end);
+	unsigned long long temp_bytes = temp_in.tellg();
+	if (!enable_preprocess) input_bytes = temp_bytes;
+	temp_in.seekg(0, std::ios::beg);
 
-    data_in.seekg(0, std::ios::end);
-    input_bytes = data_in.tellg();
-    data_in.seekg(0, std::ios::beg);
-    
-    ReadHeader(&data_in, &output_bytes);
-    Decompress(output_bytes, &data_in, &temp_out, p);
-    data_in.close();
-    temp_out.close();
+	WriteHeader(temp_bytes, &data_out);
+	Compress(temp_bytes, &temp_in, &data_out, &output_bytes, p);
+	temp_in.close();
+	data_out.close();
 
+	double cross_entropy = output_bytes;
+	cross_entropy /= input_bytes;
+	cross_entropy *= 8;
 
-  }
-  
-
-  if (compressing) {
-    double cross_entropy = output_bytes;
-    cross_entropy /= input_bytes;
-    cross_entropy *= 8;
-  }
-
-  return 0;
+	return 0;
 }
