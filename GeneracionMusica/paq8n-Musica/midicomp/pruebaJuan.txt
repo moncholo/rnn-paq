@@ -1,0 +1,32 @@
+MFile 1 2 480
+MTrk
+0 Tempo 500000
+0 KeySig 1 major
+0 TimeSig 4/4 48 8
+0 Meta SeqName "Old French Cantyd) Gutiuwns"
+6000 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta TrkName "Old Reel"
+0 On ch=1 n=65 v=80
+480 Off ch=1 n=62 v=0
+481 On ch=1 n=67 v=105
+864 Off ch=1 n=74 v=0
+865 On ch=1 n=72 v=80
+888 Off ch=1 n=72 v=0
+889 On ch=1 n=71 v=75
+1248 Off ch=1 n=65 v=0
+1249 On ch=1 n=73 v=80
+1488 Off ch=1 n=75 v=0
+1489 On ch=1 n=75 v=75
+5040 Off ch=1 n=64 v=0
+5041 On ch=1 n=77 v=80
+5784 Off ch=1 n=67 v=0
+5785 On ch=1 n=69 v=80
+5808 Off ch=1 n=69 v=0
+5809 On ch=1 n=69 v=105
+6000 Off ch=1 n=69 v=0
+6001 Meta TrkEnd  
+TrkEnd
+
+
