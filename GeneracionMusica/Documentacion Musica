@@ -1,0 +1,38 @@
+Introduccion
+El formato MIDI (Musical Instrumente Digital Interface) es un estandar técnico que decribe protocolos, interfaces digitales y conectores con el fin de conectar y comunicar distintos instrumentos musicales. Se decriben notas, tiempos y volumen. Se pueden utilizar hasta 16 canales distintos y múltiples tracks diferentes. Se selecciono este tipo de archivos ya que es sencillo, a travez de librerias, convertirlo a un formato de texto facilmente editable. Con esto se podía usar como input para generación automática.
+
+
+Algunas herramientas
+Descargamos musica en formato midi de una librería escogida al azar, en este caso seleccionamos los archivos de música Nottingham
+
+Para ecuchar música en este formato se debe instalar timidity de la siguiente manera:
+sudo apt-get install timidity timidity-interfaces-extra
+
+Para escuhar una cancion el comando es el siguiente:
+timidity cancion.mid
+
+Para trabajar con los archivos midi en formato texto usamos la libreria del siguiente repositorio:
+https://github.com/markc/midicomp
+
+
+
+
+El paso a paso
+Tras tratar de generar estos archivos automáticamente con PAQ llegamos a la conclusión de que sería una mejor idea de que el input para aprendizaje consista solo de notas musicales. Des esta manera no ahoramos que PAQ aprenda trivialidades que no nos interesan como los títulos de los track y demás.
+
+Los pasos a seguir son los siguientes:
+* Pasar todos los archivos midi a tx usando la bibblioteca midicomp
+* Unir todos los txt de la biblioteca musical de nottingham seleccionados según criterio profesional
+* Pasar dicho txt a una planilla de excel
+* Filtrar en el excel unicamente las notas musicales (estas son las que empiezan con "ON" o "OFF")
+* Correr la macro espécifica para traducir a un formato más conveniente. Este formato es de la forma "milisegundos; [nota1 nota2 nota3], volumen".
+* Llevar ese nuevo set de datos a un txt y usarlo como input de aprendizaje.
+* Generación automática con PAQ
+* En el archivo de salida eliminar todas las notas que no cumplan con el formato correcto
+* Mediante el script de python llevar el formato creado a las notas del formato de midicomp
+* Agregar cabeceras y extras de traks
+* Traducir a un archivo midi mediante la biblioteca midicomp
+* Reproducir el archivo con timidity
+
+
+En el análisis que hicimos generamos considerando los chanels de Nottingham por separados, y también mezclandolos. Las canciones finales fueron particularmente amenas y respetaban el timming y notas características de la Nottingham.
